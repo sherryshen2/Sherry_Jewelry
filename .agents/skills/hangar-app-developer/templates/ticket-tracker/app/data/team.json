@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "email",
+      "type": "email"
+    },
+    {
+      "name": "role",
+      "type": "text"
+    }
+  ],
+  "records": [
+    {
+      "id": "member-support",
+      "name": "Support",
+      "email": "support@example.com",
+      "role": "Support"
+    },
+    {
+      "id": "member-platform",
+      "name": "Platform",
+      "email": "platform@example.com",
+      "role": "Engineering"
+    },
+    {
+      "id": "member-docs",
+      "name": "Docs",
+      "email": "docs@example.com",
+      "role": "Documentation"
+    }
+  ],
+  "icon": "mdi:account-group-outline",
+  "scope": "app"
+}

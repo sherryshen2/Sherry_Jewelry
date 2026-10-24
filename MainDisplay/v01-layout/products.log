@@ -1,0 +1,48 @@
+INFO Draco mesh compression is available, use library at /Applications/Blender.app/Contents/Resources/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.dylib
+11:43:35 | INFO: Starting glTF 2.0 export
+11:43:35 | INFO: Extracting primitive: necklace_body_M01_Silver_user_spec
+11:43:35 | INFO: Primitives created: 1
+11:43:35 | INFO: Extracting primitive: necklace_body_M02_PinkZircon_reference_approx
+11:43:35 | INFO: Primitives created: 1
+11:43:35 | INFO: Extracting primitive: necklace_body_PENDING_M03_ClaspCharm_light_stone
+11:43:35 | INFO: Primitives created: 1
+11:43:35 | INFO: Finished glTF 2.0 export in 0.19104981422424316 s
+
+PRODUCT_READY necklace {'source': 'J001/v02-refined/J001-source-v02.blend', 'original_root': 'J001_ROOT', 'product_root': 'necklace_product', 'origin_relation': 'Product local coordinates equal original Blender root local coordinates; unit scale 1. No geometry or material redesign. Evaluated source modifiers retained as mesh.', 'bounds_blender_m': [[-0.04550214856863022, -0.024015823379158974, -0.07702315598726273], [0.04549891874194145, 0.02378470078110695, 0.07702314853668213]], 'dimensions_mm': [91.00106731057167, 47.80052416026592, 154.04630452394485], 'triangles': 162752, 'material_count': 3, 'mesh_batches': 3, 'bytes': 3940428}
+11:43:36 | INFO: Starting glTF 2.0 export
+11:43:36 | INFO: Extracting primitive: earrings_left_earring_M01_925Silver_appearance
+11:43:36 | INFO: Primitives created: 1
+11:43:36 | INFO: Extracting primitive: earrings_left_earring_M02_ColorlessCZ_optics_EST
+11:43:36 | INFO: Primitives created: 1
+11:43:36 | INFO: Extracting primitive: earrings_right_earring_M01_925Silver_appearance
+11:43:36 | INFO: Primitives created: 1
+11:43:36 | INFO: Extracting primitive: earrings_right_earring_M02_ColorlessCZ_optics_EST
+11:43:36 | INFO: Primitives created: 1
+11:43:36 | INFO: Finished glTF 2.0 export in 0.06214094161987305 s
+
+PRODUCT_READY earrings {'source': 'J002/v02-refined/J002-source-v02.blend', 'original_root': 'J002_ROOT', 'product_root': 'earrings_product', 'origin_relation': 'Product local coordinates equal original Blender root local coordinates; unit scale 1. No geometry or material redesign. Evaluated source modifiers retained as mesh.', 'bounds_blender_m': [[-0.009787891060113907, -0.005000288598239422, -0.0058494266122579575], [0.009427807293832302, 0.0052149975672364235, 0.005850000306963921]], 'dimensions_mm': [19.21569835394621, 10.215286165475845, 11.699426919221878], 'triangles': 54988, 'material_count': 2, 'mesh_batches': 4, 'bytes': 1333008}
+11:43:37 | INFO: Starting glTF 2.0 export
+11:43:37 | INFO: Extracting primitive: ring_body_M01_RoseGold_user_color
+11:43:37 | INFO: Primitives created: 1
+11:43:37 | INFO: Extracting primitive: ring_body_M02_PinkStone_optics_PENDING
+11:43:37 | INFO: Primitives created: 1
+11:43:37 | INFO: Extracting primitive: ring_body_M03_PinkAccent_optics_PENDING
+11:43:37 | INFO: Primitives created: 1
+11:43:37 | INFO: Finished glTF 2.0 export in 0.07382702827453613 s
+
+PRODUCT_READY ring {'source': 'J003/v06-prong-gold/J003-source-v06.blend', 'original_root': 'J003_ROOT', 'product_root': 'ring_product', 'origin_relation': 'Product local coordinates equal original Blender root local coordinates; unit scale 1. No geometry or material redesign. Evaluated source modifiers retained as mesh.', 'bounds_blender_m': [[-0.009274999611079693, -0.0035570000763982534, -0.008949999697506428], [0.009274999611079693, 0.003550102235749364, 0.01054999977350235]], 'dimensions_mm': [18.549999222159386, 7.107102312147617, 19.499999471008778], 'triangles': 68218, 'material_count': 3, 'mesh_batches': 3, 'bytes': 1562656}
+11:43:40 | INFO: Starting glTF 2.0 export
+11:43:40 | INFO: Extracting primitive: bracelet_body_M01_925Silver
+11:43:40 | INFO: Primitives created: 1
+11:43:40 | INFO: Extracting primitive: bracelet_body_M02_ColorlessCZ_EST
+11:43:40 | INFO: Primitives created: 1
+11:43:40 | INFO: Finished glTF 2.0 export in 0.1327991485595703 s
+
+PRODUCT_READY bracelet {'source': 'J004/v02-close-set/J004-source-v02.blend', 'original_root': 'J004_ROOT', 'product_root': 'bracelet_product', 'origin_relation': 'Product local coordinates equal original Blender root local coordinates; unit scale 1. No geometry or material redesign. Evaluated source modifiers retained as mesh.', 'bounds_blender_m': [[-0.030040429905056953, -0.023412618786096573, -0.0005341267678886652], [0.030040429905056953, 0.036290235817432404, 0.0025100000202655792]], 'dimensions_mm': [60.08085981011391, 59.702854603528976, 3.0441267881542444], 'triangles': 142702, 'material_count': 2, 'mesh_batches': 2, 'bytes': 4148552}
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/J001/v02-refined/J001-source-v02.blend"
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/J002/v02-refined/J002-source-v02.blend"
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/J003/v06-prong-gold/J003-source-v06.blend"
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/J004/v02-close-set/J004-source-v02.blend"
+
+Blender quit

@@ -1,0 +1,47 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "value",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "unit",
+      "type": "text"
+    },
+    {
+      "name": "trend",
+      "type": "text"
+    }
+  ],
+  "records": [
+    {
+      "id": "metric-focus",
+      "label": "Focus hours",
+      "value": 14,
+      "unit": "h",
+      "trend": "+3h vs last week"
+    },
+    {
+      "id": "metric-workouts",
+      "label": "Workouts",
+      "value": 4,
+      "unit": "sessions",
+      "trend": "On track"
+    },
+    {
+      "id": "metric-reading",
+      "label": "Reading",
+      "value": 92,
+      "unit": "pages",
+      "trend": "+18 pages"
+    }
+  ],
+  "icon": "mdi:chart-line",
+  "scope": "app"
+}

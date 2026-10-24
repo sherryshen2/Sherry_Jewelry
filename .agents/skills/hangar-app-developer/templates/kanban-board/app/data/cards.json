@@ -1,0 +1,99 @@
+{
+  "schema": [
+    {
+      "name": "id",
+      "type": "text"
+    },
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "description",
+      "type": "text"
+    },
+    {
+      "name": "column",
+      "type": "text"
+    },
+    {
+      "name": "order",
+      "type": "number"
+    },
+    {
+      "name": "priority",
+      "type": "text"
+    },
+    {
+      "name": "label",
+      "type": "text"
+    },
+    {
+      "name": "due_date",
+      "type": "text"
+    }
+  ],
+  "records": [
+    {
+      "id": "c1a2b",
+      "title": "Research competitor features",
+      "description": "Look at how Trello, Asana, and Linear handle their boards",
+      "column": "todo",
+      "order": 0,
+      "priority": "medium",
+      "label": "research",
+      "due_date": ""
+    },
+    {
+      "id": "c3d4e",
+      "title": "Design landing page mockup",
+      "description": "",
+      "column": "todo",
+      "order": 1,
+      "priority": "high",
+      "label": "design",
+      "due_date": "2025-12-22"
+    },
+    {
+      "id": "c5f6g",
+      "title": "Set up database schema",
+      "description": "Define tables for users, projects, and tasks",
+      "column": "progress",
+      "order": 0,
+      "priority": "high",
+      "label": "feature",
+      "due_date": ""
+    },
+    {
+      "id": "c7h8i",
+      "title": "Implement user authentication",
+      "description": "",
+      "column": "progress",
+      "order": 1,
+      "priority": "medium",
+      "label": "feature",
+      "due_date": "2025-12-20"
+    },
+    {
+      "id": "c9j0k",
+      "title": "Create project repository",
+      "description": "Set up GitHub repo with proper .gitignore and README",
+      "column": "done",
+      "order": 0,
+      "priority": "low",
+      "label": "",
+      "due_date": ""
+    },
+    {
+      "id": "c1l2m",
+      "title": "Write project brief",
+      "description": "",
+      "column": "done",
+      "order": 1,
+      "priority": "medium",
+      "label": "docs",
+      "due_date": ""
+    }
+  ],
+  "icon": "lucide:credit-card"
+}

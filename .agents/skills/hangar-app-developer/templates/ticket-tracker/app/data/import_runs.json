@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "source",
+      "type": "text"
+    },
+    {
+      "name": "created_at",
+      "type": "date"
+    },
+    {
+      "name": "created_by",
+      "type": "text"
+    },
+    {
+      "name": "query",
+      "type": "text"
+    },
+    {
+      "name": "selected_keys",
+      "type": "json"
+    },
+    {
+      "name": "imported_count",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "updated_count",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "result_count",
+      "type": "number",
+      "default": 0
+    }
+  ],
+  "records": [],
+  "icon": "mdi:database-import-outline",
+  "scope": "app"
+}

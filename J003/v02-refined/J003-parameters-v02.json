@@ -1,0 +1,77 @@
+{
+  "product_id": "J003",
+  "stage": "REFINED_V02_WITH_UNCONFIRMED_UNDERSIDE",
+  "units": "millimeters; geometry stored and exported in meters",
+  "confirmed": {
+    "inner_diameter_mm": 16.0,
+    "nominal_size_label": "EU 50 (user supplied)",
+    "metal_request": "14k rose gold appearance, user specified; alloy not independently verified",
+    "gem_request": "pink zirconia/zircon, user described as 粉色锆石; exact optical properties unconfirmed",
+    "one_heart_center_stone": true,
+    "heart_halo_present": true,
+    "shoulder_pave_present": true,
+    "visible_main_prongs": 3
+  },
+  "estimated_from_images_mm": {
+    "band_radial_thickness": 0.95,
+    "band_axial_width": 1.4,
+    "band_edge_radius": 0.19,
+    "center_stone_width": 5.2,
+    "center_stone_height": 4.78,
+    "center_girdle_z": 9.72,
+    "center_table_z": 10.55,
+    "center_culet_z": 8.7,
+    "halo_centerline_scale": 1.3,
+    "gallery_inner_scale": 1.055,
+    "gallery_outer_scale": 1.43,
+    "halo_stone_diameter": 0.9,
+    "halo_girdle_z": 9.55,
+    "halo_table_z": 9.83,
+    "gallery_bottom_z": 8.63,
+    "gallery_top_z": 9.43,
+    "shoulder_stone_diameter": 1.02,
+    "band_top_gap_half_angle_degrees": 21.0
+  },
+  "provisional": {
+    "halo_stone_count": 21,
+    "halo_empty_notch": true,
+    "shoulder_stone_count_each_side": 11,
+    "shoulder_pave_angle_degrees": [
+      27,
+      97
+    ],
+    "open_back_gallery": "temporary continuous heart-shaped open carrier; underside is not photographed",
+    "halo_micro_prongs": "simplified paired beads; exact number and mounting geometry unconfirmed",
+    "cut_facets": "editable geometric approximation, not a verified cutting diagram",
+    "engraving": "omitted; source inscription does not confirm requested alloy"
+  },
+  "coordinates": {
+    "root": "J003_ROOT",
+    "ring_center_m": [
+      0,
+      0,
+      0
+    ],
+    "blender_axes": "ring lies in XZ, head points +Z, heart cleft +Y and point -Y",
+    "gltf_axes": "standard Blender export conversion: Y up",
+    "front_view": "orthographic along +Z, face-on heart",
+    "side_view": "orthographic along +X, setting profile",
+    "back_view": "orthographic camera from +Y toward origin, circular shank and rear setting",
+    "underside_view": "oblique from rear and below the head to inspect temporary open gallery",
+    "default_camera_direction": [
+      0.85,
+      -1.25,
+      1.1
+    ]
+  },
+  "user_revision": "2026-10-22: heart slightly shorter and wider, other dimensions approved; reduce transparency; continuous full rotation; main stone 5.20 x 4.78 mm is this revision proposal, not a manufacturer measurement",
+  "appearance": {
+    "metal_roughness": 0.16,
+    "center_transmission": 0.48,
+    "accent_transmission": 0.42,
+    "center_roughness": 0.018,
+    "accent_roughness": 0.025,
+    "ior_visual_approximation": 2.15,
+    "gem_emission": 0
+  }
+}

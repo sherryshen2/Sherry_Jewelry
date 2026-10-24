@@ -1,0 +1,248 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "e08c46ffdf27a3c148e1c6735d5970df",
+      "name": "Board Title",
+      "type": "text",
+      "value": "Project Board",
+      "description": "Title shown in header"
+    },
+    {
+      "id": "d7fe1d28f370ed45f19d8f55789fb65c",
+      "name": "Column 1 Name",
+      "type": "text",
+      "value": "To Do",
+      "description": "First column name"
+    },
+    {
+      "id": "e300f961616d478646a5b445509a8a33",
+      "name": "Column 2 Name",
+      "type": "text",
+      "value": "In Progress",
+      "description": "Second column name"
+    },
+    {
+      "id": "9ae73d83f24f3c9a2231bd986b65f2f7",
+      "name": "Column 3 Name",
+      "type": "text",
+      "value": "Done",
+      "description": "Third column name"
+    },
+    {
+      "id": "8a08ba4fc1aafc1c8c647958bcad9263",
+      "name": "Add Card Text",
+      "type": "text",
+      "value": "Add a card",
+      "description": "Add card button text"
+    },
+    {
+      "id": "1b75aacde2e959087aea181602429ae2",
+      "name": "Add Button",
+      "type": "text",
+      "value": "Add Card",
+      "description": "Add button text"
+    },
+    {
+      "id": "35d5e8ae92a408848b9f650ce21f9555",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "board_title": "Project Board",
+          "column_1_name": "To Do",
+          "column_2_name": "In Progress",
+          "column_3_name": "Done",
+          "add_card_text": "Add a card",
+          "add_button": "Add Card",
+          "task_singular": "task",
+          "task_plural": "tasks",
+          "loading": "Loading...",
+          "task_title_placeholder": "Task title...",
+          "description_placeholder": "Add description...",
+          "no_label": "No label",
+          "save": "Save",
+          "cancel": "Cancel",
+          "no_tasks": "No tasks yet",
+          "today": "Today",
+          "tomorrow": "Tomorrow",
+          "feature": "Feature",
+          "bug": "Bug",
+          "docs": "Docs",
+          "design": "Design",
+          "research": "Research",
+          "low": "Low",
+          "medium": "Medium",
+          "high": "High"
+        },
+        "zh": {
+          "board_title": "项目看板",
+          "column_1_name": "待办",
+          "column_2_name": "进行中",
+          "column_3_name": "完成",
+          "add_card_text": "添加卡片",
+          "add_button": "添加卡片",
+          "task_singular": "任务",
+          "task_plural": "任务",
+          "loading": "加载中...",
+          "task_title_placeholder": "任务标题...",
+          "description_placeholder": "添加描述...",
+          "no_label": "无标签",
+          "save": "保存",
+          "cancel": "取消",
+          "no_tasks": "暂无任务",
+          "today": "今天",
+          "tomorrow": "明天",
+          "feature": "功能",
+          "bug": "缺陷",
+          "docs": "文档",
+          "design": "设计",
+          "research": "调研",
+          "low": "低",
+          "medium": "中",
+          "high": "高"
+        }
+      },
+      "description": "Language-aware kanban copy."
+    }
+  ],
+  "design": [
+    {
+      "id": "93c00eee109d4891c57bc5f76d89010a",
+      "name": "Font",
+      "css_var": "--body-font",
+      "value": "system-ui, sans-serif",
+      "type": "font",
+      "description": "Main font for all text"
+    },
+    {
+      "id": "b38c44b833406db0881f04d4eb8c7aa3",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f1f5f9",
+      "type": "color",
+      "description": "Overall page background"
+    },
+    {
+      "id": "867437dd3dfe34d5054c7ad833e56e80",
+      "name": "Header Background",
+      "css_var": "--header-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Header bar background"
+    },
+    {
+      "id": "cfccc4bf21733a2c78032e21d919fb30",
+      "name": "Column Background",
+      "css_var": "--column-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Column container background"
+    },
+    {
+      "id": "0793d4dce0636b4775274592550daa3f",
+      "name": "Card Background",
+      "css_var": "--card-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Task card background"
+    },
+    {
+      "id": "27575723f3db624163c2d300f4791b6f",
+      "name": "Heading Color",
+      "css_var": "--heading-text-color",
+      "value": "#1e293b",
+      "type": "color",
+      "description": "Color for headings"
+    },
+    {
+      "id": "bc2dd91b9af0cd222efad2922348bf69",
+      "name": "Body Text",
+      "css_var": "--body-text-color",
+      "value": "#334155",
+      "type": "color",
+      "description": "Color for body text"
+    },
+    {
+      "id": "75c912e746250f8852ea6f0cdf70b83c",
+      "name": "Secondary Text",
+      "css_var": "--secondary-text-color",
+      "value": "#64748b",
+      "type": "color",
+      "description": "Color for muted text"
+    },
+    {
+      "id": "f47e45e4d334e23063cf56b9172b2e45",
+      "name": "Border Color",
+      "css_var": "--border-color",
+      "value": "#e2e8f0",
+      "type": "color",
+      "description": "Border and divider color"
+    },
+    {
+      "id": "0af7b9435604a03622d48e3a9af3995d",
+      "name": "Accent Color",
+      "css_var": "--accent-color",
+      "value": "#3b82f6",
+      "type": "color",
+      "description": "Primary accent color"
+    },
+    {
+      "id": "1d032e7583d1c1095b48668f8f774b14",
+      "name": "Danger Color",
+      "css_var": "--danger-color",
+      "value": "#ef4444",
+      "type": "color",
+      "description": "Color for overdue/delete"
+    },
+    {
+      "id": "54bb2f0b2601eb6f565fb7bf430cb86b",
+      "name": "Column Radius",
+      "css_var": "--column-radius",
+      "value": "12px",
+      "type": "radius",
+      "description": "Roundness of columns"
+    },
+    {
+      "id": "60468824b43459152d4d958e25c6d732",
+      "name": "Card Radius",
+      "css_var": "--card-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Roundness of cards"
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Kanban",
+      "Project",
+      "Jira",
+      "Confluence"
+    ],
+    "app_icon": "mdi:view-dashboard-outline",
+    "integrations": {
+      "jira": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "confluence": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "google_sheets": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      }
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

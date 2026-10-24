@@ -1,0 +1,17 @@
+Info: Saved as "J001-source-v01.blend"
+Warning: No mesh data to join
+Warning: No mesh data to join
+INFO Draco mesh compression is available, use library at /Applications/Blender.app/Contents/Resources/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.dylib
+13:59:01 | INFO: Starting glTF 2.0 export
+13:59:01 | INFO: Extracting primitive: PENDING_ClaspCharm_LightStone_mesh.001
+13:59:01 | INFO: Primitives created: 1
+13:59:01 | INFO: Extracting primitive: 02_RaisedPinkHeart_Cut_PENDING_mesh.001
+13:59:01 | INFO: Primitives created: 1
+13:59:01 | INFO: Extracting primitive: 01_HeartCarrier_BackHeartWindow_EST_mesh.001
+13:59:02 | INFO: Primitives created: 1
+13:59:02 | INFO: Finished glTF 2.0 export in 0.1863241195678711 s
+
+BUILD_COMPLETE {"stage": "STRUCTURE_BLOCKOUT_NOT_APPROVED", "triangles": 141104, "export_meshes": 3, "materials": 3, "source_mesh_objects_by_part": {"pendant": 38, "chain": 220, "hardware": 15}, "bounds_mm": [[-45.8260215818882, -24.17200431227684, -78.57688516378403], [45.82955315709114, 23.940548300743103, 78.57688516378403]], "chain_centerline_length_mm": 399.9999944591918, "chain_length_convention": "400 mm along assembly centerline including clasp hardware, excluding pendant; no extra extension length added", "chain_design": [{"side": "L", "centerline_length_mm": 185.9999972295959, "link_count_including_adjustment_ring": 110, "regular_link_outer_length_mm": 2.406421992932072, "regular_link_outer_width_mm": 1.6, "wire_diameter_mm": 0.3, "regular_center_pitch_mm": 1.7064219929320723, "adjustment_ring_index": -1}, {"side": "R", "centerline_length_mm": 185.9999972295959, "link_count_including_adjustment_ring": 110, "regular_link_outer_length_mm": 2.3917430938495037, "regular_link_outer_width_mm": 1.6, "wire_diameter_mm": 0.3, "regular_center_pitch_mm": 1.6917430938495037, "adjustment_ring_index": 97}], "source_path_scale": 0.9226356911050313, "pendant_focus_gltf_m": [2.6132911443710327e-06, -0.07260958105325699, 0.020172003656625748], "files": {"J001-detail-v01.glb": 3997356, "J001-display-v01.glb": 1603472}}
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+
+Blender quit

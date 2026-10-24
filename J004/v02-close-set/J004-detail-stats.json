@@ -1,0 +1,33 @@
+{
+  "stage": "STRUCTURE_BLOCKOUT_AWAITING_CONFIRMATION",
+  "triangles": 142702,
+  "materials": 2,
+  "source_mesh_objects": 508,
+  "stones_main": 48,
+  "stones_tail": 1,
+  "bounds_mm": [
+    [
+      -30.040429905056953,
+      -23.412618786096573,
+      -0.5341267678886652
+    ],
+    [
+      30.040429905056953,
+      36.290235817432404,
+      2.5100000202655792
+    ]
+  ],
+  "closed_path_length_mm": 160,
+  "ellipse_semiaxes_mm": [
+    28.664237340477836,
+    22.049413338829105
+  ],
+  "main_center_pitch_mm": 2.921276595744681,
+  "straight_tangent_gap_mm": 0.22127659574468073,
+  "closure_zone_mm": 20,
+  "files": {
+    "J004-display-v02.glb": 1935976,
+    "J004-detail-v02.glb": 4160560
+  },
+  "source_evaluated_triangles": 142702
+}

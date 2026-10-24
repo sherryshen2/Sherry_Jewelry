@@ -1,0 +1,13 @@
+{
+  "id": "ticket-tracker",
+  "name": "Ticket tracker",
+  "description": "Manage support requests, priorities, assignees, and Jira/mail/runbook integration hooks.",
+  "tags": [
+    "Support",
+    "Jira",
+    "Mail",
+    "Confluence"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Ticket tracker template, keep ticket, message, team, and import run records app-scoped. Use Jira to load issues assigned to the current user and import selected issues into tickets. Use sorting/filtering for status, priority, assignee, source, and updated time. Use Google Mail for requester context, Confluence for runbooks, and LLM Chat for handoff summaries."
+}

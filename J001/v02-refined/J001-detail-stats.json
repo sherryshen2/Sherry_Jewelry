@@ -1,0 +1,57 @@
+{
+  "stage": "REFINED_REVIEW_PENDING",
+  "triangles": 162752,
+  "export_meshes": 3,
+  "materials": 3,
+  "source_mesh_objects_by_part": {
+    "pendant": 38,
+    "chain": 220,
+    "hardware": 15
+  },
+  "bounds_mm": [
+    [
+      -45.50214856863022,
+      -24.015823379158974,
+      -77.02315598726273
+    ],
+    [
+      45.49891874194145,
+      23.78470078110695,
+      77.02314853668213
+    ]
+  ],
+  "chain_centerline_length_mm": 400.0000049643518,
+  "chain_length_convention": "400 mm along assembly centerline including clasp hardware, excluding pendant; no extra extension length added",
+  "chain_design": [
+    {
+      "side": "L",
+      "centerline_length_mm": 186.0000024821759,
+      "link_count_including_adjustment_ring": 110,
+      "regular_link_outer_length_mm": 2.4064220411208797,
+      "regular_link_outer_width_mm": 1.6,
+      "wire_diameter_mm": 0.3,
+      "regular_center_pitch_mm": 1.7064220411208797,
+      "adjustment_ring_index": -1
+    },
+    {
+      "side": "R",
+      "centerline_length_mm": 186.0000024821759,
+      "link_count_including_adjustment_ring": 110,
+      "regular_link_outer_length_mm": 2.391743142038311,
+      "regular_link_outer_width_mm": 1.6,
+      "wire_diameter_mm": 0.3,
+      "regular_center_pitch_mm": 1.6917431420383109,
+      "adjustment_ring_index": 97
+    }
+  ],
+  "source_path_scale": 0.9159395686476604,
+  "pendant_focus_gltf_m": [
+    -1.339241862297058e-06,
+    -0.07302315533161163,
+    0.02001582272350788
+  ],
+  "files": {
+    "J001-detail-v02.glb": 4603628,
+    "J001-display-v02.glb": 1698328
+  }
+}

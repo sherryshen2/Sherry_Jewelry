@@ -1,0 +1,25 @@
+{
+  "source_revision_matches_glb": true,
+  "materials_checked": [
+    "Web_01 | warm ivory lacquer",
+    "Web_02 | ivory carved edges",
+    "Web_03 | inset warm putty",
+    "Web_04 | satin champagne brass",
+    "Web_05 | champagne polished accents",
+    "Web_06 | warm oyster wall",
+    "Web_07 | dusty blush silk",
+    "Web_08 | pale warm drapery",
+    "Web_09 | floral ecru lace cutout",
+    "Web_10 | rose velvet lining",
+    "Web_11 | oatmeal velvet display forms",
+    "Web_13 | rose quartz faceted accents",
+    "Web_18 | pale blush petals",
+    "Web_19 | buttercream petals"
+  ],
+  "only_base_color_changed": true,
+  "geometry_and_baked_lighting_unchanged": true,
+  "unchanged_buffer_views": 135,
+  "updated_image_buffers": 5,
+  "web_lighting_and_renderer_unchanged": true,
+  "viewer_code_unchanged_except_version": true
+}

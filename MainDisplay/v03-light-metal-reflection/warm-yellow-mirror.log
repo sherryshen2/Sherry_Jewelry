@@ -1,0 +1,896 @@
+Info: Saved as "main-display-source.blend"
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:31:45)
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v03-light-metal-reflection/main-display-source.blend"
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v03-light-metal-reflection/main-display-source.blend"
+Fra:1 Mem:82.14M (Peak 82.14M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot
+Fra:1 Mem:82.15M (Peak 82.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot.001
+Fra:1 Mem:82.15M (Peak 82.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot.002
+Fra:1 Mem:82.16M (Peak 82.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot.003
+Fra:1 Mem:82.16M (Peak 82.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | central applied moulding
+Fra:1 Mem:82.22M (Peak 82.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein
+Fra:1 Mem:82.24M (Peak 82.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus
+Fra:1 Mem:82.24M (Peak 82.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.001
+Fra:1 Mem:82.28M (Peak 82.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.002
+Fra:1 Mem:82.30M (Peak 82.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.003
+Fra:1 Mem:82.33M (Peak 82.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.004
+Fra:1 Mem:82.35M (Peak 82.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.005
+Fra:1 Mem:82.37M (Peak 82.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.006
+Fra:1 Mem:82.40M (Peak 82.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.007
+Fra:1 Mem:82.42M (Peak 82.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.008
+Fra:1 Mem:82.44M (Peak 82.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.009
+Fra:1 Mem:82.47M (Peak 82.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus.001
+Fra:1 Mem:82.48M (Peak 82.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus.002
+Fra:1 Mem:82.49M (Peak 82.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus.009
+Fra:1 Mem:82.67M (Peak 82.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron inner tendril.001
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein
+Fra:1 Mem:82.75M (Peak 82.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan
+Fra:1 Mem:82.76M (Peak 82.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.001
+Fra:1 Mem:82.79M (Peak 82.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.002
+Fra:1 Mem:82.82M (Peak 82.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.003
+Fra:1 Mem:82.84M (Peak 82.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.004
+Fra:1 Mem:82.86M (Peak 82.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.005
+Fra:1 Mem:82.89M (Peak 82.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.006
+Fra:1 Mem:82.91M (Peak 82.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.007
+Fra:1 Mem:82.93M (Peak 82.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan.001
+Fra:1 Mem:82.94M (Peak 82.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter central ivory field
+Fra:1 Mem:82.95M (Peak 82.95M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter central recessed panel
+Fra:1 Mem:85.02M (Peak 85.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate
+Fra:1 Mem:85.19M (Peak 85.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate fine vein.001
+Fra:1 Mem:85.22M (Peak 85.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate fine vein.002
+Fra:1 Mem:85.22M (Peak 85.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate fine vein.003
+Fra:1 Mem:85.24M (Peak 85.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate.001
+Fra:1 Mem:85.24M (Peak 85.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner uprights
+Fra:1 Mem:85.26M (Peak 85.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief crest.001
+Fra:1 Mem:85.31M (Peak 85.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief foliage.002
+Fra:1 Mem:85.33M (Peak 85.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief foliage.003
+Fra:1 Mem:85.34M (Peak 85.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief foliage.005
+Fra:1 Mem:85.35M (Peak 85.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief heart
+Fra:1 Mem:85.48M (Peak 85.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief stem.001
+Fra:1 Mem:85.54M (Peak 85.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief volute
+Fra:1 Mem:85.63M (Peak 85.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief volute.001
+Fra:1 Mem:85.71M (Peak 85.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving crest
+Fra:1 Mem:85.71M (Peak 85.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.003
+Fra:1 Mem:85.72M (Peak 85.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving stem
+Fra:1 Mem:85.73M (Peak 85.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.006
+Fra:1 Mem:85.77M (Peak 85.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.007
+Fra:1 Mem:85.78M (Peak 85.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.008
+Fra:1 Mem:85.78M (Peak 85.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.009
+Fra:1 Mem:85.80M (Peak 85.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.010
+Fra:1 Mem:85.81M (Peak 85.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving heart
+Fra:1 Mem:85.88M (Peak 85.88M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving stem.002
+Fra:1 Mem:85.94M (Peak 85.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving stem.003
+Fra:1 Mem:85.99M (Peak 85.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute
+Fra:1 Mem:86.05M (Peak 86.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute.001
+Fra:1 Mem:86.12M (Peak 86.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute.002
+Fra:1 Mem:86.18M (Peak 86.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute.003
+Fra:1 Mem:86.25M (Peak 86.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter side panel
+Fra:1 Mem:86.25M (Peak 86.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter side panel.001
+Fra:1 Mem:86.28M (Peak 86.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter top pearl moulding
+Fra:1 Mem:86.39M (Peak 86.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | front carved stile
+Fra:1 Mem:86.39M (Peak 86.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | front carved stile.002
+Fra:1 Mem:86.40M (Peak 86.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | side field trim
+Fra:1 Mem:86.45M (Peak 86.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | showcase sill
+Fra:1 Mem:86.58M (Peak 86.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | side field trim.001
+Fra:1 Mem:86.64M (Peak 86.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ivory upper drawer band
+Fra:1 Mem:86.62M (Peak 86.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer gold hairline
+Fra:1 Mem:86.66M (Peak 86.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer pull
+Fra:1 Mem:86.70M (Peak 86.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer gold hairline.001
+Fra:1 Mem:86.71M (Peak 86.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer gold hairline.002
+Fra:1 Mem:86.73M (Peak 86.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | blush drawer inset.002
+Fra:1 Mem:86.75M (Peak 86.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | necklace gold plinth bead
+Fra:1 Mem:86.75M (Peak 86.75M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earrings tiered ivory base
+Fra:1 Mem:86.77M (Peak 86.77M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring stand stem
+Fra:1 Mem:87.31M (Peak 87.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring stand crossbar
+Fra:1 Mem:88.53M (Peak 88.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring hook
+Fra:1 Mem:88.82M (Peak 88.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring hook.001
+Fra:1 Mem:88.83M (Peak 88.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring ivory tray
+Fra:1 Mem:89.12M (Peak 89.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring tray gold edge
+Fra:1 Mem:89.42M (Peak 89.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring tray gold edge.001
+Fra:1 Mem:89.42M (Peak 89.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring raised cushion
+Fra:1 Mem:89.39M (Peak 89.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet gilt tray lip
+Fra:1 Mem:89.43M (Peak 89.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet gilt tray lip.001
+Fra:1 Mem:89.42M (Peak 89.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet velvet surface
+Fra:1 Mem:89.47M (Peak 89.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | necklace hidden rear retaining hook
+Fra:1 Mem:89.50M (Peak 89.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet tray rear riser
+Fra:1 Mem:89.92M (Peak 89.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain gold tieback
+Fra:1 Mem:90.13M (Peak 90.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain gold tieback.001
+Fra:1 Mem:90.18M (Peak 90.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel cord
+Fra:1 Mem:90.18M (Peak 90.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel
+Fra:1 Mem:90.18M (Peak 90.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel cord.001
+Fra:1 Mem:90.20M (Peak 90.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel.001
+Fra:1 Mem:90.20M (Peak 90.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.001
+Fra:1 Mem:90.21M (Peak 90.21M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.005
+Fra:1 Mem:90.22M (Peak 90.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.007
+Fra:1 Mem:90.24M (Peak 90.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.008
+Fra:1 Mem:90.25M (Peak 90.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.009
+Fra:1 Mem:90.33M (Peak 90.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.010
+Fra:1 Mem:90.64M (Peak 90.64M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.011
+Fra:1 Mem:90.66M (Peak 90.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.013
+Fra:1 Mem:90.74M (Peak 90.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.014
+Fra:1 Mem:90.75M (Peak 90.75M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.015
+Fra:1 Mem:90.79M (Peak 90.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.017
+Fra:1 Mem:90.84M (Peak 90.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.001
+Fra:1 Mem:90.84M (Peak 90.84M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.019
+Fra:1 Mem:90.93M (Peak 90.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.020
+Fra:1 Mem:90.96M (Peak 90.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.021
+Fra:1 Mem:91.15M (Peak 91.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.023
+Fra:1 Mem:91.33M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.024
+Fra:1 Mem:91.17M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.026
+Fra:1 Mem:91.18M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.028
+Fra:1 Mem:91.19M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.029
+Fra:1 Mem:91.21M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.030
+Fra:1 Mem:91.24M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.031
+Fra:1 Mem:91.25M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.032
+Fra:1 Mem:91.25M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.035
+Fra:1 Mem:91.26M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.036
+Fra:1 Mem:91.27M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.037
+Fra:1 Mem:91.29M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.038
+Fra:1 Mem:91.29M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.039
+Fra:1 Mem:91.32M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.004
+Fra:1 Mem:91.32M (Peak 91.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.041
+Fra:1 Mem:91.34M (Peak 91.34M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.042
+Fra:1 Mem:91.35M (Peak 91.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.044
+Fra:1 Mem:91.36M (Peak 91.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.045
+Fra:1 Mem:91.37M (Peak 91.37M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.046
+Fra:1 Mem:91.39M (Peak 91.39M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.047
+Fra:1 Mem:91.41M (Peak 91.41M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown crest.001
+Fra:1 Mem:91.43M (Peak 91.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.005
+Fra:1 Mem:91.44M (Peak 91.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus
+Fra:1 Mem:91.46M (Peak 91.46M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.006
+Fra:1 Mem:91.57M (Peak 91.57M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.007
+Fra:1 Mem:91.59M (Peak 91.59M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.008
+Fra:1 Mem:91.62M (Peak 91.62M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.009
+Fra:1 Mem:91.64M (Peak 91.64M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.001
+Fra:1 Mem:91.64M (Peak 91.64M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.007
+Fra:1 Mem:91.66M (Peak 91.66M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.008
+Fra:1 Mem:91.68M (Peak 91.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.009
+Fra:1 Mem:91.85M (Peak 91.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail inner tendril.001
+Fra:1 Mem:91.91M (Peak 91.91M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein
+Fra:1 Mem:91.93M (Peak 91.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan
+Fra:1 Mem:91.94M (Peak 91.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.001
+Fra:1 Mem:91.97M (Peak 91.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.002
+Fra:1 Mem:91.99M (Peak 91.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.003
+Fra:1 Mem:92.02M (Peak 92.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.004
+Fra:1 Mem:92.04M (Peak 92.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.005
+Fra:1 Mem:92.06M (Peak 92.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.006
+Fra:1 Mem:92.08M (Peak 92.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.007
+Fra:1 Mem:92.11M (Peak 92.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan.001
+Fra:1 Mem:92.12M (Peak 92.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan.002
+Fra:1 Mem:92.13M (Peak 92.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown foliage.001
+Fra:1 Mem:92.15M (Peak 92.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown foliage.003
+Fra:1 Mem:92.16M (Peak 92.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown foliage.004
+Fra:1 Mem:92.18M (Peak 92.18M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown heart
+Fra:1 Mem:92.33M (Peak 92.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown stem.001
+Fra:1 Mem:92.36M (Peak 92.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown volute
+Fra:1 Mem:92.42M (Peak 92.42M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown volute.001
+Fra:1 Mem:92.49M (Peak 92.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror layered frame
+Fra:1 Mem:92.49M (Peak 92.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror foliage.002
+Fra:1 Mem:92.61M (Peak 92.61M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror foliage.005
+Fra:1 Mem:92.68M (Peak 92.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror layered frame.001
+Fra:1 Mem:92.87M (Peak 92.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror layered frame.002
+Fra:1 Mem:93.02M (Peak 93.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror layered frame.003
+Fra:1 Mem:93.16M (Peak 93.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | quiet background panel
+Fra:1 Mem:93.16M (Peak 93.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right backdrop drape
+Fra:1 Mem:93.20M (Peak 93.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | background cabinet silhouette
+Fra:1 Mem:93.55M (Peak 93.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | quiet background panel.001
+Fra:1 Mem:94.08M (Peak 94.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | background cabinet silhouette.001
+Fra:1 Mem:94.13M (Peak 94.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses eucalyptus
+Fra:1 Mem:94.16M (Peak 94.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses rose heart.001
+Fra:1 Mem:94.52M (Peak 94.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem
+Fra:1 Mem:94.52M (Peak 94.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.001
+Fra:1 Mem:94.52M (Peak 94.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.002
+Fra:1 Mem:94.52M (Peak 94.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.003
+Fra:1 Mem:94.53M (Peak 94.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.004
+Fra:1 Mem:94.53M (Peak 94.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.005
+Fra:1 Mem:94.53M (Peak 94.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.006
+Fra:1 Mem:94.53M (Peak 94.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ribbon bow
+Fra:1 Mem:94.53M (Peak 94.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses urn lip
+Fra:1 Mem:94.55M (Peak 94.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | silk ribbon band
+Fra:1 Mem:94.68M (Peak 94.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | small closed blush jewelry box.001
+Fra:1 Mem:94.74M (Peak 94.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | silk ribbon band.001
+Fra:1 Mem:94.80M (Peak 94.80M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ribbon bow.003
+Fra:1 Mem:94.88M (Peak 94.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earrings_left_earring_M01_925Silver_appearance
+Fra:1 Mem:94.86M (Peak 94.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring_body_M02_PinkStone_optics_PENDING
+Fra:1 Mem:94.93M (Peak 94.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet_body_M02_ColorlessCZ_EST
+Fra:1 Mem:95.12M (Peak 95.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 01_HeartCarrier_RoundedBack_UpwardTaper_EST
+Fra:1 Mem:95.30M (Peak 95.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 02_RaisedPinkHeart_Cut_PENDING
+Fra:1 Mem:95.72M (Peak 95.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_01
+Fra:1 Mem:101.14M (Peak 101.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_02
+Fra:1 Mem:101.68M (Peak 101.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | warm reflected objects bounce
+Fra:1 Mem:101.85M (Peak 101.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | top soft reflection
+Fra:1 Mem:101.85M (Peak 101.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | soft front fill
+Fra:1 Mem:101.85M (Peak 101.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | warm backdrop wash
+Fra:1 Mem:107.22M (Peak 107.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | neutral reflection strip
+Fra:1 Mem:108.00M (Peak 108.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | neutral jewelry softbox
+Fra:1 Mem:108.17M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | studio floor
+Fra:1 Mem:108.07M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_04
+Fra:1 Mem:107.22M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_3
+Fra:1 Mem:107.42M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_05
+Fra:1 Mem:107.50M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_2
+Fra:1 Mem:105.73M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_07
+Fra:1 Mem:105.76M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_1
+Fra:1 Mem:105.77M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_0
+Fra:1 Mem:105.87M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharm_LightStone
+Fra:1 Mem:105.68M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_08
+Fra:1 Mem:106.18M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_09
+Fra:1 Mem:106.34M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmSeat
+Fra:1 Mem:106.84M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_13
+Fra:1 Mem:107.34M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_14
+Fra:1 Mem:107.59M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmJumpRing
+Fra:1 Mem:107.68M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ConnectorTag_WithHoles
+Fra:1 Mem:107.71M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_16
+Fra:1 Mem:108.05M (Peak 108.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterLeftEye
+Fra:1 Mem:109.09M (Peak 109.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterClasp_Lever
+Fra:1 Mem:109.13M (Peak 109.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterClasp_ClosedGate
+Fra:1 Mem:109.16M (Peak 109.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterClasp_Body
+Fra:1 Mem:109.25M (Peak 109.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspEndRing_R
+Fra:1 Mem:109.31M (Peak 109.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspTagJoinRing
+Fra:1 Mem:109.43M (Peak 109.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspEndRing_L
+Fra:1 Mem:109.91M (Peak 109.91M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_AdjustmentRing_R_097
+Fra:1 Mem:110.33M (Peak 110.33M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_17
+Fra:1 Mem:106.34M (Peak 112.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ChainLink_R_000
+Fra:1 Mem:108.70M (Peak 112.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_21
+Fra:1 Mem:109.45M (Peak 112.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_22
+Fra:1 Mem:110.01M (Peak 112.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ChainLink_L_000
+Fra:1 Mem:110.86M (Peak 112.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_23
+Fra:1 Mem:110.94M (Peak 112.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_25
+Fra:1 Mem:111.30M (Peak 112.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_27
+Fra:1 Mem:112.39M (Peak 112.40M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SideMount_-1
+Fra:1 Mem:112.49M (Peak 112.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProngCap_3
+Fra:1 Mem:113.30M (Peak 113.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProng_3
+Fra:1 Mem:113.55M (Peak 113.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProngCap_2
+Fra:1 Mem:113.57M (Peak 113.57M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_28
+Fra:1 Mem:113.90M (Peak 113.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProng_2
+Fra:1 Mem:120.01M (Peak 135.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:109.45M (Peak 135.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading oyster_damask_basecolor
+Fra:1 Mem:109.45M (Peak 135.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading paint_02_basecolor
+Fra:1 Mem:109.45M (Peak 135.82M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading floral_lace_rgba
+Fra:1 Mem:101.54M (Peak 135.82M) | Time:00:00.06 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:101.54M (Peak 135.82M) | Time:00:00.06 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:101.54M (Peak 135.82M) | Time:00:00.06 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:101.54M (Peak 135.82M) | Time:00:00.06 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:101.64M (Peak 135.82M) | Time:00:00.06 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:101.64M (Peak 135.82M) | Time:00:00.06 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:101.64M (Peak 135.82M) | Time:00:00.06 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:101.64M (Peak 135.82M) | Time:00:00.06 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:101.64M (Peak 135.82M) | Time:00:00.06 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:101.64M (Peak 135.82M) | Time:00:00.06 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:101.82M (Peak 135.82M) | Time:00:00.06 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:101.82M (Peak 135.82M) | Time:00:00.06 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:101.82M (Peak 135.82M) | Time:00:00.06 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:104.60M (Peak 135.82M) | Time:00:00.08 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:104.60M (Peak 135.82M) | Time:00:00.08 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:111.43M (Peak 135.82M) | Time:00:00.08 | Mem:8.23M, Peak:8.23M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:111.35M (Peak 135.82M) | Time:00:00.08 | Mem:14.95M, Peak:14.95M | Scene, ViewLayer | Updating Geometry BVH PENDING_LinkTemplate_R_mesh 10/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 135.82M) | Time:00:00.08 | Mem:14.96M, Peak:14.96M | Scene, ViewLayer | Updating Geometry BVH PENDING_LinkTemplate_R_mesh 10/9 | Building BVH 0%
+Fra:1 Mem:111.35M (Peak 135.82M) | Time:00:00.08 | Mem:14.96M, Peak:14.96M | Scene, ViewLayer | Updating Geometry BVH shared 04 | satin champagne brass(16, 10) 2/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 135.82M) | Time:00:00.08 | Mem:14.96M, Peak:14.96M | Scene, ViewLayer | Updating Geometry BVH shared 05 | champagne polished accents(16, 10).001 4/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 135.82M) | Time:00:00.08 | Mem:15.03M, Peak:15.06M | Scene, ViewLayer | Updating Geometry BVH PENDING_LinkTemplate_L_mesh 9/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 135.82M) | Time:00:00.08 | Mem:15.08M, Peak:15.09M | Scene, ViewLayer | Updating Geometry BVH mount_template_mesh 8/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 135.82M) | Time:00:00.08 | Mem:15.08M, Peak:15.09M | Scene, ViewLayer | Updating Geometry BVH shared 18 | pale blush petals(12, 8) 7/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 135.82M) | Time:00:00.08 | Mem:15.17M, Peak:15.20M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:111.36M (Peak 135.82M) | Time:00:00.08 | Mem:15.17M, Peak:15.20M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:111.36M (Peak 135.82M) | Time:00:00.10 | Mem:42.27M, Peak:55.19M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:111.36M (Peak 135.82M) | Time:00:00.10 | Mem:42.27M, Peak:55.19M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:125.05M (Peak 135.82M) | Time:00:00.10 | Mem:42.27M, Peak:55.19M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:125.05M (Peak 135.82M) | Time:00:00.10 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:125.05M (Peak 135.82M) | Time:00:00.10 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:125.06M (Peak 135.82M) | Time:00:00.10 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:125.06M (Peak 135.82M) | Time:00:00.10 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:125.06M (Peak 135.82M) | Time:00:00.10 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:125.06M (Peak 135.82M) | Time:00:00.10 | Mem:56.05M, Peak:56.05M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:125.06M (Peak 135.82M) | Time:00:00.10 | Mem:56.06M, Peak:56.06M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:125.06M (Peak 135.82M) | Time:00:00.10 | Mem:56.06M, Peak:56.06M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:125.06M (Peak 135.82M) | Time:00:00.10 | Mem:56.06M, Peak:56.06M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:125.07M (Peak 135.82M) | Time:00:00.10 | Mem:55.98M, Peak:56.06M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:125.07M (Peak 135.82M) | Time:00:00.10 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:125.07M (Peak 135.82M) | Time:00:00.10 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:125.08M (Peak 135.82M) | Time:00:00.10 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:125.08M (Peak 135.82M) | Time:00:00.10 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Sample 0/20
+Fra:1 Mem:220.91M (Peak 220.91M) | Time:00:00.84 | Remaining:00:13.98 | Mem:151.75M, Peak:151.75M | Scene, ViewLayer | Sample 1/20
+Fra:1 Mem:261.20M (Peak 321.63M) | Time:00:16.62 | Mem:151.75M, Peak:151.75M | Scene, ViewLayer | Sample 20/20
+Fra:1 Mem:261.20M (Peak 321.63M) | Time:00:16.62 | Mem:151.75M, Peak:151.75M | Scene, ViewLayer | Finished
+Saved: '/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v03-light-metal-reflection/01_Front.png'
+Time: 00:16.81 (Saving: 00:00.15)
+
+RENDER_DONE 01_Front
+Fra:1 Mem:95.27M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot
+Fra:1 Mem:95.27M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot.001
+Fra:1 Mem:95.27M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot.002
+Fra:1 Mem:95.28M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot.003
+Fra:1 Mem:95.28M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | central applied moulding
+Fra:1 Mem:95.34M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein
+Fra:1 Mem:95.35M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus
+Fra:1 Mem:95.38M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.001
+Fra:1 Mem:95.40M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.002
+Fra:1 Mem:95.43M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.003
+Fra:1 Mem:95.45M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.004
+Fra:1 Mem:95.47M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.005
+Fra:1 Mem:95.49M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.006
+Fra:1 Mem:95.52M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.007
+Fra:1 Mem:95.54M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.008
+Fra:1 Mem:95.56M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.009
+Fra:1 Mem:95.59M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus.001
+Fra:1 Mem:95.60M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus.002
+Fra:1 Mem:95.62M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus.009
+Fra:1 Mem:95.78M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron inner tendril.001
+Fra:1 Mem:95.85M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein
+Fra:1 Mem:95.87M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan
+Fra:1 Mem:95.88M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.001
+Fra:1 Mem:95.91M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.002
+Fra:1 Mem:95.94M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.003
+Fra:1 Mem:95.96M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.004
+Fra:1 Mem:95.98M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.005
+Fra:1 Mem:96.01M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.006
+Fra:1 Mem:96.03M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.007
+Fra:1 Mem:96.06M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan.001
+Fra:1 Mem:96.06M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter bottom ogee
+Fra:1 Mem:96.08M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter central ivory field
+Fra:1 Mem:96.13M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter central recessed panel
+Fra:1 Mem:96.14M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate
+Fra:1 Mem:96.29M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate fine vein.001
+Fra:1 Mem:96.31M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate fine vein.002
+Fra:1 Mem:96.34M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate fine vein.003
+Fra:1 Mem:96.36M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate.001
+Fra:1 Mem:96.38M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate.002
+Fra:1 Mem:96.38M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief crest.001
+Fra:1 Mem:96.40M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief foliage
+Fra:1 Mem:96.41M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief foliage.002
+Fra:1 Mem:96.42M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief foliage.004
+Fra:1 Mem:96.45M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief foliage.005
+Fra:1 Mem:96.50M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief heart
+Fra:1 Mem:96.51M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief stem.001
+Fra:1 Mem:96.67M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief volute
+Fra:1 Mem:96.74M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief volute.001
+Fra:1 Mem:96.82M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving crest
+Fra:1 Mem:96.82M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.001
+Fra:1 Mem:96.83M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.004
+Fra:1 Mem:96.85M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.006
+Fra:1 Mem:96.86M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.007
+Fra:1 Mem:96.86M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.009
+Fra:1 Mem:96.87M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.010
+Fra:1 Mem:96.88M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.011
+Fra:1 Mem:96.89M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving heart
+Fra:1 Mem:96.99M (Peak 97.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving stem.001
+Fra:1 Mem:97.02M (Peak 97.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving stem.002
+Fra:1 Mem:97.06M (Peak 97.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving stem.003
+Fra:1 Mem:97.09M (Peak 97.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute
+Fra:1 Mem:97.15M (Peak 97.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute.001
+Fra:1 Mem:97.22M (Peak 97.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute.002
+Fra:1 Mem:97.28M (Peak 97.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute.003
+Fra:1 Mem:97.35M (Peak 97.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter side panel
+Fra:1 Mem:97.35M (Peak 97.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter top pearl moulding
+Fra:1 Mem:97.47M (Peak 97.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | front carved stile
+Fra:1 Mem:97.50M (Peak 97.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | front carved stile.002
+Fra:1 Mem:97.51M (Peak 97.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | showcase sill
+Fra:1 Mem:97.66M (Peak 97.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | side field trim.001
+Fra:1 Mem:97.76M (Peak 97.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer gold hairline
+Fra:1 Mem:97.72M (Peak 97.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer pull
+Fra:1 Mem:97.73M (Peak 97.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer gold hairline.001
+Fra:1 Mem:97.83M (Peak 97.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | blush drawer inset.002
+Fra:1 Mem:97.81M (Peak 97.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer gold hairline.002
+Fra:1 Mem:97.84M (Peak 97.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | display grounding plinth
+Fra:1 Mem:97.85M (Peak 97.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earrings blush inset
+Fra:1 Mem:97.89M (Peak 97.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring stand crossbar
+Fra:1 Mem:99.44M (Peak 99.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring hook
+Fra:1 Mem:99.46M (Peak 99.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring hook.001
+Fra:1 Mem:99.75M (Peak 99.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring ivory tray
+Fra:1 Mem:99.46M (Peak 99.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring blush tray lining
+Fra:1 Mem:99.51M (Peak 99.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring tray gold edge.001
+Fra:1 Mem:99.51M (Peak 99.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring raised cushion
+Fra:1 Mem:99.54M (Peak 99.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet velvet surface
+Fra:1 Mem:99.63M (Peak 99.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet gilt tray lip.001
+Fra:1 Mem:99.63M (Peak 99.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet tray rear riser
+Fra:1 Mem:99.63M (Peak 99.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | necklace hidden rear retaining hook
+Fra:1 Mem:99.72M (Peak 99.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain gold tieback
+Fra:1 Mem:99.77M (Peak 99.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain gold tieback.001
+Fra:1 Mem:99.82M (Peak 99.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel cord
+Fra:1 Mem:99.82M (Peak 99.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel
+Fra:1 Mem:99.82M (Peak 99.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel cord.001
+Fra:1 Mem:99.83M (Peak 99.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel.001
+Fra:1 Mem:99.84M (Peak 99.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left backdrop drape lace selvedge
+Fra:1 Mem:99.84M (Peak 99.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.005
+Fra:1 Mem:99.86M (Peak 99.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.008
+Fra:1 Mem:99.86M (Peak 99.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.009
+Fra:1 Mem:99.87M (Peak 99.87M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.010
+Fra:1 Mem:99.88M (Peak 99.88M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.011
+Fra:1 Mem:99.89M (Peak 99.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.012
+Fra:1 Mem:99.89M (Peak 99.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.013
+Fra:1 Mem:99.89M (Peak 99.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.014
+Fra:1 Mem:99.90M (Peak 99.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.015
+Fra:1 Mem:99.90M (Peak 99.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.016
+Fra:1 Mem:99.91M (Peak 99.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.017
+Fra:1 Mem:99.91M (Peak 99.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.019
+Fra:1 Mem:99.92M (Peak 99.92M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.020
+Fra:1 Mem:99.92M (Peak 99.92M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.022
+Fra:1 Mem:99.93M (Peak 99.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.023
+Fra:1 Mem:99.93M (Peak 99.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.024
+Fra:1 Mem:99.93M (Peak 99.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.025
+Fra:1 Mem:99.94M (Peak 99.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.026
+Fra:1 Mem:99.94M (Peak 99.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.027
+Fra:1 Mem:99.95M (Peak 99.95M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.028
+Fra:1 Mem:99.95M (Peak 99.95M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.030
+Fra:1 Mem:99.98M (Peak 99.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.031
+Fra:1 Mem:99.99M (Peak 99.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.033
+Fra:1 Mem:100.00M (Peak 100.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.034
+Fra:1 Mem:100.00M (Peak 100.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.036
+Fra:1 Mem:100.00M (Peak 100.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.037
+Fra:1 Mem:100.01M (Peak 100.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.038
+Fra:1 Mem:100.02M (Peak 100.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.039
+Fra:1 Mem:100.02M (Peak 100.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.040
+Fra:1 Mem:100.04M (Peak 100.04M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.002
+Fra:1 Mem:100.07M (Peak 100.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.003
+Fra:1 Mem:100.09M (Peak 100.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.042
+Fra:1 Mem:100.10M (Peak 100.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.043
+Fra:1 Mem:100.11M (Peak 100.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.044
+Fra:1 Mem:100.11M (Peak 100.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.046
+Fra:1 Mem:100.12M (Peak 100.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.047
+Fra:1 Mem:100.12M (Peak 100.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror console ledge
+Fra:1 Mem:100.13M (Peak 100.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown crest.001
+Fra:1 Mem:100.15M (Peak 100.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus
+Fra:1 Mem:100.25M (Peak 100.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.005
+Fra:1 Mem:100.57M (Peak 100.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.006
+Fra:1 Mem:100.71M (Peak 100.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.007
+Fra:1 Mem:100.77M (Peak 100.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.008
+Fra:1 Mem:100.88M (Peak 100.88M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.009
+Fra:1 Mem:101.08M (Peak 101.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.001
+Fra:1 Mem:101.09M (Peak 101.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.004
+Fra:1 Mem:101.10M (Peak 101.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.006
+Fra:1 Mem:101.13M (Peak 101.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.009
+Fra:1 Mem:101.29M (Peak 101.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail inner tendril.001
+Fra:1 Mem:101.35M (Peak 101.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein
+Fra:1 Mem:101.37M (Peak 101.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan
+Fra:1 Mem:101.37M (Peak 101.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.001
+Fra:1 Mem:101.41M (Peak 101.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.002
+Fra:1 Mem:101.43M (Peak 101.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.003
+Fra:1 Mem:101.46M (Peak 101.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.004
+Fra:1 Mem:101.48M (Peak 101.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.005
+Fra:1 Mem:101.50M (Peak 101.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.006
+Fra:1 Mem:101.53M (Peak 101.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.007
+Fra:1 Mem:101.55M (Peak 101.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan.001
+Fra:1 Mem:101.56M (Peak 101.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan.005
+Fra:1 Mem:101.57M (Peak 101.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown stem
+Fra:1 Mem:101.59M (Peak 101.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown foliage.002
+Fra:1 Mem:101.62M (Peak 101.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown stem.001
+Fra:1 Mem:101.65M (Peak 101.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown foliage.004
+Fra:1 Mem:101.67M (Peak 101.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown foliage.005
+Fra:1 Mem:101.68M (Peak 101.68M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown heart
+Fra:1 Mem:101.85M (Peak 101.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown volute.001
+Fra:1 Mem:101.92M (Peak 101.92M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror foliage
+Fra:1 Mem:101.92M (Peak 101.92M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror foliage.003
+Fra:1 Mem:101.93M (Peak 101.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror foliage.005
+Fra:1 Mem:102.11M (Peak 102.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror layered frame.001
+Fra:1 Mem:102.30M (Peak 102.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror layered frame.002
+Fra:1 Mem:102.45M (Peak 102.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror layered frame.003
+Fra:1 Mem:102.59M (Peak 102.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | oval mirror glass
+Fra:1 Mem:102.59M (Peak 102.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | rear dado
+Fra:1 Mem:102.76M (Peak 102.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | background cabinet silhouette
+Fra:1 Mem:103.34M (Peak 103.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | background cabinet silhouette.001
+Fra:1 Mem:103.41M (Peak 103.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | quiet background panel.001
+Fra:1 Mem:103.72M (Peak 103.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses eucalyptus
+Fra:1 Mem:103.73M (Peak 103.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses rose heart
+Fra:1 Mem:103.74M (Peak 103.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses rose heart.001
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.001
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.002
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.003
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.004
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.005
+Fra:1 Mem:103.79M (Peak 103.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.006
+Fra:1 Mem:103.79M (Peak 103.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses urn
+Fra:1 Mem:103.79M (Peak 103.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | silk ribbon band
+Fra:1 Mem:103.97M (Peak 103.97M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ribbon bow.001
+Fra:1 Mem:103.97M (Peak 103.97M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | small closed blush jewelry box.001
+Fra:1 Mem:103.99M (Peak 103.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | silk ribbon band.001
+Fra:1 Mem:104.03M (Peak 104.03M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ribbon bow.003
+Fra:1 Mem:104.06M (Peak 104.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earrings_left_earring_M01_925Silver_appearance
+Fra:1 Mem:104.07M (Peak 104.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring_body_M02_PinkStone_optics_PENDING
+Fra:1 Mem:104.11M (Peak 104.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet_body_M01_925Silver
+Fra:1 Mem:104.47M (Peak 104.47M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet_body_M02_ColorlessCZ_EST
+Fra:1 Mem:104.65M (Peak 104.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 01_HeartCarrier_RoundedBack_UpwardTaper_EST
+Fra:1 Mem:105.52M (Peak 105.52M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 02_RaisedPinkHeart_Cut_PENDING
+Fra:1 Mem:106.04M (Peak 106.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_01
+Fra:1 Mem:109.44M (Peak 109.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_02
+Fra:1 Mem:109.53M (Peak 109.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_03
+Fra:1 Mem:108.82M (Peak 109.53M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_04
+Fra:1 Mem:115.55M (Peak 115.55M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_05
+Fra:1 Mem:116.04M (Peak 116.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_06
+Fra:1 Mem:118.16M (Peak 118.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_07
+Fra:1 Mem:118.19M (Peak 118.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_08
+Fra:1 Mem:118.62M (Peak 118.62M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_10
+Fra:1 Mem:120.90M (Peak 120.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_11
+Fra:1 Mem:120.89M (Peak 120.90M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_12
+Fra:1 Mem:122.49M (Peak 122.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_13
+Fra:1 Mem:120.99M (Peak 122.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | top soft reflection
+Fra:1 Mem:122.25M (Peak 122.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | soft front fill
+Fra:1 Mem:122.25M (Peak 122.49M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | warm backdrop wash
+Fra:1 Mem:123.26M (Peak 123.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | neutral reflection strip
+Fra:1 Mem:123.11M (Peak 123.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | neutral jewelry softbox
+Fra:1 Mem:124.09M (Peak 124.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | studio floor
+Fra:1 Mem:119.34M (Peak 124.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_3
+Fra:1 Mem:119.61M (Peak 124.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_15
+Fra:1 Mem:120.35M (Peak 124.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_2
+Fra:1 Mem:120.35M (Peak 124.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_17
+Fra:1 Mem:120.37M (Peak 124.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_1
+Fra:1 Mem:122.08M (Peak 124.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_18
+Fra:1 Mem:124.13M (Peak 124.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_19
+Fra:1 Mem:125.15M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_20
+Fra:1 Mem:124.53M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_21
+Fra:1 Mem:124.99M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_22
+Fra:1 Mem:124.06M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_23
+Fra:1 Mem:122.23M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_25
+Fra:1 Mem:122.25M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_26
+Fra:1 Mem:122.28M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_27
+Fra:1 Mem:122.28M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_28
+Fra:1 Mem:122.30M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProng_1
+Fra:1 Mem:122.30M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_0
+Fra:1 Mem:122.34M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProngCap_1
+Fra:1 Mem:123.95M (Peak 125.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharm_LightStone
+Fra:1 Mem:126.24M (Peak 126.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmSeat
+Fra:1 Mem:126.26M (Peak 126.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProng_2
+Fra:1 Mem:126.30M (Peak 126.30M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProngCap_2
+Fra:1 Mem:126.32M (Peak 126.32M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProng_3
+Fra:1 Mem:126.35M (Peak 126.35M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProngCap_3
+Fra:1 Mem:126.36M (Peak 126.36M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SideMount_-1
+Fra:1 Mem:127.91M (Peak 127.91M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ConnectorTag_WithHoles
+Fra:1 Mem:127.92M (Peak 127.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ChainLink_L_000
+Fra:1 Mem:127.92M (Peak 127.92M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ChainLink_R_000
+Fra:1 Mem:129.29M (Peak 129.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_AdjustmentRing_R_097
+Fra:1 Mem:129.31M (Peak 129.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspEndRing_L
+Fra:1 Mem:128.93M (Peak 129.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspTagJoinRing
+Fra:1 Mem:129.00M (Peak 129.31M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspEndRing_R
+Fra:1 Mem:130.06M (Peak 130.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterClasp_Body
+Fra:1 Mem:130.12M (Peak 130.12M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterClasp_ClosedGate
+Fra:1 Mem:130.45M (Peak 130.45M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterClasp_Lever
+Fra:1 Mem:120.01M (Peak 136.66M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:109.45M (Peak 136.66M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading oyster_damask_basecolor
+Fra:1 Mem:109.45M (Peak 136.66M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading lacquer_normal
+Fra:1 Mem:109.45M (Peak 136.66M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading floral_lace_rgba
+Fra:1 Mem:101.54M (Peak 136.66M) | Time:00:00.05 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:101.54M (Peak 136.66M) | Time:00:00.05 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:101.54M (Peak 136.66M) | Time:00:00.05 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:101.54M (Peak 136.66M) | Time:00:00.05 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:101.64M (Peak 136.66M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:101.64M (Peak 136.66M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:101.64M (Peak 136.66M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:101.64M (Peak 136.66M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:101.64M (Peak 136.66M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:101.64M (Peak 136.66M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:101.82M (Peak 136.66M) | Time:00:00.05 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:101.82M (Peak 136.66M) | Time:00:00.05 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:101.82M (Peak 136.66M) | Time:00:00.05 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:104.60M (Peak 136.66M) | Time:00:00.07 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:104.60M (Peak 136.66M) | Time:00:00.07 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:111.44M (Peak 136.66M) | Time:00:00.07 | Mem:8.23M, Peak:8.23M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:111.35M (Peak 136.66M) | Time:00:00.07 | Mem:14.95M, Peak:14.95M | Scene, ViewLayer | Updating Geometry BVH PENDING_LinkTemplate_R_mesh 10/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.66M) | Time:00:00.07 | Mem:14.96M, Peak:14.96M | Scene, ViewLayer | Updating Geometry BVH PENDING_LinkTemplate_R_mesh 10/9 | Building BVH 0%
+Fra:1 Mem:111.35M (Peak 136.66M) | Time:00:00.07 | Mem:14.98M, Peak:14.98M | Scene, ViewLayer | Updating Geometry BVH shared 04 | satin champagne brass(16, 10) 2/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.66M) | Time:00:00.07 | Mem:15.00M, Peak:15.00M | Scene, ViewLayer | Updating Geometry BVH shared 05 | champagne polished accents(16, 10).001 4/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.66M) | Time:00:00.07 | Mem:14.99M, Peak:15.01M | Scene, ViewLayer | Updating Geometry BVH PENDING_LinkTemplate_L_mesh 9/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.66M) | Time:00:00.07 | Mem:15.07M, Peak:15.09M | Scene, ViewLayer | Updating Geometry BVH mount_template_mesh 8/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.66M) | Time:00:00.07 | Mem:15.08M, Peak:15.09M | Scene, ViewLayer | Updating Geometry BVH shared 18 | pale blush petals(12, 8) 7/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.66M) | Time:00:00.07 | Mem:15.17M, Peak:15.18M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:111.36M (Peak 136.66M) | Time:00:00.07 | Mem:15.17M, Peak:15.18M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:111.36M (Peak 136.66M) | Time:00:00.08 | Mem:42.27M, Peak:55.19M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:111.36M (Peak 136.66M) | Time:00:00.08 | Mem:42.27M, Peak:55.19M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:125.05M (Peak 136.66M) | Time:00:00.09 | Mem:42.27M, Peak:55.19M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:125.05M (Peak 136.66M) | Time:00:00.09 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:125.05M (Peak 136.66M) | Time:00:00.09 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:125.06M (Peak 136.66M) | Time:00:00.09 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:125.06M (Peak 136.66M) | Time:00:00.09 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:125.06M (Peak 136.66M) | Time:00:00.09 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:125.06M (Peak 136.66M) | Time:00:00.09 | Mem:56.05M, Peak:56.05M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:125.06M (Peak 136.66M) | Time:00:00.09 | Mem:56.06M, Peak:56.06M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:125.06M (Peak 136.66M) | Time:00:00.09 | Mem:56.06M, Peak:56.06M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:125.06M (Peak 136.66M) | Time:00:00.09 | Mem:56.06M, Peak:56.06M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:125.07M (Peak 136.66M) | Time:00:00.09 | Mem:55.98M, Peak:56.06M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:125.07M (Peak 136.66M) | Time:00:00.09 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:125.07M (Peak 136.66M) | Time:00:00.09 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:125.08M (Peak 136.66M) | Time:00:00.09 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:125.08M (Peak 136.66M) | Time:00:00.09 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Sample 0/20
+Fra:1 Mem:220.91M (Peak 220.91M) | Time:00:00.80 | Remaining:00:13.51 | Mem:151.75M, Peak:151.75M | Scene, ViewLayer | Sample 1/20
+Fra:1 Mem:261.20M (Peak 321.63M) | Time:00:17.22 | Mem:151.75M, Peak:151.75M | Scene, ViewLayer | Sample 20/20
+Fra:1 Mem:261.20M (Peak 321.63M) | Time:00:17.22 | Mem:151.75M, Peak:151.75M | Scene, ViewLayer | Finished
+Saved: '/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v03-light-metal-reflection/02_Left.png'
+Time: 00:17.31 (Saving: 00:00.09)
+
+RENDER_DONE 02_Left
+Fra:1 Mem:95.27M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot
+Fra:1 Mem:95.27M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot.001
+Fra:1 Mem:95.27M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot.002
+Fra:1 Mem:95.28M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cabriole counter foot.003
+Fra:1 Mem:95.28M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | central applied moulding
+Fra:1 Mem:95.34M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein
+Fra:1 Mem:95.35M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus
+Fra:1 Mem:95.38M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.001
+Fra:1 Mem:95.40M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.002
+Fra:1 Mem:95.43M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.003
+Fra:1 Mem:95.45M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.004
+Fra:1 Mem:95.47M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.005
+Fra:1 Mem:95.49M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.006
+Fra:1 Mem:95.52M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.007
+Fra:1 Mem:95.54M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.008
+Fra:1 Mem:95.56M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus fine vein.009
+Fra:1 Mem:95.59M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus.001
+Fra:1 Mem:95.59M (Peak 95.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron acanthus.009
+Fra:1 Mem:95.76M (Peak 95.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron inner tendril.001
+Fra:1 Mem:95.85M (Peak 95.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein
+Fra:1 Mem:95.86M (Peak 95.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan
+Fra:1 Mem:95.88M (Peak 95.88M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.001
+Fra:1 Mem:95.91M (Peak 95.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.002
+Fra:1 Mem:95.94M (Peak 95.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.003
+Fra:1 Mem:95.96M (Peak 95.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.004
+Fra:1 Mem:95.98M (Peak 95.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.005
+Fra:1 Mem:96.01M (Peak 96.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.006
+Fra:1 Mem:96.03M (Peak 96.03M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan fine vein.007
+Fra:1 Mem:96.06M (Peak 96.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan.001
+Fra:1 Mem:96.06M (Peak 96.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate fine vein
+Fra:1 Mem:96.07M (Peak 96.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter apron lower fan.006
+Fra:1 Mem:96.10M (Peak 96.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter bottom ogee
+Fra:1 Mem:96.13M (Peak 96.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter central ivory field
+Fra:1 Mem:96.13M (Peak 96.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate
+Fra:1 Mem:96.27M (Peak 96.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate fine vein.002
+Fra:1 Mem:96.33M (Peak 96.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate fine vein.003
+Fra:1 Mem:96.36M (Peak 96.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter corner foliate.001
+Fra:1 Mem:96.36M (Peak 96.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter main carcass
+Fra:1 Mem:96.38M (Peak 96.38M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief stem
+Fra:1 Mem:96.53M (Peak 96.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief stem.001
+Fra:1 Mem:96.53M (Peak 96.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief foliage.002
+Fra:1 Mem:96.52M (Peak 96.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief foliage.003
+Fra:1 Mem:96.53M (Peak 96.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief heart
+Fra:1 Mem:96.63M (Peak 96.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief volute
+Fra:1 Mem:96.74M (Peak 96.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter relief volute.001
+Fra:1 Mem:96.82M (Peak 96.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving crest
+Fra:1 Mem:96.82M (Peak 96.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.001
+Fra:1 Mem:96.84M (Peak 96.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.004
+Fra:1 Mem:96.85M (Peak 96.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving stem
+Fra:1 Mem:96.86M (Peak 96.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.008
+Fra:1 Mem:96.86M (Peak 96.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.009
+Fra:1 Mem:96.87M (Peak 96.87M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.010
+Fra:1 Mem:96.88M (Peak 96.88M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving foliage.011
+Fra:1 Mem:96.90M (Peak 96.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving heart
+Fra:1 Mem:96.97M (Peak 96.97M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving stem.001
+Fra:1 Mem:97.01M (Peak 97.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving stem.002
+Fra:1 Mem:97.06M (Peak 97.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving stem.003
+Fra:1 Mem:97.09M (Peak 97.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute
+Fra:1 Mem:97.15M (Peak 97.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute.001
+Fra:1 Mem:97.22M (Peak 97.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute.002
+Fra:1 Mem:97.28M (Peak 97.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter shoulder carving volute.003
+Fra:1 Mem:97.35M (Peak 97.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter side panel
+Fra:1 Mem:97.35M (Peak 97.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter side panel.001
+Fra:1 Mem:97.38M (Peak 97.38M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter top pearl moulding
+Fra:1 Mem:97.49M (Peak 97.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | front carved stile
+Fra:1 Mem:97.49M (Peak 97.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | showcase sill
+Fra:1 Mem:97.67M (Peak 97.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | side field trim.001
+Fra:1 Mem:97.71M (Peak 97.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ivory upper drawer band
+Fra:1 Mem:97.74M (Peak 97.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | blush drawer inset
+Fra:1 Mem:97.77M (Peak 97.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer pull
+Fra:1 Mem:97.77M (Peak 97.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer gold hairline.001
+Fra:1 Mem:97.82M (Peak 97.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | blush drawer inset.002
+Fra:1 Mem:97.84M (Peak 97.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | drawer gold hairline.002
+Fra:1 Mem:97.84M (Peak 97.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring stand stem
+Fra:1 Mem:97.84M (Peak 97.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | necklace gold plinth bead
+Fra:1 Mem:97.85M (Peak 97.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring stand crossbar
+Fra:1 Mem:99.17M (Peak 99.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring hook
+Fra:1 Mem:99.46M (Peak 99.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earring hook.001
+Fra:1 Mem:99.45M (Peak 99.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring ivory tray
+Fra:1 Mem:99.46M (Peak 99.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring blush tray lining
+Fra:1 Mem:99.49M (Peak 99.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring tray gold edge.001
+Fra:1 Mem:99.52M (Peak 99.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring raised cushion
+Fra:1 Mem:99.51M (Peak 99.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet ivory tray
+Fra:1 Mem:99.55M (Peak 99.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet velvet surface
+Fra:1 Mem:99.65M (Peak 99.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet gilt tray lip.001
+Fra:1 Mem:99.63M (Peak 99.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet tray rear riser
+Fra:1 Mem:99.65M (Peak 99.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | necklace hidden rear retaining hook
+Fra:1 Mem:99.72M (Peak 99.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain gold tieback
+Fra:1 Mem:99.77M (Peak 99.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain gold tieback.001
+Fra:1 Mem:99.82M (Peak 99.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel cord
+Fra:1 Mem:99.82M (Peak 99.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel
+Fra:1 Mem:99.83M (Peak 99.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel cord.001
+Fra:1 Mem:99.83M (Peak 99.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | curtain tassel.001
+Fra:1 Mem:99.84M (Peak 99.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left backdrop drape lace selvedge
+Fra:1 Mem:100.22M (Peak 100.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.005
+Fra:1 Mem:100.31M (Peak 100.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.006
+Fra:1 Mem:100.32M (Peak 100.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.007
+Fra:1 Mem:100.35M (Peak 100.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.010
+Fra:1 Mem:100.36M (Peak 100.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.011
+Fra:1 Mem:100.36M (Peak 100.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.012
+Fra:1 Mem:100.37M (Peak 100.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.013
+Fra:1 Mem:100.37M (Peak 100.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.014
+Fra:1 Mem:100.38M (Peak 100.38M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.015
+Fra:1 Mem:100.44M (Peak 100.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.017
+Fra:1 Mem:100.65M (Peak 100.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.019
+Fra:1 Mem:100.65M (Peak 100.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.020
+Fra:1 Mem:100.66M (Peak 100.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.022
+Fra:1 Mem:100.66M (Peak 100.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.023
+Fra:1 Mem:100.67M (Peak 100.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.024
+Fra:1 Mem:100.69M (Peak 100.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.025
+Fra:1 Mem:100.70M (Peak 100.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.026
+Fra:1 Mem:100.70M (Peak 100.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.027
+Fra:1 Mem:100.71M (Peak 100.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.028
+Fra:1 Mem:100.71M (Peak 100.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.030
+Fra:1 Mem:100.72M (Peak 100.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.031
+Fra:1 Mem:100.72M (Peak 100.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.032
+Fra:1 Mem:100.73M (Peak 100.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.034
+Fra:1 Mem:100.75M (Peak 100.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.035
+Fra:1 Mem:100.76M (Peak 100.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.036
+Fra:1 Mem:100.77M (Peak 100.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.039
+Fra:1 Mem:100.78M (Peak 100.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.040
+Fra:1 Mem:100.78M (Peak 100.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.041
+Fra:1 Mem:100.79M (Peak 100.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.043
+Fra:1 Mem:100.79M (Peak 100.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.044
+Fra:1 Mem:100.79M (Peak 100.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.045
+Fra:1 Mem:100.80M (Peak 100.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.046
+Fra:1 Mem:100.80M (Peak 100.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror beaded edge.047
+Fra:1 Mem:100.81M (Peak 100.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror console ledge
+Fra:1 Mem:100.81M (Peak 100.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown crest
+Fra:1 Mem:100.82M (Peak 100.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown crest.001
+Fra:1 Mem:100.83M (Peak 100.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus
+Fra:1 Mem:100.86M (Peak 100.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.003
+Fra:1 Mem:100.91M (Peak 100.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.004
+Fra:1 Mem:100.95M (Peak 100.95M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.005
+Fra:1 Mem:100.99M (Peak 100.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.006
+Fra:1 Mem:101.01M (Peak 101.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.007
+Fra:1 Mem:101.04M (Peak 101.04M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.008
+Fra:1 Mem:101.06M (Peak 101.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus fine vein.009
+Fra:1 Mem:101.09M (Peak 101.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.001
+Fra:1 Mem:101.09M (Peak 101.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.009
+Fra:1 Mem:101.12M (Peak 101.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail acanthus.007
+Fra:1 Mem:101.29M (Peak 101.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail inner tendril.001
+Fra:1 Mem:101.35M (Peak 101.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan
+Fra:1 Mem:101.37M (Peak 101.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein
+Fra:1 Mem:101.39M (Peak 101.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.001
+Fra:1 Mem:101.41M (Peak 101.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.002
+Fra:1 Mem:101.43M (Peak 101.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.003
+Fra:1 Mem:101.46M (Peak 101.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.004
+Fra:1 Mem:101.48M (Peak 101.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.005
+Fra:1 Mem:101.50M (Peak 101.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.006
+Fra:1 Mem:101.53M (Peak 101.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan fine vein.007
+Fra:1 Mem:101.55M (Peak 101.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan.001
+Fra:1 Mem:101.56M (Peak 101.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown detail lower fan.005
+Fra:1 Mem:101.57M (Peak 101.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown stem
+Fra:1 Mem:101.61M (Peak 101.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown foliage.003
+Fra:1 Mem:101.66M (Peak 101.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown foliage.005
+Fra:1 Mem:101.68M (Peak 101.68M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown heart
+Fra:1 Mem:101.70M (Peak 101.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown volute
+Fra:1 Mem:101.85M (Peak 101.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror crown volute.001
+Fra:1 Mem:101.92M (Peak 101.92M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror foliage
+Fra:1 Mem:101.93M (Peak 101.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror foliage.005
+Fra:1 Mem:102.11M (Peak 102.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror layered frame.001
+Fra:1 Mem:102.30M (Peak 102.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror layered frame.002
+Fra:1 Mem:102.45M (Peak 102.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mirror layered frame.003
+Fra:1 Mem:102.59M (Peak 102.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | oval mirror glass
+Fra:1 Mem:102.60M (Peak 102.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right backdrop drape
+Fra:1 Mem:103.07M (Peak 103.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | background cabinet silhouette
+Fra:1 Mem:103.41M (Peak 103.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | quiet background panel.001
+Fra:1 Mem:103.42M (Peak 103.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | background cabinet silhouette.001
+Fra:1 Mem:103.52M (Peak 103.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses eucalyptus
+Fra:1 Mem:103.53M (Peak 103.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses rose heart.001
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.001
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.002
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.003
+Fra:1 Mem:103.78M (Peak 103.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.004
+Fra:1 Mem:103.79M (Peak 103.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.005
+Fra:1 Mem:103.79M (Peak 103.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses stem.006
+Fra:1 Mem:103.79M (Peak 103.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | counter small roses urn
+Fra:1 Mem:103.80M (Peak 103.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | silk ribbon band
+Fra:1 Mem:103.86M (Peak 103.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ribbon bow.001
+Fra:1 Mem:103.96M (Peak 103.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | small closed blush jewelry box.001
+Fra:1 Mem:103.99M (Peak 103.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ivory box lid.001
+Fra:1 Mem:104.04M (Peak 104.04M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ribbon bow.003
+Fra:1 Mem:104.06M (Peak 104.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | earrings_left_earring_M01_925Silver_appearance
+Fra:1 Mem:104.09M (Peak 104.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ring_body_M02_PinkStone_optics_PENDING
+Fra:1 Mem:104.10M (Peak 104.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | bracelet_body_M02_ColorlessCZ_EST
+Fra:1 Mem:109.50M (Peak 109.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 01_HeartCarrier_RoundedBack_UpwardTaper_EST
+Fra:1 Mem:111.44M (Peak 111.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 02_RaisedPinkHeart_Cut_PENDING
+Fra:1 Mem:111.44M (Peak 111.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_01
+Fra:1 Mem:115.79M (Peak 115.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_02
+Fra:1 Mem:117.10M (Peak 117.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_04
+Fra:1 Mem:117.28M (Peak 117.28M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_06
+Fra:1 Mem:117.64M (Peak 117.64M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_07
+Fra:1 Mem:118.46M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | top soft reflection
+Fra:1 Mem:116.20M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | soft front fill
+Fra:1 Mem:116.45M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | warm backdrop wash
+Fra:1 Mem:116.40M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | neutral reflection strip
+Fra:1 Mem:116.41M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_08
+Fra:1 Mem:117.38M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | neutral jewelry softbox
+Fra:1 Mem:117.73M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | studio floor
+Fra:1 Mem:118.28M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_3
+Fra:1 Mem:117.14M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_2
+Fra:1 Mem:117.15M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_1
+Fra:1 Mem:117.15M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmProng_0
+Fra:1 Mem:118.10M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharm_LightStone
+Fra:1 Mem:118.11M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_09
+Fra:1 Mem:118.14M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_10
+Fra:1 Mem:118.78M (Peak 118.82M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_11
+Fra:1 Mem:119.78M (Peak 119.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_12
+Fra:1 Mem:121.08M (Peak 121.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_13
+Fra:1 Mem:121.43M (Peak 121.43M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_14
+Fra:1 Mem:122.25M (Peak 122.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_16
+Fra:1 Mem:124.11M (Peak 124.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_17
+Fra:1 Mem:126.61M (Peak 126.61M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_18
+Fra:1 Mem:126.63M (Peak 126.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_19
+Fra:1 Mem:126.49M (Peak 126.63M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspCharmJumpRing
+Fra:1 Mem:127.44M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_20
+Fra:1 Mem:127.03M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ConnectorTag_WithHoles
+Fra:1 Mem:126.76M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterLeftEye
+Fra:1 Mem:122.42M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterClasp_Lever
+Fra:1 Mem:123.10M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterClasp_ClosedGate
+Fra:1 Mem:122.96M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_LobsterClasp_Body
+Fra:1 Mem:121.36M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspEndRing_R
+Fra:1 Mem:121.39M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspTagJoinRing
+Fra:1 Mem:121.41M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ClaspEndRing_L
+Fra:1 Mem:121.43M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_AdjustmentRing_R_097
+Fra:1 Mem:123.75M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ChainLink_R_000
+Fra:1 Mem:123.77M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ChainLink_L_000
+Fra:1 Mem:123.79M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SideMount_-1
+Fra:1 Mem:123.81M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProngCap_3
+Fra:1 Mem:123.83M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProng_3
+Fra:1 Mem:123.84M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProngCap_2
+Fra:1 Mem:123.86M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProng_2
+Fra:1 Mem:123.88M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProngCap_1
+Fra:1 Mem:123.89M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_MainProng_1
+Fra:1 Mem:123.91M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_28
+Fra:1 Mem:123.92M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_27
+Fra:1 Mem:123.94M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_26
+Fra:1 Mem:123.96M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_25
+Fra:1 Mem:123.98M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_24
+Fra:1 Mem:123.99M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_23
+Fra:1 Mem:124.01M (Peak 127.44M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_SilverRimBead_22
+Fra:1 Mem:120.02M (Peak 136.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:109.45M (Peak 136.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading oyster_damask_basecolor
+Fra:1 Mem:109.45M (Peak 136.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading floral_lace_rgba
+Fra:1 Mem:109.45M (Peak 136.40M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Images | Loading woven_fabric_normal
+Fra:1 Mem:101.54M (Peak 136.40M) | Time:00:00.05 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:101.54M (Peak 136.40M) | Time:00:00.05 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:101.54M (Peak 136.40M) | Time:00:00.05 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:101.54M (Peak 136.40M) | Time:00:00.05 | Mem:8.00M, Peak:8.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:101.64M (Peak 136.40M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:101.64M (Peak 136.40M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:101.64M (Peak 136.40M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:101.64M (Peak 136.40M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:101.64M (Peak 136.40M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:101.64M (Peak 136.40M) | Time:00:00.05 | Mem:8.02M, Peak:8.02M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:101.82M (Peak 136.40M) | Time:00:00.05 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:101.82M (Peak 136.40M) | Time:00:00.05 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:101.82M (Peak 136.40M) | Time:00:00.05 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:104.60M (Peak 136.40M) | Time:00:00.06 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:104.60M (Peak 136.40M) | Time:00:00.06 | Mem:8.19M, Peak:8.19M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:111.44M (Peak 136.40M) | Time:00:00.06 | Mem:8.23M, Peak:8.23M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:111.35M (Peak 136.40M) | Time:00:00.06 | Mem:14.95M, Peak:14.95M | Scene, ViewLayer | Updating Geometry BVH PENDING_LinkTemplate_R_mesh 10/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.40M) | Time:00:00.06 | Mem:14.96M, Peak:14.96M | Scene, ViewLayer | Updating Geometry BVH PENDING_LinkTemplate_R_mesh 10/9 | Building BVH 0%
+Fra:1 Mem:111.35M (Peak 136.40M) | Time:00:00.06 | Mem:14.96M, Peak:14.96M | Scene, ViewLayer | Updating Geometry BVH shared 04 | satin champagne brass(16, 10) 2/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.40M) | Time:00:00.06 | Mem:14.98M, Peak:14.98M | Scene, ViewLayer | Updating Geometry BVH shared 02 | ivory carved edges(8, 6) 3/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.40M) | Time:00:00.06 | Mem:14.99M, Peak:14.99M | Scene, ViewLayer | Updating Geometry BVH shared 05 | champagne polished accents(16, 10).001 4/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.40M) | Time:00:00.06 | Mem:15.00M, Peak:15.01M | Scene, ViewLayer | Updating Geometry BVH PENDING_LinkTemplate_L_mesh 9/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.40M) | Time:00:00.07 | Mem:15.08M, Peak:15.10M | Scene, ViewLayer | Updating Geometry BVH mount_template_mesh 8/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.40M) | Time:00:00.07 | Mem:15.13M, Peak:15.13M | Scene, ViewLayer | Updating Geometry BVH shared 18 | pale blush petals(12, 8) 7/9 | Building BVH
+Fra:1 Mem:111.35M (Peak 136.40M) | Time:00:00.07 | Mem:15.17M, Peak:15.18M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:111.36M (Peak 136.40M) | Time:00:00.07 | Mem:15.17M, Peak:15.18M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:111.36M (Peak 136.40M) | Time:00:00.08 | Mem:42.27M, Peak:55.19M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:111.36M (Peak 136.40M) | Time:00:00.08 | Mem:42.27M, Peak:55.19M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:125.05M (Peak 136.40M) | Time:00:00.08 | Mem:42.27M, Peak:55.19M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:125.05M (Peak 136.40M) | Time:00:00.08 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:125.05M (Peak 136.40M) | Time:00:00.08 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:125.06M (Peak 136.40M) | Time:00:00.08 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:125.06M (Peak 136.40M) | Time:00:00.08 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:125.06M (Peak 136.40M) | Time:00:00.08 | Mem:55.97M, Peak:55.97M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:125.06M (Peak 136.40M) | Time:00:00.08 | Mem:56.05M, Peak:56.05M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:125.06M (Peak 136.40M) | Time:00:00.08 | Mem:56.06M, Peak:56.06M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:125.06M (Peak 136.40M) | Time:00:00.08 | Mem:56.06M, Peak:56.06M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:125.06M (Peak 136.40M) | Time:00:00.08 | Mem:56.06M, Peak:56.06M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:125.07M (Peak 136.40M) | Time:00:00.08 | Mem:55.98M, Peak:56.06M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:125.07M (Peak 136.40M) | Time:00:00.08 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:125.07M (Peak 136.40M) | Time:00:00.08 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:125.08M (Peak 136.40M) | Time:00:00.08 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:125.08M (Peak 136.40M) | Time:00:00.08 | Mem:56.07M, Peak:56.07M | Scene, ViewLayer | Sample 0/20
+Fra:1 Mem:220.91M (Peak 220.91M) | Time:00:00.83 | Remaining:00:14.13 | Mem:151.75M, Peak:151.75M | Scene, ViewLayer | Sample 1/20
+Fra:1 Mem:261.20M (Peak 321.63M) | Time:00:17.15 | Mem:151.75M, Peak:151.75M | Scene, ViewLayer | Sample 20/20
+Fra:1 Mem:261.20M (Peak 321.63M) | Time:00:17.15 | Mem:151.75M, Peak:151.75M | Scene, ViewLayer | Finished
+Saved: '/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v03-light-metal-reflection/03_Right.png'
+Time: 00:17.24 (Saving: 00:00.08)
+
+RENDER_DONE 03_Right
+
+Blender quit

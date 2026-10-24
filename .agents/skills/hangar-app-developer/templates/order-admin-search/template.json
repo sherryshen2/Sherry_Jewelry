@@ -1,0 +1,13 @@
+{
+  "id": "order-admin-search",
+  "name": "Order Admin search",
+  "description": "Browse and filter Order Admin orders with target-specific Connector access.",
+  "tags": [
+    "Orders",
+    "Integrations",
+    "Search",
+    "Python"
+  ],
+  "setup_fields": [],
+  "instructions": "This is a read-only Order Admin search app. Use the order_admin HangarKit integration from the backend, never direct browser requests or exposed credentials. Keep Order Admin in App User mode (auth_mode: user): each signed-in app user grants Connector access and uses their own Order Admin website session and Relay. Do not switch to App Owner mode unless the user explicitly requests it. The grant at entry is separate from target-specific website access. Keep the environment/region check and Relay recovery scoped to the search workflow. Blank search lists the latest orders, and every filter must map to the documented query-order-list-with-filters operation. Preserve 64-bit IDs as strings in browser responses; do not invent orders or payment IDs. Verify a real operation after ensure_access reports ready."
+}

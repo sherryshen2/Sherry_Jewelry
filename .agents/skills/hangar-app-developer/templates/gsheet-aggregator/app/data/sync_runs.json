@@ -1,0 +1,37 @@
+{
+  "schema": [
+    {
+      "name": "source_id",
+      "type": "text"
+    },
+    {
+      "name": "started_at",
+      "type": "date"
+    },
+    {
+      "name": "completed_at",
+      "type": "date"
+    },
+    {
+      "name": "status",
+      "type": "text"
+    },
+    {
+      "name": "rows_read",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "rows_saved",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "error",
+      "type": "text"
+    }
+  ],
+  "records": [],
+  "icon": "mdi:sync",
+  "scope": "app"
+}

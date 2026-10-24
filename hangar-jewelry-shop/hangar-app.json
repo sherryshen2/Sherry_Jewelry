@@ -1,0 +1,12 @@
+{
+  "name": "Jewelry Shop Studio",
+  "slug": "jewelry-shop-studio",
+  "settings": {
+    "project_title": "Jewelry Shop Studio",
+    "tags": ["Jewelry", "Inventory", "Studio"],
+    "app_icon": "mdi:diamond-stone",
+    "visibility": "private"
+  },
+  "content": [],
+  "design": []
+}

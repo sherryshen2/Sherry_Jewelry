@@ -1,0 +1,175 @@
+{
+  "version": "v03 brighter gold / rose, illuminated warm practicals",
+  "materials": [
+    {
+      "name": "04 | satin champagne brass",
+      "linear_rgb": [
+        0.85,
+        0.53,
+        0.17
+      ],
+      "metallic": 0.8,
+      "roughness": 0.24
+    },
+    {
+      "name": "05 | champagne polished accents",
+      "linear_rgb": [
+        0.95,
+        0.68,
+        0.26
+      ],
+      "metallic": 0.87,
+      "roughness": 0.2
+    },
+    {
+      "name": "07 | dusty blush silk",
+      "linear_rgb": [
+        0.78,
+        0.36,
+        0.43
+      ],
+      "metallic": 0,
+      "roughness": 0.53
+    },
+    {
+      "name": "10 | rose velvet lining",
+      "linear_rgb": [
+        0.53,
+        0.24,
+        0.3
+      ],
+      "metallic": 0,
+      "roughness": 0.82
+    },
+    {
+      "name": "13 | rose quartz faceted accents",
+      "linear_rgb": [
+        0.78,
+        0.3,
+        0.4
+      ],
+      "metallic": 0.18,
+      "roughness": 0.15
+    },
+    {
+      "name": "18 | pale blush petals",
+      "linear_rgb": [
+        0.84,
+        0.43,
+        0.48
+      ],
+      "metallic": 0,
+      "roughness": 0.68
+    }
+  ],
+  "lights": [
+    {
+      "name": "large soft key",
+      "watts": 580.0,
+      "color_linear": [
+        1.0,
+        0.9399999976158142,
+        0.8600000143051147
+      ]
+    },
+    {
+      "name": "cool front fill",
+      "watts": 190.0,
+      "color_linear": [
+        0.8600000143051147,
+        0.9100000262260437,
+        1.0
+      ]
+    },
+    {
+      "name": "overhead silk light",
+      "watts": 200.0,
+      "color_linear": [
+        1.0,
+        0.9100000262260437,
+        0.8100000023841858
+      ]
+    },
+    {
+      "name": "front jewelry highlight",
+      "watts": 40.0,
+      "color_linear": [
+        1.0,
+        0.949999988079071,
+        0.8700000047683716
+      ]
+    },
+    {
+      "name": "chandelier practical",
+      "watts": 65.0,
+      "color_linear": [
+        1.0,
+        0.6800000071525574,
+        0.36000001430511475
+      ]
+    },
+    {
+      "name": "cabinet warm practical",
+      "watts": 20.0,
+      "color_linear": [
+        1.0,
+        0.7200000286102295,
+        0.4000000059604645
+      ]
+    },
+    {
+      "name": "cabinet warm practical.001",
+      "watts": 20.0,
+      "color_linear": [
+        1.0,
+        0.7200000286102295,
+        0.4000000059604645
+      ]
+    },
+    {
+      "name": "warm shelf wash",
+      "watts": 4.0,
+      "color_linear": [
+        1.0,
+        0.7099999785423279,
+        0.38999998569488525
+      ]
+    },
+    {
+      "name": "warm shelf wash.001",
+      "watts": 4.0,
+      "color_linear": [
+        1.0,
+        0.7099999785423279,
+        0.38999998569488525
+      ]
+    },
+    {
+      "name": "warm shelf wash.002",
+      "watts": 4.0,
+      "color_linear": [
+        1.0,
+        0.7099999785423279,
+        0.38999998569488525
+      ]
+    },
+    {
+      "name": "warm shelf wash.003",
+      "watts": 4.0,
+      "color_linear": [
+        1.0,
+        0.7099999785423279,
+        0.38999998569488525
+      ]
+    },
+    {
+      "name": "central counter warm wash",
+      "watts": 5.0,
+      "color_linear": [
+        1.0,
+        0.7099999785423279,
+        0.38999998569488525
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+10:23:19 | INFO: Data are loaded, start creating Blender stuff
+10:23:19 | INFO: Blender create Mesh node layered plinth lower.001
+10:23:20 | INFO: Blender create Mesh node plinth upper bullnose.001
+10:23:20 | INFO: Blender create Mesh node floor substrate.001
+10:23:20 | INFO: Blender create Mesh node plinth gold hairline.001
+10:23:20 | INFO: Blender create Mesh node shared 05 | champagne polished accents(16, 10).001
+10:23:20 | INFO: Blender create Mesh node back wall.001
+10:23:20 | INFO: Blender create Mesh node counter jewelry box base.001
+10:23:20 | INFO: Blender create Mesh node front left swag.001
+10:23:20 | INFO: Blender create Mesh node front left swag lace seam
+10:23:20 | INFO: Blender create Mesh node velvet display shelf.001
+10:23:20 | INFO: Blender create Mesh node hero pearl necklace bust.001
+10:23:20 | INFO: Blender create Mesh node shared 12 | soft ivory pearls(12, 8).001
+10:23:20 | INFO: Blender create Mesh node shared 13 | rose quartz faceted accents(8, 4).001
+10:23:20 | INFO: Blender create Mesh node front glass single layer.001
+10:23:20 | INFO: Blender create Mesh node arm crystal pendant.006
+10:23:20 | INFO: Blender create Mesh node shared 16 | softened silver mirror(64, 32).001
+10:23:20 | INFO: Blender create Mesh node counter small roses stem
+10:23:20 | INFO: Blender create Mesh node shared 18 | pale blush petals(12, 8).001
+10:23:20 | INFO: Blender create Mesh node shared 19 | buttercream petals(12, 8).001
+10:23:20 | INFO: Blender create Mesh node undershelf warm line.006
+10:23:20 | INFO: Blender create Mesh node chevron parquet.154
+10:23:20 | INFO: Blender create Mesh node chevron parquet.147
+10:23:20 | INFO: Blender create Mesh node chevron parquet.160
+10:23:20 | INFO: Blender create Mesh node chevron parquet.144
+10:23:20 | INFO: Blender create Mesh node chevron parquet.146
+10:23:20 | INFO: Blender create Mesh node chevron parquet.143
+10:23:20 | INFO: Blender create Mesh node chevron parquet.145
+10:23:20 | INFO: glTF import finished in 0.92s
+REIMPORT_OK {"import_success": true, "triangles": 290809, "mesh_objects": 27, "materials": 27, "images": [{"name": "floral_lace_rgba", "size": [1024, 256], "loaded": true}, {"name": "lacquer_normal", "size": [512, 512], "loaded": true}, {"name": "lacquer_roughness", "size": [512, 512], "loaded": true}, {"name": "mirror_reflection_capture", "size": [512, 704], "loaded": true}, {"name": "oyster_damask_basecolor", "size": [512, 512], "loaded": true}, {"name": "paint_01_basecolor", "size": [512, 512], "loaded": true}, {"name": "paint_02_basecolor", "size": [512, 512], "loaded": true}, {"name": "paint_03_basecolor", "size": [512, 512], "loaded": true}, {"name": "woven_fabric_normal", "size": [512, 512], "loaded": true}], "triangle_count_preserved": true}
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+
+Blender quit

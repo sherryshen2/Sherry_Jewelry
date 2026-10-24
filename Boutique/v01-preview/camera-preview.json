@@ -1,0 +1,46 @@
+{
+  "stage": "preview_awaiting_approval",
+  "coordinate_system_blender": "Z up; front -Y",
+  "coordinate_system_glb": "Y up; front +Z",
+  "camera_type": "orthographic",
+  "orthographic_vertical_size": 7.05,
+  "target_blender": [
+    0.0,
+    1.100000023841858,
+    2.8499999046325684
+  ],
+  "target_glb": [
+    0.0,
+    2.8499999046325684,
+    -1.100000023841858
+  ],
+  "default_camera_blender": [
+    0.0,
+    -15.899999618530273,
+    5.239999771118164
+  ],
+  "default_camera_glb": [
+    0.0,
+    5.239999771118164,
+    15.899999618530273
+  ],
+  "elevation_degrees": 8.002663232666192,
+  "orbit_azimuth_limit_degrees": [
+    -15,
+    15
+  ],
+  "preview_azimuths_degrees": [
+    0,
+    -13,
+    13
+  ],
+  "resolution": [
+    1200,
+    1200
+  ],
+  "color_management": {
+    "view": "AgX",
+    "look": "Medium High Contrast",
+    "exposure": 0.0
+  }
+}

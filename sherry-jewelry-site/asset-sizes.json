@@ -1,0 +1,52 @@
+[
+  {
+    "name": "J001-detail.glb",
+    "before": 4603628,
+    "after": 1021708
+  },
+  {
+    "name": "J002-detail.glb",
+    "before": 1589732,
+    "after": 438740
+  },
+  {
+    "name": "J003-detail.glb",
+    "before": 1566876,
+    "after": 501536
+  },
+  {
+    "name": "J004-detail.glb",
+    "before": 4197536,
+    "after": 1115024
+  },
+  {
+    "name": "boutique.glb",
+    "before": 12509788,
+    "after": 4793116
+  },
+  {
+    "name": "bracelet.glb",
+    "before": 4148552,
+    "after": 1077808
+  },
+  {
+    "name": "display.glb",
+    "before": 5119180,
+    "after": 1703404
+  },
+  {
+    "name": "earrings.glb",
+    "before": 1333008,
+    "after": 450448
+  },
+  {
+    "name": "necklace.glb",
+    "before": 3940876,
+    "after": 1011652
+  },
+  {
+    "name": "ring.glb",
+    "before": 1562656,
+    "after": 497356
+  }
+]

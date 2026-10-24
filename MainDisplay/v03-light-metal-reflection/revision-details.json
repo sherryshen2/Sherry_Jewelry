@@ -1,0 +1,678 @@
+{
+  "version": "v03",
+  "mirror_alignment": {
+    "background_center_x_m": -0.009499997831881046,
+    "previous_mirror_center_x_m": 0.010000001639127731,
+    "mirror_shift_x_m": -0.019499999471008778,
+    "new_mirror_center_x_m": -0.009499997831881046
+  },
+  "pendant_center_world_m": [
+    -0.052000001072883606,
+    0.0027692283038049936,
+    0.21899999678134918
+  ],
+  "bust_height_range_m": [
+    0.131,
+    0.307
+  ],
+  "bust_max_width_m": 0.128,
+  "bust_max_depth_m": 0.034,
+  "necklace_paths": {
+    "L": {
+      "links": 110,
+      "centerline_mm": 186.00001065429166,
+      "original_centerline_mm": 186.0000024821755,
+      "back_fold_low_z_mm": 245.37063390016473
+    },
+    "R": {
+      "links": 110,
+      "centerline_mm": 186.0000102998513,
+      "original_centerline_mm": 186.00000248217606,
+      "back_fold_low_z_mm": 245.37063390016473
+    }
+  },
+  "necklace_neck_clearance_per_side_m": 0.01,
+  "necklace_neck_clearance_total_m": 0.02,
+  "necklace_neck_edge_reference_z_m": 0.296,
+  "necklace_shoulder_entry_z_m": 0.28,
+  "necklace_clearance_measurement": "Horizontal gap from neck side to front shoulder entry, excluding wire radius",
+  "necklace_upper_span_m": 0.065,
+  "background_changes": [
+    {
+      "name": "curtain gold tieback",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "curtain gold tieback.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "curtain tassel",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "curtain tassel cord",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "curtain tassel cord.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "curtain tassel.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "left backdrop drape",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "left backdrop drape lace selvedge",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.002",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.003",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.004",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.005",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.006",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.007",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.008",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.009",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.010",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.011",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.012",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.013",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.014",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.015",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.016",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.017",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.018",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.019",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.020",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.021",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.022",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.023",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.024",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.025",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.026",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.027",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.028",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.029",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.030",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.031",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.032",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.033",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.034",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.035",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.036",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.037",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.038",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.039",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.040",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.041",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.042",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.043",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.044",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.045",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.046",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror beaded edge.047",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror console ledge",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown crest",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown crest.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus fine vein",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus fine vein.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus fine vein.002",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus fine vein.003",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus fine vein.004",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus fine vein.005",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus fine vein.006",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus fine vein.007",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus fine vein.008",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus fine vein.009",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus.002",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus.003",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus.004",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus.005",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus.006",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus.007",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus.008",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail acanthus.009",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail inner tendril",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail inner tendril.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan fine vein",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan fine vein.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan fine vein.002",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan fine vein.003",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan fine vein.004",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan fine vein.005",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan fine vein.006",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan fine vein.007",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan.002",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan.003",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan.004",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan.005",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan.006",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown detail lower fan.007",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown foliage",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown foliage.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown foliage.002",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown foliage.003",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown foliage.004",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown foliage.005",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown heart",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown stem",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown stem.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown volute",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror crown volute.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror foliage",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror foliage.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror foliage.002",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror foliage.003",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror foliage.004",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror foliage.005",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror layered frame",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror layered frame.001",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror layered frame.002",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "mirror layered frame.003",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "oval mirror glass",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "right backdrop drape",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "right backdrop drape lace selvedge",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "soft oyster backdrop",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0
+    },
+    {
+      "name": "rear dado",
+      "width_height_factor": 1.95,
+      "vertical_lift_m": 0
+    },
+    {
+      "name": "background cabinet silhouette",
+      "width_height_factor": 1.6,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "quiet background panel",
+      "width_height_factor": 1.6,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "background cabinet silhouette.001",
+      "width_height_factor": 1.6,
+      "vertical_lift_m": 0.03
+    },
+    {
+      "name": "quiet background panel.001",
+      "width_height_factor": 1.6,
+      "vertical_lift_m": 0.03
+    }
+  ],
+  "other_product_anchors_preserved": true
+}

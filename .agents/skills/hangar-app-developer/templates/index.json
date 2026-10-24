@@ -1,0 +1,92 @@
+[
+  {
+    "id": "simple-frontend-page",
+    "name": "Simple frontend page",
+    "description": "A minimal 1-page frontend starter with no custom backend behavior."
+  },
+  {
+    "id": "craft-starter",
+    "name": "Craft starter",
+    "description": "A blank Hangar starter with a clean folder structure, one frontend page, and one backend health route."
+  },
+  {
+    "id": "data-dashboard",
+    "name": "Data dashboard",
+    "description": "A schema-agnostic dashboard that combines CSV, Google Sheets, and Datasuite API data."
+  },
+  {
+    "id": "smart-workflow-runner",
+    "name": "SMART workflow runner",
+    "description": "Run one deployed SMART workflow, review each task, and track execution metrics."
+  },
+  {
+    "id": "project-update-email",
+    "name": "Project update email",
+    "description": "Send stakeholder-ready Jira epic update emails with a snapshot of what changed since the last run."
+  },
+  {
+    "id": "seatalk-bot",
+    "name": "SeaTalk bot",
+    "description": "A private SeaTalk assistant you can connect, tune, and watch from one simple dashboard."
+  },
+  {
+    "id": "integration-lab",
+    "name": "Integration lab",
+    "description": "A private workspace for trying connected tools and seeing what each one can do."
+  },
+  {
+    "id": "order-admin-search",
+    "name": "Order Admin search",
+    "description": "Browse and filter Order Admin orders with target-specific Connector access."
+  },
+  {
+    "id": "live-poll",
+    "name": "Live poll",
+    "description": "Run a quick poll with options, vote counts, and reporting/export hooks."
+  },
+  {
+    "id": "release-verification",
+    "name": "Release verification",
+    "description": "Select or create a release and update canary, logs, and released Grafana screenshot proof."
+  },
+  {
+    "id": "project-gantt",
+    "name": "Project Gantt",
+    "description": "Plan milestones, phases, dependencies, and delivery dates with project integration hooks."
+  },
+  {
+    "id": "new-employee-onboarding",
+    "name": "New employee onboarding app",
+    "description": "A welcoming checklist that helps new teammates get settled, meet people, and track their progress."
+  },
+  {
+    "id": "gsheet-aggregator",
+    "name": "Google Sheets aggregator",
+    "description": "Pull Google Sheets rows into Hangar app data and show a chart-ready dashboard."
+  },
+  {
+    "id": "personal-dashboard",
+    "name": "Personal dashboard",
+    "description": "A private home base for your priorities, notes, favorite links, and daily highlights."
+  },
+  {
+    "id": "canvas",
+    "name": "Canvas workspace",
+    "description": "A flexible notes, links, checklist, and research board with document integration hooks."
+  },
+  {
+    "id": "event-rsvp",
+    "name": "Event RSVP",
+    "description": "Collect guest responses, track attendance status, and prepare calendar/sheet exports."
+  },
+  {
+    "id": "kanban-board",
+    "name": "Kanban board",
+    "description": "Plan work across lanes with priorities, due dates, and delivery integration hooks."
+  },
+  {
+    "id": "ticket-tracker",
+    "name": "Ticket tracker",
+    "description": "Manage support requests, priorities, assignees, and Jira/mail/runbook integration hooks."
+  }
+]

@@ -1,0 +1,152 @@
+{
+  "units": "metres",
+  "target_glb": [
+    0,
+    0.177,
+    -0.015
+  ],
+  "orthographic_vertical_size": 0.3804166666666667,
+  "yaw_limits_degrees": [
+    -15,
+    15
+  ],
+  "preview_yaws": [
+    0,
+    -12,
+    12
+  ],
+  "elevation_degrees": 19,
+  "depth_of_field": false,
+  "blender_lights": [
+    {
+      "name": "neutral jewelry softbox",
+      "position": [
+        -0.2800000011920929,
+        -0.3799999952316284,
+        0.4699999988079071
+      ],
+      "energy_watts": 2.299999952316284,
+      "size": 0.3400000035762787,
+      "color": [
+        1.0,
+        0.9700000286102295,
+        0.9399999976158142
+      ]
+    },
+    {
+      "name": "neutral reflection strip",
+      "position": [
+        0.27000001072883606,
+        -0.18000000715255737,
+        0.3400000035762787
+      ],
+      "energy_watts": 1.100000023841858,
+      "size": 0.25999999046325684,
+      "color": [
+        0.9300000071525574,
+        0.9599999785423279,
+        1.0
+      ]
+    },
+    {
+      "name": "warm backdrop wash",
+      "position": [
+        0.0,
+        0.10000000149011612,
+        0.38999998569488525
+      ],
+      "energy_watts": 0.699999988079071,
+      "size": 0.18000000715255737,
+      "color": [
+        1.0,
+        0.7699999809265137,
+        0.550000011920929
+      ]
+    },
+    {
+      "name": "soft front fill",
+      "position": [
+        0.0,
+        -0.41999998688697815,
+        0.23999999463558197
+      ],
+      "energy_watts": 0.30000001192092896,
+      "size": 0.30000001192092896,
+      "color": [
+        1.0,
+        0.9800000190734863,
+        0.949999988079071
+      ]
+    },
+    {
+      "name": "top soft reflection",
+      "position": [
+        0.0,
+        0.019999999552965164,
+        0.550000011920929
+      ],
+      "energy_watts": 0.800000011920929,
+      "size": 0.30000001192092896,
+      "color": [
+        1.0,
+        0.9599999785423279,
+        0.9100000262260437
+      ]
+    }
+  ],
+  "web_note": "Use neutral PMREM reflection, warm backdrop fill, soft directional shadows. Do not tint product materials. See viewer for executable settings.",
+  "web": {
+    "tone_mapping": "ACESFilmic",
+    "exposure": 1.05,
+    "environment_intensity": 0.8,
+    "lights": [
+      {
+        "type": "Directional",
+        "color": "#fffaf4",
+        "intensity": 2,
+        "position": [
+          -0.28,
+          0.47,
+          0.38
+        ],
+        "shadow": true
+      },
+      {
+        "type": "Directional",
+        "color": "#f0f4ff",
+        "intensity": 0.95,
+        "position": [
+          0.3,
+          0.32,
+          0.18
+        ]
+      },
+      {
+        "type": "Directional",
+        "color": "#ffd4aa",
+        "intensity": 0.65,
+        "position": [
+          0.02,
+          0.4,
+          -0.12
+        ]
+      },
+      {
+        "type": "Hemisphere",
+        "sky": "#f0f4ff",
+        "ground": "#c5b49f",
+        "intensity": 0.8
+      }
+    ],
+    "shadows": {
+      "type": "VSM",
+      "resolution": 2048,
+      "blur_samples": 8,
+      "radius": 6,
+      "bias": -1e-05,
+      "normal_bias": 0.0002,
+      "background_cast_receive": false
+    },
+    "render_loop": "on demand; render again after moving any product or camera"
+  }
+}

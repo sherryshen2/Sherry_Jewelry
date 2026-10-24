@@ -1,0 +1,349 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "58bd1547588b539836383e33724cc15e",
+      "name": "Title",
+      "type": "text",
+      "value": "Support Tickets",
+      "description": "Page title"
+    },
+    {
+      "id": "ba68fb2d15ad186f73829d865105ea6d",
+      "name": "Tickets Label",
+      "type": "text",
+      "value": "tickets",
+      "description": "Label after count"
+    },
+    {
+      "id": "9624fa3304d1d58eb1cf63beaa36c14b",
+      "name": "Search Placeholder",
+      "type": "text",
+      "value": "Search tickets...",
+      "description": "Search placeholder"
+    },
+    {
+      "id": "fcda8b68167c48ea9738c198664b14fc",
+      "name": "All Statuses",
+      "type": "text",
+      "value": "All Statuses",
+      "description": "Status filter default"
+    },
+    {
+      "id": "cbe4de9db254bc7b80fe523be0c90d5d",
+      "name": "All Priorities",
+      "type": "text",
+      "value": "All Priorities",
+      "description": "Priority filter default"
+    },
+    {
+      "id": "08ea064671cfd353586806334b71403c",
+      "name": "Empty State",
+      "type": "text",
+      "value": "No tickets yet",
+      "description": "Empty state text"
+    },
+    {
+      "id": "09717a4dbbfbe2f51235483a61a834d8",
+      "name": "No Results",
+      "type": "text",
+      "value": "No matching tickets found",
+      "description": "Search no results"
+    },
+    {
+      "id": "88be6b4217b552b4e5ddefc00d124466",
+      "name": "Back Text",
+      "type": "text",
+      "value": "Back",
+      "description": "Back button text"
+    },
+    {
+      "id": "18e25cfaed048adb15df4711bd3942b1",
+      "name": "Thread Title",
+      "type": "text",
+      "value": "Conversation",
+      "description": "Thread section title"
+    },
+    {
+      "id": "80179732f0b867632804ca141d8feb67",
+      "name": "No Messages",
+      "type": "text",
+      "value": "No messages yet",
+      "description": "Empty thread text"
+    },
+    {
+      "id": "2797b82a3b4700e8c9bf903252a6eb91",
+      "name": "Reply Placeholder",
+      "type": "text",
+      "value": "Type your reply...",
+      "description": "Reply input placeholder"
+    },
+    {
+      "id": "55d5e1893231556c1bb231f1a7d6a9d9",
+      "name": "Send Reply",
+      "type": "text",
+      "value": "Send Reply",
+      "description": "Send button text"
+    },
+    {
+      "id": "75a93d60d2c4ba0def981723a9039bcc",
+      "name": "Internal Note",
+      "type": "text",
+      "value": "Internal",
+      "description": "Internal note badge"
+    },
+    {
+      "id": "399ac8f7f0a3831321b1b08465bda2d7",
+      "name": "Status Label",
+      "type": "text",
+      "value": "Status",
+      "description": "Status field label"
+    },
+    {
+      "id": "a9a4d5ce22934ed026e2662a6c64fe45",
+      "name": "Priority Label",
+      "type": "text",
+      "value": "Priority",
+      "description": "Priority field label"
+    },
+    {
+      "id": "3201d720e67a132f4b32aba41201fbad",
+      "name": "Assignee Label",
+      "type": "text",
+      "value": "Assignee",
+      "description": "Assignee field label"
+    },
+    {
+      "id": "f6d7beff447a09b9fa90be17f2da08fa",
+      "name": "Unassigned",
+      "type": "text",
+      "value": "Unassigned",
+      "description": "Unassigned option"
+    },
+    {
+      "id": "08031e4d8b197542c3d94115c0856883",
+      "name": "Requester Label",
+      "type": "text",
+      "value": "Requester",
+      "description": "Requester section label"
+    },
+    {
+      "id": "ef8a76404a92c722a5ec33dda4c5ceb3",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "eyebrow": "Support queue",
+          "title": "Ticket Tracker",
+          "new_ticket": "New ticket",
+          "find_jira": "Find my Jira tickets",
+          "checking_jira": "Checking Jira...",
+          "open": "Open",
+          "waiting": "Waiting",
+          "urgent": "Urgent",
+          "jira_cached": "Jira cached",
+          "subject": "Subject",
+          "description": "Description",
+          "priority": "Priority",
+          "requester": "Requester",
+          "email": "Email",
+          "cancel": "Cancel",
+          "create_ticket": "Create ticket",
+          "jira_import": "Jira import",
+          "import_title": "Cache assigned issues into this queue",
+          "search": "Search",
+          "import_selected": "Import selected",
+          "selected": "selected",
+          "search_placeholder": "Search tickets...",
+          "active": "Active",
+          "all_statuses": "All statuses",
+          "all_priorities": "All priorities",
+          "all_assignees": "All assignees",
+          "unassigned": "Unassigned",
+          "all_sources": "All sources",
+          "sort_updated": "Updated newest",
+          "sort_priority": "Priority high to low",
+          "sort_status": "Status",
+          "sort_assignee": "Assignee",
+          "sort_created": "Created newest",
+          "loading_queue": "Loading queue...",
+          "no_tickets": "No tickets match this view.",
+          "requester_context": "Requester context",
+          "find_recent_mail": "Find recent mail",
+          "searching": "Searching...",
+          "conversation": "Conversation",
+          "notes": "notes",
+          "add_note": "Add note",
+          "internal_note": "Internal note",
+          "import_history": "Import history",
+          "empty_import": "Jira import runs will appear here.",
+          "empty_detail": "Select a ticket or import your Jira assignments."
+        },
+        "zh": {
+          "eyebrow": "支持队列",
+          "title": "工单追踪",
+          "new_ticket": "新建工单",
+          "find_jira": "查找分配给我的 Jira",
+          "checking_jira": "正在检查 Jira...",
+          "open": "未关闭",
+          "waiting": "等待中",
+          "urgent": "紧急",
+          "jira_cached": "Jira 已缓存",
+          "subject": "主题",
+          "description": "描述",
+          "priority": "优先级",
+          "requester": "请求人",
+          "email": "邮箱",
+          "cancel": "取消",
+          "create_ticket": "创建工单",
+          "jira_import": "Jira 导入",
+          "import_title": "将分配的问题缓存到此队列",
+          "search": "搜索",
+          "import_selected": "导入选中项",
+          "selected": "已选择",
+          "search_placeholder": "搜索工单...",
+          "active": "活跃",
+          "all_statuses": "所有状态",
+          "all_priorities": "所有优先级",
+          "all_assignees": "所有负责人",
+          "unassigned": "未分配",
+          "all_sources": "所有来源",
+          "sort_updated": "最近更新",
+          "sort_priority": "优先级从高到低",
+          "sort_status": "状态",
+          "sort_assignee": "负责人",
+          "sort_created": "最近创建",
+          "loading_queue": "正在加载队列...",
+          "no_tickets": "当前视图没有匹配工单。",
+          "requester_context": "请求人上下文",
+          "find_recent_mail": "查找最近邮件",
+          "searching": "搜索中...",
+          "conversation": "对话",
+          "notes": "条备注",
+          "add_note": "添加备注",
+          "internal_note": "内部备注",
+          "import_history": "导入历史",
+          "empty_import": "Jira 导入记录会显示在这里。",
+          "empty_detail": "选择一个工单或导入你的 Jira 任务。"
+        }
+      },
+      "description": "Language-aware ticket tracker copy."
+    }
+  ],
+  "design": [
+    {
+      "id": "42d4c70df65c2aab806f2083e6fab5e4",
+      "name": "Background",
+      "css_var": "--bg-color",
+      "value": "#f0f4f8",
+      "type": "color",
+      "description": "Page background"
+    },
+    {
+      "id": "1adbcd9a7e4b6ae4b494d3f6d0b25f0e",
+      "name": "Card Background",
+      "css_var": "--card-bg",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Card background"
+    },
+    {
+      "id": "ccb3e14ef8dc031f7563c0a6fb3cd723",
+      "name": "Input Background",
+      "css_var": "--input-bg",
+      "value": "#f8fafc",
+      "type": "color",
+      "description": "Input and message background"
+    },
+    {
+      "id": "75eb16a06d52804e07c1e4f1e1cf0893",
+      "name": "Accent Color",
+      "css_var": "--accent-color",
+      "value": "#2563eb",
+      "type": "color",
+      "description": "Primary accent"
+    },
+    {
+      "id": "77ed205aa6db953ca0b05bb799e20a79",
+      "name": "Heading Color",
+      "css_var": "--heading-color",
+      "value": "#1e293b",
+      "type": "color",
+      "description": "Heading text"
+    },
+    {
+      "id": "339be64bcd1de24ad99f7fd1f8a90bdc",
+      "name": "Text Color",
+      "css_var": "--text-color",
+      "value": "#64748b",
+      "type": "color",
+      "description": "Body text"
+    },
+    {
+      "id": "32634e3b1dd6538c8bac2feaaa88ff69",
+      "name": "Border Color",
+      "css_var": "--border-color",
+      "value": "#e2e8f0",
+      "type": "color",
+      "description": "Borders"
+    },
+    {
+      "id": "aecf8ca10cf44d062d167e6f99fef28d",
+      "name": "Warning Color",
+      "css_var": "--warning-color",
+      "value": "#f59e0b",
+      "type": "color",
+      "description": "Internal notes color"
+    },
+    {
+      "id": "c1cc4f5a79d5a67dfc3cbef6ec1c1e60",
+      "name": "Font",
+      "css_var": "--font",
+      "value": "system-ui, sans-serif",
+      "type": "font",
+      "description": "Main font"
+    },
+    {
+      "id": "12bc9a9fdd8044e478e1d16c4765aec9",
+      "name": "Border Radius",
+      "css_var": "--radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Corner roundness"
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Support",
+      "Jira",
+      "Mail",
+      "Confluence"
+    ],
+    "app_icon": "mdi:ticket-confirmation-outline",
+    "integrations": {
+      "jira": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "google_mail": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "confluence": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "llm_chat": {}
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

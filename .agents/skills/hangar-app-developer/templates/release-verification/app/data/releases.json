@@ -1,0 +1,21 @@
+{
+  "schema": [
+    {
+      "name": "version",
+      "type": "text",
+      "required": true
+    }
+  ],
+  "records": [
+    {
+      "id": "release-250",
+      "version": "v2.5.0"
+    },
+    {
+      "id": "release-249",
+      "version": "v2.4.9"
+    }
+  ],
+  "icon": "mdi:rocket-launch-outline",
+  "scope": "app"
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "title",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "area",
+      "type": "text"
+    },
+    {
+      "name": "priority",
+      "type": "text"
+    },
+    {
+      "name": "done",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "due",
+      "type": "date"
+    }
+  ],
+  "records": [
+    {
+      "id": "task-inbox",
+      "title": "Review personal inbox",
+      "area": "Admin",
+      "priority": "P1",
+      "done": false,
+      "due": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "task-plan",
+      "title": "Plan next deep work block",
+      "area": "Work",
+      "priority": "P1",
+      "done": false,
+      "due": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "task-reset",
+      "title": "Clear the desk before shutdown",
+      "area": "Personal",
+      "priority": "P2",
+      "done": true,
+      "due": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "icon": "mdi:checkbox-marked-circle-outline",
+  "scope": "app"
+}

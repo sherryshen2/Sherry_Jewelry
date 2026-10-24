@@ -1,0 +1,51 @@
+INFO Draco mesh compression is available, use library at /Volumes/Blender/Blender.app/Contents/Resources/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.dylib
+19:05:00 | INFO: Starting glTF 2.0 export
+19:05:00 | INFO: Extracting primitive: cabriole counter foot
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: central applied moulding
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: counter apron inner tendril
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: counter central recessed panel.001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: blush drawer inset.003
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: shared 05 | champagne polished accents(16, 10).002
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: continuous flattened bust surface.001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: earrings blush inset.001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: curtain gold tieback
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: left backdrop drape.001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: left backdrop drape lace selvedge.001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: shared 05 | champagne polished accents(10, 6).001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: mirror console ledge.001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: mirror crown detail acanthus.010
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: shared 16 | softened silver mirror(64, 32).001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: soft oyster backdrop.001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: shared 17 | muted eucalyptus(16, 10).001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: shared 19 | buttercream petals(12, 8).001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: shared 18 | pale blush petals(12, 8).001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: folded lace table runner.001
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Extracting primitive: silk ribbon band.002
+19:05:00 | INFO: Primitives created: 1
+19:05:00 | INFO: Finished glTF 2.0 export in 0.2918729782104492 s
+
+SCENE_EXPORTED 147334
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:31:45)
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v02-bust-backdrop/main-display-source.blend"
+
+Blender quit

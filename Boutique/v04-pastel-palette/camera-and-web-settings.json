@@ -1,0 +1,136 @@
+{
+  "stage": "v04 pastel champagne / blush / ivory; lighting and reflection unchanged from v03",
+  "coordinate_system_blender": "Z up; front -Y",
+  "coordinate_system_glb": "Y up; front +Z",
+  "camera_type": "orthographic",
+  "orthographic_vertical_size": 7.05,
+  "target_blender": [
+    0.0,
+    1.100000023841858,
+    2.8499999046325684
+  ],
+  "target_glb": [
+    0.0,
+    2.8499999046325684,
+    -1.100000023841858
+  ],
+  "default_camera_blender": [
+    0.0,
+    -15.899999618530273,
+    5.239999771118164
+  ],
+  "default_camera_glb": [
+    0.0,
+    5.239999771118164,
+    15.899999618530273
+  ],
+  "elevation_degrees": 8.002663232666192,
+  "orbit_azimuth_limit_degrees": [
+    -15,
+    15
+  ],
+  "preview_azimuths_degrees": [
+    0,
+    -13,
+    13
+  ],
+  "resolution": [
+    1400,
+    1400
+  ],
+  "color_management": {
+    "view": "AgX",
+    "look": "Medium High Contrast",
+    "exposure": 0.0
+  },
+  "approval_date": "2026-10-23",
+  "scene_units_note": "Presentation scene units, numerically metres; overall width 6.16. For a 0.616 m miniature, uniformly scale the root and camera distances by 0.1.",
+  "responsive_orthographic_vertical_size": "7.05 / min(1, viewport_width / viewport_height)",
+  "web_renderer": {
+    "output_color_space": "sRGB",
+    "tone_mapping": "Neutral",
+    "exposure": 1.05,
+    "pixel_ratio_cap": 1.75,
+    "environment_intensity": 0.8,
+    "material_environment_intensity": 1.0,
+    "shadow_method": "Baked vertex local occlusion and soft key/fill visibility in COLOR_0, plus soft ground contact texture; no runtime shadow maps",
+    "candle_halos": "Six small depth-tested additive sprites, width 0.24, height 0.30, opacity 0.65; no full-scene bloom",
+    "gold_material_environment_intensity": 1.45,
+    "mirror_material_environment_intensity": 0.4,
+    "material_environment_note": "Scene environment 0.8 for standard materials; explicit PMREM envMap on gold (1.45) and mirror (0.4). Preserve these overrides when integrating."
+  },
+  "web_lights": [
+    {
+      "type": "DirectionalLight",
+      "color": "#fff5e8",
+      "intensity": 2.5,
+      "position": [
+        -4.3,
+        8,
+        6.5
+      ],
+      "target": [
+        0,
+        2.85,
+        -1.1
+      ],
+      "casts_shadow": false
+    },
+    {
+      "type": "HemisphereLight",
+      "sky_color": "#eff3ff",
+      "ground_color": "#9e826a",
+      "intensity": 0.4
+    },
+    {
+      "type": "PointLight",
+      "purpose": "chandelier",
+      "color": "#ffd5a0",
+      "intensity": 13,
+      "position": [
+        0,
+        3.83,
+        -1
+      ],
+      "distance": 4.8,
+      "decay": 2,
+      "casts_shadow": false
+    },
+    {
+      "type": "PointLight",
+      "purpose": "cabinet",
+      "color": "#ffd5a0",
+      "intensity": 3.8,
+      "position": [
+        -1.91,
+        3.7,
+        -2.0
+      ],
+      "distance": 2,
+      "decay": 2,
+      "casts_shadow": false
+    },
+    {
+      "type": "PointLight",
+      "purpose": "cabinet",
+      "color": "#ffd5a0",
+      "intensity": 3.8,
+      "position": [
+        1.91,
+        3.7,
+        -2.0
+      ],
+      "distance": 2,
+      "decay": 2,
+      "casts_shadow": false
+    }
+  ],
+  "camera_near": 0.1,
+  "camera_far": 100,
+  "camera_up_glb": [
+    0,
+    1,
+    0
+  ],
+  "palette_note": "Base colours only; light colours, powers, exposure, tone mapping, gold metallic/roughness and environment reflections preserved."
+}

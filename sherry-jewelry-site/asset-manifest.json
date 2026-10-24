@@ -1,0 +1,117 @@
+[
+  {
+    "file": "assets/FONT-LICENSE.txt",
+    "bytes": 4387,
+    "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956"
+  },
+  {
+    "file": "assets/J001-detail.glb",
+    "bytes": 1021708,
+    "sha256": "3c9e37d135f6aed6a27ccbe2c176b5e3b326b4d44892367d1d8e90510b0c0260"
+  },
+  {
+    "file": "assets/J001-photo.webp",
+    "bytes": 26846,
+    "sha256": "7bc6fd202c44bdd068fd67166e18edaf0be6384aedbf7fa1ea1812d6d5eca560"
+  },
+  {
+    "file": "assets/J001-thumb.webp",
+    "bytes": 4684,
+    "sha256": "cc52d21b39f85eb3ecffc659306467a23cef6589b1f6f0fa24ad1bb752e606ca"
+  },
+  {
+    "file": "assets/J002-detail.glb",
+    "bytes": 438740,
+    "sha256": "606c45565668afefedb0e478c250d711d62a38534e28ba4d69bbd9ecb9aee708"
+  },
+  {
+    "file": "assets/J002-photo.webp",
+    "bytes": 36948,
+    "sha256": "a77ebb7aa31b84e76b474a935890477b943cb427ee4d054e5f9d541a4c9405be"
+  },
+  {
+    "file": "assets/J002-thumb.webp",
+    "bytes": 6588,
+    "sha256": "2a65bb449426d9c611ba2cbd85d2e42da54c686351d67779ee6d0e973b145a06"
+  },
+  {
+    "file": "assets/J003-detail.glb",
+    "bytes": 501536,
+    "sha256": "132a22d178cd566114186cc7658fd8f847dcfda4f23908ffda71b60a3a60793a"
+  },
+  {
+    "file": "assets/J003-photo.webp",
+    "bytes": 44924,
+    "sha256": "14b0c1f8b79b89b62a6250d7d077abefc9014cd168207c036d43f140b0a00367"
+  },
+  {
+    "file": "assets/J003-thumb.webp",
+    "bytes": 7082,
+    "sha256": "7307212bf220f8544f5d57fa2f09ea7142a53d4541429ff49ef281bc2b221f65"
+  },
+  {
+    "file": "assets/J004-detail.glb",
+    "bytes": 1115024,
+    "sha256": "7af1133659fdc93ebd2f8612b406fcfd437f225cbd026fe6fee28828879ef746"
+  },
+  {
+    "file": "assets/J004-photo.webp",
+    "bytes": 40674,
+    "sha256": "db733bbd355a01f40273ed198c13356f00e3f4e9ea3425caf5cf4b248202d3b9"
+  },
+  {
+    "file": "assets/J004-thumb.webp",
+    "bytes": 6540,
+    "sha256": "8a462e7766d9c7249f412cac9c4cc732ff64a2dd77de1a9f848e2fd57a16f8de"
+  },
+  {
+    "file": "assets/boutique-poster.webp",
+    "bytes": 31880,
+    "sha256": "af5a088b336fdb464827b68a45b4c1549d31bced111f0d792284b51fcd14ec03"
+  },
+  {
+    "file": "assets/boutique.glb",
+    "bytes": 4793116,
+    "sha256": "e1f57c3c4c6aacf0215bc4a4f6f21302fbbcc9d228f43dd75b29b92820bce6a0"
+  },
+  {
+    "file": "assets/bracelet.glb",
+    "bytes": 1077808,
+    "sha256": "e131c52fc74f05c8295e0f3599b84a2a10c6b35f2d499ef2f801568daf85926d"
+  },
+  {
+    "file": "assets/cormorant-italic.ttf",
+    "bytes": 293036,
+    "sha256": "0b9a8a33cfaa624d30f70f9b6686da769b319b8c37a55af16e29fef690108bbf"
+  },
+  {
+    "file": "assets/cormorant.ttf",
+    "bytes": 290496,
+    "sha256": "1724047c8988ca5155bff667bc48fa52e97d57aabc6b42eebbf986f21a4be20b"
+  },
+  {
+    "file": "assets/display-poster.webp",
+    "bytes": 40748,
+    "sha256": "38ab88a09c41b168680389ef18d8afa961841d8b1e2eb3cf3bcd4b4dc751f1e9"
+  },
+  {
+    "file": "assets/display.glb",
+    "bytes": 1703404,
+    "sha256": "3613cce107784c2965917d4adf75138cf604436ee32f86fded069ae6087980d4"
+  },
+  {
+    "file": "assets/earrings.glb",
+    "bytes": 450448,
+    "sha256": "6783866fa03d380b492d76a37c3a1ab09dd4dadfa5ba8f54e1afa48114f1dd97"
+  },
+  {
+    "file": "assets/necklace.glb",
+    "bytes": 1011652,
+    "sha256": "73d9d13997cb999fd4ff48d0f4d27c0804e509337f91d538c0f00a491ff944a1"
+  },
+  {
+    "file": "assets/ring.glb",
+    "bytes": 497356,
+    "sha256": "7615ac2332ad9a5a6e20ab63b05d40364e8141366de4f9036fa13c7c11e418ca"
+  }
+]

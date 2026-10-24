@@ -1,0 +1,17 @@
+{
+  "schema": [
+    {
+      "name": "default_refresh_seconds",
+      "type": "number",
+      "default": 10
+    }
+  ],
+  "records": [
+    {
+      "id": "runner-config",
+      "default_refresh_seconds": 10
+    }
+  ],
+  "icon": "mdi:cog-outline",
+  "scope": "app"
+}

@@ -1,0 +1,25 @@
+{
+  "base": "v05-luminous-ivory",
+  "version": "v06-soft-front",
+  "web_front_direct_light_ratio": 0.8,
+  "web_side_wall_direct_diffuse_ratio": 1.0,
+  "blender_front_fill_watts_before": 110,
+  "blender_front_fill_watts_after": 80,
+  "glb_sha256": "53a616bb0efa7aab4e21901725199cd7413b9d25a88b97e7bf06d79c3efd01b1",
+  "glb_and_textures_byte_identical": true,
+  "note": "Front ratio applies only to the two directional lights, not total image brightness. Environment, local warm lights, material palette and reflections retained.",
+  "web_preview_region_comparison": {
+    "front_pediment": {
+      "before_mean_srgb_255": 216.47162393162392,
+      "after_mean_srgb_255": 207.7779797979798
+    },
+    "front_counter": {
+      "before_mean_srgb_255": 218.3816485753053,
+      "after_mean_srgb_255": 211.07462686567163
+    },
+    "left_outer_wall": {
+      "before_mean_srgb_255": 216.8831746031746,
+      "after_mean_srgb_255": 216.91135802469137
+    }
+  }
+}

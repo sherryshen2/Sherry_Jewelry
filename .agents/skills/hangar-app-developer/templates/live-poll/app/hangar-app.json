@@ -1,0 +1,244 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "10fc70b9b5a854845b2dc6abae905cb7",
+      "name": "Manager Title",
+      "type": "text",
+      "value": "Live Poll Studio",
+      "description": "Heading for the poll manager view"
+    },
+    {
+      "id": "c8de65f49c6ec3b5079b17a2c7170fa2",
+      "name": "Manager Intro",
+      "type": "text",
+      "value": "Create reusable polls, share response links, and watch results update by poll.",
+      "description": "Intro copy for the poll manager view"
+    },
+    {
+      "id": "edffa7fce2332742791285ad381d18e1",
+      "name": "Copy Link Label",
+      "type": "text",
+      "value": "Copy poll link",
+      "description": "Copy link button text"
+    },
+    {
+      "id": "7a277bdbd9ca647f22928833be6afd01",
+      "name": "Email Draft Label",
+      "type": "text",
+      "value": "Email poll",
+      "description": "Email draft button text"
+    },
+    {
+      "id": "d40d9bd797dee8319220adad659c4cf0",
+      "name": "Vote Button Label",
+      "type": "text",
+      "value": "Submit vote",
+      "description": "Vote button text"
+    },
+    {
+      "id": "fcb01ce97f77d4d79601534cb6ea4b57",
+      "name": "Thank You Title",
+      "type": "text",
+      "value": "Vote saved",
+      "description": "Title after a vote is saved"
+    },
+    {
+      "id": "8630c7f4217d05a8f9e7ddba8052e80e",
+      "name": "Thank You Message",
+      "type": "text",
+      "value": "Thanks for weighing in. Results update live for the team.",
+      "description": "Message after a vote is saved"
+    },
+    {
+      "id": "10fc70b9b5a854845b2dc6abae905cb7",
+      "name": "Manager Title",
+      "type": "text",
+      "value": "Polls",
+      "description": "Manager page title."
+    },
+    {
+      "id": "c8de65f49c6ec3b5079b17a2c7170fa2",
+      "name": "Manager Intro",
+      "type": "text",
+      "value": "Create reusable polls, share voting links, and watch results.",
+      "description": "Manager page intro."
+    },
+    {
+      "id": "edffa7fce2332742791285ad381d18e1",
+      "name": "Copy Link Label",
+      "type": "text",
+      "value": "Copy link",
+      "description": "Button label for copying links."
+    },
+    {
+      "id": "7a277bdbd9ca647f22928833be6afd01",
+      "name": "Email Draft Label",
+      "type": "text",
+      "value": "Prepare email",
+      "description": "Button label for preparing poll emails."
+    },
+    {
+      "id": "8630c7f4217d05a8f9e7ddba8052e80e",
+      "name": "Thank You Message",
+      "type": "text",
+      "value": "Your vote has been saved.",
+      "description": "Message after vote submit."
+    },
+    {
+      "id": "d40d9bd797dee8319220adad659c4cf0",
+      "name": "Vote Button Label",
+      "type": "text",
+      "value": "Submit vote",
+      "description": "Vote submit button label."
+    },
+    {
+      "id": "631ff2de5bb48ffa02b160bdb0ab7630",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "manager_title": "Polls",
+          "manager_intro": "Create reusable polls, share voting links, and watch results.",
+          "copy_link_label": "Copy link",
+          "email_draft_label": "Prepare email",
+          "thank_you_message": "Your vote has been saved.",
+          "vote_button_label": "Submit vote"
+        },
+        "zh": {
+          "manager_title": "投票",
+          "manager_intro": "创建可复用投票、分享投票链接并查看结果。",
+          "copy_link_label": "复制链接",
+          "email_draft_label": "准备邮件",
+          "thank_you_message": "你的投票已保存。",
+          "vote_button_label": "提交投票"
+        }
+      },
+      "description": "Language-aware poll copy."
+    }
+  ],
+  "design": [
+    {
+      "id": "c87b9827b1fa7e1014ada59eb5b12673",
+      "name": "Font",
+      "css_var": "--body-font",
+      "value": "Inter, system-ui, sans-serif",
+      "type": "font",
+      "description": "Main font for all text"
+    },
+    {
+      "id": "3b0a940fa5b27fbaa47db1864409c530",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f4f7fb",
+      "type": "color",
+      "description": "Overall page background"
+    },
+    {
+      "id": "fb5b0242bedaa75fed490a92af7e0f2f",
+      "name": "Surface Background",
+      "css_var": "--surface-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Main surface background"
+    },
+    {
+      "id": "947cf62720aa50cebc9307c0e04f0d8b",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#f8fafc",
+      "type": "color",
+      "description": "Panel background"
+    },
+    {
+      "id": "05797a95a4321a91193824c10e64f11b",
+      "name": "Heading Color",
+      "css_var": "--heading-color",
+      "value": "#172033",
+      "type": "color",
+      "description": "Color for headings"
+    },
+    {
+      "id": "a1d87eb2f7676dd3d8c29be7a2c24b0c",
+      "name": "Body Text",
+      "css_var": "--body-text",
+      "value": "#334155",
+      "type": "color",
+      "description": "Color for body text"
+    },
+    {
+      "id": "000c68c62dae2256dd11b968551db043",
+      "name": "Secondary Text",
+      "css_var": "--secondary-text",
+      "value": "#64748b",
+      "type": "color",
+      "description": "Color for muted text"
+    },
+    {
+      "id": "e087e24edd2de8cc2cf7bee696ecfd02",
+      "name": "Accent Color",
+      "css_var": "--accent-color",
+      "value": "#4f46e5",
+      "type": "color",
+      "description": "Primary accent color"
+    },
+    {
+      "id": "496ed858e3c38f3130a506c35ff58632",
+      "name": "Success Color",
+      "css_var": "--success-color",
+      "value": "#2f8f62",
+      "type": "color",
+      "description": "Selected/winning state color"
+    },
+    {
+      "id": "24b782e78195b5c95d2b0fbdcd3ff2a0",
+      "name": "Border Color",
+      "css_var": "--border-color",
+      "value": "#d8e1ec",
+      "type": "color",
+      "description": "Borders and dividers"
+    },
+    {
+      "id": "4cbae4f80d6f63467d479783ac5f6117",
+      "name": "Card Radius",
+      "css_var": "--card-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Roundness of cards"
+    },
+    {
+      "id": "b798c097fe83a5092ac42744a0d95c3f",
+      "name": "Control Radius",
+      "css_var": "--control-radius",
+      "value": "6px",
+      "type": "radius",
+      "description": "Roundness of buttons and inputs"
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Poll",
+      "Feedback",
+      "Sheets",
+      "LLM"
+    ],
+    "app_icon": "mdi:poll",
+    "integrations": {
+      "google_sheets": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "llm_chat": {}
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

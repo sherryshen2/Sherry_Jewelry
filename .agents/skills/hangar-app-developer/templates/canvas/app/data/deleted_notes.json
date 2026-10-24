@@ -1,0 +1,106 @@
+{
+  "schema": [
+    {
+      "name": "id",
+      "type": "text"
+    },
+    {
+      "name": "type",
+      "type": "text"
+    },
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "order",
+      "type": "number"
+    },
+    {
+      "name": "pinned",
+      "type": "boolean"
+    },
+    {
+      "name": "updated",
+      "type": "text"
+    },
+    {
+      "name": "created",
+      "type": "text"
+    },
+    {
+      "name": "body",
+      "type": "text"
+    },
+    {
+      "name": "items",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "type": "text"
+    },
+    {
+      "name": "link_title",
+      "type": "text"
+    },
+    {
+      "name": "link_desc",
+      "type": "text"
+    },
+    {
+      "name": "link_image",
+      "type": "text"
+    },
+    {
+      "name": "src",
+      "type": "text"
+    },
+    {
+      "name": "image",
+      "type": "file"
+    },
+    {
+      "name": "caption",
+      "type": "text"
+    },
+    {
+      "name": "rows",
+      "type": "text"
+    },
+    {
+      "name": "embed_code",
+      "type": "text"
+    },
+    {
+      "name": "deleted_at",
+      "type": "text"
+    }
+  ],
+  "records": [
+    {
+      "created": "2025-12-09T06:17:23.062Z",
+      "deleted_at": "2025-12-09T06:17:23.005Z",
+      "id": "p4036",
+      "link_desc": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you seamlessly combine components written by independent people, teams, and organizations.",
+      "link_image": "https://placehold.co/1200x630/61dafb/000000?text=React",
+      "link_title": "React",
+      "order": 5,
+      "title": "React",
+      "type": "link",
+      "updated": "2025-12-09T06:17:23.062Z",
+      "url": "https://react.dev/"
+    },
+    {
+      "created": "2025-12-09T06:22:04.358Z",
+      "deleted_at": "2025-12-09T06:22:04.330Z",
+      "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?si=-W7e2C0UJdhU31fn&amp;controls=0&amp;autoplay=1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "id": "9okp0",
+      "order": 5,
+      "title": "Super Secret - DO NOT CLICK",
+      "type": "embed",
+      "updated": "2025-12-09T06:22:04.358Z"
+    }
+  ],
+  "icon": "lucide:trash-2"
+}

@@ -1,0 +1,25 @@
+{
+  "schema": [
+    {
+      "name": "task_key",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "done",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "completed_at",
+      "type": "date"
+    },
+    {
+      "name": "updated_at",
+      "type": "date"
+    }
+  ],
+  "records": [],
+  "icon": "mdi:clipboard-check-outline",
+  "scope": "user"
+}

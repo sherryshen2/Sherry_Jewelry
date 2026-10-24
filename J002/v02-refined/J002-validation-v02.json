@@ -1,0 +1,336 @@
+{
+  "stage": "REFINED_VISIBLE_STRUCTURE_PENDING_HIDDEN_MECHANISM",
+  "mesh_objects": 96,
+  "source_mesh_issues": [],
+  "stones_A": 8,
+  "stones_B": 8,
+  "stone_intersections": [],
+  "stone_contacts": {
+    "A_06_CZ_01": [
+      "A_01_FrontStoneCarrier_EST",
+      "A_07_Prongs_01_-1_-1",
+      "A_07_Prongs_01_-1_1",
+      "A_07_Prongs_01_1_-1",
+      "A_07_Prongs_01_1_1"
+    ],
+    "A_06_CZ_02": [
+      "A_01_FrontStoneCarrier_EST",
+      "A_07_Prongs_02_-1_-1",
+      "A_07_Prongs_02_-1_1",
+      "A_07_Prongs_02_1_-1",
+      "A_07_Prongs_02_1_1"
+    ],
+    "A_06_CZ_03": [
+      "A_01_FrontStoneCarrier_EST",
+      "A_07_Prongs_03_-1_-1",
+      "A_07_Prongs_03_-1_1",
+      "A_07_Prongs_03_1_-1",
+      "A_07_Prongs_03_1_1"
+    ],
+    "A_06_CZ_04": [
+      "A_01_FrontStoneCarrier_EST",
+      "A_07_Prongs_04_-1_-1",
+      "A_07_Prongs_04_-1_1",
+      "A_07_Prongs_04_1_-1",
+      "A_07_Prongs_04_1_1"
+    ],
+    "A_06_CZ_05": [
+      "A_01_FrontStoneCarrier_EST",
+      "A_07_Prongs_05_-1_-1",
+      "A_07_Prongs_05_-1_1",
+      "A_07_Prongs_05_1_-1",
+      "A_07_Prongs_05_1_1"
+    ],
+    "A_06_CZ_06": [
+      "A_01_FrontStoneCarrier_EST",
+      "A_07_Prongs_06_-1_-1",
+      "A_07_Prongs_06_-1_1",
+      "A_07_Prongs_06_1_-1",
+      "A_07_Prongs_06_1_1"
+    ],
+    "A_06_CZ_07": [
+      "A_01_FrontStoneCarrier_EST",
+      "A_07_Prongs_07_-1_-1",
+      "A_07_Prongs_07_-1_1",
+      "A_07_Prongs_07_1_-1",
+      "A_07_Prongs_07_1_1"
+    ],
+    "A_06_CZ_08": [
+      "A_01_FrontStoneCarrier_EST",
+      "A_07_Prongs_08_-1_-1",
+      "A_07_Prongs_08_-1_1",
+      "A_07_Prongs_08_1_-1",
+      "A_07_Prongs_08_1_1"
+    ],
+    "B_06_CZ_01": [
+      "B_01_FrontStoneCarrier_EST",
+      "B_07_Prongs_01_-1_-1",
+      "B_07_Prongs_01_-1_1",
+      "B_07_Prongs_01_1_-1",
+      "B_07_Prongs_01_1_1"
+    ],
+    "B_06_CZ_02": [
+      "B_01_FrontStoneCarrier_EST",
+      "B_07_Prongs_02_-1_-1",
+      "B_07_Prongs_02_-1_1",
+      "B_07_Prongs_02_1_-1",
+      "B_07_Prongs_02_1_1"
+    ],
+    "B_06_CZ_03": [
+      "B_01_FrontStoneCarrier_EST",
+      "B_07_Prongs_03_-1_-1",
+      "B_07_Prongs_03_-1_1",
+      "B_07_Prongs_03_1_-1",
+      "B_07_Prongs_03_1_1"
+    ],
+    "B_06_CZ_04": [
+      "B_01_FrontStoneCarrier_EST",
+      "B_07_Prongs_04_-1_-1",
+      "B_07_Prongs_04_-1_1",
+      "B_07_Prongs_04_1_-1",
+      "B_07_Prongs_04_1_1"
+    ],
+    "B_06_CZ_05": [
+      "B_01_FrontStoneCarrier_EST",
+      "B_07_Prongs_05_-1_-1",
+      "B_07_Prongs_05_-1_1",
+      "B_07_Prongs_05_1_-1",
+      "B_07_Prongs_05_1_1"
+    ],
+    "B_06_CZ_06": [
+      "B_01_FrontStoneCarrier_EST",
+      "B_07_Prongs_06_-1_-1",
+      "B_07_Prongs_06_-1_1",
+      "B_07_Prongs_06_1_-1",
+      "B_07_Prongs_06_1_1"
+    ],
+    "B_06_CZ_07": [
+      "B_01_FrontStoneCarrier_EST",
+      "B_07_Prongs_07_-1_-1",
+      "B_07_Prongs_07_-1_1",
+      "B_07_Prongs_07_1_-1",
+      "B_07_Prongs_07_1_1"
+    ],
+    "B_06_CZ_08": [
+      "B_01_FrontStoneCarrier_EST",
+      "B_07_Prongs_08_-1_-1",
+      "B_07_Prongs_08_-1_1",
+      "B_07_Prongs_08_1_-1",
+      "B_07_Prongs_08_1_1"
+    ]
+  },
+  "stones_without_contact": [],
+  "prongs_without_metal_connection": [],
+  "prong_penetration_samples_over_0_002mm": [],
+  "bore_diameter_mm": 7.99999983104741,
+  "single_outer_reference_circle_diameter_mm": 11.000002389488426,
+  "single_local_dimensions_mm": [
+    1.6000015893951058,
+    10.976174846291542,
+    10.999427177011967
+  ],
+  "source_bounds_mm": [
+    [
+      -9.787891060113907,
+      -5.000288598239422,
+      -5.8494266122579575
+    ],
+    [
+      9.427807293832302,
+      5.2149975672364235,
+      5.850000306963921
+    ]
+  ],
+  "same_master_meshes": true,
+  "mechanism_checks": {
+    "A": {
+      "axle_barrel_surface_intersections": [],
+      "earwire_and_receiver_present": true
+    },
+    "B": {
+      "axle_barrel_surface_intersections": [],
+      "earwire_and_receiver_present": true
+    }
+  },
+  "camera_framing": {
+    "CAM_SINGLE_front": {
+      "all_in_frame": true
+    },
+    "CAM_SINGLE_side": {
+      "all_in_frame": true
+    },
+    "CAM_SINGLE_back": {
+      "all_in_frame": true
+    },
+    "CAM_SINGLE_45deg": {
+      "all_in_frame": true
+    },
+    "CAM_SINGLE_bottom": {
+      "all_in_frame": true
+    },
+    "CAM_PAIR_default": {
+      "all_in_frame": true
+    },
+    "CAM_PAIR_front": {
+      "all_in_frame": true
+    }
+  },
+  "lods": {
+    "detail": {
+      "bytes": 1589732,
+      "triangles": 56180,
+      "meshes": 2,
+      "materials": 2,
+      "images": 0,
+      "cameras": 0,
+      "root_found": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_mm": [
+        [
+          -9.787891060113907,
+          -5.000288598239422,
+          -5.849427077919245
+        ],
+        [
+          9.427807293832302,
+          5.214998498558998,
+          5.850000306963921
+        ]
+      ],
+      "max_bound_difference_vs_detail_source_mm": 9.313225746154785e-07,
+      "invalid_normals": [],
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ]
+    },
+    "display": {
+      "bytes": 918828,
+      "triangles": 30748,
+      "meshes": 2,
+      "materials": 2,
+      "images": 0,
+      "cameras": 0,
+      "root_found": true,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "bounds_mm": [
+        [
+          -9.787891060113907,
+          -5.000388715416193,
+          -5.8490862138569355
+        ],
+        [
+          9.427807293832302,
+          5.206615664064884,
+          5.850000306963921
+        ]
+      ],
+      "max_bound_difference_vs_detail_source_mm": 0.008381903171539307,
+      "invalid_normals": [],
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ]
+    }
+  },
+  "limitations": [
+    "No open reference; internal latch and hinge geometry are provisional",
+    "No opening animation or mechanical fit simulation",
+    "Prong penetration checks sample vertices and triangle centers; tolerance 0.002 mm",
+    "8 mm bore is body reference cylinder, 11 mm outer is reference circle including wire and rear body",
+    "Pair identical structure is unconfirmed inference"
+  ],
+  "unintended_earwire_stone_intersections": [],
+  "earwire_front_carrier_connection": {
+    "A": true,
+    "B": true
+  },
+  "exposure_definition": "Radial height: stone table minus front metal carrier outer envelope. Target 0.500 mm.",
+  "exposure_measurements": [
+    {
+      "stone": "A_06_CZ_01",
+      "table_radius_mm": 5.470000207424164,
+      "carrier_envelope_mm": 4.969996982254088,
+      "exposed_mm": 0.5000032251700759
+    },
+    {
+      "stone": "A_06_CZ_02",
+      "table_radius_mm": 5.4700004402548075,
+      "carrier_envelope_mm": 4.969916073605418,
+      "exposed_mm": 0.5000843666493893
+    },
+    {
+      "stone": "A_06_CZ_03",
+      "table_radius_mm": 5.46999997459352,
+      "carrier_envelope_mm": 4.969768400769681,
+      "exposed_mm": 0.5002315738238394
+    },
+    {
+      "stone": "A_06_CZ_04",
+      "table_radius_mm": 5.47000028018374,
+      "carrier_envelope_mm": 4.969979974703165,
+      "exposed_mm": 0.5000203054805752
+    },
+    {
+      "stone": "A_06_CZ_05",
+      "table_radius_mm": 5.47000061487779,
+      "carrier_envelope_mm": 4.969959874870256,
+      "exposed_mm": 0.5000407400075346
+    },
+    {
+      "stone": "A_06_CZ_06",
+      "table_radius_mm": 5.470000207424164,
+      "carrier_envelope_mm": 4.969707108102739,
+      "exposed_mm": 0.500293099321425
+    },
+    {
+      "stone": "A_06_CZ_07",
+      "table_radius_mm": 5.4700004402548075,
+      "carrier_envelope_mm": 4.969947272911668,
+      "exposed_mm": 0.5000531673431396
+    },
+    {
+      "stone": "A_06_CZ_08",
+      "table_radius_mm": 5.470000789500773,
+      "carrier_envelope_mm": 4.969987669028342,
+      "exposed_mm": 0.5000131204724312
+    }
+  ],
+  "prongs_per_stone": {
+    "A_06_CZ_01": 4,
+    "A_06_CZ_02": 4,
+    "A_06_CZ_03": 4,
+    "A_06_CZ_04": 4,
+    "A_06_CZ_05": 4,
+    "A_06_CZ_06": 4,
+    "A_06_CZ_07": 4,
+    "A_06_CZ_08": 4,
+    "B_06_CZ_01": 4,
+    "B_06_CZ_02": 4,
+    "B_06_CZ_03": 4,
+    "B_06_CZ_04": 4,
+    "B_06_CZ_05": 4,
+    "B_06_CZ_06": 4,
+    "B_06_CZ_07": 4,
+    "B_06_CZ_08": 4
+  },
+  "adjacent_stone_prong_intersections": []
+}

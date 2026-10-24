@@ -1,0 +1,81 @@
+{
+  "source_reopens": true,
+  "default_camera": "01_Front",
+  "editable_collections": [
+    "01_Architecture",
+    "02_Counter",
+    "03_Display_cabinets",
+    "04_Mirror",
+    "05_Textiles",
+    "06_Chandelier",
+    "07_Jewelry",
+    "08_Flowers_and_gifts"
+  ],
+  "packed_images": [
+    {
+      "name": "floral_lace_rgba",
+      "packed": true,
+      "size": [
+        1024,
+        256
+      ]
+    },
+    {
+      "name": "lacquer_normal",
+      "packed": true,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "lacquer_roughness",
+      "packed": true,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "oyster_damask_basecolor",
+      "packed": true,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "paint_01_basecolor",
+      "packed": true,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "paint_02_basecolor",
+      "packed": true,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "paint_03_basecolor",
+      "packed": true,
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "name": "woven_fabric_normal",
+      "packed": true,
+      "size": [
+        512,
+        512
+      ]
+    }
+  ],
+  "bytes": 7855362
+}

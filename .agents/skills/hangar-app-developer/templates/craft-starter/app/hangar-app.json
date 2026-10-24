@@ -1,0 +1,316 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "c61d2a7cd8eb3255036553230e8266d9",
+      "name": "Eyebrow",
+      "type": "text",
+      "value": "Craft starter",
+      "description": "Small label above the app title."
+    },
+    {
+      "id": "ca8b8d4c3d60d8a2a91b562f783624cc",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main heading shown in the app."
+    },
+    {
+      "id": "0e61213d12ec17c2a4485f86253a72c8",
+      "name": "Intro Text",
+      "type": "text",
+      "value": "A clean Hangar starter with separate frontend and backend structure.",
+      "description": "Intro copy shown below the title."
+    },
+    {
+      "id": "a7021d9f3525e1df9171f59b0cb5d922",
+      "name": "Structure Title",
+      "type": "text",
+      "value": "Project structure",
+      "description": "Heading for the starter structure section."
+    },
+    {
+      "id": "691c5aaa0d5f22755cf2d0df961c3d6b",
+      "name": "Frontend Card Title",
+      "type": "text",
+      "value": "Frontend pages",
+      "description": "Title for the frontend structure card."
+    },
+    {
+      "id": "4bfbd65430bba86c6315039a4540070f",
+      "name": "Frontend Card Body",
+      "type": "text",
+      "value": "Build screens in pages/, reuse UI in components/, and keep shared helpers in lib/.",
+      "description": "Body copy for the frontend card."
+    },
+    {
+      "id": "08a782ca37ba9f6dd89f3bb04d1dad8d",
+      "name": "Backend Card Title",
+      "type": "text",
+      "value": "Backend routes",
+      "description": "Title for the backend structure card."
+    },
+    {
+      "id": "29570d708b96cc261cafc80408bf0bbb",
+      "name": "Backend Card Body",
+      "type": "text",
+      "value": "Compose routers in backend/main.py, put endpoints in routers/, and move business logic into services/.",
+      "description": "Body copy for the backend card."
+    },
+    {
+      "id": "5b984145df7f20c35a923158b987d266",
+      "name": "Data Card Title",
+      "type": "text",
+      "value": "App data",
+      "description": "Title for the data structure card."
+    },
+    {
+      "id": "54589614f5fcbd983469598a271debca",
+      "name": "Data Card Body",
+      "type": "text",
+      "value": "Start without seeded tables. Add app-scoped data only when your feature needs it.",
+      "description": "Body copy for the data card."
+    },
+    {
+      "id": "b9c92256b6db07508b0af778a4aeccee",
+      "name": "Health Title",
+      "type": "text",
+      "value": "Backend health",
+      "description": "Heading for the backend health panel."
+    },
+    {
+      "id": "3fde9a05b03b5ff0462f20266260de4a",
+      "name": "Health Loading",
+      "type": "text",
+      "value": "Checking backend health...",
+      "description": "Status shown while the starter checks the backend route."
+    },
+    {
+      "id": "3db2a1b1cea49886998e347c3872f8d6",
+      "name": "Health Fallback",
+      "type": "text",
+      "value": "Backend status is not available yet.",
+      "description": "Fallback when the backend cannot be reached."
+    },
+    {
+      "id": "acabb15fe8422e8da53ec38b6a5a6239",
+      "name": "Health Route Label",
+      "type": "text",
+      "value": "Health route",
+      "description": "Label for the health route detail."
+    },
+    {
+      "id": "6c55c705345ff234a3095be76bd7824e",
+      "name": "Health Route Value",
+      "type": "text",
+      "value": "/health",
+      "description": "Displayed health route path."
+    },
+    {
+      "id": "7163ba9ab9ac0c7447de20e28a4de762",
+      "name": "Footer Note",
+      "type": "text",
+      "value": "Use this starter when you want a clean folder structure without demo business logic.",
+      "description": "Footer note."
+    },
+    {
+      "id": "f3e9977b710b153995eaa15240d9553e",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "eyebrow": "Craft starter",
+          "intro_text": "A clean Hangar starter with separate frontend and backend structure.",
+          "structure_title": "Project structure",
+          "frontend_card_title": "Frontend pages",
+          "frontend_card_body": "Build screens in pages/, reuse UI in components/, and keep shared helpers in lib/.",
+          "backend_card_title": "Backend routes",
+          "backend_card_body": "Compose routers in backend/main.py, put endpoints in routers/, and move business logic into services/.",
+          "data_card_title": "App data",
+          "data_card_body": "Start without seeded tables. Add app-scoped data only when your feature needs it.",
+          "health_title": "Backend health",
+          "health_loading": "Checking backend health...",
+          "health_fallback": "Backend status is not available yet.",
+          "health_route_label": "Health route",
+          "health_route_value": "/health",
+          "footer_note": "Use this starter when you want a clean folder structure without demo business logic."
+        },
+        "zh": {
+          "eyebrow": "编辑入门",
+          "intro_text": "这是一个干净的 Hangar 起步模板，前后端结构分离。",
+          "structure_title": "项目结构",
+          "frontend_card_title": "前端页面",
+          "frontend_card_body": "在 pages/ 中构建页面，在 components/ 中复用 UI，在 lib/ 中放共享帮助代码。",
+          "backend_card_title": "后端路由",
+          "backend_card_body": "在 backend/main.py 中组合路由，把接口放进 routers/，把业务逻辑放进 services/。",
+          "data_card_title": "应用数据",
+          "data_card_body": "默认不预置数据表。只有在功能需要时再添加应用级数据。",
+          "health_title": "后端健康状态",
+          "health_loading": "正在检查后端健康状态...",
+          "health_fallback": "后端状态暂不可用。",
+          "health_route_label": "健康路由",
+          "health_route_value": "/health",
+          "footer_note": "当你只想要清晰的文件结构而不想先删除演示业务逻辑时，请使用这个模板。"
+        }
+      },
+      "description": "Language-aware copy keyed by Hangar language id."
+    }
+  ],
+  "design": [
+    {
+      "id": "13e1a5e07960f98f9236cfe3051f5441",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f4f1ea",
+      "type": "color",
+      "description": "Background color for the app page."
+    },
+    {
+      "id": "a041276af6d940c7a2755c12de7570a3",
+      "name": "Card Background",
+      "css_var": "--card-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Main app shell background."
+    },
+    {
+      "id": "ebdb75bdd680d88b89a9296dd0ee9bb1",
+      "name": "Subtle Background",
+      "css_var": "--subtle-background",
+      "value": "#fbf8f1",
+      "type": "color",
+      "description": "Secondary panel background."
+    },
+    {
+      "id": "c326234614033f19f4b48686ddb139c7",
+      "name": "Heading Text",
+      "css_var": "--heading-text-color",
+      "value": "#1b2230",
+      "type": "color",
+      "description": "Heading text color."
+    },
+    {
+      "id": "e6fbcac5db4ad309e1719f1754de544e",
+      "name": "Body Text",
+      "css_var": "--body-text-color",
+      "value": "#253041",
+      "type": "color",
+      "description": "Primary body text color."
+    },
+    {
+      "id": "37e43699e335834cc40d0eef80811761",
+      "name": "Muted Text",
+      "css_var": "--muted-text-color",
+      "value": "#6c7483",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "f37f50ec00c4ac2e27a84c9a4fc6ffd2",
+      "name": "Border Color",
+      "css_var": "--border-color",
+      "value": "#ded6ca",
+      "type": "color",
+      "description": "Borders around panels and controls."
+    },
+    {
+      "id": "7d21d423bcc9bb6bb47ef52fd454a988",
+      "name": "Accent Color",
+      "css_var": "--accent-color",
+      "value": "#b55d35",
+      "type": "color",
+      "description": "Primary accent color."
+    },
+    {
+      "id": "c2526c12002568257b8e18d6d43b9b20",
+      "name": "Status Color",
+      "css_var": "--status-color",
+      "value": "#1f7a5a",
+      "type": "color",
+      "description": "Status badge color."
+    },
+    {
+      "id": "55726e76f702e8da181b4fb198e694c4",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Avenir Next",
+      "type": "font",
+      "description": "Primary app font."
+    },
+    {
+      "id": "471e3d2b7a4c9c3cb371f6b7a626db02",
+      "name": "Card Radius",
+      "css_var": "--card-radius",
+      "value": "14px",
+      "type": "radius",
+      "description": "Radius for cards and panels.",
+      "unit": "px",
+      "min": 0,
+      "max": 32,
+      "step": 1
+    },
+    {
+      "id": "66dbff18d65af66aa97056b48ee319c3",
+      "name": "Control Radius",
+      "css_var": "--control-radius",
+      "value": "10px",
+      "type": "radius",
+      "description": "Radius for inputs and buttons.",
+      "unit": "px",
+      "min": 0,
+      "max": 24,
+      "step": 1
+    },
+    {
+      "id": "988dfb18eb0e92872eca0b9a4eaaef4d",
+      "name": "Page Padding",
+      "css_var": "--page-padding",
+      "value": "2rem",
+      "type": "size",
+      "description": "Outer app padding.",
+      "unit": "rem",
+      "min": 0,
+      "max": 6,
+      "step": 0.25
+    },
+    {
+      "id": "7005d12cb6f7a9f8aa0d69c8c6db734e",
+      "name": "Card Padding",
+      "css_var": "--card-padding",
+      "value": "2rem",
+      "type": "size",
+      "description": "Inner shell padding.",
+      "unit": "rem",
+      "min": 0,
+      "max": 5,
+      "step": 0.25
+    },
+    {
+      "id": "cdf9397c5223e3db79e1b3d5640ad40c",
+      "name": "Card Shadow",
+      "css_var": "--card-shadow",
+      "value": "0 24px 60px rgba(41, 35, 24, 0.08)",
+      "type": "shadow",
+      "description": "Shadow below the main app shell."
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Structure",
+      "Frontend",
+      "Backend",
+      "Blank"
+    ],
+    "app_icon": "mdi:application-edit-outline",
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

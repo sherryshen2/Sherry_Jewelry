@@ -1,0 +1,116 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "44352e0eddd84f7f1a3c9b45617e237d",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main dashboard title."
+    },
+    {
+      "id": "8bdf4189091b948ced136b5d0c899bf3",
+      "name": "Description",
+      "type": "text",
+      "value": "A multi-page dashboard with built-in local demo data plus CSV, Google Sheets, and Datasuite sources.",
+      "description": "Short description of the template."
+    }
+  ],
+  "design": [
+    {
+      "id": "5b94d9f928f0a338caa68b79cf3d00ed",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f6f7fb",
+      "type": "color",
+      "description": "Page background."
+    },
+    {
+      "id": "bbf9068b30645a628a2466d7bb7e6457",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Panel background."
+    },
+    {
+      "id": "f82cac2d63e0045d41d0e2f839802993",
+      "name": "Ink",
+      "css_var": "--ink-color",
+      "value": "#18202f",
+      "type": "color",
+      "description": "Primary text color."
+    },
+    {
+      "id": "910f8a9d7fe3cefda4fef858f8828c3a",
+      "name": "Muted Ink",
+      "css_var": "--muted-ink-color",
+      "value": "#667085",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "7c96c33c84d20600b6ba831ce9396be3",
+      "name": "Accent",
+      "css_var": "--accent-color",
+      "value": "#5b4ee5",
+      "type": "color",
+      "description": "Primary accent."
+    },
+    {
+      "id": "6d0dadb3497aa6ba87a36f1f26c98563",
+      "name": "Border",
+      "css_var": "--border-color",
+      "value": "#e3e6ed",
+      "type": "color",
+      "description": "Panel and control border."
+    },
+    {
+      "id": "5cfc516a550f5e3cca2ab72808ad5016",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Inter",
+      "type": "font",
+      "description": "Primary font family."
+    },
+    {
+      "id": "ebfb3fcf496a74674310f714edfc2637",
+      "name": "Panel Radius",
+      "css_var": "--panel-radius",
+      "value": "10px",
+      "type": "radius",
+      "description": "Panel corner radius.",
+      "unit": "px",
+      "min": 0,
+      "max": 24,
+      "step": 1
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Dashboard",
+      "Local data",
+      "CSV",
+      "Google Sheets",
+      "Datasuite",
+      "Analytics"
+    ],
+    "app_icon": "mdi:chart-box-outline",
+    "integrations": {
+      "google_sheets": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      }
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

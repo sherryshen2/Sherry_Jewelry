@@ -1,0 +1,195 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "f668a34bd2b9f350aacb4a7c30e71df6",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main app title."
+    },
+    {
+      "id": "aece2387c949b0d214c6985fbb58f6ac",
+      "name": "Description",
+      "type": "text",
+      "value": "Stakeholder-ready Jira epic delta reports with saved recipients and email snapshots.",
+      "description": "Short app description."
+    },
+    {
+      "id": "0f7d050cf2057188d945208ef7d59d5e",
+      "name": "Default JQL Template",
+      "type": "text",
+      "value": "(\"Epic Link\" = \"{epic}\" OR parent = \"{epic}\") ORDER BY updated DESC",
+      "description": "JQL used by backend/main.py. Keep {epic} as the placeholder."
+    },
+    {
+      "id": "25eb833c96123343da44d83d0f212b13",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "source_title": "Project source",
+          "report_title": "Email preview",
+          "composer_title": "Send update",
+          "history_title": "Recent briefs",
+          "generate": "Build email preview",
+          "generating": "Generating...",
+          "send": "Send update",
+          "sending": "Sending...",
+          "default_subject": "Project update brief"
+        },
+        "zh": {
+          "source_title": "项目来源",
+          "report_title": "邮件预览",
+          "composer_title": "发送更新",
+          "history_title": "最近简报",
+          "generate": "生成邮件预览",
+          "generating": "生成中...",
+          "send": "发送更新",
+          "sending": "发送中...",
+          "default_subject": "项目更新简报"
+        }
+      },
+      "description": "Language-aware UI copy."
+    }
+  ],
+  "design": [
+    {
+      "id": "cbab1a245ccc41264823e11f61270996",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f3f6fb",
+      "type": "color",
+      "description": "Page background."
+    },
+    {
+      "id": "8c5f18796bf44fecd0746ad58d3e6622",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Panel background."
+    },
+    {
+      "id": "1a70ad6e0b813f333b8cde8123877571",
+      "name": "Input Background",
+      "css_var": "--input-background",
+      "value": "#fbfcfe",
+      "type": "color",
+      "description": "Input background."
+    },
+    {
+      "id": "e0dea1da542a40686ef1789cd9e51a61",
+      "name": "Soft Panel",
+      "css_var": "--soft-panel",
+      "value": "#edf3f8",
+      "type": "color",
+      "description": "Subtle nested panel background."
+    },
+    {
+      "id": "63263ad5309056a37e7682af96d7e9ca",
+      "name": "Ink",
+      "css_var": "--ink-color",
+      "value": "#162033",
+      "type": "color",
+      "description": "Main text color."
+    },
+    {
+      "id": "5f76bd0b41a668056224d1967c71560c",
+      "name": "Muted Ink",
+      "css_var": "--muted-ink-color",
+      "value": "#667085",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "cdead7752a0bab58dfdaa145ca7c8c45",
+      "name": "Accent",
+      "css_var": "--accent-color",
+      "value": "#2f6fed",
+      "type": "color",
+      "description": "Primary action color."
+    },
+    {
+      "id": "09a2944415e25b219f97c8051e9c397e",
+      "name": "Positive",
+      "css_var": "--positive-color",
+      "value": "#087f5b",
+      "type": "color",
+      "description": "Positive status color."
+    },
+    {
+      "id": "d64bceafe6abac2e82f751a68f665999",
+      "name": "Warning",
+      "css_var": "--warning-color",
+      "value": "#c77610",
+      "type": "color",
+      "description": "Warning text color."
+    },
+    {
+      "id": "caf0404e0619deef1abef72029b89eed",
+      "name": "Danger",
+      "css_var": "--danger-color",
+      "value": "#b42318",
+      "type": "color",
+      "description": "Error text color."
+    },
+    {
+      "id": "0ec8d1218d914fb7e1739ba67926c0fc",
+      "name": "Border",
+      "css_var": "--border-color",
+      "value": "#d8e0ea",
+      "type": "color",
+      "description": "Panel border color."
+    },
+    {
+      "id": "1822e865eb36cf91b15302e705c03d2c",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Inter",
+      "type": "font",
+      "description": "Primary app font."
+    },
+    {
+      "id": "b35f2aa602f97fd8499324064c99140c",
+      "name": "Panel Radius",
+      "css_var": "--panel-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Panel radius.",
+      "unit": "px",
+      "min": 0,
+      "max": 20,
+      "step": 1
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Jira",
+      "Email",
+      "Reporting",
+      "Project"
+    ],
+    "app_icon": "mdi:email-newsletter",
+    "integrations": {
+      "jira": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      }
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "template_metadata": {
+      "project_update_email": {
+        "default_jql_template": "(\"Epic Link\" = \"{epic}\" OR parent = \"{epic}\") ORDER BY updated DESC"
+      }
+    },
+    "visibility": "private"
+  },
+  "storage": {}
+}

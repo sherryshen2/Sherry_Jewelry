@@ -1,0 +1,112 @@
+{
+  "product_id": "J001",
+  "stage": "STRUCTURE_BLOCKOUT_NOT_APPROVED",
+  "pendant_body_mm": {
+    "height": 12,
+    "width": 10,
+    "total_depth": 8
+  },
+  "chain_length_mm": 400,
+  "length_convention_pending": "400 mm along assembly centerline including clasp hardware, excluding pendant; no extra extension length added",
+  "confirmed": {
+    "metal": "silver color, user supplied",
+    "center": "one raised pink zirconia",
+    "rim": "silver metal beads per user specification, not an assumed gemstone halo",
+    "back": "heart-shaped open window visible in back reference",
+    "attachment": "two upper side connections, visible in photos",
+    "clasp": "lobster clasp, tag and adjustment ring visible",
+    "clasp_tail": "one small light-colored faceted charm visible; material unknown"
+  },
+  "provisional": {
+    "metal_bead_count": 28,
+    "main_prong_count": 3,
+    "link_semimajor_mm": 1.05,
+    "link_semiminor_mm": 0.65,
+    "link_wire_radius_mm": 0.15,
+    "link_pitch_target_mm": 1.7,
+    "clasp_assembly_span_mm": 28,
+    "adjustment_ring_distance_from_clasp_mm": 20,
+    "extension_length_mm": null,
+    "engraving": "omitted in blockout",
+    "chain_units_and_count": "generated design values, not manufacturer specifications",
+    "hidden_connector_and_clasp_mechanism": "simplified and pending",
+    "main_cut": "faceted approximation, not a manufacturer cutting diagram"
+  },
+  "pendant_estimates_mm": {
+    "stone_width": 7.2,
+    "stone_height": 8.8,
+    "stone_table_depth": 4,
+    "stone_girdle_depth": 1.45,
+    "stone_culet_depth": -2.8,
+    "bead_radius": 0.45,
+    "gallery_front_depth": 1.1,
+    "gallery_back_depth": -4
+  },
+  "appearance": {
+    "silver_base_linear": [
+      0.82,
+      0.85,
+      0.89
+    ],
+    "silver_roughness": 0.2,
+    "pink_base_linear": [
+      0.65,
+      0.055,
+      0.19
+    ],
+    "pink_transmission": 0.48,
+    "pink_roughness": 0.025,
+    "ior_approximation": 2.15,
+    "reference": "reference/吊坠和锁扣细节.jpeg",
+    "emission": 0
+  },
+  "suspension": {
+    "left_controls_mm": [
+      [
+        -4,
+        0,
+        4.3
+      ],
+      [
+        -22,
+        0,
+        24
+      ],
+      [
+        -43,
+        3,
+        65
+      ],
+      [
+        -49,
+        12,
+        120
+      ],
+      [
+        -42,
+        30,
+        150
+      ],
+      [
+        -32,
+        46,
+        157
+      ],
+      [
+        -23,
+        46,
+        157
+      ],
+      [
+        -14,
+        46,
+        157
+      ]
+    ],
+    "hardware_y_mm": 46,
+    "hardware_z_mm": 157,
+    "adjustable": "Control points scaled to target length; regenerate from script after parameter edits"
+  },
+  "source_table": "https://docs.google.com/spreadsheets/d/1SCUNjPpcLw-oNKmQ9amsyVc4vDmPwQLQGUXZtD7cFTw/edit, Sheet1 row Necklace",
+  "coordinate_convention": "Blender X horizontal, Z up, front -Y; source dimensions in mm, geometry and GLB in meters; product root recentered on full product bounds"
+}

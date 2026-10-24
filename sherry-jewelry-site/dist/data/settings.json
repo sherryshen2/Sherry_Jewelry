@@ -1,0 +1,54 @@
+{
+  "brandName": "Sherry Jewelry",
+  "heroBackground": "#F4EDE3",
+  "fontFamily": "Cormorant Garamond",
+  "transitionDuration": 900,
+  "arrivalDuration": 600,
+  "poseBlendDuration": 150,
+  "spinDuration": 1200,
+  "pendantFocus": [
+    -1.339e-06,
+    -0.073023155,
+    0.020015823
+  ],
+  "scenes": {
+    "hero": {
+      "modelUrl": "assets/boutique.glb",
+      "posterUrl": "assets/boutique-poster.webp",
+      "camera": {
+        "target": [
+          0,
+          2.85,
+          -1.1
+        ],
+        "verticalSize": 7.6,
+        "elevation": 8.002663,
+        "yawLimit": 15,
+        "desktopZoom": 1.1
+      },
+      "lightingPreset": "Boutique/v06-soft-front",
+      "motion": {
+        "floatTravelPx": 12,
+        "floatPeriodMs": 5500,
+        "hoverTravelPx": 20,
+        "hoverYawDegrees": 15,
+        "hoverResponseMs": 90
+      }
+    },
+    "display": {
+      "modelUrl": "assets/display.glb",
+      "posterUrl": "assets/display-poster.webp",
+      "camera": {
+        "target": [
+          0,
+          0.177,
+          -0.015
+        ],
+        "verticalSize": 0.4,
+        "elevation": 19,
+        "yawLimit": 15
+      },
+      "lightingPreset": "MainDisplay/v03-light-metal-reflection"
+    }
+  }
+}

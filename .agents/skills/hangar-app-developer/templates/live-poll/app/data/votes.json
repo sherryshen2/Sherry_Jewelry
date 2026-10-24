@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "poll_id",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "poll_slug",
+      "type": "text"
+    },
+    {
+      "name": "option_id",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "option_text",
+      "type": "text"
+    },
+    {
+      "name": "voter_name",
+      "type": "text"
+    },
+    {
+      "name": "voter_email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "name": "created_at",
+      "type": "date"
+    }
+  ],
+  "records": [
+    {
+      "id": "vote-maya",
+      "poll_id": "poll-launch-priority",
+      "poll_slug": "launch-priority",
+      "option_id": "option-compact",
+      "option_text": "Compact mode",
+      "voter_name": "Maya Lin",
+      "voter_email": "maya@example.com",
+      "created_at": "2026-06-21T10:00:00.000Z"
+    },
+    {
+      "id": "vote-jules",
+      "poll_id": "poll-launch-priority",
+      "poll_slug": "launch-priority",
+      "option_id": "option-export",
+      "option_text": "One-click export",
+      "voter_name": "Jules Tan",
+      "voter_email": "jules@example.com",
+      "created_at": "2026-06-21T10:15:00.000Z"
+    }
+  ],
+  "icon": "mdi:vote-outline",
+  "scope": "app"
+}

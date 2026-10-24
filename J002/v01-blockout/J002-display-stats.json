@@ -1,0 +1,38 @@
+{
+  "stage": "STRUCTURE_BLOCKOUT_AWAITING_CONFIRMATION",
+  "triangles": 22412,
+  "source_mesh_objects": 96,
+  "materials": 2,
+  "export_meshes": 2,
+  "stones_each": 8,
+  "stones_total": 16,
+  "bounds_mm": [
+    [
+      -9.861617349088192,
+      -4.998213611543179,
+      -5.849866196513176
+    ],
+    [
+      9.50478482991457,
+      5.208576563745737,
+      5.849162116646767
+    ]
+  ],
+  "single_local_bounds_mm": [
+    [
+      -0.800000037997961,
+      -5.476417485624552,
+      -5.49986632540822
+    ],
+    [
+      0.800000037997961,
+      5.500000435858965,
+      5.499162245541811
+    ]
+  ],
+  "files": {
+    "J002-detail-v01.glb": 1614880,
+    "J002-display-v01.glb": 782172
+  },
+  "source_evaluated_triangles": 21220
+}

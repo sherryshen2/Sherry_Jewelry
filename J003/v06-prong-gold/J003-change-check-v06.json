@@ -1,0 +1,18 @@
+{
+  "metal_v02_reference": [
+    0.76,
+    0.4,
+    0.28
+  ],
+  "metal_v06": [
+    0.7799999713897705,
+    0.45500001311302185,
+    0.27000001072883606,
+    1
+  ],
+  "gem_mesh_attribute_buffers_unchanged": {
+    "J003_MainStone": true,
+    "J003_AccentStones": true
+  },
+  "gem_materials_unchanged": true
+}

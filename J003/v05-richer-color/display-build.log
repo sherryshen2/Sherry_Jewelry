@@ -1,0 +1,16 @@
+Warning: No mesh data to join
+INFO Draco mesh compression is available, use library at /Applications/Blender.app/Contents/Resources/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.dylib
+13:25:51 | INFO: Starting glTF 2.0 export
+13:25:51 | INFO: Extracting primitive: PENDING_Halo_01_Mesh.001
+13:25:51 | INFO: Primitives created: 1
+13:25:51 | INFO: Extracting primitive: 02_Center_Heart_outline_EST_cut_PENDING_Mesh.001
+13:25:51 | INFO: Primitives created: 1
+13:25:51 | INFO: Extracting primitive: 01_Shank_ID16mm_width_EST_Mesh.001
+13:25:51 | INFO: Primitives created: 1
+13:25:51 | INFO: Finished glTF 2.0 export in 0.08025598526000977 s
+
+BUILD_COMPLETE {"stage": "REFINED_V05_RICHER_COLOR_WITH_UNCONFIRMED_UNDERSIDE", "mesh_objects": 140, "export_mesh_objects": 3, "triangles": 18912, "material_count_product": 3, "bounds_min_mm": [-9.274999611079693, -3.5570000763982534, -8.949999697506428], "bounds_max_mm": [9.274999611079693, 3.550102235749364, 10.54999977350235], "dimensions_mm": [18.549999222159386, 7.107102312147617, 19.499999471008778], "files": {"J003-display-v05.glb": 602612, "J003-detail-v05.glb": 1455960, "J003-source-v05.blend": 3479762}}
+J003_DONE
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+
+Blender quit

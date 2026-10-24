@@ -1,0 +1,154 @@
+{
+  "product": "J004",
+  "stage": "structure blockout",
+  "files": {
+    "J004-display-v02.glb": {
+      "bytes": 1935976,
+      "sha256": "582a8ca8660febe2e131a1b03aea7e2f94a4be4fdeec306e5b6f2c85d647b91f"
+    },
+    "render_J004.py": {
+      "bytes": 1080,
+      "sha256": "75363ad87366a28595f2e0581f1dbac3ebe4f7257d0f29de9520f648065d6c2c"
+    },
+    "J004-detail-v02.glb": {
+      "bytes": 4160560,
+      "sha256": "6cd67d6efbd85a6f1a3e7212a22e406050b656c20445519ae52113c9092fd0a0"
+    },
+    "J004-default-v02.png": {
+      "bytes": 1292380,
+      "sha256": "dbc56432925bfb8c1266aff12fc700ef1c6c1f50f3aef997ba49804130a080d9"
+    },
+    "J004-review-board-v02.png": {
+      "bytes": 1754884,
+      "sha256": "9988498e3c0ceefb4da27b831abe5d30cfedaa10be30640ed518348579374ce0"
+    },
+    "J004-web-check-v02.txt": {
+      "bytes": 880,
+      "sha256": "75f2ce558f3f1690c14230a469695285e10b8f249acd265d144a3e9c35420bcd"
+    },
+    "J004-parameters-v02.json": {
+      "bytes": 2990,
+      "sha256": "10104a80e60d07b3c75297ba3c8b435456513e44f5745b3759d082b20233af28"
+    },
+    "J004-unit-side-v02.png": {
+      "bytes": 915024,
+      "sha256": "04947c72a3de7f692b1f686f4d608cc10f5a068e71dc2087d7d66133f400a14d"
+    },
+    "J004-source-v02.blend": {
+      "bytes": 3497513,
+      "sha256": "e2d841304615b91e48e4beb3169230660097729b09a4e5b23e3f85e53d40991c"
+    },
+    "package_J004.py": {
+      "bytes": 2890,
+      "sha256": "cad47f058bed1e5deed711a76a4f9b9235438798203ec3493e7d78610f9b6b3a"
+    },
+    "J004-display-stats.json": {
+      "bytes": 731,
+      "sha256": "af623b14f7c15c8da96359943506a2010e405288697038a96b22bc332cb9f07d"
+    },
+    "J004-bottom-v02.png": {
+      "bytes": 1343777,
+      "sha256": "f706abcb5f6172804478db0f57fb3e5868acbfd3b5adfacfd073596bd1c84886"
+    },
+    "J004-side-v02.png": {
+      "bytes": 1192278,
+      "sha256": "c662f33002073ae1baa897e03f4cee06e462795afb32ee8d898b51f704451ad7"
+    },
+    "build_J004.py": {
+      "bytes": 16546,
+      "sha256": "092024fda89df21e3e84b6cc7163718dc0dcfb721dd70cd78f59dd9ab3ec3556"
+    },
+    "J004-unit-v02.png": {
+      "bytes": 990037,
+      "sha256": "33f8483bf06ae761b63b88265989363d85d3244cb201521a373cfef70c4d4bb5"
+    },
+    "J004-说明与待确认项-v02.txt": {
+      "bytes": 4703,
+      "sha256": "bf92154ba4ed2976e31fb437d6fd78240ae3e3a43f9de28c02d2396a2d601e08"
+    },
+    "validate_J004.py": {
+      "bytes": 7064,
+      "sha256": "484dcb0d05c5e982bb69a14099f5486169b1748e142292b2b6f9f5a0d36871b1"
+    },
+    "J004-detail-stats.json": {
+      "bytes": 734,
+      "sha256": "cdb9f76e78e65fb4fa864cc6a364f643d2592275c097cb85ae7e71cc1c618c43"
+    },
+    "J004-top-v02.png": {
+      "bytes": 1291953,
+      "sha256": "34e00c90f2e779658fcd9f279fd1be0ed5d52e8afab1816cf731499873ee8567"
+    },
+    "J004-web-default-v02.png": {
+      "bytes": 49611,
+      "sha256": "ea81d74e3b0c2bbd0a29408ac61bbbd6377038d98caf51bf165b16095d9eb55b"
+    },
+    "fit_tail_connection.py": {
+      "bytes": 2093,
+      "sha256": "f22fed9f4f6f50ead0bbffe93d1b2585ce41ddb42dc195a7b886990afb47615c"
+    },
+    "J004-back-v02.png": {
+      "bytes": 1227460,
+      "sha256": "b9d2f28ce56be3102f4914ed9a6b2f46cfbf8e6faed31e95ef026b0e955ab47f"
+    },
+    "J004-web-top-v02.png": {
+      "bytes": 48804,
+      "sha256": "f1fd552f5198ea3da5147a3b927077191bd4f08d36d0c116e939c1516b95097e"
+    },
+    "J004-preview-v02.png": {
+      "bytes": 1292380,
+      "sha256": "dbc56432925bfb8c1266aff12fc700ef1c6c1f50f3aef997ba49804130a080d9"
+    },
+    "J004-validation-v02.json": {
+      "bytes": 10412,
+      "sha256": "a6361814bb90e2783e96c6ac614c9dd0b3b7dbcbf9a0d18cd06b248fd94df1b4"
+    },
+    "J004-clasp-v02.png": {
+      "bytes": 1272885,
+      "sha256": "db6c17fc821b330cd29a6cec3f94f1b3b9d485df25f3af4a6f2e04c99185bdea"
+    },
+    "J004-spacing-comparison-v02.png": {
+      "bytes": 668785,
+      "sha256": "2934deac339ae3e340710a4419df1015eb0b671838d9932a89a487818f7e9188"
+    },
+    "viewer/index.html": {
+      "bytes": 4900,
+      "sha256": "af58dd7143bde90c4086b384081e41f1381400d3e264cb9a661b3bd6fa639f84"
+    },
+    "viewer/viewer.js": {
+      "bytes": 9989,
+      "sha256": "cc72407c564bf8419ea1e37df20e510ab993aa102d9d967ac3787db49b8dec09"
+    },
+    "reference/俯视图.jpeg": {
+      "bytes": 72199,
+      "sha256": "415f7ad227b59e782dc3dece985f574587fa8ec4fc4dc6b2776ddccff9cfb851"
+    },
+    "reference/侧面.jpeg": {
+      "bytes": 78776,
+      "sha256": "91f3273504ba5ff99f564578bac8a5e31d15de99c29ae413a87a972d3acd8cfb"
+    },
+    "reference/锁扣与钻石细节.jpeg": {
+      "bytes": 142115,
+      "sha256": "9487a30b3a5d9abe7d86484a60ca8025c347ca5113e4a680e0b1f3a065f23a10"
+    },
+    "viewer/vendor/three.module.js": {
+      "bytes": 603113,
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    },
+    "viewer/vendor/THREE-LICENSE.txt": {
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    "viewer/vendor/three.core.js": {
+      "bytes": 1403455,
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    "viewer/vendor/utils/BufferGeometryUtils.js": {
+      "bytes": 35539,
+      "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+    },
+    "viewer/vendor/loaders/GLTFLoader.js": {
+      "bytes": 114739,
+      "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
+    }
+  }
+}

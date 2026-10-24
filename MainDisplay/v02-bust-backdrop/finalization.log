@@ -1,0 +1,111 @@
+INFO Draco mesh compression is available, use library at /Volumes/Blender/Blender.app/Contents/Resources/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.dylib
+19:16:03 | INFO: Starting glTF 2.0 export
+19:16:03 | INFO: Extracting primitive: M01_Silver_user_spec_display_mesh
+19:16:03 | INFO: Primitives created: 1
+19:16:03 | INFO: Extracting primitive: M02_PinkZircon_reference_approx_display_mesh
+19:16:03 | INFO: Primitives created: 1
+19:16:03 | INFO: Extracting primitive: PENDING_M03_ClaspCharm_light_stone_display_mesh
+19:16:03 | INFO: Primitives created: 1
+19:16:03 | INFO: Finished glTF 2.0 export in 0.07537579536437988 s
+
+Info: Saved as "main-display-source.blend"
+REVISION_SAVED {"version": "v02", "pendant_center_world_m": [-0.052000001072883606, 0.0027692283038049936, 0.21899999678134918], "bust_height_range_m": [0.131, 0.307], "bust_max_width_m": 0.128, "bust_max_depth_m": 0.034, "necklace_paths": {"L": {"links": 110, "centerline_mm": 185.99999234566235, "original_centerline_mm": 186.0000024821755, "back_fold_low_z_mm": 248.7441612482072}, "R": {"links": 110, "centerline_mm": 185.99999427014208, "original_centerline_mm": 186.00000248217606, "back_fold_low_z_mm": 248.7441612482072}}, "background_changes": [{"name": "curtain gold tieback", "width_height_factor": 1.95}, {"name": "curtain gold tieback.001", "width_height_factor": 1.95}, {"name": "curtain tassel", "width_height_factor": 1.95}, {"name": "curtain tassel cord", "width_height_factor": 1.95}, {"name": "curtain tassel cord.001", "width_height_factor": 1.95}, {"name": "curtain tassel.001", "width_height_factor": 1.95}, {"name": "left backdrop drape", "width_height_factor": 1.95}, {"name": "left backdrop drape lace selvedge", "width_height_factor": 1.95}, {"name": "mirror beaded edge", "width_height_factor": 1.95}, {"name": "mirror beaded edge.001", "width_height_factor": 1.95}, {"name": "mirror beaded edge.002", "width_height_factor": 1.95}, {"name": "mirror beaded edge.003", "width_height_factor": 1.95}, {"name": "mirror beaded edge.004", "width_height_factor": 1.95}, {"name": "mirror beaded edge.005", "width_height_factor": 1.95}, {"name": "mirror beaded edge.006", "width_height_factor": 1.95}, {"name": "mirror beaded edge.007", "width_height_factor": 1.95}, {"name": "mirror beaded edge.008", "width_height_factor": 1.95}, {"name": "mirror beaded edge.009", "width_height_factor": 1.95}, {"name": "mirror beaded edge.010", "width_height_factor": 1.95}, {"name": "mirror beaded edge.011", "width_height_factor": 1.95}, {"name": "mirror beaded edge.012", "width_height_factor": 1.95}, {"name": "mirror beaded edge.013", "width_height_factor": 1.95}, {"name": "mirror beaded edge.014", "width_height_factor": 1.95}, {"name": "mirror beaded edge.015", "width_height_factor": 1.95}, {"name": "mirror beaded edge.016", "width_height_factor": 1.95}, {"name": "mirror beaded edge.017", "width_height_factor": 1.95}, {"name": "mirror beaded edge.018", "width_height_factor": 1.95}, {"name": "mirror beaded edge.019", "width_height_factor": 1.95}, {"name": "mirror beaded edge.020", "width_height_factor": 1.95}, {"name": "mirror beaded edge.021", "width_height_factor": 1.95}, {"name": "mirror beaded edge.022", "width_height_factor": 1.95}, {"name": "mirror beaded edge.023", "width_height_factor": 1.95}, {"name": "mirror beaded edge.024", "width_height_factor": 1.95}, {"name": "mirror beaded edge.025", "width_height_factor": 1.95}, {"name": "mirror beaded edge.026", "width_height_factor": 1.95}, {"name": "mirror beaded edge.027", "width_height_factor": 1.95}, {"name": "mirror beaded edge.028", "width_height_factor": 1.95}, {"name": "mirror beaded edge.029", "width_height_factor": 1.95}, {"name": "mirror beaded edge.030", "width_height_factor": 1.95}, {"name": "mirror beaded edge.031", "width_height_factor": 1.95}, {"name": "mirror beaded edge.032", "width_height_factor": 1.95}, {"name": "mirror beaded edge.033", "width_height_factor": 1.95}, {"name": "mirror beaded edge.034", "width_height_factor": 1.95}, {"name": "mirror beaded edge.035", "width_height_factor": 1.95}, {"name": "mirror beaded edge.036", "width_height_factor": 1.95}, {"name": "mirror beaded edge.037", "width_height_factor": 1.95}, {"name": "mirror beaded edge.038", "width_height_factor": 1.95}, {"name": "mirror beaded edge.039", "width_height_factor": 1.95}, {"name": "mirror beaded edge.040", "width_height_factor": 1.95}, {"name": "mirror beaded edge.041", "width_height_factor": 1.95}, {"name": "mirror beaded edge.042", "width_height_factor": 1.95}, {"name": "mirror beaded edge.043", "width_height_factor": 1.95}, {"name": "mirror beaded edge.044", "width_height_factor": 1.95}, {"name": "mirror beaded edge.045", "width_height_factor": 1.95}, {"name": "mirror beaded edge.046", "width_height_factor": 1.95}, {"name": "mirror beaded edge.047", "width_height_factor": 1.95}, {"name": "mirror console ledge", "width_height_factor": 1.95}, {"name": "mirror crown crest", "width_height_factor": 1.95}, {"name": "mirror crown crest.001", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus fine vein", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus fine vein.001", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus fine vein.002", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus fine vein.003", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus fine vein.004", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus fine vein.005", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus fine vein.006", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus fine vein.007", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus fine vein.008", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus fine vein.009", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus.001", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus.002", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus.003", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus.004", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus.005", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus.006", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus.007", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus.008", "width_height_factor": 1.95}, {"name": "mirror crown detail acanthus.009", "width_height_factor": 1.95}, {"name": "mirror crown detail inner tendril", "width_height_factor": 1.95}, {"name": "mirror crown detail inner tendril.001", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan fine vein", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan fine vein.001", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan fine vein.002", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan fine vein.003", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan fine vein.004", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan fine vein.005", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan fine vein.006", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan fine vein.007", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan.001", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan.002", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan.003", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan.004", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan.005", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan.006", "width_height_factor": 1.95}, {"name": "mirror crown detail lower fan.007", "width_height_factor": 1.95}, {"name": "mirror crown foliage", "width_height_factor": 1.95}, {"name": "mirror crown foliage.001", "width_height_factor": 1.95}, {"name": "mirror crown foliage.002", "width_height_factor": 1.95}, {"name": "mirror crown foliage.003", "width_height_factor": 1.95}, {"name": "mirror crown foliage.004", "width_height_factor": 1.95}, {"name": "mirror crown foliage.005", "width_height_factor": 1.95}, {"name": "mirror crown heart", "width_height_factor": 1.95}, {"name": "mirror crown stem", "width_height_factor": 1.95}, {"name": "mirror crown stem.001", "width_height_factor": 1.95}, {"name": "mirror crown volute", "width_height_factor": 1.95}, {"name": "mirror crown volute.001", "width_height_factor": 1.95}, {"name": "mirror foliage", "width_height_factor": 1.95}, {"name": "mirror foliage.001", "width_height_factor": 1.95}, {"name": "mirror foliage.002", "width_height_factor": 1.95}, {"name": "mirror foliage.003", "width_height_factor": 1.95}, {"name": "mirror foliage.004", "width_height_factor": 1.95}, {"name": "mirror foliage.005", "width_height_factor": 1.95}, {"name": "mirror layered frame", "width_height_factor": 1.95}, {"name": "mirror layered frame.001", "width_height_factor": 1.95}, {"name": "mirror layered frame.002", "width_height_factor": 1.95}, {"name": "mirror layered frame.003", "width_height_factor": 1.95}, {"name": "oval mirror glass", "width_height_factor": 1.95}, {"name": "right backdrop drape", "width_height_factor": 1.95}, {"name": "right backdrop drape lace selvedge", "width_height_factor": 1.95}, {"name": "soft oyster backdrop", "width_height_factor": 1.95}, {"name": "rear dado", "width_height_factor": 1.95}, {"name": "background cabinet silhouette", "width_height_factor": 1.6}, {"name": "quiet background panel", "width_height_factor": 1.6}, {"name": "background cabinet silhouette.001", "width_height_factor": 1.6}, {"name": "quiet background panel.001", "width_height_factor": 1.6}], "other_product_anchors_preserved": true}
+19:16:04 | INFO: Starting glTF 2.0 export
+19:16:04 | INFO: Extracting primitive: cabriole counter foot
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: central applied moulding
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: counter apron inner tendril
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: counter central recessed panel.001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: blush drawer inset.003
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: shared 05 | champagne polished accents(16, 10).002
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: continuous flattened bust surface.001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: earrings blush inset.001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: curtain gold tieback
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: left backdrop drape.001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: left backdrop drape lace selvedge.001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: shared 05 | champagne polished accents(10, 6).001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: mirror console ledge.001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: mirror crown detail acanthus.010
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: shared 16 | softened silver mirror(64, 32).001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: soft oyster backdrop.001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: shared 17 | muted eucalyptus(16, 10).001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: shared 19 | buttercream petals(12, 8).001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: shared 18 | pale blush petals(12, 8).001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: folded lace table runner.001
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Extracting primitive: silk ribbon band.002
+19:16:04 | INFO: Primitives created: 1
+19:16:04 | INFO: Finished glTF 2.0 export in 0.19834494590759277 s
+
+SCENE_EXPORTED 148102
+{"unchanged_scene_transforms": true, "unchanged_original_material_settings": true, "pendant_gem_center_world_m": [-0.052000001072883606, 0.0021692279260605574, 0.2190040424466133], "necklace_fit_sample_count": 11845, "minimum_signed_fabric_clearance_mm": 0.08206737948057707, "penetrations_over_0_15mm": 0, "examples": []}
+19:16:05 | INFO: Data are loaded, start creating Blender stuff
+19:16:05 | INFO: Blender create Mesh node cabriole counter foot
+19:16:05 | INFO: Blender create Mesh node central applied moulding
+19:16:05 | INFO: Blender create Mesh node counter apron inner tendril
+19:16:05 | INFO: Blender create Mesh node counter central recessed panel.001
+19:16:05 | INFO: Blender create Mesh node blush drawer inset.003
+19:16:05 | INFO: Blender create Mesh node shared 05 | champagne polished accents(16, 10).002
+19:16:05 | INFO: Blender create Mesh node continuous flattened bust surface.001
+19:16:05 | INFO: Blender create Mesh node earrings blush inset.001
+19:16:05 | INFO: Blender create Mesh node curtain gold tieback
+19:16:05 | INFO: Blender create Mesh node left backdrop drape.001
+19:16:05 | INFO: Blender create Mesh node left backdrop drape lace selvedge.001
+19:16:05 | INFO: Blender create Mesh node shared 05 | champagne polished accents(10, 6).001
+19:16:05 | INFO: Blender create Mesh node mirror console ledge.001
+19:16:05 | INFO: Blender create Mesh node mirror crown detail acanthus.010
+19:16:05 | INFO: Blender create Mesh node shared 16 | softened silver mirror(64, 32).001
+19:16:05 | INFO: Blender create Mesh node soft oyster backdrop.001
+19:16:05 | INFO: Blender create Mesh node shared 17 | muted eucalyptus(16, 10).001
+19:16:05 | INFO: Blender create Mesh node shared 19 | buttercream petals(12, 8).001
+19:16:05 | INFO: Blender create Mesh node shared 18 | pale blush petals(12, 8).001
+19:16:05 | INFO: Blender create Mesh node folded lace table runner.001
+19:16:05 | INFO: Blender create Mesh node silk ribbon band.002
+19:16:05 | INFO: glTF import finished in 0.12s
+19:16:05 | INFO: Data are loaded, start creating Blender stuff
+19:16:05 | INFO: Blender create Mesh node M01_Silver_user_spec_display_mesh
+19:16:05 | INFO: Blender create Mesh node M02_PinkZircon_reference_approx_display_mesh
+19:16:05 | INFO: Blender create Mesh node PENDING_M03_ClaspCharm_light_stone_display_mesh
+19:16:05 | INFO: glTF import finished in 0.08s
+19:16:05 | INFO: Data are loaded, start creating Blender stuff
+19:16:05 | INFO: Blender create Mesh node earrings_left_earring_M01_925Silver_appearance
+19:16:05 | INFO: Blender create Mesh node earrings_left_earring_M02_ColorlessCZ_optics_EST
+19:16:05 | INFO: Blender create Mesh node earrings_right_earring_M01_925Silver_appearance
+19:16:05 | INFO: Blender create Mesh node earrings_right_earring_M02_ColorlessCZ_optics_EST
+19:16:05 | INFO: glTF import finished in 0.04s
+19:16:05 | INFO: Data are loaded, start creating Blender stuff
+19:16:05 | INFO: Blender create Mesh node ring_body_M01_RoseGold_user_color
+19:16:05 | INFO: Blender create Mesh node ring_body_M02_PinkStone_optics_PENDING
+19:16:05 | INFO: Blender create Mesh node ring_body_M03_PinkAccent_optics_PENDING
+19:16:05 | INFO: glTF import finished in 0.05s
+19:16:05 | INFO: Data are loaded, start creating Blender stuff
+19:16:05 | INFO: Blender create Mesh node bracelet_body_M01_925Silver
+19:16:05 | INFO: Blender create Mesh node bracelet_body_M02_ColorlessCZ_EST
+19:16:05 | INFO: glTF import finished in 0.09s
+{"reassembled_from_exported_files": true, "scene_only_fixed_geometry_and_anchors": true, "source_and_export_world_bounds_match": true, "products": {"necklace": {"bounds_match_error_m": 7.450580596923828e-09, "bounds_blender_world_m": [[-0.07460735738277435, -0.0012307725846767426, 0.2150000035762787], [-0.029385464265942574, 0.06532999873161316, 0.2940095365047455]], "earring_children": null}, "earrings": {"bounds_match_error_m": 0.0, "bounds_blender_world_m": [[0.059212107211351395, 0.01899971067905426, 0.2491505742073059], [0.07842780649662018, 0.029214996844530106, 0.2608499825000763]], "earring_children": ["left_earring", "right_earring"]}, "ring": {"bounds_match_error_m": 0.0, "bounds_blender_world_m": [[-0.08925650268793106, -0.07401683181524277, 0.13998831808567047], [-0.07074349373579025, -0.05593457072973251, 0.15286196768283844]], "earring_children": null}, "bracelet": {"bounds_match_error_m": 1.862645149230957e-09, "bounds_blender_world_m": [[0.04303788021206856, -0.06249157711863518, 0.1376820057630539], [0.10283768177032471, -0.015101226978003979, 0.17581972479820251]], "earring_children": null}}, "fit_diagnostics": {"necklace_sampled_vertices": 16403, "bust_penetrations_over_0_15mm": 0, "max_signed_penetration_mm": 0.05534566025744425, "penetration_examples": [], "note": "Signed nearest-surface check is a diagnostic, not a manufacturing fit certification."}, "known_review_items": ["v02 revised bust, necklace drape and enlarged backdrop.", "Existing jewelry dimensions and optical approximations remain as source notes.", "Rigid product animation only; no flexible chain deformation."]}
+Blender 4.5.15 LTS (hash 5afeabba6097 built 2026-10-22 01:31:45)
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v01-layout/main-display-source.blend"
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v02-bust-backdrop/main-display-source.blend"
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v01-layout/main-display-source.blend"
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v02-bust-backdrop/main-display-source.blend"
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v02-bust-backdrop/main-display-source.blend"
+
+Blender quit

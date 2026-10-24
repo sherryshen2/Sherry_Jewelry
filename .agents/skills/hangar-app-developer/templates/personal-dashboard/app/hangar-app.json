@@ -1,0 +1,428 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "0b85e436766e5bfb4bef46e0a8852294",
+      "name": "Eyebrow",
+      "type": "text",
+      "value": "Personal command center",
+      "description": "Small label above the dashboard name."
+    },
+    {
+      "id": "124ccd7389bf8a1db9535edab6b41014",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main dashboard title."
+    },
+    {
+      "id": "95eec89c9f87b7019054dcabeccf2071",
+      "name": "Refresh Button",
+      "type": "text",
+      "value": "Refresh",
+      "description": "Button text for reloading dashboard data."
+    },
+    {
+      "id": "655afa1db78588e603daf8543d0e5f36",
+      "name": "Today Label",
+      "type": "text",
+      "value": "Today",
+      "description": "Label above the current focus summary."
+    },
+    {
+      "id": "385bb7c215dbfb47f46b1673fbc8100b",
+      "name": "Clear Day Title",
+      "type": "text",
+      "value": "Your day is clear",
+      "description": "Shown when there are no open tasks."
+    },
+    {
+      "id": "a86fe7c52978517e378a0d24a4b3d575",
+      "name": "Open Tasks Label",
+      "type": "text",
+      "value": "Open focus items",
+      "description": "Label beside the open task count."
+    },
+    {
+      "id": "d3bbb49f21e3e29caf414b2bf4a93ca2",
+      "name": "Completed Today Label",
+      "type": "text",
+      "value": "Done today",
+      "description": "Fallback metric label."
+    },
+    {
+      "id": "120ef079a1a0447ca8c75b6da8270194",
+      "name": "Metric Hint",
+      "type": "text",
+      "value": "Seeded from your dashboard metrics table",
+      "description": "Small helper text under the first metric."
+    },
+    {
+      "id": "875fc5c88243a43d500ccec5840c0773",
+      "name": "Notes Label",
+      "type": "text",
+      "value": "Notes",
+      "description": "Metric label for notes."
+    },
+    {
+      "id": "a6c1489b3ffe011c5eb52d4687b9dc6e",
+      "name": "Notes Hint",
+      "type": "text",
+      "value": "Recent captures",
+      "description": "Small helper text under note count."
+    },
+    {
+      "id": "361a3dcadae97b40ecc55bf898d11da7",
+      "name": "Links Label",
+      "type": "text",
+      "value": "Links",
+      "description": "Metric label for quick links."
+    },
+    {
+      "id": "3dd92a0166c0404b5b300ed8cf781c83",
+      "name": "Links Hint",
+      "type": "text",
+      "value": "Pinned places",
+      "description": "Small helper text under link count."
+    },
+    {
+      "id": "1448c7048347bad694599afa6a792e39",
+      "name": "Focus Label",
+      "type": "text",
+      "value": "Focus",
+      "description": "Small label above task panel title."
+    },
+    {
+      "id": "54fd4e9668ff3879cddaf5ed068b2574",
+      "name": "Tasks Title",
+      "type": "text",
+      "value": "Priorities",
+      "description": "Task panel title."
+    },
+    {
+      "id": "5bc6a70b71d2340e3334cc514685847e",
+      "name": "Area Filter Label",
+      "type": "text",
+      "value": "Filter by area",
+      "description": "Accessible label for area filter."
+    },
+    {
+      "id": "0fb3b3db326988603f18d18c56a45f1a",
+      "name": "Task Placeholder",
+      "type": "text",
+      "value": "Add a focus item",
+      "description": "Task input placeholder."
+    },
+    {
+      "id": "d6f0bd88d50efe60398bf705386fa02a",
+      "name": "Add Task Button",
+      "type": "text",
+      "value": "Add task",
+      "description": "Button text for adding tasks."
+    },
+    {
+      "id": "00e620fdd011907ddb915c7f15d56cad",
+      "name": "Loading Label",
+      "type": "text",
+      "value": "Loading dashboard...",
+      "description": "Loading state text."
+    },
+    {
+      "id": "298a659826a672b2ca729492877e0020",
+      "name": "Empty Tasks Label",
+      "type": "text",
+      "value": "No tasks in this area.",
+      "description": "Empty task list message."
+    },
+    {
+      "id": "42d1d99cc9fb1b309d80c0c969b50e75",
+      "name": "Capture Label",
+      "type": "text",
+      "value": "Capture",
+      "description": "Small label above quick note."
+    },
+    {
+      "id": "09ddc41c1cce0ff8a20a3fa9a581acd1",
+      "name": "Notes Title",
+      "type": "text",
+      "value": "Quick notes",
+      "description": "Notes panel title."
+    },
+    {
+      "id": "93a818fdefe1870f271dcb86d79a7472",
+      "name": "Note Placeholder",
+      "type": "text",
+      "value": "Write a thought, reminder, or decision...",
+      "description": "Note input placeholder."
+    },
+    {
+      "id": "e2e0a1d9771b46852f295c8b04289f61",
+      "name": "Add Note Button",
+      "type": "text",
+      "value": "Save note",
+      "description": "Button text for adding notes."
+    },
+    {
+      "id": "ee4fa7a597688157bb38ddf2b6cb1307",
+      "name": "Launch Label",
+      "type": "text",
+      "value": "Launch",
+      "description": "Small label above links."
+    },
+    {
+      "id": "e888ac4148a37d148f4fa857acb5839b",
+      "name": "Links Title",
+      "type": "text",
+      "value": "Quick links",
+      "description": "Links panel title."
+    },
+    {
+      "id": "3bdddafee2c498f11a09b802b260462f",
+      "name": "Link Fallback Category",
+      "type": "text",
+      "value": "Pinned",
+      "description": "Fallback quick link category."
+    },
+    {
+      "id": "4e358f14c5991f617688ee6953c63df1",
+      "name": "No Date Label",
+      "type": "text",
+      "value": "No date",
+      "description": "Fallback date label."
+    },
+    {
+      "id": "2469d3a2ab38ba215f32f891d2d1f303",
+      "name": "Backend Unavailable",
+      "type": "text",
+      "value": "Backend summary is not available yet.",
+      "description": "Fallback backend summary."
+    },
+    {
+      "id": "72c934575c83f4b06a3c631747e4d711",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "app_aria": "Personal dashboard",
+          "eyebrow": "Personal command center",
+          "refresh_button": "Refresh",
+          "today_label": "Today",
+          "clear_day_title": "Your day is clear",
+          "open_tasks_label": "Open focus items",
+          "completed_today_label": "Done today",
+          "metric_hint": "Seeded from your dashboard metrics table",
+          "notes_label": "Notes",
+          "notes_hint": "Recent captures",
+          "links_label": "Links",
+          "links_hint": "Pinned places",
+          "focus_tasks_aria": "Focus tasks",
+          "focus_label": "Focus",
+          "tasks_title": "Priorities",
+          "area_filter_label": "Filter by area",
+          "task_placeholder": "Add a focus item",
+          "add_task_button": "Add task",
+          "loading_label": "Loading dashboard...",
+          "empty_tasks_label": "No tasks in this area.",
+          "quick_note_aria": "Quick note",
+          "capture_label": "Capture",
+          "notes_title": "Quick notes",
+          "note_placeholder": "Write a thought, reminder, or decision...",
+          "add_note_button": "Save note",
+          "quick_links_aria": "Quick links",
+          "launch_label": "Launch",
+          "links_title": "Quick links",
+          "link_fallback_category": "Pinned",
+          "no_date_label": "No date",
+          "backend_unavailable": "Backend summary is not available yet."
+        },
+        "zh": {
+          "app_aria": "个人仪表盘",
+          "eyebrow": "个人指挥中心",
+          "refresh_button": "刷新",
+          "today_label": "今天",
+          "clear_day_title": "今天很清爽",
+          "open_tasks_label": "未完成重点项",
+          "completed_today_label": "今日完成",
+          "metric_hint": "来自你的仪表盘指标表",
+          "notes_label": "笔记",
+          "notes_hint": "最近记录",
+          "links_label": "链接",
+          "links_hint": "置顶位置",
+          "focus_tasks_aria": "重点任务",
+          "focus_label": "重点",
+          "tasks_title": "优先事项",
+          "area_filter_label": "按领域筛选",
+          "task_placeholder": "添加重点事项",
+          "add_task_button": "添加任务",
+          "loading_label": "仪表盘加载中...",
+          "empty_tasks_label": "这个领域还没有任务。",
+          "quick_note_aria": "快速笔记",
+          "capture_label": "记录",
+          "notes_title": "快速笔记",
+          "note_placeholder": "写下想法、提醒或决定...",
+          "add_note_button": "保存笔记",
+          "quick_links_aria": "快速链接",
+          "launch_label": "启动",
+          "links_title": "快速链接",
+          "link_fallback_category": "置顶",
+          "no_date_label": "无日期",
+          "backend_unavailable": "后端摘要暂不可用。"
+        }
+      },
+      "description": "Language-aware copy keyed by Hangar language id."
+    }
+  ],
+  "design": [
+    {
+      "id": "0fa84e4e1c7d7558d6d954a89d1aa989",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#edf3f7",
+      "type": "color",
+      "description": "Dashboard page background."
+    },
+    {
+      "id": "6a0b23343d165ac05a5143321a433d80",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Panel background."
+    },
+    {
+      "id": "65d19a6247ddee320e135baa289e98c9",
+      "name": "Soft Panel",
+      "css_var": "--soft-panel",
+      "value": "#f7fafb",
+      "type": "color",
+      "description": "Task, note, and link row background."
+    },
+    {
+      "id": "aa005ac9746dc625607b835a2edabe7d",
+      "name": "Hero Background",
+      "css_var": "--hero-background",
+      "value": "#19323c",
+      "type": "color",
+      "description": "Hero summary background."
+    },
+    {
+      "id": "239b2212b9a57d111b7b211035e628b7",
+      "name": "Hero Text",
+      "css_var": "--hero-text-color",
+      "value": "#f8fbfc",
+      "type": "color",
+      "description": "Hero summary text color."
+    },
+    {
+      "id": "3adf1fee9c793244dde1bda7345d54fc",
+      "name": "Ink",
+      "css_var": "--ink-color",
+      "value": "#18212f",
+      "type": "color",
+      "description": "Main text color."
+    },
+    {
+      "id": "04fc2dd44ef8898d4b180f6dba766451",
+      "name": "Muted Ink",
+      "css_var": "--muted-ink-color",
+      "value": "#66788a",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "4a88301dcade0266e07323b9b0a3c863",
+      "name": "Accent",
+      "css_var": "--accent-color",
+      "value": "#1f7a8c",
+      "type": "color",
+      "description": "Primary action color."
+    },
+    {
+      "id": "8e565cf4ab8aad42b8ddcaf19935ccbc",
+      "name": "Highlight",
+      "css_var": "--highlight-color",
+      "value": "#f6bd60",
+      "type": "color",
+      "description": "Circular score and avatar accent."
+    },
+    {
+      "id": "2ab216687311ba3c39e5e7d6180d0137",
+      "name": "Button Text Color",
+      "css_var": "--button-text-color",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Text color on primary buttons."
+    },
+    {
+      "id": "066fa1e1a9f6e1335e6e062f6c74ca29",
+      "name": "Border Color",
+      "css_var": "--border-color",
+      "value": "#d9e2ea",
+      "type": "color",
+      "description": "Panel and control borders."
+    },
+    {
+      "id": "ce7e744516c9b1103af622a941972845",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Inter",
+      "type": "font",
+      "description": "Primary dashboard font."
+    },
+    {
+      "id": "85cf4d7b29639dbf168e11e75131d37f",
+      "name": "Panel Radius",
+      "css_var": "--panel-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Radius for panels.",
+      "unit": "px",
+      "min": 0,
+      "max": 28,
+      "step": 1
+    },
+    {
+      "id": "1271a60a2fa24bc3aaacb2d4427286c2",
+      "name": "Control Radius",
+      "css_var": "--control-radius",
+      "value": "6px",
+      "type": "radius",
+      "description": "Radius for controls and rows.",
+      "unit": "px",
+      "min": 0,
+      "max": 24,
+      "step": 1
+    },
+    {
+      "id": "9ba63c375e6ba1ee45b50aad5ae31e34",
+      "name": "Page Padding",
+      "css_var": "--page-padding",
+      "value": "1.5rem",
+      "type": "size",
+      "description": "Outer page padding.",
+      "unit": "rem",
+      "min": 0,
+      "max": 5,
+      "step": 0.25
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Dashboard",
+      "Personal",
+      "Data",
+      "Python"
+    ],
+    "app_icon": "mdi:view-dashboard-edit-outline",
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

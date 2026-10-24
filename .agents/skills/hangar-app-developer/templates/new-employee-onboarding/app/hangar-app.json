@@ -1,0 +1,464 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "20f6dde8fb6e438528cec93ab3d5e9e1",
+      "name": "Eyebrow",
+      "type": "text",
+      "value": "Welcome aboard",
+      "description": "Small label above the app title."
+    },
+    {
+      "id": "b71b25a11e6db7d698013cc62b0439b1",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main onboarding title."
+    },
+    {
+      "id": "018cef7ec03c7d748fdcc9281914aa47",
+      "name": "Welcome Text",
+      "type": "text",
+      "value": "A guided checklist for new hires to get set up, meet the right people, and feel productive from day one.",
+      "description": "Intro copy shown below the title."
+    },
+    {
+      "id": "d9649ba79a930f234514aa064c2916a1",
+      "name": "Signed In Label",
+      "type": "text",
+      "value": "New teammate",
+      "description": "Fallback name when the signed-in user cannot be read."
+    },
+    {
+      "id": "4cdb8756251a2ad9f4dacfa9f55be9da",
+      "name": "Progress Label",
+      "type": "text",
+      "value": "Onboarding progress",
+      "description": "Label above the progress bar."
+    },
+    {
+      "id": "ef8e89c4ed1db040673f0c425d092a8a",
+      "name": "Complete Label",
+      "type": "text",
+      "value": "complete",
+      "description": "Text shown after the progress percentage."
+    },
+    {
+      "id": "f8d2eaa326e1d31ccd3b1ab795d5c3f5",
+      "name": "All Stages Label",
+      "type": "text",
+      "value": "All steps",
+      "description": "Filter button label for every checklist item."
+    },
+    {
+      "id": "06d85b694f99e94556aed932a8c71a91",
+      "name": "Next Step Label",
+      "type": "text",
+      "value": "Next up",
+      "description": "Label above the suggested next checklist item."
+    },
+    {
+      "id": "afd6162b4858f0e56ea7dae8e87cb98c",
+      "name": "Finished Title",
+      "type": "text",
+      "value": "You are all set",
+      "description": "Title shown when every item is complete."
+    },
+    {
+      "id": "7c5632962f6c21203df55cc8e4da447a",
+      "name": "Finished Text",
+      "type": "text",
+      "value": "Great work. Your onboarding checklist is complete and saved to your user profile.",
+      "description": "Message shown after the checklist is finished."
+    },
+    {
+      "id": "35f5e5edaf3453f33d80f1ce8b28b607",
+      "name": "Loading Message",
+      "type": "text",
+      "value": "Loading your checklist...",
+      "description": "Loading state while user data is fetched."
+    },
+    {
+      "id": "5fdc7da82c22f3eecb80221bcc8544f5",
+      "name": "Empty State",
+      "type": "text",
+      "value": "No checklist items are configured yet.",
+      "description": "Shown when the JSON checklist is empty."
+    },
+    {
+      "id": "3473622efd292967fdfc8566efbb9377",
+      "name": "Reset Button",
+      "type": "text",
+      "value": "Reset progress",
+      "description": "Button text for clearing this user progress."
+    },
+    {
+      "id": "59266d6bc140f3824675261db0d56942",
+      "name": "Completion Toast",
+      "type": "text",
+      "value": "Nice. Progress saved.",
+      "description": "Short message shown after a task is completed."
+    },
+    {
+      "id": "d5bd8a7a53b39c2582f2f6ba64c662d7",
+      "name": "Footer Note",
+      "type": "text",
+      "value": "Checklist content is editable from the Content tab. Completion status is stored per signed-in user.",
+      "description": "Small footer note."
+    },
+    {
+      "id": "41f4d822c458d2749fcae84b68c65f66",
+      "name": "Checklist Items",
+      "type": "json",
+      "value": [
+        {
+          "stage": "Before day one",
+          "icon": "lucide:calendar-check",
+          "items": [
+            {
+              "key": "profile-paperwork",
+              "title": "Complete employee profile and paperwork",
+              "description": "Fill in required HR details, emergency contacts, payroll setup, and policy acknowledgements.",
+              "duration": "20 min",
+              "owner": "People team"
+            },
+            {
+              "key": "workspace-access",
+              "title": "Confirm workspace and system access",
+              "description": "Check email, chat, calendar, VPN, password manager, and core team tools before your first meeting.",
+              "duration": "15 min",
+              "owner": "IT"
+            }
+          ]
+        },
+        {
+          "stage": "First week",
+          "icon": "lucide:sparkles",
+          "items": [
+            {
+              "key": "manager-kickoff",
+              "title": "Meet your manager for kickoff",
+              "description": "Align on role expectations, first-week priorities, communication norms, and success signals.",
+              "duration": "45 min",
+              "owner": "Manager"
+            },
+            {
+              "key": "team-intros",
+              "title": "Schedule key team introductions",
+              "description": "Meet your immediate teammates, partner teams, and your onboarding buddy.",
+              "duration": "60 min",
+              "owner": "Onboarding buddy"
+            },
+            {
+              "key": "first-deliverable",
+              "title": "Pick a first small deliverable",
+              "description": "Choose one useful starter task that helps you learn the workflow and ship something real.",
+              "duration": "30 min",
+              "owner": "Manager"
+            }
+          ]
+        },
+        {
+          "stage": "First month",
+          "icon": "lucide:rocket",
+          "items": [
+            {
+              "key": "learning-plan",
+              "title": "Create a 30-day learning plan",
+              "description": "List the products, systems, meetings, and documents you need to understand this month.",
+              "duration": "30 min",
+              "owner": "You"
+            },
+            {
+              "key": "feedback-loop",
+              "title": "Set up a feedback checkpoint",
+              "description": "Book a short retro with your manager to review what is working and where support is needed.",
+              "duration": "20 min",
+              "owner": "Manager"
+            }
+          ]
+        }
+      ],
+      "description": "Configurable onboarding checklist. Use stages with items; each item should keep a stable key so user progress survives title edits."
+    },
+    {
+      "id": "2a1e6d7761658f43ccd02bea5c6aea96",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "app_aria": "Employee onboarding checklist",
+          "eyebrow": "Welcome aboard",
+          "welcome_text": "A guided checklist for new hires to get set up, meet the right people, and feel productive from day one.",
+          "signed_in_label": "New teammate",
+          "progress_label": "Onboarding progress",
+          "complete_label": "complete",
+          "stages_aria": "Checklist stages",
+          "all_stages_label": "All steps",
+          "next_step_label": "Next up",
+          "finished_title": "You are all set",
+          "finished_text": "Great work. Your onboarding checklist is complete and saved to your user profile.",
+          "loading_message": "Loading your checklist...",
+          "empty_state": "No checklist items are configured yet.",
+          "reset_button": "Reset progress",
+          "completion_toast": "Nice. Progress saved.",
+          "footer_note": "Checklist content is editable from the Content tab. Completion status is stored per signed-in user.",
+          "save_error": "Could not save progress. Please try again.",
+          "reset_error": "Could not reset progress. Please try again."
+        },
+        "zh": {
+          "app_aria": "员工入职清单",
+          "eyebrow": "欢迎加入",
+          "welcome_text": "一份新员工入职清单，帮助完成准备、认识关键伙伴，并从第一天开始高效进入状态。",
+          "signed_in_label": "新同事",
+          "progress_label": "入职进度",
+          "complete_label": "已完成",
+          "stages_aria": "清单阶段",
+          "all_stages_label": "全部步骤",
+          "next_step_label": "下一步",
+          "finished_title": "全部完成",
+          "finished_text": "做得很好。你的入职清单已完成，并保存到你的用户资料中。",
+          "loading_message": "正在加载清单...",
+          "empty_state": "还没有配置清单项目。",
+          "reset_button": "重置进度",
+          "completion_toast": "很好，进度已保存。",
+          "footer_note": "清单内容可在 Content 标签页编辑。完成状态会按登录用户保存。",
+          "save_error": "无法保存进度，请重试。",
+          "reset_error": "无法重置进度，请重试。",
+          "checklist_items": [
+            {
+              "stage": "第一天前",
+              "icon": "lucide:calendar-check",
+              "items": [
+                {
+                  "key": "profile-paperwork",
+                  "title": "完成员工资料和必要文件",
+                  "description": "填写 HR 必需信息、紧急联系人、薪资设置和政策确认。",
+                  "duration": "20 分钟",
+                  "owner": "People 团队"
+                },
+                {
+                  "key": "workspace-access",
+                  "title": "确认工作区和系统权限",
+                  "description": "首次会议前检查邮箱、聊天、日历、VPN、密码管理器和核心团队工具。",
+                  "duration": "15 分钟",
+                  "owner": "IT"
+                }
+              ]
+            },
+            {
+              "stage": "第一周",
+              "icon": "lucide:sparkles",
+              "items": [
+                {
+                  "key": "manager-kickoff",
+                  "title": "与主管进行启动沟通",
+                  "description": "对齐角色期待、第一周重点、沟通方式和成功信号。",
+                  "duration": "45 分钟",
+                  "owner": "主管"
+                },
+                {
+                  "key": "team-intros",
+                  "title": "安排关键团队介绍",
+                  "description": "认识直属同事、合作团队和入职伙伴。",
+                  "duration": "60 分钟",
+                  "owner": "入职伙伴"
+                },
+                {
+                  "key": "first-deliverable",
+                  "title": "选择一个小的首个交付项",
+                  "description": "选择一个能帮助你熟悉流程并交付真实价值的入门任务。",
+                  "duration": "30 分钟",
+                  "owner": "主管"
+                }
+              ]
+            },
+            {
+              "stage": "第一个月",
+              "icon": "lucide:rocket",
+              "items": [
+                {
+                  "key": "learning-plan",
+                  "title": "制定 30 天学习计划",
+                  "description": "列出本月需要了解的产品、系统、会议和文档。",
+                  "duration": "30 分钟",
+                  "owner": "你"
+                },
+                {
+                  "key": "feedback-loop",
+                  "title": "建立反馈检查点",
+                  "description": "和主管预约一次简短复盘，看看哪些顺利、哪里需要支持。",
+                  "duration": "20 分钟",
+                  "owner": "主管"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "description": "Language-aware copy keyed by Hangar language id."
+    }
+  ],
+  "design": [
+    {
+      "id": "59e47b1a3f857bf107988eebb186bd94",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f4f7f2",
+      "type": "color",
+      "description": "Outer page background."
+    },
+    {
+      "id": "f38ec7bee931af5501ea5a2e309d2884",
+      "name": "Surface Background",
+      "css_var": "--surface-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Main surface background."
+    },
+    {
+      "id": "6f49acbf2d6721490e28ef2e6a8bd395",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#f8fafb",
+      "type": "color",
+      "description": "Secondary panel background."
+    },
+    {
+      "id": "293a42c166ea6cc03c53742832145118",
+      "name": "Ink Color",
+      "css_var": "--ink-color",
+      "value": "#17211f",
+      "type": "color",
+      "description": "Main text color."
+    },
+    {
+      "id": "c1429d42fee32f741cb1e4b5031e491b",
+      "name": "Muted Ink",
+      "css_var": "--muted-ink-color",
+      "value": "#60706a",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "583cec4ca3b30dbe1b17f28514da4d3b",
+      "name": "Border Color",
+      "css_var": "--border-color",
+      "value": "#d9e2dc",
+      "type": "color",
+      "description": "Panel and row borders."
+    },
+    {
+      "id": "574c092b6aaf2c23913b2e8f3e7ba6b4",
+      "name": "Accent Color",
+      "css_var": "--accent-color",
+      "value": "#1f7a6b",
+      "type": "color",
+      "description": "Primary action and progress color."
+    },
+    {
+      "id": "541c68e5f139d29983b06ae3679ef77f",
+      "name": "Warm Accent",
+      "css_var": "--warm-accent-color",
+      "value": "#e4572e",
+      "type": "color",
+      "description": "Secondary highlight color."
+    },
+    {
+      "id": "41ceb0bfc2a863f694df3583481145ef",
+      "name": "Soft Accent",
+      "css_var": "--soft-accent-color",
+      "value": "#e1f2ec",
+      "type": "color",
+      "description": "Soft selected-state color."
+    },
+    {
+      "id": "ac41b634f0e4d9dd0c86bda58a0a7e60",
+      "name": "Success Color",
+      "css_var": "--success-color",
+      "value": "#2f9d62",
+      "type": "color",
+      "description": "Completed state color."
+    },
+    {
+      "id": "c69f4844a066b040f36919d3b22905ec",
+      "name": "Button Text Color",
+      "css_var": "--button-text-color",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Text color on primary actions."
+    },
+    {
+      "id": "6a4f6f9d13e5b000f011f14d954009f6",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Inter",
+      "type": "font",
+      "description": "Primary app font."
+    },
+    {
+      "id": "3d25edead68dc525d9f16883ad203ca9",
+      "name": "Surface Radius",
+      "css_var": "--surface-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Radius for the main surface.",
+      "unit": "px",
+      "min": 0,
+      "max": 32,
+      "step": 1
+    },
+    {
+      "id": "1b47a904747464146ac5136dc7973bc4",
+      "name": "Control Radius",
+      "css_var": "--control-radius",
+      "value": "6px",
+      "type": "radius",
+      "description": "Radius for buttons and task rows.",
+      "unit": "px",
+      "min": 0,
+      "max": 24,
+      "step": 1
+    },
+    {
+      "id": "d2741694a55c3d5963131342a6092237",
+      "name": "Page Padding",
+      "css_var": "--page-padding",
+      "value": "1.5rem",
+      "type": "size",
+      "description": "Outer page padding.",
+      "unit": "rem",
+      "min": 0,
+      "max": 5,
+      "step": 0.25
+    },
+    {
+      "id": "c5d91abb6bf68bd4b45ff47be4353def",
+      "name": "Surface Shadow",
+      "css_var": "--surface-shadow",
+      "value": "0 22px 70px rgba(31, 55, 48, 0.12)",
+      "type": "shadow",
+      "description": "Shadow below the main onboarding surface."
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Onboarding",
+      "Checklist",
+      "HR",
+      "Content",
+      "User data"
+    ],
+    "app_icon": "mdi:account-tie-outline",
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

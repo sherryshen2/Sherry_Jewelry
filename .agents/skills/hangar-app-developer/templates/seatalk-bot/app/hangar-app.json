@@ -1,0 +1,259 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "6baf1debb95d6ee1fb0f59764dca4276",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main title shown in the SeaTalk bot dashboard."
+    },
+    {
+      "id": "485f5c81c91ac984973917c530c982d1",
+      "name": "Eyebrow",
+      "type": "text",
+      "value": "SeaTalk bot",
+      "description": "Small label above the title."
+    },
+    {
+      "id": "6ffa8ba62ed314215ff4d33c458cc125",
+      "name": "Intro Text",
+      "type": "text",
+      "value": "Monitor callback health, inspect recent webhook payloads, and extend the Python bot handlers from one Hangar app.",
+      "description": "Short dashboard description."
+    },
+    {
+      "id": "997d8196f4bb9b32a20c81e112ec0390",
+      "name": "Callback Label",
+      "type": "text",
+      "value": "Callback URL",
+      "description": "Label above the generated callback URL."
+    },
+    {
+      "id": "11a26a3bf3217900846b5b1c7b58c76b",
+      "name": "Health Button",
+      "type": "text",
+      "value": "Check backend",
+      "description": "Button text for backend health check."
+    },
+    {
+      "id": "5b1424dfac881ca32840ab782865a637",
+      "name": "Messages Title",
+      "type": "text",
+      "value": "Message audit",
+      "description": "Heading above the message audit table."
+    },
+    {
+      "id": "5c658c524b463769399c489a4cc0f7c2",
+      "name": "Events Title",
+      "type": "text",
+      "value": "Handled SeaTalk events",
+      "description": "Heading above the event table."
+    },
+    {
+      "id": "d2c257957d687e81a32396d80f3a1cac",
+      "name": "Empty Messages",
+      "type": "text",
+      "value": "No handled chat messages recorded yet.",
+      "description": "Empty state for message audit."
+    },
+    {
+      "id": "894abf76d0bd0a4066a4d252d99dd77c",
+      "name": "Empty Events",
+      "type": "text",
+      "value": "No handled callbacks received yet.",
+      "description": "Empty state for webhook events."
+    },
+    {
+      "id": "594294ac7adc90274cfe360f85fa69ee",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "app_title": "__HANGAR_APP_NAME__",
+          "integration_ready": "Integration ready",
+          "needs_setup": "Needs setup",
+          "app_sections_aria": "App sections",
+          "nav_overview": "Overview",
+          "nav_overview_hint": "Health and groups",
+          "nav_events": "Events",
+          "nav_events_hint": "Webhook audit",
+          "nav_threads": "Threads",
+          "nav_threads_hint": "Conversation review",
+          "nav_skills": "Skills",
+          "nav_skills_hint": "Agent behavior",
+          "agent_skills_label": "Agent skills",
+          "active_skills_count": "{count} active",
+          "agent_skills_hint": "Enabled skill instructions are injected before Wingman Chat handles a user message.",
+          "callback_label": "Callback URL",
+          "copied": "Copied",
+          "copy_url": "Copy URL",
+          "eyebrow": "SeaTalk bot console",
+          "hero_title": "Manage, audit, and tune your bot from one Hangar app.",
+          "intro_text": "Monitor webhook delivery, sync joined groups, inspect thread context, and prepare custom reply logic.",
+          "review_threads": "Review threads",
+          "refreshing": "Refreshing...",
+          "refresh_console": "Refresh console",
+          "unknown_sender": "Unknown",
+          "bot_sender": "Bot"
+        },
+        "zh": {
+          "app_title": "__HANGAR_APP_NAME__",
+          "integration_ready": "集成已就绪",
+          "needs_setup": "需要设置",
+          "app_sections_aria": "应用分区",
+          "nav_overview": "概览",
+          "nav_overview_hint": "健康状态和群组",
+          "nav_events": "事件",
+          "nav_events_hint": "Webhook 审计",
+          "nav_threads": "会话",
+          "nav_threads_hint": "对话回顾",
+          "nav_skills": "技能",
+          "nav_skills_hint": "智能体行为",
+          "agent_skills_label": "智能体技能",
+          "active_skills_count": "{count} 个启用",
+          "agent_skills_hint": "启用的技能说明会在 Wingman Chat 处理用户消息前注入。",
+          "callback_label": "回调 URL",
+          "copied": "已复制",
+          "copy_url": "复制 URL",
+          "eyebrow": "SeaTalk 机器人控制台",
+          "hero_title": "在一个 Hangar 应用中管理、审计并调优你的机器人。",
+          "intro_text": "监控 Webhook 投递、同步已加入群组、检查会话上下文，并准备自定义回复逻辑。",
+          "review_threads": "查看会话",
+          "refreshing": "刷新中...",
+          "refresh_console": "刷新控制台",
+          "unknown_sender": "未知",
+          "bot_sender": "机器人"
+        }
+      },
+      "description": "Language-aware copy keyed by Hangar language id."
+    }
+  ],
+  "design": [
+    {
+      "id": "042f6d32ee38a2cae7742be4074ccfbb",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f3f6f8",
+      "type": "color",
+      "description": "Dashboard page background."
+    },
+    {
+      "id": "f717b2ecba9531b84b338811889c97d8",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Panel and card background."
+    },
+    {
+      "id": "6f8b33c3b20dcb69242fbc72a7ab64bd",
+      "name": "Muted Panel",
+      "css_var": "--muted-panel",
+      "value": "#eef5f2",
+      "type": "color",
+      "description": "Subtle secondary panels."
+    },
+    {
+      "id": "c997ad968a210ecf387734c3e23d83f9",
+      "name": "Ink",
+      "css_var": "--ink-color",
+      "value": "#18212f",
+      "type": "color",
+      "description": "Main text color."
+    },
+    {
+      "id": "d593404d9a40a0eeb43c71120391cb59",
+      "name": "Muted Ink",
+      "css_var": "--muted-ink-color",
+      "value": "#607083",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "4f5c814227aa95615e47fffb49a14acd",
+      "name": "Accent",
+      "css_var": "--accent-color",
+      "value": "#0f8f75",
+      "type": "color",
+      "description": "Primary action and status color."
+    },
+    {
+      "id": "79d5f14683f19646342b5358d2ef326f",
+      "name": "Signal",
+      "css_var": "--signal-color",
+      "value": "#d9462f",
+      "type": "color",
+      "description": "Attention and incoming event accent."
+    },
+    {
+      "id": "e4cf188b1a6531d0b9e04ffe29cd733d",
+      "name": "Border",
+      "css_var": "--border-color",
+      "value": "#d9e2ea",
+      "type": "color",
+      "description": "Panel borders."
+    },
+    {
+      "id": "99e565bb8fa12a984840006b71c25888",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Inter",
+      "type": "font",
+      "description": "Primary app font."
+    },
+    {
+      "id": "edd8a1d55bad4f0ce53ade4403e48e81",
+      "name": "Panel Radius",
+      "css_var": "--panel-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Radius for panels and controls.",
+      "unit": "px",
+      "min": 0,
+      "max": 24,
+      "step": 1
+    },
+    {
+      "id": "f22b160c8a97e9955a18a630d97cc336",
+      "name": "Page Padding",
+      "css_var": "--page-padding",
+      "value": "1.5rem",
+      "type": "size",
+      "description": "Outer page padding.",
+      "unit": "rem",
+      "min": 0,
+      "max": 5,
+      "step": 0.25
+    }
+  ],
+  "settings": {
+    "tags": [
+      "SeaTalk",
+      "Bot",
+      "Webhook",
+      "Python"
+    ],
+    "app_icon": "mdi:robot-happy-outline",
+    "integrations": {
+      "seatalk": {
+        "auth_mode": "app"
+      }
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "template_metadata": {
+      "seatalk": {
+        "callback_url": "https://hangar.invalid/hangar/api/callback/seatalk/hangar-template-app"
+      }
+    },
+    "visibility": "private"
+  },
+  "storage": {}
+}

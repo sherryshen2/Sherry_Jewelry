@@ -1,0 +1,185 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "b774922069fb498f5d8c1f52f6e85b54",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main title shown in the workflow runner."
+    },
+    {
+      "id": "227e541ce23419e0421d3b2bdbf6f4e5",
+      "name": "Intro Text",
+      "type": "text",
+      "value": "Run a deployed SMART workflow, inspect its progress, and review reliable execution metrics.",
+      "description": "Short description shown on the tasks page."
+    },
+    {
+      "id": "e2eb68e75cd5cf3183dc3a398cb1af6d",
+      "name": "Task Label",
+      "type": "text",
+      "value": "Task",
+      "description": "Singular label for a workflow run."
+    },
+    {
+      "id": "74b497bc8eab23b6a6cec2fd81b2cdef",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "tasks": "Tasks",
+          "create_task": "Create task",
+          "task_detail": "Task detail",
+          "metrics": "Metrics",
+          "task_input": "Workflow input",
+          "submit_task": "Run workflow",
+          "refresh": "Refresh",
+          "retry": "Run again",
+          "no_tasks": "No workflow tasks yet.",
+          "input_fields": "Input fields",
+          "task_output": "Result",
+          "workflow_progress": "Workflow progress"
+        },
+        "zh": {
+          "tasks": "任务",
+          "create_task": "创建任务",
+          "task_detail": "任务详情",
+          "metrics": "指标",
+          "task_input": "工作流输入",
+          "submit_task": "运行工作流",
+          "refresh": "刷新",
+          "retry": "再次运行",
+          "no_tasks": "还没有工作流任务。",
+          "input_fields": "输入字段",
+          "task_output": "结果",
+          "workflow_progress": "工作流进度"
+        }
+      },
+      "description": "Language-aware UI copy."
+    }
+  ],
+  "design": [
+    {
+      "id": "aa9c5d0e5da9a548f30ab036b07d2f89",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f5f7fb",
+      "type": "color",
+      "description": "Main page background."
+    },
+    {
+      "id": "34257ea0b85407ce87a782d9042401e0",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Card background."
+    },
+    {
+      "id": "818e6315084dc021236738df8a68cc61",
+      "name": "Ink",
+      "css_var": "--ink-color",
+      "value": "#172033",
+      "type": "color",
+      "description": "Primary text color."
+    },
+    {
+      "id": "dce152a3939de3d91106897a6005ed98",
+      "name": "Muted Ink",
+      "css_var": "--muted-ink-color",
+      "value": "#637083",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "8185ef2fc85577c1c5163fe335af8751",
+      "name": "Accent",
+      "css_var": "--accent-color",
+      "value": "#3159db",
+      "type": "color",
+      "description": "Primary action color."
+    },
+    {
+      "id": "ba53868200f402f34333dc5a1a73f433",
+      "name": "Success",
+      "css_var": "--success-color",
+      "value": "#138a5b",
+      "type": "color",
+      "description": "Successful task color."
+    },
+    {
+      "id": "070851dae56199e7a50c4beaf63236ae",
+      "name": "Warning",
+      "css_var": "--warning-color",
+      "value": "#bf6d10",
+      "type": "color",
+      "description": "Running task color."
+    },
+    {
+      "id": "7ecf800068b55dbe28a1fe65ed14494a",
+      "name": "Danger",
+      "css_var": "--danger-color",
+      "value": "#cc3b45",
+      "type": "color",
+      "description": "Failed task color."
+    },
+    {
+      "id": "a2951f5748bc6a7d98d7582a1ad19da2",
+      "name": "Border",
+      "css_var": "--border-color",
+      "value": "#dbe2ec",
+      "type": "color",
+      "description": "Card and input border color."
+    },
+    {
+      "id": "0ab26dd780fbcbf67f92a9c0c425d7f5",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Inter",
+      "type": "font",
+      "description": "Primary app font."
+    },
+    {
+      "id": "b136c810b1b9682f9d1742225e8238a4",
+      "name": "Panel Radius",
+      "css_var": "--panel-radius",
+      "value": "10px",
+      "type": "radius",
+      "description": "Card radius.",
+      "unit": "px",
+      "min": 0,
+      "max": 24,
+      "step": 1
+    }
+  ],
+  "settings": {
+    "tags": [
+      "SMART",
+      "Workflow",
+      "Runner",
+      "Metrics",
+      "Python"
+    ],
+    "app_icon": "mdi:play-box-multiple-outline",
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "template_metadata": {
+      "smart": {
+        "schema_source": "manual",
+        "project_id": "",
+        "workflow_id": "",
+        "imported_schema": false,
+        "schema_imported_at": ""
+      }
+    },
+    "visibility": "private"
+  },
+  "storage": {}
+}

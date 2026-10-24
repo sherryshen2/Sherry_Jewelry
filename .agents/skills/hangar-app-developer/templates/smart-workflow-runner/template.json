@@ -1,0 +1,41 @@
+{
+  "id": "smart-workflow-runner",
+  "name": "SMART workflow runner",
+  "description": "Run one deployed SMART workflow, review each task, and track execution metrics.",
+  "tags": [
+    "SMART",
+    "Workflow",
+    "Runner",
+    "Metrics",
+    "Python"
+  ],
+  "setup_fields": [
+    {
+      "id": "smart_endpoint_hash_id",
+      "label": "Endpoint Hash ID",
+      "type": "password",
+      "required": true,
+      "placeholder": "Paste the Endpoint Hash ID",
+      "secret": {
+        "key": "SMART_ENDPOINT_DEPLOYMENT_HASH_ID"
+      }
+    },
+    {
+      "id": "smart_endpoint_key",
+      "label": "Endpoint Key",
+      "type": "password",
+      "required": true,
+      "placeholder": "Paste the Endpoint Key",
+      "secret": {
+        "key": "SMART_ENDPOINT_DEPLOYMENT_KEY"
+      }
+    },
+    {
+      "id": "smart_input_schema",
+      "label": "Workflow schema",
+      "type": "smart-workflow-schema",
+      "required": true
+    }
+  ],
+  "instructions": "For the SMART workflow runner, keep SMART_ENDPOINT_DEPLOYMENT_HASH_ID and SMART_ENDPOINT_DEPLOYMENT_KEY backend-only environment secrets. Never put either in frontend code, Content, data records, API responses, or logs. Keep frontend/src/App.svelte as a route shell and use pages/TasksPage.svelte, CreateTaskPage.svelte, TaskDetailPage.svelte, MetricsPage.svelte, and ConfigurationPage.svelte. Keep backend/main.py as a router composition entrypoint; use routers/ for HTTP routes, services/smart_client.py for the SMART API, services/task_store.py for app-scoped tables, services/task_poller.py for debug-tree refreshes, and services/metrics_service.py for aggregates. Invoke SMART in async mode, persist its returned thread ID, and poll get_debug_tree with bounded backoff. Browser uploads must first be persisted in smart_workflow_task_files using a file field so Hangar stores them as assets; send a base64 data URL to SMART, but never store raw file content in a task record. Show cost only when SMART reports model usage; never estimate it. Persist parsed node metadata, human-readable errors, workflow variables, and raw debug data so task detail can provide both a clear view and an inspectable raw JSON view."
+}

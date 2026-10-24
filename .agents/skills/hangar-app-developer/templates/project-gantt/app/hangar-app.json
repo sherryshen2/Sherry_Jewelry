@@ -1,0 +1,236 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "4f3e387ae31dd2b039c6ab1c57e2af63",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "eyebrow": "Project timeline",
+          "title": "Project Gantt",
+          "subtitle": "Plan work, sequence dependencies, and adjust dates directly on the timeline.",
+          "refresh": "Refresh",
+          "new_task": "New task",
+          "tasks": "Tasks",
+          "active": "Active",
+          "blocked": "Blocked",
+          "overdue": "Overdue",
+          "complete": "Complete",
+          "backend_fallback": "Backend summary will appear after publish.",
+          "search_placeholder": "Search task, owner, Jira key, risk...",
+          "work_items": "Work items",
+          "shown_suffix": "shown",
+          "loading": "Loading timeline...",
+          "no_match": "No tasks match this view.",
+          "unassigned": "Unassigned",
+          "no_risk": "No risk",
+          "today": "Today",
+          "selected_task": "Selected task",
+          "edit": "Edit",
+          "no_description": "No description yet.",
+          "no_jira": "No Jira key",
+          "dependencies": "Dependencies",
+          "select_task": "Select a task to inspect details.",
+          "jira_context": "Pull Jira context",
+          "project_meetings": "Project meetings",
+          "project_docs": "Project docs",
+          "export_plan": "Export plan",
+          "create_task": "Create task",
+          "edit_task": "Edit task",
+          "update_item": "Update timeline item",
+          "add_item": "Add a planned item",
+          "save_task": "Save task",
+          "cancel": "Cancel",
+          "delete": "Delete"
+        },
+        "zh": {
+          "eyebrow": "项目时间线",
+          "title": "项目甘特图",
+          "subtitle": "规划任务、串联依赖，并直接在时间线上调整日期。",
+          "refresh": "刷新",
+          "new_task": "新建任务",
+          "tasks": "任务",
+          "active": "进行中",
+          "blocked": "阻塞",
+          "overdue": "逾期",
+          "complete": "完成",
+          "backend_fallback": "发布后将显示后端摘要。",
+          "search_placeholder": "搜索任务、负责人、Jira key、风险...",
+          "work_items": "工作项",
+          "shown_suffix": "条显示",
+          "loading": "正在加载时间线...",
+          "no_match": "当前视图没有匹配任务。",
+          "unassigned": "未分配",
+          "no_risk": "无风险",
+          "today": "今天",
+          "selected_task": "选中任务",
+          "edit": "编辑",
+          "no_description": "暂无描述。",
+          "no_jira": "无 Jira key",
+          "dependencies": "依赖",
+          "select_task": "选择一个任务查看详情。",
+          "jira_context": "拉取 Jira 上下文",
+          "project_meetings": "项目会议",
+          "project_docs": "项目文档",
+          "export_plan": "导出计划",
+          "create_task": "创建任务",
+          "edit_task": "编辑任务",
+          "update_item": "更新时间线项",
+          "add_item": "添加计划项",
+          "save_task": "保存任务",
+          "cancel": "取消",
+          "delete": "删除"
+        }
+      },
+      "description": "Language-aware Gantt copy."
+    }
+  ],
+  "design": [
+    {
+      "id": "baac2ef4450d0bdcbbe3bcadb07fa039",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f4f7fb",
+      "type": "color",
+      "description": "Outer page background."
+    },
+    {
+      "id": "fb381bd7f043c84c5735c6118aef6575",
+      "name": "Surface Background",
+      "css_var": "--surface-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Main surface background."
+    },
+    {
+      "id": "1c4c31b9f6ca866f54b5d83603b461e7",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#f8fafc",
+      "type": "color",
+      "description": "Panel and lane background."
+    },
+    {
+      "id": "84fb3949c38e19f44be9b518f122e3e6",
+      "name": "Ink Color",
+      "css_var": "--ink-color",
+      "value": "#172033",
+      "type": "color",
+      "description": "Primary text color."
+    },
+    {
+      "id": "6b8dbb5ccb5087a479974c93c89c2489",
+      "name": "Muted Ink",
+      "css_var": "--muted-ink-color",
+      "value": "#5d6b82",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "f181c40ed8200095eff416c399ce58c2",
+      "name": "Border Color",
+      "css_var": "--border-color",
+      "value": "#d8e1ec",
+      "type": "color",
+      "description": "Borders and dividers."
+    },
+    {
+      "id": "e5c72034f37f29200179cf9938ee0702",
+      "name": "Accent Color",
+      "css_var": "--accent-color",
+      "value": "#256f7c",
+      "type": "color",
+      "description": "Primary action color."
+    },
+    {
+      "id": "bbea33bd08bf3d268775622f2956cc1e",
+      "name": "Warm Accent",
+      "css_var": "--warm-accent-color",
+      "value": "#c26a2e",
+      "type": "color",
+      "description": "Secondary accent color."
+    },
+    {
+      "id": "4515562b3d1de08c1656afb2d6ebe7f3",
+      "name": "Success Color",
+      "css_var": "--success-color",
+      "value": "#2f8f62",
+      "type": "color",
+      "description": "Healthy or completed state color."
+    },
+    {
+      "id": "9d680bbb1f64c6ac68078fd511eb1488",
+      "name": "Danger Color",
+      "css_var": "--danger-color",
+      "value": "#c2414b",
+      "type": "color",
+      "description": "Blocked or high-risk state color."
+    },
+    {
+      "id": "34ee01c3595496cf5a7868f68069fae0",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Inter",
+      "type": "font",
+      "description": "Primary app font."
+    },
+    {
+      "id": "3e59d757957572c744586f4f16ce7405",
+      "name": "Surface Radius",
+      "css_var": "--surface-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Radius for primary surfaces.",
+      "unit": "px",
+      "min": 0,
+      "max": 24,
+      "step": 1
+    },
+    {
+      "id": "22aad437d685544fda75978e5b162d11",
+      "name": "Control Radius",
+      "css_var": "--control-radius",
+      "value": "6px",
+      "type": "radius",
+      "description": "Radius for buttons and inputs.",
+      "unit": "px",
+      "min": 0,
+      "max": 20,
+      "step": 1
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Project",
+      "Gantt",
+      "Jira",
+      "Meet"
+    ],
+    "app_icon": "mdi:chart-timeline-variant",
+    "integrations": {
+      "jira": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "google_sheets": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "confluence": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      }
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

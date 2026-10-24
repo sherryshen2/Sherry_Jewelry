@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-23",
+  "stage": "v06-soft-front",
+  "files": [
+    {
+      "path": "Boutique-final.blend",
+      "bytes": 7879817,
+      "megabytes_decimal": 7.88,
+      "sha256": "e8cd617c64dbd7167197e07e6761d16102295a777684909b1bf983ba8cc43155"
+    },
+    {
+      "path": "Boutique-web.glb",
+      "bytes": 12509788,
+      "megabytes_decimal": 12.51,
+      "sha256": "53a616bb0efa7aab4e21901725199cd7413b9d25a88b97e7bf06d79c3efd01b1"
+    },
+    {
+      "path": "Boutique-hero.png",
+      "bytes": 2322850,
+      "megabytes_decimal": 2.323,
+      "sha256": "aeae65f32bb140587fd224989896f7f1dd13d1ff287cbab78fee5a55815e8ce6"
+    },
+    {
+      "path": "02_Left.png",
+      "bytes": 1744471,
+      "megabytes_decimal": 1.744,
+      "sha256": "b0831ce3455e3bed6d8bcd2dd5333833e93ea508ae6eac9d324546999ef58afd"
+    },
+    {
+      "path": "03_Right.png",
+      "bytes": 1741671,
+      "megabytes_decimal": 1.742,
+      "sha256": "98ac5d1381eec77e07ad457dd75e662bb599d5568f421d8e3db9f7d1f76ff565"
+    },
+    {
+      "path": "web-front.png",
+      "bytes": 532571,
+      "megabytes_decimal": 0.533,
+      "sha256": "a8b56ce178d20c2226c465b6719f9b7b79783b0d8b5458950de89138a766fc21"
+    },
+    {
+      "path": "web-left.png",
+      "bytes": 619254,
+      "megabytes_decimal": 0.619,
+      "sha256": "cb46645a2ca6dc3ba0817b3864e701e3354d6933c0d85894d3d8c33cf5cd3a05"
+    },
+    {
+      "path": "web-right.png",
+      "bytes": 626828,
+      "megabytes_decimal": 0.627,
+      "sha256": "6e41214045bfe5fe68ac7c374154e0602140bbfa7fa933a9d2560aeffbd891d8"
+    },
+    {
+      "path": "web-mobile.png",
+      "bytes": 619204,
+      "megabytes_decimal": 0.619,
+      "sha256": "d7281a0a1074de4de3510d6f3872ed12ff566e5fdbfb482081de93562d8d03ff"
+    },
+    {
+      "path": "camera-and-web-settings.json",
+      "bytes": 4148,
+      "megabytes_decimal": 0.004,
+      "sha256": "ca1d157c6707f63248116257c6678cdf23f98456114b2339e5290151b309e344"
+    },
+    {
+      "path": "web-stats.json",
+      "bytes": 803,
+      "megabytes_decimal": 0.001,
+      "sha256": "9251e915e6d5de0d02e59061e8016c7cc6370a32be7d08fefdf0c0d5b973f8c1"
+    },
+    {
+      "path": "glb-check.json",
+      "bytes": 1583,
+      "megabytes_decimal": 0.002,
+      "sha256": "112251fa4c8b59004407f4c0ef147569b090a98abc9cf130177fc7145da9b2a7"
+    },
+    {
+      "path": "blender-reimport-check.json",
+      "bytes": 1345,
+      "megabytes_decimal": 0.001,
+      "sha256": "bb258d8364d46965186225ba95c0ee5c07f910744669bdd6b3e9c46ff180e89a"
+    },
+    {
+      "path": "browser-check.json",
+      "bytes": 4871,
+      "megabytes_decimal": 0.005,
+      "sha256": "03f54a53f04c28db58527634002df7f535e42353b21d7e569e916a7ed7998d1a"
+    },
+    {
+      "path": "source-check.json",
+      "bytes": 1268,
+      "megabytes_decimal": 0.001,
+      "sha256": "22d750ec111e23ba84701d90eb04a7ca03b3a63d2cf2a63b437ddbba8b0463c0"
+    },
+    {
+      "path": "交付说明.txt",
+      "bytes": 5697,
+      "megabytes_decimal": 0.006,
+      "sha256": "2d838ec327aca82b6143d632f23a21163b3619c3647b7119a2eeabe185e6d883"
+    },
+    {
+      "path": "preview.py",
+      "bytes": 522,
+      "megabytes_decimal": 0.001,
+      "sha256": "02a02a1c06a249554cfbbeae51af62fe912a266d451b48b13bb25aaa0830ba32"
+    },
+    {
+      "path": "打开预览.command",
+      "bytes": 66,
+      "megabytes_decimal": 0.0,
+      "sha256": "fdef4739ff538b3d3206a7a4ac99fd73ef18d334826cf80afeedc34ffd08d055"
+    },
+    {
+      "path": "export_web.py",
+      "bytes": 8844,
+      "megabytes_decimal": 0.009,
+      "sha256": "ff67d51675dc19d061d1962601729345c38239c26dd36575e1d3651c15c2abfb"
+    },
+    {
+      "path": "render_final.py",
+      "bytes": 1752,
+      "megabytes_decimal": 0.002,
+      "sha256": "8aa9ccbdb2245f7e1e8344eab4fa3cbf6cb317a055784d75d0ecb662ec1eae34"
+    },
+    {
+      "path": "validate_glb.py",
+      "bytes": 2973,
+      "megabytes_decimal": 0.003,
+      "sha256": "527efcf9ec682aa8f6ca618c380f953b622158cbba556c317391379550b0d847"
+    },
+    {
+      "path": "reimport_check.py",
+      "bytes": 867,
+      "megabytes_decimal": 0.001,
+      "sha256": "00707961989e158d8a4caf83d2b017d035ddafde7e9e1fe1736fce6e871e8e02"
+    },
+    {
+      "path": "palette-and-light-revision.json",
+      "bytes": 6482,
+      "megabytes_decimal": 0.006,
+      "sha256": "ab87e8577856c406a2f08860e0ba4d7cfa55716f7fb8748bef20b0275bfff61b"
+    },
+    {
+      "path": "palette-export-check.json",
+      "bytes": 403,
+      "megabytes_decimal": 0.0,
+      "sha256": "a0f43b3eb2bd0ca4e3e6df5b58c1f7172fb390547975127cdde1bdf9f654d5b2"
+    },
+    {
+      "path": "pastel-colors.json",
+      "bytes": 656,
+      "megabytes_decimal": 0.001,
+      "sha256": "8228a7d0429f5d9fc7da2d81d66d7b4aca35908cd873904b94c98c799df6a15d"
+    },
+    {
+      "path": "front-light-revision.json",
+      "bytes": 955,
+      "megabytes_decimal": 0.001,
+      "sha256": "66ce6f24fafe29bee6334f6b3906fa5398866ea7d27a30d585b7e1e62318543d"
+    },
+    {
+      "path": "textures/floral_lace_rgba.png",
+      "bytes": 24924,
+      "megabytes_decimal": 0.025,
+      "sha256": "24b8ea2d422eb507c8c0ecb3536bca9b8fadffc99283b00bc51ef49bb5f0b95c"
+    },
+    {
+      "path": "textures/lacquer_normal.png",
+      "bytes": 261898,
+      "megabytes_decimal": 0.262,
+      "sha256": "16522d98572bb6fae4d5330d46da7992e9152260ca26ec6612fdc6785ec51247"
+    },
+    {
+      "path": "textures/lacquer_roughness.png",
+      "bytes": 169915,
+      "megabytes_decimal": 0.17,
+      "sha256": "5e734a446d13bc658a6fbb9bc5a7cdb62d27dde67d4701337202a3fbfdba2217"
+    },
+    {
+      "path": "textures/mirror_reflection_capture.png",
+      "bytes": 370655,
+      "megabytes_decimal": 0.371,
+      "sha256": "fcf6cc2ed3dbf4d56005991b80df863a8f976a9293a280014f8e6d1dfaec1c57"
+    },
+    {
+      "path": "textures/oyster_damask_basecolor.png",
+      "bytes": 8493,
+      "megabytes_decimal": 0.008,
+      "sha256": "22ff7f22082d36dc235990285b2d842249ee2f18e5128c27ed8aebf4604b82a8"
+    },
+    {
+      "path": "textures/paint_01_basecolor.png",
+      "bytes": 61595,
+      "megabytes_decimal": 0.062,
+      "sha256": "0d5a910ea401b10a21e47c77b8a3c45bc0eb4ad134a398ea0b4e4f916d2eb382"
+    },
+    {
+      "path": "textures/paint_02_basecolor.png",
+      "bytes": 109385,
+      "megabytes_decimal": 0.109,
+      "sha256": "adba54469e61a1c80180543a4eb879523922df4675d0a7aa470b3a7301ce46b0"
+    },
+    {
+      "path": "textures/paint_03_basecolor.png",
+      "bytes": 93794,
+      "megabytes_decimal": 0.094,
+      "sha256": "0fcfc1fbf6149bea026ec744298e47021e8072cc83cecc03c7bd8ed04bec534e"
+    },
+    {
+      "path": "textures/woven_fabric_normal.png",
+      "bytes": 13340,
+      "megabytes_decimal": 0.013,
+      "sha256": "b2b6e7d239a87d185b9040ae6b3b0c669fcee002c8f7f9318f8a3ee062756add"
+    },
+    {
+      "path": "viewer/index.html",
+      "bytes": 1749,
+      "megabytes_decimal": 0.002,
+      "sha256": "9c19fda0d424a87818827455c061abfeb397dadc3c834ac6d29abc1dd9d3944c"
+    },
+    {
+      "path": "viewer/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "megabytes_decimal": 0.001,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "path": "viewer/vendor/loaders/GLTFLoader.js",
+      "bytes": 114739,
+      "megabytes_decimal": 0.115,
+      "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
+    },
+    {
+      "path": "viewer/vendor/three.core.js",
+      "bytes": 1403455,
+      "megabytes_decimal": 1.403,
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    {
+      "path": "viewer/vendor/three.module.js",
+      "bytes": 603113,
+      "megabytes_decimal": 0.603,
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    },
+    {
+      "path": "viewer/vendor/utils/BufferGeometryUtils.js",
+      "bytes": 35539,
+      "megabytes_decimal": 0.036,
+      "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+    },
+    {
+      "path": "viewer/viewer.js",
+      "bytes": 7886,
+      "megabytes_decimal": 0.008,
+      "sha256": "dc756a3c5aad1149d7c8ee3c3dab3445f203e7f4f516521a420a4d3a58e5bca9"
+    }
+  ]
+}

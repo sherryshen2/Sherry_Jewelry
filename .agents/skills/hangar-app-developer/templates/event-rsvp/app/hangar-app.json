@@ -1,0 +1,287 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "e94cfa797d140f4a41a71c85827f6250",
+      "name": "Manager Title",
+      "type": "text",
+      "value": "Event RSVP Desk",
+      "description": "Heading for the event manager view"
+    },
+    {
+      "id": "9bccafdf33a187d3ac5fe0db87af295d",
+      "name": "Manager Intro",
+      "type": "text",
+      "value": "Create reusable RSVP links, send invite drafts, and track responses by event.",
+      "description": "Intro copy for the event manager view"
+    },
+    {
+      "id": "d071e314b672b9cde21cc6e7f9da3329",
+      "name": "Default Event Type",
+      "type": "text",
+      "value": "You're Invited",
+      "description": "Badge text shown on new event response pages"
+    },
+    {
+      "id": "7e11c60d5c6ab1a75a33a6ae231050de",
+      "name": "Copy Link Label",
+      "type": "text",
+      "value": "Copy RSVP link",
+      "description": "Copy link button text"
+    },
+    {
+      "id": "669da444f99c6390397d7ba298e7da11",
+      "name": "Email Draft Label",
+      "type": "text",
+      "value": "Email invite",
+      "description": "Email draft button text"
+    },
+    {
+      "id": "25131cbcb8f8aa2b8b1712ff0266564c",
+      "name": "Respondent Title",
+      "type": "text",
+      "value": "Will you be joining us?",
+      "description": "Title on the public RSVP form"
+    },
+    {
+      "id": "883e9795c02e10e1d47cd7c92b68c596",
+      "name": "Thank You Title",
+      "type": "text",
+      "value": "Thanks for responding",
+      "description": "Title after a response is saved"
+    },
+    {
+      "id": "bdfd0a037668bf9a7d87d59f592bdd75",
+      "name": "Thank You Message",
+      "type": "text",
+      "value": "Your RSVP was saved. You can reopen this link to update it.",
+      "description": "Message after a response is saved"
+    },
+    {
+      "id": "e94cfa797d140f4a41a71c85827f6250",
+      "name": "Manager Title",
+      "type": "text",
+      "value": "RSVP events",
+      "description": "Manager page title."
+    },
+    {
+      "id": "9bccafdf33a187d3ac5fe0db87af295d",
+      "name": "Manager Intro",
+      "type": "text",
+      "value": "Create events, share RSVP links, and review responses.",
+      "description": "Manager page intro."
+    },
+    {
+      "id": "25131cbcb8f8aa2b8b1712ff0266564c",
+      "name": "Respondent Title",
+      "type": "text",
+      "value": "Your RSVP",
+      "description": "Respondent form heading."
+    },
+    {
+      "id": "7e11c60d5c6ab1a75a33a6ae231050de",
+      "name": "Copy Link Label",
+      "type": "text",
+      "value": "Copy link",
+      "description": "Button label for copying links."
+    },
+    {
+      "id": "669da444f99c6390397d7ba298e7da11",
+      "name": "Email Draft Label",
+      "type": "text",
+      "value": "Prepare email",
+      "description": "Button label for preparing invite email."
+    },
+    {
+      "id": "d071e314b672b9cde21cc6e7f9da3329",
+      "name": "Default Event Type",
+      "type": "text",
+      "value": "RSVP",
+      "description": "Fallback event badge."
+    },
+    {
+      "id": "bdfd0a037668bf9a7d87d59f592bdd75",
+      "name": "Thank You Message",
+      "type": "text",
+      "value": "Your RSVP has been saved.",
+      "description": "Message after response submit."
+    },
+    {
+      "id": "e0bb8ae4b203b94c1b1f4bda51b9130d",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "manager_title": "RSVP events",
+          "manager_intro": "Create events, share RSVP links, and review responses.",
+          "respondent_title": "Your RSVP",
+          "copy_link_label": "Copy link",
+          "email_draft_label": "Prepare email",
+          "default_event_type": "RSVP",
+          "thank_you_message": "Your RSVP has been saved."
+        },
+        "zh": {
+          "manager_title": "活动 RSVP",
+          "manager_intro": "创建活动、分享 RSVP 链接并查看回复。",
+          "respondent_title": "填写 RSVP",
+          "copy_link_label": "复制链接",
+          "email_draft_label": "准备邮件",
+          "default_event_type": "报名回复",
+          "thank_you_message": "你的回复已保存。"
+        }
+      },
+      "description": "Language-aware RSVP copy."
+    }
+  ],
+  "design": [
+    {
+      "id": "52827db057e2d00081f08fe72478f2ce",
+      "name": "Font",
+      "css_var": "--body-font",
+      "value": "Inter, system-ui, sans-serif",
+      "type": "font",
+      "description": "Main font for all text"
+    },
+    {
+      "id": "4e1c11a33f6da21a6644d14533e5ef28",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f4f2ee",
+      "type": "color",
+      "description": "Overall page background"
+    },
+    {
+      "id": "ae06f566c3222576a1a424b8e1ab3e81",
+      "name": "Surface Background",
+      "css_var": "--surface-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Main surface background"
+    },
+    {
+      "id": "c828d65cdb71db30739f44b14137c9e4",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#f8fafc",
+      "type": "color",
+      "description": "Panel background"
+    },
+    {
+      "id": "8608fca30cbd2d499b1f90b9e4943722",
+      "name": "Heading Color",
+      "css_var": "--heading-color",
+      "value": "#172033",
+      "type": "color",
+      "description": "Color for headings"
+    },
+    {
+      "id": "35f5c6192b14d63d00dd462f432d3b44",
+      "name": "Body Text",
+      "css_var": "--body-text",
+      "value": "#334155",
+      "type": "color",
+      "description": "Color for body text"
+    },
+    {
+      "id": "63972e1055e3de912acc25f1de5e7a0f",
+      "name": "Secondary Text",
+      "css_var": "--secondary-text",
+      "value": "#64748b",
+      "type": "color",
+      "description": "Color for muted text"
+    },
+    {
+      "id": "82531751996a200ab6f215d01d806da6",
+      "name": "Accent Color",
+      "css_var": "--accent-color",
+      "value": "#256f7c",
+      "type": "color",
+      "description": "Primary accent color"
+    },
+    {
+      "id": "bf1e1980cfbeb9c0094060ccdc64d711",
+      "name": "Warm Accent",
+      "css_var": "--warm-accent",
+      "value": "#c26a2e",
+      "type": "color",
+      "description": "Secondary accent color"
+    },
+    {
+      "id": "9dc51e8522118a08783247d0de44e1c9",
+      "name": "Success Color",
+      "css_var": "--success-color",
+      "value": "#268a5b",
+      "type": "color",
+      "description": "Attending status color"
+    },
+    {
+      "id": "4148d1302739158b4f5c75ab319facd8",
+      "name": "Maybe Color",
+      "css_var": "--warning-color",
+      "value": "#d09219",
+      "type": "color",
+      "description": "Maybe status color"
+    },
+    {
+      "id": "ea11d08158416224bd4201031ae5eff8",
+      "name": "Declined Color",
+      "css_var": "--error-color",
+      "value": "#c2414b",
+      "type": "color",
+      "description": "Declined status color"
+    },
+    {
+      "id": "41655af8c822fd3fa93cf06d096f0859",
+      "name": "Border Color",
+      "css_var": "--border-color",
+      "value": "#d8e1ec",
+      "type": "color",
+      "description": "Borders and dividers"
+    },
+    {
+      "id": "67a73115148d1b62d899eea746600825",
+      "name": "Card Radius",
+      "css_var": "--card-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Roundness of cards"
+    },
+    {
+      "id": "5cafaa3f6d1eb3db9042aea7f8297577",
+      "name": "Control Radius",
+      "css_var": "--control-radius",
+      "value": "6px",
+      "type": "radius",
+      "description": "Roundness of buttons and inputs"
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Events",
+      "RSVP",
+      "Meet",
+      "Sheets"
+    ],
+    "app_icon": "mdi:calendar-star-outline",
+    "integrations": {
+      "google_sheets": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "google_mail": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      }
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

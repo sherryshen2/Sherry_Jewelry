@@ -1,0 +1,174 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "12632ed463095cf65754e5db9312bdf0",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main app title."
+    },
+    {
+      "id": "fd6e194a7e79f263ce1dbf837d22f947",
+      "name": "Description",
+      "type": "text",
+      "value": "Pull rows from Google Sheets into app data and turn them into a clean metrics dashboard.",
+      "description": "Short app description."
+    },
+    {
+      "id": "28ed62610470212f685fc914042fe511",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "sources_title": "Sheet sources",
+          "chart_title": "Latest chart",
+          "rows_title": "Imported rows",
+          "sync_now": "Sync now",
+          "syncing": "Syncing...",
+          "add_source": "Add source",
+          "source_name": "Source name",
+          "spreadsheet_url": "Spreadsheet URL or ID",
+          "sheet_name": "Sheet name",
+          "range_name": "Range",
+          "group_by": "Group by",
+          "value_field": "Value field",
+          "operation": "Operation",
+          "no_rows": "No rows imported yet. Sync a source to populate the dashboard.",
+          "last_sync": "Last sync",
+          "sample_mode": "Sample mode"
+        },
+        "zh": {
+          "sources_title": "表格来源",
+          "chart_title": "最新图表",
+          "rows_title": "导入行",
+          "sync_now": "立即同步",
+          "syncing": "同步中...",
+          "add_source": "添加来源",
+          "source_name": "来源名称",
+          "spreadsheet_url": "表格 URL 或 ID",
+          "sheet_name": "工作表名称",
+          "range_name": "范围",
+          "group_by": "分组字段",
+          "value_field": "数值字段",
+          "operation": "聚合方式",
+          "no_rows": "还没有导入数据。同步一个来源后会生成仪表盘。",
+          "last_sync": "最近同步",
+          "sample_mode": "示例模式"
+        }
+      },
+      "description": "Language-aware UI copy."
+    }
+  ],
+  "design": [
+    {
+      "id": "8f4b241507250e5b2b0baf15876e48f7",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f2f5f7",
+      "type": "color",
+      "description": "Page background."
+    },
+    {
+      "id": "634de9076fd303171345d8e39459cb5c",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Panel background."
+    },
+    {
+      "id": "bfaf3397581b07876d0d28e984c5b014",
+      "name": "Soft Panel",
+      "css_var": "--soft-panel",
+      "value": "#eef4f2",
+      "type": "color",
+      "description": "Subtle panel background."
+    },
+    {
+      "id": "8632fc72aabac345fda3610544285eda",
+      "name": "Ink",
+      "css_var": "--ink-color",
+      "value": "#172033",
+      "type": "color",
+      "description": "Main text color."
+    },
+    {
+      "id": "66d13e27a6323688ac7f0eafd496bcaa",
+      "name": "Muted Ink",
+      "css_var": "--muted-ink-color",
+      "value": "#617083",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "a9e656f324bca23fd0e5018d717630e3",
+      "name": "Accent",
+      "css_var": "--accent-color",
+      "value": "#16796f",
+      "type": "color",
+      "description": "Primary chart and action color."
+    },
+    {
+      "id": "c8098c52207b9efeeee800116c420081",
+      "name": "Warm Accent",
+      "css_var": "--warm-accent-color",
+      "value": "#c26d2e",
+      "type": "color",
+      "description": "Secondary chart color."
+    },
+    {
+      "id": "d64f9f1093a2e8060fb9063d447e66c8",
+      "name": "Border",
+      "css_var": "--border-color",
+      "value": "#d9e2e6",
+      "type": "color",
+      "description": "Panel border color."
+    },
+    {
+      "id": "96bf2bd768b7c3e4edf79b2a6ecacaf3",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Inter",
+      "type": "font",
+      "description": "Primary app font."
+    },
+    {
+      "id": "2ebe3126f8640bd3849614912207c768",
+      "name": "Panel Radius",
+      "css_var": "--panel-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Panel radius.",
+      "unit": "px",
+      "min": 0,
+      "max": 24,
+      "step": 1
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Google Sheets",
+      "Dashboard",
+      "Charts",
+      "Python"
+    ],
+    "app_icon": "mdi:google-spreadsheet",
+    "integrations": {
+      "google_sheets": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      }
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

@@ -1,0 +1,22 @@
+{
+  "display": {
+    "binary_geometry_identical_to_v02": true,
+    "bytes": 602628,
+    "metal_base_color_linear": [
+      0.8999999761581421,
+      0.6299999952316284,
+      0.5400000214576721,
+      1
+    ]
+  },
+  "detail": {
+    "binary_geometry_identical_to_v02": true,
+    "bytes": 1455976,
+    "metal_base_color_linear": [
+      0.8999999761581421,
+      0.6299999952316284,
+      0.5400000214576721,
+      1
+    ]
+  }
+}

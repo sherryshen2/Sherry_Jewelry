@@ -1,0 +1,40 @@
+{
+  "schema": [
+    {
+      "name": "source_id",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "row_key",
+      "type": "text"
+    },
+    {
+      "name": "row_index",
+      "type": "number"
+    },
+    {
+      "name": "group",
+      "type": "text"
+    },
+    {
+      "name": "label",
+      "type": "text"
+    },
+    {
+      "name": "value",
+      "type": "number"
+    },
+    {
+      "name": "raw",
+      "type": "json"
+    },
+    {
+      "name": "synced_at",
+      "type": "date"
+    }
+  ],
+  "records": [],
+  "icon": "mdi:table-row",
+  "scope": "app"
+}

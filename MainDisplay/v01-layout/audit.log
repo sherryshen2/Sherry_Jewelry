@@ -1,0 +1,23 @@
+11:40:43 | INFO: Data are loaded, start creating Blender stuff
+11:40:43 | INFO: Blender create Mesh node PENDING_ClaspCharm_LightStone_mesh.001
+11:40:43 | INFO: Blender create Mesh node 02_RaisedPinkHeart_Cut_PENDING_mesh.001
+11:40:43 | INFO: Blender create Mesh node 01_HeartCarrier_RoundedBack_UpwardTaper_EST_mesh.001
+11:40:44 | INFO: glTF import finished in 0.09s
+11:40:44 | INFO: Data are loaded, start creating Blender stuff
+11:40:44 | INFO: Blender create Mesh node 06_CZ_01_mesh.001
+11:40:44 | INFO: Blender create Mesh node 01_FrontStoneCarrier_EST_mesh.001
+11:40:44 | INFO: glTF import finished in 0.05s
+11:40:44 | INFO: Data are loaded, start creating Blender stuff
+11:40:44 | INFO: Blender create Mesh node PENDING_Halo_01_Mesh.001
+11:40:44 | INFO: Blender create Mesh node 02_Center_Heart_outline_EST_cut_PENDING_Mesh.001
+11:40:44 | INFO: Blender create Mesh node 01_Shank_ID16mm_width_EST_Mesh.001
+11:40:44 | INFO: glTF import finished in 0.04s
+11:40:44 | INFO: Data are loaded, start creating Blender stuff
+11:40:44 | INFO: Blender create Mesh node UNIT01_CZ_mesh.001
+11:40:44 | INFO: Blender create Mesh node UNIT01_PENDING_BaseRing_mesh.001
+11:40:44 | INFO: glTF import finished in 0.10s
+AUDIT_DONE
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/Boutique/v06-soft-front/Boutique-final.blend"
+
+Blender quit

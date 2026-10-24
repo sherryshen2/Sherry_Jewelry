@@ -1,0 +1,149 @@
+{
+  "schema": [
+    {
+      "name": "id",
+      "type": "text"
+    },
+    {
+      "name": "type",
+      "type": "text"
+    },
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "order",
+      "type": "number"
+    },
+    {
+      "name": "pinned",
+      "type": "boolean"
+    },
+    {
+      "name": "updated",
+      "type": "text"
+    },
+    {
+      "name": "created",
+      "type": "text"
+    },
+    {
+      "name": "body",
+      "type": "text"
+    },
+    {
+      "name": "items",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "type": "text"
+    },
+    {
+      "name": "link_title",
+      "type": "text"
+    },
+    {
+      "name": "link_desc",
+      "type": "text"
+    },
+    {
+      "name": "link_image",
+      "type": "text"
+    },
+    {
+      "name": "src",
+      "type": "text"
+    },
+    {
+      "name": "image",
+      "type": "file"
+    },
+    {
+      "name": "caption",
+      "type": "text"
+    },
+    {
+      "name": "rows",
+      "type": "text"
+    },
+    {
+      "name": "embed_code",
+      "type": "text"
+    }
+  ],
+  "records": [
+    {
+      "created": "2025-12-09T06:13:16.961Z",
+      "id": "90qxs",
+      "link_desc": "Hangar is an open-source agentic app builder. Think Lovable, Replit, or v0, but self-hostable, self-contained, and single-file. Build, tweak, and deploy all your tiny web apps on a single server controlled by you.",
+      "link_image": "https://placehold.co/1200x630/7c3aed/ffffff?text=Hangar",
+      "link_title": "hangarkit – build tiny apps with AI",
+      "order": "0",
+      "title": "",
+      "type": "link",
+      "updated": "2025-12-09T06:45:07.876Z",
+      "url": "https://hangar.local/"
+    },
+    {
+      "body": "This is your own personal tiny <b>Notion</b>&nbsp;- organize notes, images, links, tables, and embeds.",
+      "created": "2025-12-09T06:13:22.292Z",
+      "id": "73mo4",
+      "order": 1,
+      "title": "Welcome!",
+      "type": "text",
+      "updated": "2025-12-09T06:54:03.813Z"
+    },
+    {
+      "created": "2025-12-09T06:13:40.365Z",
+      "id": "lrj6k",
+      "link_desc": "Open Source backend in 1 file with realtime database, authentication, file storage and admin dashboard",
+      "link_image": "https://placehold.co/1200x630/16161d/ffffff?text=PocketBase",
+      "link_title": "PocketBase - Open Source backend in 1 file",
+      "order": 2,
+      "pinned": false,
+      "title": "",
+      "type": "link",
+      "updated": "2025-12-09T06:54:19.446Z",
+      "url": "https://pocketbase.io/"
+    },
+    {
+      "created": "2025-12-09T06:14:15.506Z",
+      "id": "d5b7v",
+      "order": 3,
+      "src": "https://placehold.co/600x400/22c55e/ffffff?text=Image",
+      "title": "",
+      "type": "image",
+      "updated": "2025-12-09T06:53:06.468Z"
+    },
+    {
+      "created": "2025-12-09T06:14:33.197Z",
+      "id": "2qua0",
+      "order": 4,
+      "src": "https://placehold.co/600x400/3b82f6/ffffff?text=Image",
+      "title": "",
+      "type": "image",
+      "updated": "2025-12-09T06:53:17.054Z"
+    },
+    {
+      "created": "2025-12-09T06:23:07.066Z",
+      "id": "0p3vk",
+      "items": "[{\"id\":\"1765261386991\",\"text\":\"Eat\",\"done\":true},{\"id\":\"1765261414822\",\"text\":\"Pray\",\"done\":true},{\"id\":\"1765261437087\",\"text\":\"Love\",\"done\":true},{\"id\":\"1765261440220\",\"text\":\"Do the dishes\",\"done\":false},{\"id\":\"1765261474168\",\"text\":\"Take out the trash\",\"done\":false},{\"id\":\"1765261481807\",\"text\":\"Laundry\",\"done\":false}]",
+      "order": 5,
+      "title": "Todo",
+      "type": "checklist",
+      "updated": "2025-12-09T06:54:00.979Z"
+    },
+    {
+      "created": "2025-12-09T06:42:26.010Z",
+      "id": "2im21",
+      "order": 6,
+      "rows": "[[\"__Thing__\",\"__Strength__\"],[\"Coding\",\"Pretty good\"],[\"Writing\",\"Not bad\"],[\"Backrubs\",\"Horrible\"]]",
+      "title": "Things AI is good at",
+      "type": "table",
+      "updated": "2025-12-09T06:54:05.140Z"
+    }
+  ],
+  "icon": "lucide:file-text"
+}

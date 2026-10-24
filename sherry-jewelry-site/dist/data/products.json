@@ -1,0 +1,190 @@
+[
+  {
+    "id": "J001",
+    "name": "Pink Heart Necklace",
+    "nameZh": "粉色心形项链",
+    "type": "necklace",
+    "status": "active",
+    "photoUrl": "assets/J001-photo.webp",
+    "thumbnailUrl": "assets/J001-thumb.webp",
+    "photoAlt": "粉色心形项链 · 实物照片",
+    "displayModelUrl": "assets/necklace.glb",
+    "detailModelUrl": "assets/J001-detail.glb",
+    "anchorName": "necklace_anchor",
+    "buyUrl": "https://shopee.sg/Pandora-Timeless-Pink-Elevated-Heart-Necklace-i.1887840381.57564110526?extraParams=%7B%22display_model_id%22%3A446217247693%2C%22model_selection_logic%22%3A3%7D&image_ids=sg-11134207-825af-mqq0ty50k9ab18",
+    "platform": "Shopee",
+    "linkSource": "Sheet1!B2",
+    "assetVersion": "v02-refined",
+    "imageFilename": "正面.jpeg",
+    "hoverScale": 1.025,
+    "minZoom": 0.75,
+    "maxZoom": 2.5,
+    "localTransform": {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "reviewStatus": "模型细节以实物为准；规格未确认",
+    "fitPadding": 1.15,
+    "defaultRotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "hoverPivot": [
+      0,
+      0,
+      0
+    ],
+    "pivot": "bounds-center",
+    "knownLimitations": "Model geometry is an appearance reference; dimensions and materials are not verified sales specifications.",
+    "closeupPreset": {
+      "pivot": [
+        -0.000001339,
+        -0.073023155,
+        0.020015823
+      ],
+      "radius": 0.009
+    }
+  },
+  {
+    "id": "J002",
+    "name": "Sparkling Hoop Earrings",
+    "nameZh": "镶石小圈耳环",
+    "type": "earrings",
+    "status": "active",
+    "photoUrl": "assets/J002-photo.webp",
+    "thumbnailUrl": "assets/J002-thumb.webp",
+    "photoAlt": "镶石小圈耳环 · 实物照片",
+    "displayModelUrl": "assets/earrings.glb",
+    "detailModelUrl": "assets/J002-detail.glb",
+    "anchorName": "earrings_anchor",
+    "buyUrl": "https://shopee.sg/Pandora-Timeless-Sparkling-Huggie-Hoop-Earrings-(Sterling-Silver)-i.1887840381.42482701075?extraParams=%7B%22display_model_id%22%3A406226477144%2C%22model_selection_logic%22%3A3%7D&image_ids=sg-11134207-8259e-mqpwf7q9bz7y3e",
+    "platform": "Shopee",
+    "linkSource": "Sheet1!B3",
+    "assetVersion": "v02-refined",
+    "imageFilename": "细节.jpeg",
+    "hoverScale": 1.04,
+    "minZoom": 0.75,
+    "maxZoom": 2.5,
+    "localTransform": {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "reviewStatus": "模型细节以实物为准；规格未确认",
+    "fitPadding": 1.15,
+    "defaultRotation": [
+      0.10358572546133983,
+      -0.12151599397681469,
+      -0.012751985537977469,
+      0.9870872542755853
+    ],
+    "hoverPivot": "bounds-center",
+    "pivot": "bounds-center",
+    "knownLimitations": "Model geometry is an appearance reference; dimensions and materials are not verified sales specifications."
+  },
+  {
+    "id": "J003",
+    "name": "Pink Heart Ring",
+    "nameZh": "粉色心形戒指",
+    "type": "ring",
+    "status": "active",
+    "photoUrl": "assets/J003-photo.webp",
+    "thumbnailUrl": "assets/J003-thumb.webp",
+    "photoAlt": "粉色心形戒指 · 实物照片",
+    "displayModelUrl": "assets/ring.glb",
+    "detailModelUrl": "assets/J003-detail.glb",
+    "anchorName": "ring_anchor",
+    "buyUrl": "https://shopee.sg/Pandora-Timeless-Sparkling-Elevated-Heart-Ring-i.1887840381.55914102414?extraParams=%7B%22display_model_id%22%3A441216763740%2C%22model_selection_logic%22%3A3%7D&image_ids=sg-11134207-8259f-mqpznxugdyiza9",
+    "platform": "Shopee",
+    "linkSource": "Sheet1!B4",
+    "assetVersion": "v06-prong-gold",
+    "imageFilename": "内圈细节.jpeg",
+    "hoverScale": 1.04,
+    "minZoom": 0.75,
+    "maxZoom": 2.5,
+    "localTransform": {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "reviewStatus": "模型细节以实物为准；规格未确认",
+    "fitPadding": 1.15,
+    "defaultRotation": [
+      0.29568653904296505,
+      -0.2797392288432753,
+      -0.09100941056509247,
+      0.9088634229979536
+    ],
+    "hoverPivot": "bounds-center",
+    "pivot": "bounds-center",
+    "knownLimitations": "Model geometry is an appearance reference; dimensions and materials are not verified sales specifications."
+  },
+  {
+    "id": "J004",
+    "name": "Sparkling Tennis Bracelet",
+    "nameZh": "网球手链",
+    "type": "bracelet",
+    "status": "active",
+    "photoUrl": "assets/J004-photo.webp",
+    "thumbnailUrl": "assets/J004-thumb.webp",
+    "photoAlt": "网球手链 · 实物照片",
+    "displayModelUrl": "assets/bracelet.glb",
+    "detailModelUrl": "assets/J004-detail.glb",
+    "anchorName": "bracelet_anchor",
+    "buyUrl": "https://shopee.sg/Pandora-Timeless-Sparkling-Tennis-Bracelet-(Sterling-Silver)-i.1887840381.53064096845?extraParams=%7B%22display_model_id%22%3A321215687105%2C%22model_selection_logic%22%3A3%7D&image_ids=sg-11134207-825b8-mqprleru3t356f",
+    "platform": "Shopee",
+    "linkSource": "Sheet1!B5",
+    "assetVersion": "v03-outward",
+    "imageFilename": "侧面.jpeg",
+    "hoverScale": 1.04,
+    "minZoom": 0.75,
+    "maxZoom": 2.5,
+    "localTransform": {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "reviewStatus": "模型细节以实物为准；规格未确认",
+    "fitPadding": 1.15,
+    "defaultRotation": [
+      0.3604634691226842,
+      -0.0822592253346844,
+      -0.03193167851987449,
+      0.9285902622697918
+    ],
+    "hoverPivot": "bounds-center",
+    "pivot": "bounds-center",
+    "knownLimitations": "Model geometry is an appearance reference; dimensions and materials are not verified sales specifications."
+  }
+]

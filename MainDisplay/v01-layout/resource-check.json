@@ -1,0 +1,73 @@
+{
+  "stage": "stage1",
+  "files": {
+    "main-display-scene.glb": {
+      "bytes": 6523568,
+      "megabytes": 6.524,
+      "triangles": 208778,
+      "materials": 15,
+      "meshes": 21,
+      "images": 8,
+      "extensions": [
+        "KHR_materials_sheen"
+      ],
+      "sha256": "bcd74911ec0028c98878fc80eddfc21062b5b610ba58365e89ab229c6451ad19"
+    },
+    "necklace.glb": {
+      "bytes": 3940428,
+      "megabytes": 3.94,
+      "triangles": 162752,
+      "materials": 3,
+      "meshes": 3,
+      "images": 0,
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "sha256": "6b4e568cff0d1ae8857750c3dca0d983ce27097d7ddbd5dbc713969149cf6b22"
+    },
+    "earrings.glb": {
+      "bytes": 1333008,
+      "megabytes": 1.333,
+      "triangles": 54988,
+      "materials": 2,
+      "meshes": 4,
+      "images": 0,
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "sha256": "429687d7a35bbabbf5932af0cc1a75032d876f37d803be8ce3787c0f4fd7a440"
+    },
+    "ring.glb": {
+      "bytes": 1562656,
+      "megabytes": 1.563,
+      "triangles": 68218,
+      "materials": 3,
+      "meshes": 3,
+      "images": 0,
+      "extensions": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "sha256": "3ba0cacdaf904c45f1c4b887a080b62e211f1f19af22d236a0937a3121743130"
+    },
+    "bracelet.glb": {
+      "bytes": 4148552,
+      "megabytes": 4.149,
+      "triangles": 142702,
+      "materials": 2,
+      "meshes": 2,
+      "images": 0,
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "sha256": "7bf14085c0e5f5a7b60625b52a21660cd202aad04bb7b927384392a55c17df18"
+    }
+  },
+  "pass": true,
+  "total_triangles": 637438,
+  "total_glb_bytes": 17508212
+}

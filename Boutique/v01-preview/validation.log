@@ -1,0 +1,6 @@
+Info: Saved as "Boutique-stage1.blend"
+FINALIZED {"stage": "01 spatial palette lighting review", "source_geometry_objects": 1244, "evaluated_triangles_before_web_optimization": 237117, "material_count": 28, "bounds_blender_metres": [[-3.0799999237060547, -0.6650000214576721, 0.0], [3.0799999237060547, 2.875, 5.674086570739746]], "external_images": [{"name": "fine_painted_wood", "path": "//textures/fine_painted_wood.png", "size": [512, 512]}], "files": {"03_Right.png": 1811935, "01_Front.png": 1799732, "camera-preview.json": 849, "02_Left.png": 1815385, "Boutique-stage1.blend": 6784992}, "validation": {"blender_reopen": true, "image_pixel_data_present": true, "images_packed": true, "face_material_slots_valid": true, "default_camera": "01_Front", "three_rendered_views": ["01_Front.png", "02_Left.png", "03_Right.png"], "glb_export": "Deferred until user approves stage 1, per requested workflow"}}
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/Boutique/v01-preview/Boutique-stage1.blend"
+
+Blender quit

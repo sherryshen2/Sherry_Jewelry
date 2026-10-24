@@ -1,0 +1,38 @@
+{
+  "stage": "REFINED_VISIBLE_STRUCTURE_PENDING_HIDDEN_MECHANISM",
+  "triangles": 56180,
+  "source_mesh_objects": 96,
+  "materials": 2,
+  "export_meshes": 2,
+  "stones_each": 8,
+  "stones_total": 16,
+  "bounds_mm": [
+    [
+      -9.787891060113907,
+      -5.000288598239422,
+      -5.8494266122579575
+    ],
+    [
+      9.427807293832302,
+      5.2149975672364235,
+      5.850000306963921
+    ]
+  ],
+  "single_local_bounds_mm": [
+    [
+      -0.800000037997961,
+      -5.47617394477129,
+      -5.499426741153002
+    ],
+    [
+      0.800000037997961,
+      5.500000435858965,
+      5.500000435858965
+    ]
+  ],
+  "files": {
+    "J002-detail-v02.glb": 1589732,
+    "J002-display-v02.glb": 918828
+  },
+  "source_evaluated_triangles": 54988
+}

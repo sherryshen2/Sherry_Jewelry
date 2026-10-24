@@ -1,0 +1,246 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "c190fc1cc740ffd5a9da26ce1043a197",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main app title."
+    },
+    {
+      "id": "74b97c8d9f7f64c364777f9b2fd9ca7b",
+      "name": "Description",
+      "type": "text",
+      "value": "Test every configured Hangar integration from one backend-powered app.",
+      "description": "Short app description."
+    },
+    {
+      "id": "28ba4d4da7421d8df00dba04ceac4c49",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "brand_label": "Integration Lab",
+          "health_summary": "{providers} integrations · {actions} actions",
+          "integrations_aria": "Integrations",
+          "actions_count": "{count} actions",
+          "loading_catalog": "Loading integration catalog...",
+          "refresh_button": "Refresh",
+          "actions_aria": "Actions",
+          "changes_data": "changes data",
+          "inputs_title": "Inputs",
+          "no_inputs": "This action does not require inputs.",
+          "side_effect_warning": "This action can create or modify provider-side data. Use a test account when possible.",
+          "running": "Running...",
+          "run_action": "Run action",
+          "reset_inputs": "Reset inputs",
+          "request_title": "Request",
+          "request_hint": "Payload sent to backend/main.py.",
+          "result_title": "Result",
+          "result_hint": "Successful responses and integration errors are shown here.",
+          "success": "Success",
+          "error": "Error",
+          "run_to_see_response": "Run an action to see the response.",
+          "no_integrations": "No integrations found."
+        },
+        "zh": {
+          "brand_label": "集成实验室",
+          "health_summary": "{providers} 个集成 · {actions} 个操作",
+          "integrations_aria": "集成",
+          "actions_count": "{count} 个操作",
+          "loading_catalog": "正在加载集成目录...",
+          "refresh_button": "刷新",
+          "actions_aria": "操作",
+          "changes_data": "会修改数据",
+          "inputs_title": "输入",
+          "no_inputs": "此操作不需要输入。",
+          "side_effect_warning": "此操作可能创建或修改提供方数据。建议尽量使用测试账号。",
+          "running": "运行中...",
+          "run_action": "运行操作",
+          "reset_inputs": "重置输入",
+          "request_title": "请求",
+          "request_hint": "发送到 backend/main.py 的载荷。",
+          "result_title": "结果",
+          "result_hint": "成功响应和集成错误会显示在这里。",
+          "success": "成功",
+          "error": "错误",
+          "run_to_see_response": "运行一个操作后查看响应。",
+          "no_integrations": "未找到集成。"
+        }
+      },
+      "description": "Language-aware copy keyed by Hangar language id."
+    }
+  ],
+  "design": [
+    {
+      "id": "47cc97175d27579c39ac358b7b5206b4",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#eef3f7",
+      "type": "color",
+      "description": "Page background."
+    },
+    {
+      "id": "f381d339c1c2bb4cb1bacb8120237958",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Panel background."
+    },
+    {
+      "id": "0264900e258c5b0eb80c47d8a6759999",
+      "name": "Sidebar Background",
+      "css_var": "--sidebar-background",
+      "value": "#17212c",
+      "type": "color",
+      "description": "Sidebar background."
+    },
+    {
+      "id": "86dcc06511643bdba57eaa36eea8dc3a",
+      "name": "Soft Panel",
+      "css_var": "--soft-panel",
+      "value": "#f2f6f8",
+      "type": "color",
+      "description": "Subtle panel background."
+    },
+    {
+      "id": "fe76374c224d636372f3aba654b6a95b",
+      "name": "Field Background",
+      "css_var": "--field-background",
+      "value": "#fbfdfe",
+      "type": "color",
+      "description": "Input background."
+    },
+    {
+      "id": "ce3629d9a5bc8e0064371e5036994a86",
+      "name": "Ink",
+      "css_var": "--ink-color",
+      "value": "#16202a",
+      "type": "color",
+      "description": "Main text color."
+    },
+    {
+      "id": "d645c824a30a747fdf3cecba53d007af",
+      "name": "Muted Ink",
+      "css_var": "--muted-ink-color",
+      "value": "#6e7d8e",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "58a025a5faf1e2e066a4671afb391765",
+      "name": "Accent",
+      "css_var": "--accent-color",
+      "value": "#286b7f",
+      "type": "color",
+      "description": "Primary action color."
+    },
+    {
+      "id": "0bfe3ba49ac63672dafa5db650084cba",
+      "name": "Border",
+      "css_var": "--border-color",
+      "value": "#d6e0e8",
+      "type": "color",
+      "description": "Panel border color."
+    },
+    {
+      "id": "640004cb95bbbf6a70cda67e56d06a8b",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Inter",
+      "type": "font",
+      "description": "Primary app font."
+    },
+    {
+      "id": "0ddb1721b1280b5ebd0ab8d77cbdd656",
+      "name": "Panel Radius",
+      "css_var": "--panel-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Panel radius.",
+      "unit": "px",
+      "min": 0,
+      "max": 24,
+      "step": 1
+    },
+    {
+      "id": "bd49fcf31c2b19dcab625c9543df378c",
+      "name": "Page Padding",
+      "css_var": "--page-padding",
+      "value": "1.25rem",
+      "type": "size",
+      "description": "Outer page padding.",
+      "unit": "rem",
+      "min": 0,
+      "max": 4,
+      "step": 0.25
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Integrations",
+      "Demo",
+      "Python",
+      "Testing"
+    ],
+    "app_icon": "mdi:connection",
+    "integrations": {
+      "jira": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "log_platform": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "confluence": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "google_docs": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "google_drive": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "google_mail": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "google_sheets": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "pmp": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "space": {
+        "auth_mode": "app",
+        "app_provider": "owner_token"
+      },
+      "seatalk": {
+        "auth_mode": "app",
+        "app_id": "",
+        "app_secret": "",
+        "callback_signature": ""
+      },
+      "pop": {},
+      "llm_chat": {}
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

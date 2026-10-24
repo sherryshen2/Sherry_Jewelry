@@ -1,0 +1,13 @@
+{
+  "id": "personal-dashboard",
+  "name": "Personal dashboard",
+  "description": "A private home base for your priorities, notes, favorite links, and daily highlights.",
+  "tags": [
+    "Dashboard",
+    "Personal",
+    "Data",
+    "Python"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Personal dashboard template, keep records app-scoped in tasks, notes, links, and dashboard_metrics. Use frontend table() calls for interactive CRUD and backend/main.py for summary or capture routes. Keep the app private by default and use Hangar gateway helpers for every runtime call. Do not use a table named metrics because that route can collide with platform metrics endpoints."
+}

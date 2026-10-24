@@ -1,0 +1,86 @@
+{
+  "reassembled_from_exported_files": true,
+  "scene_only_fixed_geometry_and_anchors": true,
+  "source_and_export_world_bounds_match": true,
+  "products": {
+    "necklace": {
+      "bounds_match_error_m": 0.0,
+      "bounds_blender_world_m": [
+        [
+          -0.09750214964151382,
+          -0.0020158234983682632,
+          0.14297685027122498
+        ],
+        [
+          -0.006501082330942154,
+          0.04578470066189766,
+          0.29702314734458923
+        ]
+      ],
+      "earring_children": null
+    },
+    "earrings": {
+      "bounds_match_error_m": 0.0,
+      "bounds_blender_world_m": [
+        [
+          0.059212107211351395,
+          0.01899971067905426,
+          0.2491505742073059
+        ],
+        [
+          0.07842780649662018,
+          0.029214996844530106,
+          0.2608499825000763
+        ]
+      ],
+      "earring_children": [
+        "left_earring",
+        "right_earring"
+      ]
+    },
+    "ring": {
+      "bounds_match_error_m": 0.0,
+      "bounds_blender_world_m": [
+        [
+          -0.08925650268793106,
+          -0.07401683181524277,
+          0.13998831808567047
+        ],
+        [
+          -0.07074349373579025,
+          -0.05593457072973251,
+          0.15286196768283844
+        ]
+      ],
+      "earring_children": null
+    },
+    "bracelet": {
+      "bounds_match_error_m": 1.862645149230957e-09,
+      "bounds_blender_world_m": [
+        [
+          0.04303788021206856,
+          -0.06249157711863518,
+          0.1376820057630539
+        ],
+        [
+          0.10283768177032471,
+          -0.015101226978003979,
+          0.17581972479820251
+        ]
+      ],
+      "earring_children": null
+    }
+  },
+  "fit_diagnostics": {
+    "necklace_sampled_vertices": 16551,
+    "bust_penetrations_over_0_15mm": 0,
+    "max_signed_penetration_mm": 0.6404535306998582,
+    "penetration_examples": [],
+    "note": "Signed nearest-surface check is a diagnostic, not a manufacturing fit certification."
+  },
+  "known_review_items": [
+    "Stage 1 support fit and composition awaiting visual review.",
+    "Source jewelry retains pre-existing provisional hidden-mechanism and optical-approximation notes.",
+    "Rigid product animation only; no flexible chain deformation."
+  ]
+}

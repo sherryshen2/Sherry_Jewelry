@@ -1,0 +1,24 @@
+{
+  "PENDING_EndJump_-1": null,
+  "PENDING_EndJump_1": {
+    "translation_mm": [
+      0.09999999747378752,
+      -0.04999999873689376,
+      0.0
+    ],
+    "linking_numbers_approx": [
+      -1.0189731919883225
+    ]
+  },
+  "receiving_and_tail": {
+    "translation_mm": [
+      0.0,
+      0.09999999747378752,
+      0.0
+    ],
+    "linking_numbers_approx": [
+      -1.0046604041178038,
+      1.0064602245401633
+    ]
+  }
+}

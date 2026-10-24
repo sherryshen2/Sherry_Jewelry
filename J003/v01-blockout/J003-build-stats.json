@@ -1,0 +1,727 @@
+{
+  "stage": "STRUCTURAL_BLOCKOUT_PENDING_USER_REVIEW",
+  "mesh_objects": 140,
+  "triangles": 33784,
+  "material_count_product": 3,
+  "bounds_min_mm": [
+    -9.274999611079693,
+    -3.797499928623438,
+    -8.949999697506428
+  ],
+  "bounds_max_mm": [
+    9.274999611079693,
+    3.782981541007757,
+    10.54999977350235
+  ],
+  "dimensions_mm": [
+    18.549999222159386,
+    7.580481469631195,
+    19.499999471008778
+  ],
+  "objects": [
+    {
+      "name": "01_Shank_ID16mm_width_EST",
+      "triangles": 10356,
+      "evidence": "内径16mm 用户指定；戒臂宽厚、顶部缺口与肩部过渡按图片比例估算"
+    },
+    {
+      "name": "02_Center_Heart_outline_EST_cut_PENDING",
+      "triangles": 478,
+      "evidence": "心形及朝向由4张图片确认；尺寸与切面分区为比例草稿"
+    },
+    {
+      "name": "PENDING_03_OpenBack_Gallery",
+      "triangles": 3520,
+      "evidence": "待确认：背面未提供，临时心形开底镶座；外轮廓有图依据"
+    },
+    {
+      "name": "PENDING_04_ShoulderJoin_-1",
+      "triangles": 116,
+      "evidence": "连接关系有图依据；过渡曲面与内侧连接位置待确认"
+    },
+    {
+      "name": "PENDING_04_ShoulderJoin_1",
+      "triangles": 116,
+      "evidence": "连接关系有图依据；过渡曲面与内侧连接位置待确认"
+    },
+    {
+      "name": "05_MainProng_01_EST",
+      "triangles": 68,
+      "evidence": "三处主石镶爪位置由图片确认；爪形、粗细按比例估算"
+    },
+    {
+      "name": "05_MainProngTip_01_EST",
+      "triangles": 168,
+      "evidence": "主爪端部形状估算"
+    },
+    {
+      "name": "05_MainProng_02_EST",
+      "triangles": 68,
+      "evidence": "三处主石镶爪位置由图片确认；爪形、粗细按比例估算"
+    },
+    {
+      "name": "05_MainProngTip_02_EST",
+      "triangles": 168,
+      "evidence": "主爪端部形状估算"
+    },
+    {
+      "name": "05_MainProng_03_EST",
+      "triangles": 68,
+      "evidence": "三处主石镶爪位置由图片确认；爪形、粗细按比例估算"
+    },
+    {
+      "name": "05_MainProngTip_03_EST",
+      "triangles": 168,
+      "evidence": "主爪端部形状估算"
+    },
+    {
+      "name": "PENDING_Halo_01",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_01_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_01_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_02",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_02_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_02_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_03",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_03_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_03_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_04",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_04_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_04_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_05",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_05_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_05_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_06",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_06_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_06_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_07",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_07_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_07_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_08",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_08_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_08_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_09",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_09_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_09_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_10",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_10_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_10_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_11",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_11_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_11_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_12",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_12_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_12_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_13",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_13_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_13_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_14",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_14_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_14_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_15",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_15_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_15_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_16",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_16_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_16_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_17",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_17_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_17_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_18",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_18_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_18_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_19",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_19_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_19_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_20",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_20_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_20_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_Halo_21",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_HaloBead_21_0",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_HaloBead_21_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_01",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_01_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_01_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_02",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_02_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_02_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_03",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_03_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_03_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_04",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_04_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_04_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_05",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_05_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_05_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_06",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_06_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_06_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_07",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_07_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_07_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_08",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_08_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_08_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_09",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_09_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_09_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_10",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_10_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_10_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_-1_11",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_11_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_-1_11_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_01",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_01_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_01_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_02",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_02_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_02_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_03",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_03_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_03_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_04",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_04_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_04_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_05",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_05_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_05_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_06",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_06_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_06_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_07",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_07_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_07_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_08",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_08_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_08_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_09",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_09_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_09_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_10",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_10_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_10_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderStone_1_11",
+      "triangles": 94,
+      "evidence": "辅石存在已确认；该排列颗数/切面为待确认草稿"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_11_-1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    },
+    {
+      "name": "PENDING_ShoulderBead_1_11_1",
+      "triangles": 168,
+      "evidence": "待确认：简化的镶嵌微爪"
+    }
+  ],
+  "files": {
+    "J003-blockout-v01.glb": 808200,
+    "J003-source-v01.blend": 2407077
+  }
+}

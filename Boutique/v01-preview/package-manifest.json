@@ -1,0 +1,45 @@
+{
+  "stage": "01 preview; user style confirmation pending",
+  "files": [
+    {
+      "path": "Boutique-stage1.blend",
+      "bytes": 6784992,
+      "sha256": "a477fc48e315bfabdd6c7b9ddb94ecfc38547779d59578be126328875649c46d"
+    },
+    {
+      "path": "01_Front.png",
+      "bytes": 1799732,
+      "sha256": "d4bae85003f5eb1d6cecf39b06b3f62b0310b8847bebce66d55d4525cec5ba9a"
+    },
+    {
+      "path": "02_Left.png",
+      "bytes": 1815385,
+      "sha256": "a5e16633eaafefb60a97406f77910c6c6cc3d3e37ec2ca270b1ed34052881821"
+    },
+    {
+      "path": "03_Right.png",
+      "bytes": 1811935,
+      "sha256": "8d6faace16b56453551ac33d3a5d617dd1664c1e4be190262517ac944cc221cf"
+    },
+    {
+      "path": "camera-preview.json",
+      "bytes": 849,
+      "sha256": "4de9c7e7fbb65d68b75f2e7f0320b43809984e5b579abddd027f9e4d866907ad"
+    },
+    {
+      "path": "preview-audit.json",
+      "bytes": 1071,
+      "sha256": "85fec6eb4723e0a5defd4f2372035678867e9bc60b9d82c9ccd71e42304b96b2"
+    },
+    {
+      "path": "阶段说明.txt",
+      "bytes": 1903,
+      "sha256": "99fec2ffc96e168b1ad96ca23d2b36b807a95dc3f666e573a8c15d964cf518f6"
+    },
+    {
+      "path": "textures/fine_painted_wood.png",
+      "bytes": 224634,
+      "sha256": "eb1da6fee5779f77ffdb54fc2641242cc2fc0bf7b95a0b3d5c2c3e753fada288"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schema": [
+    {
+      "name": "ticket_id",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "author_name",
+      "type": "text"
+    },
+    {
+      "name": "content",
+      "type": "text"
+    },
+    {
+      "name": "is_internal",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "created_at",
+      "type": "date"
+    }
+  ],
+  "records": [
+    {
+      "id": "message-login",
+      "ticket_id": "ticket-login",
+      "author_name": "Support",
+      "content": "Asked requester for screenshot and browser details.",
+      "is_internal": true,
+      "created_at": "2026-06-21T10:00:00.000Z"
+    }
+  ],
+  "icon": "mdi:message-reply-text-outline",
+  "scope": "app"
+}

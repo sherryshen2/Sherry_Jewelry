@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "title",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "description",
+      "type": "text"
+    },
+    {
+      "name": "status",
+      "type": "text",
+      "default": "Planned"
+    },
+    {
+      "name": "owner",
+      "type": "text"
+    },
+    {
+      "name": "start_date",
+      "type": "date"
+    },
+    {
+      "name": "end_date",
+      "type": "date"
+    },
+    {
+      "name": "dependencies",
+      "type": "text"
+    },
+    {
+      "name": "jira_key",
+      "type": "text"
+    },
+    {
+      "name": "risk",
+      "type": "text"
+    },
+    {
+      "name": "progress",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "order",
+      "type": "number",
+      "default": 0
+    }
+  ],
+  "records": [
+    {
+      "id": "task-discovery",
+      "title": "Discovery and requirements",
+      "description": "Confirm scope, stakeholders, success metrics, and release boundaries.",
+      "status": "Complete",
+      "owner": "PM",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-07",
+      "dependencies": "",
+      "jira_key": "PRJ-1",
+      "risk": "Low",
+      "progress": 100,
+      "order": 0
+    },
+    {
+      "id": "task-design",
+      "title": "Experience design review",
+      "description": "Review timeline flows, dependency language, and stakeholder-ready reporting.",
+      "status": "Ready",
+      "owner": "Design",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-12",
+      "dependencies": "task-discovery",
+      "jira_key": "PRJ-5",
+      "risk": "Low",
+      "progress": 65,
+      "order": 1
+    },
+    {
+      "id": "task-build",
+      "title": "Build core workflow",
+      "description": "Implement task CRUD, timeline interactions, and backend summary.",
+      "status": "Active",
+      "owner": "Engineering",
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-23",
+      "dependencies": "task-discovery, task-design",
+      "jira_key": "PRJ-8",
+      "risk": "Medium",
+      "progress": 58,
+      "order": 2
+    },
+    {
+      "id": "task-qa",
+      "title": "QA and rollout checks",
+      "description": "Validate date moves, dependency handoff, copy, metrics, and launch readiness.",
+      "status": "Blocked",
+      "owner": "QA",
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-27",
+      "dependencies": "task-build",
+      "jira_key": "PRJ-11",
+      "risk": "Waiting on staging data",
+      "progress": 20,
+      "order": 3
+    },
+    {
+      "id": "task-launch",
+      "title": "Internal launch",
+      "description": "Publish release notes, demo the plan, and archive decisions.",
+      "status": "Planned",
+      "owner": "Launch",
+      "start_date": "2026-06-28",
+      "end_date": "2026-07-02",
+      "dependencies": "task-qa",
+      "jira_key": "PRJ-13",
+      "risk": "Medium",
+      "progress": 0,
+      "order": 4
+    }
+  ],
+  "icon": "mdi:timeline-clock-outline",
+  "scope": "app"
+}

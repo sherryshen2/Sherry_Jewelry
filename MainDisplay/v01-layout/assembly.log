@@ -1,0 +1,48 @@
+12:04:47 | INFO: Data are loaded, start creating Blender stuff
+12:04:47 | INFO: Blender create Mesh node cabriole counter foot
+12:04:47 | INFO: Blender create Mesh node central applied moulding
+12:04:47 | INFO: Blender create Mesh node counter apron inner tendril
+12:04:47 | INFO: Blender create Mesh node counter central recessed panel.001
+12:04:47 | INFO: Blender create Mesh node blush drawer inset.003
+12:04:47 | INFO: Blender create Mesh node shared 05 | champagne polished accents(16, 10).002
+12:04:47 | INFO: Blender create Mesh node Mesh
+12:04:48 | INFO: Blender create Mesh node earrings blush inset.001
+12:04:48 | INFO: Blender create Mesh node curtain gold tieback
+12:04:48 | INFO: Blender create Mesh node left backdrop drape.001
+12:04:48 | INFO: Blender create Mesh node left backdrop drape lace selvedge.001
+12:04:48 | INFO: Blender create Mesh node shared 05 | champagne polished accents(10, 6).001
+12:04:48 | INFO: Blender create Mesh node mirror console ledge.001
+12:04:49 | INFO: Blender create Mesh node mirror crown detail acanthus.010
+12:04:49 | INFO: Blender create Mesh node shared 16 | softened silver mirror(64, 32).001
+12:04:49 | INFO: Blender create Mesh node soft oyster backdrop.001
+12:04:49 | INFO: Blender create Mesh node shared 17 | muted eucalyptus(16, 10).001
+12:04:49 | INFO: Blender create Mesh node shared 19 | buttercream petals(12, 8).001
+12:04:49 | INFO: Blender create Mesh node shared 18 | pale blush petals(12, 8).001
+12:04:49 | INFO: Blender create Mesh node folded lace table runner.001
+12:04:49 | INFO: Blender create Mesh node silk ribbon band.002
+12:04:49 | INFO: glTF import finished in 2.22s
+12:04:49 | INFO: Data are loaded, start creating Blender stuff
+12:04:49 | INFO: Blender create Mesh node necklace_body_M01_Silver_user_spec
+12:04:50 | INFO: Blender create Mesh node necklace_body_M02_PinkZircon_reference_approx
+12:04:50 | INFO: Blender create Mesh node necklace_body_PENDING_M03_ClaspCharm_light_stone
+12:04:50 | INFO: glTF import finished in 1.21s
+12:04:51 | INFO: Data are loaded, start creating Blender stuff
+12:04:51 | INFO: Blender create Mesh node earrings_left_earring_M01_925Silver_appearance
+12:04:51 | INFO: Blender create Mesh node earrings_left_earring_M02_ColorlessCZ_optics_EST
+12:04:51 | INFO: Blender create Mesh node earrings_right_earring_M01_925Silver_appearance
+12:04:51 | INFO: Blender create Mesh node earrings_right_earring_M02_ColorlessCZ_optics_EST
+12:04:51 | INFO: glTF import finished in 0.60s
+12:04:52 | INFO: Data are loaded, start creating Blender stuff
+12:04:52 | INFO: Blender create Mesh node ring_body_M01_RoseGold_user_color
+12:04:52 | INFO: Blender create Mesh node ring_body_M02_PinkStone_optics_PENDING
+12:04:52 | INFO: Blender create Mesh node ring_body_M03_PinkAccent_optics_PENDING
+12:04:52 | INFO: glTF import finished in 0.45s
+12:04:53 | INFO: Data are loaded, start creating Blender stuff
+12:04:53 | INFO: Blender create Mesh node bracelet_body_M01_925Silver
+12:04:54 | INFO: Blender create Mesh node bracelet_body_M02_ColorlessCZ_EST
+12:04:54 | INFO: glTF import finished in 1.10s
+{"reassembled_from_exported_files": true, "scene_only_fixed_geometry_and_anchors": true, "source_and_export_world_bounds_match": true, "products": {"necklace": {"bounds_match_error_m": 0.0, "bounds_blender_world_m": [[-0.09750214964151382, -0.0020158234983682632, 0.14297685027122498], [-0.006501082330942154, 0.04578470066189766, 0.29702314734458923]], "earring_children": null}, "earrings": {"bounds_match_error_m": 0.0, "bounds_blender_world_m": [[0.059212107211351395, 0.01899971067905426, 0.2491505742073059], [0.07842780649662018, 0.029214996844530106, 0.2608499825000763]], "earring_children": ["left_earring", "right_earring"]}, "ring": {"bounds_match_error_m": 0.0, "bounds_blender_world_m": [[-0.08925650268793106, -0.07401683181524277, 0.13998831808567047], [-0.07074349373579025, -0.05593457072973251, 0.15286196768283844]], "earring_children": null}, "bracelet": {"bounds_match_error_m": 1.862645149230957e-09, "bounds_blender_world_m": [[0.04303788021206856, -0.06249157711863518, 0.1376820057630539], [0.10283768177032471, -0.015101226978003979, 0.17581972479820251]], "earring_children": null}}, "fit_diagnostics": {"necklace_sampled_vertices": 16551, "bust_penetrations_over_0_15mm": 0, "max_signed_penetration_mm": 0.6404535306998582, "penetration_examples": [], "note": "Signed nearest-surface check is a diagnostic, not a manufacturing fit certification."}, "known_review_items": ["Stage 1 support fit and composition awaiting visual review.", "Source jewelry retains pre-existing provisional hidden-mechanism and optical-approximation notes.", "Rigid product animation only; no flexible chain deformation."]}
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/MainDisplay/v01-layout/main-display-source.blend"
+
+Blender quit

@@ -1,0 +1,13 @@
+{
+  "id": "release-verification",
+  "name": "Release verification",
+  "description": "Select or create a release and update canary, logs, and released Grafana screenshot proof.",
+  "tags": [
+    "Release",
+    "QA",
+    "Screenshots",
+    "Evidence"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Release verification template, releases are selected or created by version name only. Store proof in verifications.canary_screenshots, verifications.logs_screenshots, and verifications.grafana_screenshots files fields by passing browser File arrays or multipart FormData to $data. Use auth.currentUser() for the verifier identity; do not ask users to type an email."
+}

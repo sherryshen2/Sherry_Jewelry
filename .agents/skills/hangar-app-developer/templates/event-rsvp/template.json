@@ -1,0 +1,13 @@
+{
+  "id": "event-rsvp",
+  "name": "Event RSVP",
+  "description": "Collect guest responses, track attendance status, and prepare calendar/sheet exports.",
+  "tags": [
+    "Events",
+    "RSVP",
+    "Meet",
+    "Sheets"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Event RSVP template, support reusable event-specific RSVP links. Store events and responses app-scoped. Respondent links use ?event=<slug-or-id>; respondent identity comes from the logged-in Hangar user, with optional &email=<email> retained only as a legacy fallback. Do not ask respondents to type their email. Use Google Sheets for attendee exports and Google Mail for invitation workflows."
+}

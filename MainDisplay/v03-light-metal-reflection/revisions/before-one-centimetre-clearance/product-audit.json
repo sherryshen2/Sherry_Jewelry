@@ -1,0 +1,111 @@
+{
+  "necklace": {
+    "source": "J001/v02-refined/J001-source-v02.blend",
+    "original_root": "J001_ROOT",
+    "product_root": "necklace_product",
+    "origin_relation": "v03 reposed individual chain links; pendant unchanged in size; same display anchor",
+    "bounds_blender_m": [
+      [
+        -0.0514146089553833,
+        -0.023230772465467453,
+        -0.005000002216547728
+      ],
+      [
+        0.05144157260656357,
+        0.04462261497974396,
+        0.06399999558925629
+      ]
+    ],
+    "dimensions_mm": [
+      102.8561782836914,
+      67.8533935546875,
+      69.0
+    ],
+    "triangles": 162752,
+    "material_count": 3,
+    "mesh_batches": 3,
+    "bytes": 3940876,
+    "pose_revision": "Pendant centred; widened shoulder drape with 25 mm lateral clearance at each neck side; full chain length retained behind."
+  },
+  "earrings": {
+    "source": "J002/v02-refined/J002-source-v02.blend",
+    "original_root": "J002_ROOT",
+    "product_root": "earrings_product",
+    "origin_relation": "Product local coordinates equal original Blender root local coordinates; unit scale 1. No geometry or material redesign. Evaluated source modifiers retained as mesh.",
+    "bounds_blender_m": [
+      [
+        -0.009787891060113907,
+        -0.005000288598239422,
+        -0.0058494266122579575
+      ],
+      [
+        0.009427807293832302,
+        0.0052149975672364235,
+        0.005850000306963921
+      ]
+    ],
+    "dimensions_mm": [
+      19.21569835394621,
+      10.215286165475845,
+      11.699426919221878
+    ],
+    "triangles": 54988,
+    "material_count": 2,
+    "mesh_batches": 4,
+    "bytes": 1333008
+  },
+  "ring": {
+    "source": "J003/v06-prong-gold/J003-source-v06.blend",
+    "original_root": "J003_ROOT",
+    "product_root": "ring_product",
+    "origin_relation": "Product local coordinates equal original Blender root local coordinates; unit scale 1. No geometry or material redesign. Evaluated source modifiers retained as mesh.",
+    "bounds_blender_m": [
+      [
+        -0.009274999611079693,
+        -0.0035570000763982534,
+        -0.008949999697506428
+      ],
+      [
+        0.009274999611079693,
+        0.003550102235749364,
+        0.01054999977350235
+      ]
+    ],
+    "dimensions_mm": [
+      18.549999222159386,
+      7.107102312147617,
+      19.499999471008778
+    ],
+    "triangles": 68218,
+    "material_count": 3,
+    "mesh_batches": 3,
+    "bytes": 1562656
+  },
+  "bracelet": {
+    "source": "J004/v02-close-set/J004-source-v02.blend",
+    "original_root": "J004_ROOT",
+    "product_root": "bracelet_product",
+    "origin_relation": "Product local coordinates equal original Blender root local coordinates; unit scale 1. No geometry or material redesign. Evaluated source modifiers retained as mesh.",
+    "bounds_blender_m": [
+      [
+        -0.030040429905056953,
+        -0.023412618786096573,
+        -0.0005341267678886652
+      ],
+      [
+        0.030040429905056953,
+        0.036290235817432404,
+        0.0025100000202655792
+      ]
+    ],
+    "dimensions_mm": [
+      60.08085981011391,
+      59.702854603528976,
+      3.0441267881542444
+    ],
+    "triangles": 142702,
+    "material_count": 2,
+    "mesh_batches": 2,
+    "bytes": 4148552
+  }
+}

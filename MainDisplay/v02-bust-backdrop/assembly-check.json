@@ -1,0 +1,86 @@
+{
+  "reassembled_from_exported_files": true,
+  "scene_only_fixed_geometry_and_anchors": true,
+  "source_and_export_world_bounds_match": true,
+  "products": {
+    "necklace": {
+      "bounds_match_error_m": 7.450580596923828e-09,
+      "bounds_blender_world_m": [
+        [
+          -0.07460735738277435,
+          -0.0012307725846767426,
+          0.2150000035762787
+        ],
+        [
+          -0.029385464265942574,
+          0.06532999873161316,
+          0.2940095365047455
+        ]
+      ],
+      "earring_children": null
+    },
+    "earrings": {
+      "bounds_match_error_m": 0.0,
+      "bounds_blender_world_m": [
+        [
+          0.059212107211351395,
+          0.01899971067905426,
+          0.2491505742073059
+        ],
+        [
+          0.07842780649662018,
+          0.029214996844530106,
+          0.2608499825000763
+        ]
+      ],
+      "earring_children": [
+        "left_earring",
+        "right_earring"
+      ]
+    },
+    "ring": {
+      "bounds_match_error_m": 0.0,
+      "bounds_blender_world_m": [
+        [
+          -0.08925650268793106,
+          -0.07401683181524277,
+          0.13998831808567047
+        ],
+        [
+          -0.07074349373579025,
+          -0.05593457072973251,
+          0.15286196768283844
+        ]
+      ],
+      "earring_children": null
+    },
+    "bracelet": {
+      "bounds_match_error_m": 1.862645149230957e-09,
+      "bounds_blender_world_m": [
+        [
+          0.04303788021206856,
+          -0.06249157711863518,
+          0.1376820057630539
+        ],
+        [
+          0.10283768177032471,
+          -0.015101226978003979,
+          0.17581972479820251
+        ]
+      ],
+      "earring_children": null
+    }
+  },
+  "fit_diagnostics": {
+    "necklace_sampled_vertices": 16403,
+    "bust_penetrations_over_0_15mm": 0,
+    "max_signed_penetration_mm": 0.05534566025744425,
+    "penetration_examples": [],
+    "note": "Signed nearest-surface check is a diagnostic, not a manufacturing fit certification."
+  },
+  "known_review_items": [
+    "v02 revised bust, necklace drape and enlarged backdrop.",
+    "Existing jewelry dimensions and optical approximations remain as source notes.",
+    "Rigid product animation only; no flexible chain deformation."
+  ]
+}

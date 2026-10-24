@@ -1,0 +1,22 @@
+{
+  "detail": {
+    "geometry_buffer_identical_to_v03": true,
+    "metal_base_color_linear": [
+      0.9800000190734863,
+      0.6200000047683716,
+      0.4000000059604645,
+      1
+    ],
+    "gem_materials_unchanged": true
+  },
+  "display": {
+    "geometry_buffer_identical_to_v03": true,
+    "metal_base_color_linear": [
+      0.9800000190734863,
+      0.6200000047683716,
+      0.4000000059604645,
+      1
+    ],
+    "gem_materials_unchanged": true
+  }
+}

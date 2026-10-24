@@ -1,0 +1,1229 @@
+Info: Saved as "J003-source-v01.blend"
+INFO Draco mesh compression is available, use library at /Applications/Blender.app/Contents/Resources/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.dylib
+12:17:55 | INFO: Starting glTF 2.0 export
+12:17:55 | INFO: Extracting primitive: 01_Shank_ID16mm_width_EST_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: 02_Center_Heart_outline_EST_cut_PENDING_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: 05_MainProng_01_EST_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: 05_MainProng_02_EST_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: 05_MainProng_03_EST_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: 05_MainProngTip_01_EST_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: 05_MainProngTip_02_EST_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: 05_MainProngTip_03_EST_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_03_OpenBack_Gallery_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_04_ShoulderJoin_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_04_ShoulderJoin_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_01_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_02_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_03_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_04_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_05_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_06_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_07_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_08_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_09_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_10_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_11_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_12_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_13_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_14_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_15_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_16_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_17_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_18_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_19_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_20_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_Halo_21_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_01_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_01_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_02_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_02_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_03_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_03_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_04_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_04_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_05_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_05_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_06_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_06_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_07_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_07_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_08_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_08_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_09_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_09_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_10_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_10_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_11_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_11_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_12_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_12_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_13_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_13_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_14_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_14_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_15_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_15_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_16_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_16_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_17_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_17_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_18_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_18_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_19_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_19_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_20_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_20_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_21_0_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_HaloBead_21_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_01_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_01_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_02_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_02_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_03_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_03_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_04_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_04_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_05_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_05_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_06_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_06_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_07_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_07_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_08_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_08_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_09_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_09_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_10_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_10_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_11_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_-1_11_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_01_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_01_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_02_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_02_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_03_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_03_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_04_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_04_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_05_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_05_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_06_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_06_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_07_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_07_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_08_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_08_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_09_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_09_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_10_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_10_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_11_-1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderBead_1_11_1_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_01_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_02_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_03_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_04_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_05_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_06_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_07_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_08_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_09_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_10_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_-1_11_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_01_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_02_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_03_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_04_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_05_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_06_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_07_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_08_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_09_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_10_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Extracting primitive: PENDING_ShoulderStone_1_11_Mesh
+12:17:55 | INFO: Primitives created: 1
+12:17:55 | INFO: Finished glTF 2.0 export in 0.2291109561920166 s
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+Fra:1 Mem:25.32M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 01_Shank_ID16mm_width_EST
+Fra:1 Mem:25.32M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_03_OpenBack_Gallery
+Fra:1 Mem:25.76M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_04_ShoulderJoin_1
+Fra:1 Mem:25.90M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_01_EST
+Fra:1 Mem:25.97M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_01_EST
+Fra:1 Mem:25.98M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_02_EST
+Fra:1 Mem:25.99M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_02_EST
+Fra:1 Mem:26.00M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_03_EST
+Fra:1 Mem:26.01M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_01_0
+Fra:1 Mem:26.04M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_01_1
+Fra:1 Mem:26.05M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_02
+Fra:1 Mem:26.07M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_02_1
+Fra:1 Mem:26.07M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_03
+Fra:1 Mem:26.08M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_03_0
+Fra:1 Mem:26.09M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_03_1
+Fra:1 Mem:26.10M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_04
+Fra:1 Mem:26.10M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_04_0
+Fra:1 Mem:26.11M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_04_1
+Fra:1 Mem:26.12M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_05
+Fra:1 Mem:26.13M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_05_1
+Fra:1 Mem:26.13M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_06
+Fra:1 Mem:26.14M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_06_0
+Fra:1 Mem:26.15M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_06_1
+Fra:1 Mem:26.16M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_07
+Fra:1 Mem:26.17M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_07_1
+Fra:1 Mem:26.18M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_08
+Fra:1 Mem:26.19M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_08_1
+Fra:1 Mem:26.20M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_09
+Fra:1 Mem:26.21M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_09_1
+Fra:1 Mem:26.21M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_10
+Fra:1 Mem:26.22M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_10_0
+Fra:1 Mem:26.24M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_11
+Fra:1 Mem:26.24M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_11_0
+Fra:1 Mem:26.25M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_12
+Fra:1 Mem:26.26M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_12_0
+Fra:1 Mem:26.27M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_12_1
+Fra:1 Mem:26.28M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_13
+Fra:1 Mem:26.29M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_13_0
+Fra:1 Mem:26.29M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_14
+Fra:1 Mem:26.31M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_14_0
+Fra:1 Mem:26.31M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_15
+Fra:1 Mem:26.32M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_15_0
+Fra:1 Mem:26.33M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_16
+Fra:1 Mem:26.35M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_16_0
+Fra:1 Mem:26.35M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_16_1
+Fra:1 Mem:26.36M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_17
+Fra:1 Mem:26.36M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_17_0
+Fra:1 Mem:26.36M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_17_1
+Fra:1 Mem:26.37M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Top_strip
+Fra:1 Mem:26.37M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_18
+Fra:1 Mem:26.38M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_18_0
+Fra:1 Mem:26.38M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_18_1
+Fra:1 Mem:26.39M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_19
+Fra:1 Mem:26.40M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_19_0
+Fra:1 Mem:26.41M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_19_1
+Fra:1 Mem:26.42M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_20
+Fra:1 Mem:26.43M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_21
+Fra:1 Mem:26.43M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_21_0
+Fra:1 Mem:26.44M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Front_strip
+Fra:1 Mem:26.44M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Rim_softbox
+Fra:1 Mem:26.44M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Key_softbox
+Fra:1 Mem:26.44M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_1
+Fra:1 Mem:26.45M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_-1
+Fra:1 Mem:26.46M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_11
+Fra:1 Mem:26.47M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_01
+Fra:1 Mem:26.48M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_01_1
+Fra:1 Mem:26.48M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_02
+Fra:1 Mem:26.50M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_02_-1
+Fra:1 Mem:26.51M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_03_-1
+Fra:1 Mem:26.52M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_03_1
+Fra:1 Mem:26.54M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_04
+Fra:1 Mem:26.54M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_-1
+Fra:1 Mem:26.55M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_04_1
+Fra:1 Mem:26.55M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_05
+Fra:1 Mem:26.56M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_05_1
+Fra:1 Mem:26.57M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_06
+Fra:1 Mem:26.57M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_-1
+Fra:1 Mem:26.59M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_1
+Fra:1 Mem:26.60M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_07
+Fra:1 Mem:26.60M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_10
+Fra:1 Mem:26.62M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_08
+Fra:1 Mem:26.62M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_1
+Fra:1 Mem:26.63M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_08_-1
+Fra:1 Mem:26.63M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_08_1
+Fra:1 Mem:26.63M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_09
+Fra:1 Mem:26.64M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_09_-1
+Fra:1 Mem:26.65M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_09_1
+Fra:1 Mem:26.67M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_-1
+Fra:1 Mem:26.67M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_10_-1
+Fra:1 Mem:26.68M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_09
+Fra:1 Mem:26.68M (Peak 27.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_10_1
+Fra:1 Mem:26.70M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_11
+Fra:1 Mem:26.70M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_11_1
+Fra:1 Mem:26.72M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_01
+Fra:1 Mem:26.72M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_01_1
+Fra:1 Mem:26.73M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_02
+Fra:1 Mem:26.74M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_-1
+Fra:1 Mem:26.74M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_1
+Fra:1 Mem:26.76M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_03
+Fra:1 Mem:26.76M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_08_-1
+Fra:1 Mem:26.77M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_03_1
+Fra:1 Mem:26.78M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_04
+Fra:1 Mem:26.79M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_-1
+Fra:1 Mem:26.80M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_05
+Fra:1 Mem:26.80M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_08
+Fra:1 Mem:26.81M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_-1
+Fra:1 Mem:26.82M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_1
+Fra:1 Mem:26.83M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_06
+Fra:1 Mem:26.83M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_-1
+Fra:1 Mem:26.84M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_1
+Fra:1 Mem:26.85M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_07
+Fra:1 Mem:26.85M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_07_-1
+Fra:1 Mem:26.89M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:21.68M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:21.68M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:21.68M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:21.68M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:21.77M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:21.77M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:21.77M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:21.77M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:21.77M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:21.77M (Peak 27.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:21.80M (Peak 27.07M) | Time:00:00.02 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:21.80M (Peak 27.07M) | Time:00:00.02 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:21.80M (Peak 27.07M) | Time:00:00.02 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:21.80M (Peak 27.07M) | Time:00:00.02 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:21.80M (Peak 27.07M) | Time:00:00.02 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:22.02M (Peak 27.07M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:22.01M (Peak 27.07M) | Time:00:00.02 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:22.01M (Peak 27.07M) | Time:00:00.02 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:22.01M (Peak 27.07M) | Time:00:00.02 | Mem:1.27M, Peak:1.27M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:22.01M (Peak 27.07M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:22.01M (Peak 27.07M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.41M, Peak:3.54M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:22.92M (Peak 27.07M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:22.93M (Peak 27.07M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:22.93M (Peak 27.07M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:81.72M (Peak 81.72M) | Time:00:00.18 | Remaining:00:07.30 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:106.44M (Peak 143.52M) | Time:00:11.69 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:106.44M (Peak 143.52M) | Time:00:11.69 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Finished
+Saved: '/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/J003/v01-blockout/J003-front-v01.png'
+Time: 00:11.94 (Saving: 00:00.24)
+
+
+BUILD_COMPLETE {"stage": "STRUCTURAL_BLOCKOUT_PENDING_USER_REVIEW", "mesh_objects": 140, "triangles": 33784, "material_count_product": 3, "bounds_min_mm": [-9.274999611079693, -3.797499928623438, -8.949999697506428], "bounds_max_mm": [9.274999611079693, 3.782981541007757, 10.54999977350235], "dimensions_mm": [18.549999222159386, 7.580481469631195, 19.499999471008778], "files": {"J003-blockout-v01.glb": 808200, "J003-source-v01.blend": 2407077}}
+RENDER_COMPLETE front
+Fra:1 Mem:25.40M (Peak 25.40M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 01_Shank_ID16mm_width_EST
+Fra:1 Mem:25.81M (Peak 25.81M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_04_ShoulderJoin_1
+Fra:1 Mem:26.06M (Peak 26.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_01_EST
+Fra:1 Mem:26.05M (Peak 26.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_01_EST
+Fra:1 Mem:26.06M (Peak 26.06M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_02_EST
+Fra:1 Mem:26.07M (Peak 26.07M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_02_EST
+Fra:1 Mem:26.08M (Peak 26.08M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_03_EST
+Fra:1 Mem:26.15M (Peak 26.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_01_0
+Fra:1 Mem:26.13M (Peak 26.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_02
+Fra:1 Mem:26.14M (Peak 26.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_02_0
+Fra:1 Mem:26.15M (Peak 26.15M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_02_1
+Fra:1 Mem:26.16M (Peak 26.16M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_03_0
+Fra:1 Mem:26.17M (Peak 26.17M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_03_1
+Fra:1 Mem:26.17M (Peak 26.17M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_04
+Fra:1 Mem:26.18M (Peak 26.18M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_04_0
+Fra:1 Mem:26.19M (Peak 26.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_04_1
+Fra:1 Mem:26.19M (Peak 26.19M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_05
+Fra:1 Mem:26.20M (Peak 26.20M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_05_1
+Fra:1 Mem:26.21M (Peak 26.21M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_06
+Fra:1 Mem:26.22M (Peak 26.22M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_06_1
+Fra:1 Mem:26.24M (Peak 26.24M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_07_1
+Fra:1 Mem:26.24M (Peak 26.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_08
+Fra:1 Mem:26.25M (Peak 26.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_08_0
+Fra:1 Mem:26.26M (Peak 26.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Bottom_fill
+Fra:1 Mem:26.27M (Peak 26.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Top_strip
+Fra:1 Mem:26.27M (Peak 26.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Front_strip
+Fra:1 Mem:26.27M (Peak 26.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Rim_softbox
+Fra:1 Mem:26.28M (Peak 26.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_09_1
+Fra:1 Mem:26.28M (Peak 26.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_10
+Fra:1 Mem:26.29M (Peak 26.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_10_0
+Fra:1 Mem:26.29M (Peak 26.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Key_softbox
+Fra:1 Mem:26.29M (Peak 26.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_1
+Fra:1 Mem:26.30M (Peak 26.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_-1
+Fra:1 Mem:26.31M (Peak 26.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_11
+Fra:1 Mem:26.31M (Peak 26.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_11_0
+Fra:1 Mem:26.32M (Peak 26.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_11_1
+Fra:1 Mem:26.33M (Peak 26.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_12
+Fra:1 Mem:26.34M (Peak 26.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_12_1
+Fra:1 Mem:26.34M (Peak 26.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_13
+Fra:1 Mem:26.35M (Peak 26.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_13_0
+Fra:1 Mem:26.36M (Peak 26.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_14
+Fra:1 Mem:26.37M (Peak 26.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_14_0
+Fra:1 Mem:26.37M (Peak 26.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_14_1
+Fra:1 Mem:26.38M (Peak 26.38M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_15
+Fra:1 Mem:26.39M (Peak 26.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_15_0
+Fra:1 Mem:26.39M (Peak 26.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_15_1
+Fra:1 Mem:26.40M (Peak 26.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_1
+Fra:1 Mem:26.40M (Peak 26.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_16
+Fra:1 Mem:26.41M (Peak 26.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_-1
+Fra:1 Mem:26.42M (Peak 26.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_16_1
+Fra:1 Mem:26.43M (Peak 26.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_17
+Fra:1 Mem:26.43M (Peak 26.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_17_0
+Fra:1 Mem:26.44M (Peak 26.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_17_1
+Fra:1 Mem:26.45M (Peak 26.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_18
+Fra:1 Mem:26.46M (Peak 26.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_18_0
+Fra:1 Mem:26.46M (Peak 26.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_18_1
+Fra:1 Mem:26.47M (Peak 26.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_19
+Fra:1 Mem:26.47M (Peak 26.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_1
+Fra:1 Mem:26.48M (Peak 26.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_19_0
+Fra:1 Mem:26.48M (Peak 26.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_-1
+Fra:1 Mem:26.49M (Peak 26.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_19_1
+Fra:1 Mem:26.50M (Peak 26.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_20
+Fra:1 Mem:26.51M (Peak 26.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_09
+Fra:1 Mem:26.51M (Peak 26.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_08_1
+Fra:1 Mem:26.52M (Peak 26.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_08_-1
+Fra:1 Mem:26.53M (Peak 26.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_21
+Fra:1 Mem:26.54M (Peak 26.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_08
+Fra:1 Mem:26.55M (Peak 26.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_21_1
+Fra:1 Mem:26.55M (Peak 26.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_01
+Fra:1 Mem:26.56M (Peak 26.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_01_-1
+Fra:1 Mem:26.57M (Peak 26.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_01_1
+Fra:1 Mem:26.58M (Peak 26.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_02_-1
+Fra:1 Mem:26.59M (Peak 26.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_02_1
+Fra:1 Mem:26.59M (Peak 26.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_07_1
+Fra:1 Mem:26.60M (Peak 26.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_03
+Fra:1 Mem:26.60M (Peak 26.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_03_-1
+Fra:1 Mem:26.60M (Peak 26.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_03_1
+Fra:1 Mem:26.62M (Peak 26.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_04_-1
+Fra:1 Mem:26.63M (Peak 26.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_04_1
+Fra:1 Mem:26.64M (Peak 26.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_05_-1
+Fra:1 Mem:26.64M (Peak 26.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_07_-1
+Fra:1 Mem:26.64M (Peak 26.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_05_1
+Fra:1 Mem:26.66M (Peak 26.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_07
+Fra:1 Mem:26.66M (Peak 26.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_06
+Fra:1 Mem:26.67M (Peak 26.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_-1
+Fra:1 Mem:26.67M (Peak 26.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_1
+Fra:1 Mem:26.67M (Peak 26.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_07
+Fra:1 Mem:26.68M (Peak 26.68M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_1
+Fra:1 Mem:26.68M (Peak 26.68M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_07_-1
+Fra:1 Mem:26.69M (Peak 26.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_07_1
+Fra:1 Mem:26.70M (Peak 26.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_08
+Fra:1 Mem:26.70M (Peak 26.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_08_-1
+Fra:1 Mem:26.72M (Peak 26.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_09
+Fra:1 Mem:26.72M (Peak 26.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_09_1
+Fra:1 Mem:26.73M (Peak 26.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_10
+Fra:1 Mem:26.73M (Peak 26.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_10_-1
+Fra:1 Mem:26.75M (Peak 26.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_10_1
+Fra:1 Mem:26.75M (Peak 26.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_11_-1
+Fra:1 Mem:26.76M (Peak 26.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_-1
+Fra:1 Mem:26.76M (Peak 26.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_11_1
+Fra:1 Mem:26.77M (Peak 26.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_06
+Fra:1 Mem:26.78M (Peak 26.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_01
+Fra:1 Mem:26.78M (Peak 26.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_1
+Fra:1 Mem:26.79M (Peak 26.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_01_-1
+Fra:1 Mem:26.79M (Peak 26.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_01_1
+Fra:1 Mem:26.80M (Peak 26.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_02
+Fra:1 Mem:26.80M (Peak 26.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_-1
+Fra:1 Mem:26.81M (Peak 26.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_1
+Fra:1 Mem:26.81M (Peak 26.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_-1
+Fra:1 Mem:26.82M (Peak 26.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_03
+Fra:1 Mem:26.83M (Peak 26.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_05
+Fra:1 Mem:26.83M (Peak 26.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_03_-1
+Fra:1 Mem:26.84M (Peak 26.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_03_1
+Fra:1 Mem:26.85M (Peak 26.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_04
+Fra:1 Mem:26.86M (Peak 26.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_-1
+Fra:1 Mem:26.86M (Peak 26.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_1
+Fra:1 Mem:26.89M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.02 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.02 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.02 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.02 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.02 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:22.03M (Peak 26.89M) | Time:00:00.02 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.02 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.02 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.02 | Mem:1.27M, Peak:1.27M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.41M, Peak:3.54M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:81.72M (Peak 81.72M) | Time:00:00.13 | Remaining:00:04.72 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:106.44M (Peak 143.52M) | Time:00:08.81 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:106.44M (Peak 143.52M) | Time:00:08.81 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Finished
+Saved: '/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/J003/v01-blockout/J003-side-v01.png'
+Time: 00:08.99 (Saving: 00:00.15)
+
+RENDER_COMPLETE side
+Fra:1 Mem:25.40M (Peak 25.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 01_Shank_ID16mm_width_EST
+Fra:1 Mem:25.40M (Peak 25.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_03_OpenBack_Gallery
+Fra:1 Mem:25.73M (Peak 25.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_04_ShoulderJoin_1
+Fra:1 Mem:26.03M (Peak 26.03M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_01_EST
+Fra:1 Mem:26.13M (Peak 26.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_01_EST
+Fra:1 Mem:26.07M (Peak 26.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_03_EST
+Fra:1 Mem:26.07M (Peak 26.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_03_EST
+Fra:1 Mem:26.08M (Peak 26.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_01
+Fra:1 Mem:26.09M (Peak 26.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_01_1
+Fra:1 Mem:26.14M (Peak 26.14M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_02_0
+Fra:1 Mem:26.15M (Peak 26.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_03
+Fra:1 Mem:26.15M (Peak 26.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_03_1
+Fra:1 Mem:26.17M (Peak 26.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_04_0
+Fra:1 Mem:26.18M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_04_1
+Fra:1 Mem:26.18M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_05
+Fra:1 Mem:26.19M (Peak 26.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_05_0
+Fra:1 Mem:26.20M (Peak 26.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_05_1
+Fra:1 Mem:26.20M (Peak 26.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_06
+Fra:1 Mem:26.21M (Peak 26.21M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_06_0
+Fra:1 Mem:26.22M (Peak 26.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_07
+Fra:1 Mem:26.22M (Peak 26.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_07_0
+Fra:1 Mem:26.24M (Peak 26.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_08
+Fra:1 Mem:26.24M (Peak 26.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_08_0
+Fra:1 Mem:26.25M (Peak 26.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_09
+Fra:1 Mem:26.26M (Peak 26.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_09_0
+Fra:1 Mem:26.26M (Peak 26.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_09_1
+Fra:1 Mem:26.28M (Peak 26.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_10
+Fra:1 Mem:26.28M (Peak 26.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_10_1
+Fra:1 Mem:26.29M (Peak 26.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_11
+Fra:1 Mem:26.30M (Peak 26.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_11_0
+Fra:1 Mem:26.31M (Peak 26.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_12
+Fra:1 Mem:26.31M (Peak 26.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_12_0
+Fra:1 Mem:26.32M (Peak 26.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_12_1
+Fra:1 Mem:26.33M (Peak 26.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_13
+Fra:1 Mem:26.33M (Peak 26.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_13_0
+Fra:1 Mem:26.34M (Peak 26.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_14
+Fra:1 Mem:26.35M (Peak 26.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_14_0
+Fra:1 Mem:26.36M (Peak 26.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_14_1
+Fra:1 Mem:26.36M (Peak 26.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_15
+Fra:1 Mem:26.37M (Peak 26.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_15_0
+Fra:1 Mem:26.38M (Peak 26.38M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_15_1
+Fra:1 Mem:26.39M (Peak 26.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_16_0
+Fra:1 Mem:26.39M (Peak 26.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_16_1
+Fra:1 Mem:26.40M (Peak 26.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Top_strip
+Fra:1 Mem:26.41M (Peak 26.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_17
+Fra:1 Mem:26.41M (Peak 26.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_17_1
+Fra:1 Mem:26.42M (Peak 26.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_18
+Fra:1 Mem:26.42M (Peak 26.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_18_0
+Fra:1 Mem:26.43M (Peak 26.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_18_1
+Fra:1 Mem:26.44M (Peak 26.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_19
+Fra:1 Mem:26.45M (Peak 26.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_19_1
+Fra:1 Mem:26.45M (Peak 26.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_20
+Fra:1 Mem:26.46M (Peak 26.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Front_strip
+Fra:1 Mem:26.46M (Peak 26.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_20_0
+Fra:1 Mem:26.47M (Peak 26.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_20_1
+Fra:1 Mem:26.47M (Peak 26.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_21
+Fra:1 Mem:26.47M (Peak 26.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_21_0
+Fra:1 Mem:26.48M (Peak 26.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_21_1
+Fra:1 Mem:26.49M (Peak 26.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_01
+Fra:1 Mem:26.50M (Peak 26.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_01_-1
+Fra:1 Mem:26.50M (Peak 26.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Key_softbox
+Fra:1 Mem:26.50M (Peak 26.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_1
+Fra:1 Mem:26.50M (Peak 26.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_02
+Fra:1 Mem:26.51M (Peak 26.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_02_1
+Fra:1 Mem:26.52M (Peak 26.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_03
+Fra:1 Mem:26.52M (Peak 26.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_03_-1
+Fra:1 Mem:26.54M (Peak 26.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_03_1
+Fra:1 Mem:26.54M (Peak 26.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_04
+Fra:1 Mem:26.55M (Peak 26.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_04_1
+Fra:1 Mem:26.56M (Peak 26.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_05
+Fra:1 Mem:26.56M (Peak 26.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_05_-1
+Fra:1 Mem:26.57M (Peak 26.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_05_1
+Fra:1 Mem:26.58M (Peak 26.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_06
+Fra:1 Mem:26.58M (Peak 26.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_-1
+Fra:1 Mem:26.59M (Peak 26.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_1
+Fra:1 Mem:26.60M (Peak 26.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_07
+Fra:1 Mem:26.60M (Peak 26.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_07_-1
+Fra:1 Mem:26.61M (Peak 26.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_07_1
+Fra:1 Mem:26.61M (Peak 26.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_08
+Fra:1 Mem:26.62M (Peak 26.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_-1
+Fra:1 Mem:26.62M (Peak 26.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_08_-1
+Fra:1 Mem:26.63M (Peak 26.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_08_1
+Fra:1 Mem:26.64M (Peak 26.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_09
+Fra:1 Mem:26.64M (Peak 26.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_09_-1
+Fra:1 Mem:26.65M (Peak 26.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_09_1
+Fra:1 Mem:26.65M (Peak 26.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_11
+Fra:1 Mem:26.66M (Peak 26.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_10_-1
+Fra:1 Mem:26.67M (Peak 26.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_10_1
+Fra:1 Mem:26.67M (Peak 26.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_11
+Fra:1 Mem:26.68M (Peak 26.68M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_11_-1
+Fra:1 Mem:26.69M (Peak 26.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_1
+Fra:1 Mem:26.69M (Peak 26.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_01
+Fra:1 Mem:26.70M (Peak 26.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_01_-1
+Fra:1 Mem:26.71M (Peak 26.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_01_1
+Fra:1 Mem:26.72M (Peak 26.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_-1
+Fra:1 Mem:26.73M (Peak 26.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_-1
+Fra:1 Mem:26.73M (Peak 26.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_1
+Fra:1 Mem:26.74M (Peak 26.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_03
+Fra:1 Mem:26.74M (Peak 26.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_03_1
+Fra:1 Mem:26.76M (Peak 26.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_04
+Fra:1 Mem:26.76M (Peak 26.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_10
+Fra:1 Mem:26.77M (Peak 26.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_-1
+Fra:1 Mem:26.77M (Peak 26.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_1
+Fra:1 Mem:26.78M (Peak 26.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_-1
+Fra:1 Mem:26.79M (Peak 26.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_1
+Fra:1 Mem:26.79M (Peak 26.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_1
+Fra:1 Mem:26.80M (Peak 26.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_-1
+Fra:1 Mem:26.81M (Peak 26.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_-1
+Fra:1 Mem:26.81M (Peak 26.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_1
+Fra:1 Mem:26.82M (Peak 26.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_09
+Fra:1 Mem:26.83M (Peak 26.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_07
+Fra:1 Mem:26.83M (Peak 26.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_08_1
+Fra:1 Mem:26.84M (Peak 26.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_07_-1
+Fra:1 Mem:26.84M (Peak 26.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_08_-1
+Fra:1 Mem:26.86M (Peak 26.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_07_1
+Fra:1 Mem:26.86M (Peak 26.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_08
+Fra:1 Mem:26.89M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:22.03M (Peak 26.89M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:1.27M, Peak:1.27M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.41M, Peak:3.54M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:81.72M (Peak 81.72M) | Time:00:00.17 | Remaining:00:06.40 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:106.44M (Peak 143.52M) | Time:00:11.47 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:106.44M (Peak 143.52M) | Time:00:11.47 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Finished
+Saved: '/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/J003/v01-blockout/J003-back-v01.png'
+Time: 00:11.62 (Saving: 00:00.13)
+
+RENDER_COMPLETE back
+Fra:1 Mem:25.40M (Peak 25.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 01_Shank_ID16mm_width_EST
+Fra:1 Mem:25.73M (Peak 25.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_04_ShoulderJoin_1
+Fra:1 Mem:25.91M (Peak 25.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_01_EST
+Fra:1 Mem:25.87M (Peak 25.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_01_EST
+Fra:1 Mem:25.88M (Peak 25.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_02_EST
+Fra:1 Mem:26.03M (Peak 26.03M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_03_EST
+Fra:1 Mem:26.07M (Peak 26.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_03_EST
+Fra:1 Mem:26.09M (Peak 26.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_01_0
+Fra:1 Mem:26.10M (Peak 26.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_01_1
+Fra:1 Mem:26.11M (Peak 26.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_02
+Fra:1 Mem:26.18M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_03
+Fra:1 Mem:26.16M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_03_0
+Fra:1 Mem:26.17M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_03_1
+Fra:1 Mem:26.17M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_04
+Fra:1 Mem:26.18M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_04_0
+Fra:1 Mem:26.19M (Peak 26.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_04_1
+Fra:1 Mem:26.19M (Peak 26.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_05
+Fra:1 Mem:26.20M (Peak 26.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_05_0
+Fra:1 Mem:26.20M (Peak 26.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_05_1
+Fra:1 Mem:26.21M (Peak 26.21M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_06_0
+Fra:1 Mem:26.22M (Peak 26.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_06_1
+Fra:1 Mem:26.23M (Peak 26.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_07
+Fra:1 Mem:26.23M (Peak 26.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_07_0
+Fra:1 Mem:26.24M (Peak 26.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_08
+Fra:1 Mem:26.25M (Peak 26.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_08_0
+Fra:1 Mem:26.26M (Peak 26.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_08_1
+Fra:1 Mem:26.27M (Peak 26.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_09_0
+Fra:1 Mem:26.27M (Peak 26.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_09_1
+Fra:1 Mem:26.29M (Peak 26.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_10
+Fra:1 Mem:26.29M (Peak 26.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_10_0
+Fra:1 Mem:26.29M (Peak 26.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_10_1
+Fra:1 Mem:26.29M (Peak 26.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_11
+Fra:1 Mem:26.30M (Peak 26.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_11_0
+Fra:1 Mem:26.31M (Peak 26.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_11_1
+Fra:1 Mem:26.31M (Peak 26.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_12
+Fra:1 Mem:26.32M (Peak 26.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_12_0
+Fra:1 Mem:26.33M (Peak 26.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_13
+Fra:1 Mem:26.34M (Peak 26.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_13_0
+Fra:1 Mem:26.35M (Peak 26.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_13_1
+Fra:1 Mem:26.35M (Peak 26.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_14_0
+Fra:1 Mem:26.36M (Peak 26.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_14_1
+Fra:1 Mem:26.37M (Peak 26.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_15
+Fra:1 Mem:26.37M (Peak 26.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_15_0
+Fra:1 Mem:26.39M (Peak 26.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_16
+Fra:1 Mem:26.39M (Peak 26.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Rim_softbox
+Fra:1 Mem:26.39M (Peak 26.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Key_softbox
+Fra:1 Mem:26.39M (Peak 26.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_1
+Fra:1 Mem:26.40M (Peak 26.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_-1
+Fra:1 Mem:26.41M (Peak 26.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_17
+Fra:1 Mem:26.41M (Peak 26.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_17_0
+Fra:1 Mem:26.43M (Peak 26.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_17_1
+Fra:1 Mem:26.43M (Peak 26.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_18_0
+Fra:1 Mem:26.44M (Peak 26.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_18_1
+Fra:1 Mem:26.45M (Peak 26.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_19
+Fra:1 Mem:26.46M (Peak 26.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_19_0
+Fra:1 Mem:26.47M (Peak 26.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_11
+Fra:1 Mem:26.47M (Peak 26.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_1
+Fra:1 Mem:26.48M (Peak 26.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_-1
+Fra:1 Mem:26.49M (Peak 26.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_20_1
+Fra:1 Mem:26.50M (Peak 26.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_21
+Fra:1 Mem:26.50M (Peak 26.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_21_0
+Fra:1 Mem:26.51M (Peak 26.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_21_1
+Fra:1 Mem:26.52M (Peak 26.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_10
+Fra:1 Mem:26.52M (Peak 26.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_01
+Fra:1 Mem:26.53M (Peak 26.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_01_-1
+Fra:1 Mem:26.53M (Peak 26.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_02
+Fra:1 Mem:26.54M (Peak 26.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_02_-1
+Fra:1 Mem:26.54M (Peak 26.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_02_1
+Fra:1 Mem:26.55M (Peak 26.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_1
+Fra:1 Mem:26.56M (Peak 26.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_-1
+Fra:1 Mem:26.57M (Peak 26.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_09
+Fra:1 Mem:26.57M (Peak 26.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_08_1
+Fra:1 Mem:26.59M (Peak 26.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_03_1
+Fra:1 Mem:26.59M (Peak 26.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_04_-1
+Fra:1 Mem:26.60M (Peak 26.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_04_1
+Fra:1 Mem:26.61M (Peak 26.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_05
+Fra:1 Mem:26.63M (Peak 26.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_05_1
+Fra:1 Mem:26.63M (Peak 26.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_06
+Fra:1 Mem:26.64M (Peak 26.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_1
+Fra:1 Mem:26.65M (Peak 26.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_07_-1
+Fra:1 Mem:26.66M (Peak 26.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_07_1
+Fra:1 Mem:26.67M (Peak 26.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_08
+Fra:1 Mem:26.68M (Peak 26.68M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_08_1
+Fra:1 Mem:26.69M (Peak 26.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_09
+Fra:1 Mem:26.69M (Peak 26.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_08
+Fra:1 Mem:26.70M (Peak 26.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_07_1
+Fra:1 Mem:26.71M (Peak 26.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_09_1
+Fra:1 Mem:26.72M (Peak 26.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_10
+Fra:1 Mem:26.73M (Peak 26.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_10_-1
+Fra:1 Mem:26.74M (Peak 26.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_11_-1
+Fra:1 Mem:26.74M (Peak 26.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_07
+Fra:1 Mem:26.75M (Peak 26.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_1
+Fra:1 Mem:26.75M (Peak 26.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_-1
+Fra:1 Mem:26.77M (Peak 26.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_11_1
+Fra:1 Mem:26.77M (Peak 26.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_01
+Fra:1 Mem:26.78M (Peak 26.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_01_-1
+Fra:1 Mem:26.79M (Peak 26.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_01_1
+Fra:1 Mem:26.79M (Peak 26.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_02
+Fra:1 Mem:26.80M (Peak 26.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_1
+Fra:1 Mem:26.81M (Peak 26.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_1
+Fra:1 Mem:26.81M (Peak 26.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_03
+Fra:1 Mem:26.82M (Peak 26.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_03_-1
+Fra:1 Mem:26.82M (Peak 26.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_03_1
+Fra:1 Mem:26.84M (Peak 26.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_04
+Fra:1 Mem:26.84M (Peak 26.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_-1
+Fra:1 Mem:26.84M (Peak 26.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_1
+Fra:1 Mem:26.85M (Peak 26.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_05
+Fra:1 Mem:26.86M (Peak 26.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_-1
+Fra:1 Mem:26.89M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:22.03M (Peak 26.89M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:1.27M, Peak:1.27M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.04 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.04 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.41M, Peak:3.54M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.04 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:81.72M (Peak 81.72M) | Time:00:00.22 | Remaining:00:08.34 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:106.44M (Peak 143.52M) | Time:00:13.05 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:106.44M (Peak 143.52M) | Time:00:13.05 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Finished
+Saved: '/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/J003/v01-blockout/J003-45deg-v01.png'
+Time: 00:13.20 (Saving: 00:00.13)
+
+RENDER_COMPLETE 45deg
+Fra:1 Mem:25.40M (Peak 25.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 01_Shank_ID16mm_width_EST
+Fra:1 Mem:25.65M (Peak 25.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_04_ShoulderJoin_1
+Fra:1 Mem:25.97M (Peak 25.97M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_01_EST
+Fra:1 Mem:26.12M (Peak 26.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_01_EST
+Fra:1 Mem:26.05M (Peak 26.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_02_EST
+Fra:1 Mem:26.07M (Peak 26.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_03_EST
+Fra:1 Mem:26.08M (Peak 26.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_01
+Fra:1 Mem:26.09M (Peak 26.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_01_0
+Fra:1 Mem:26.10M (Peak 26.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_02
+Fra:1 Mem:26.15M (Peak 26.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_02_1
+Fra:1 Mem:26.16M (Peak 26.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_03_1
+Fra:1 Mem:26.17M (Peak 26.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_04
+Fra:1 Mem:26.18M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_04_0
+Fra:1 Mem:26.18M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_05
+Fra:1 Mem:26.19M (Peak 26.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_05_0
+Fra:1 Mem:26.20M (Peak 26.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_05_1
+Fra:1 Mem:26.21M (Peak 26.21M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_06_0
+Fra:1 Mem:26.22M (Peak 26.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_06_1
+Fra:1 Mem:26.23M (Peak 26.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_07
+Fra:1 Mem:26.24M (Peak 26.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_08
+Fra:1 Mem:26.24M (Peak 26.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_08_0
+Fra:1 Mem:26.25M (Peak 26.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_08_1
+Fra:1 Mem:26.26M (Peak 26.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_09
+Fra:1 Mem:26.27M (Peak 26.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_09_1
+Fra:1 Mem:26.28M (Peak 26.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_10
+Fra:1 Mem:26.29M (Peak 26.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_10_0
+Fra:1 Mem:26.30M (Peak 26.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Bottom_fill
+Fra:1 Mem:26.30M (Peak 26.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Top_strip
+Fra:1 Mem:26.30M (Peak 26.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Front_strip
+Fra:1 Mem:26.30M (Peak 26.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Rim_softbox
+Fra:1 Mem:26.30M (Peak 26.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Key_softbox
+Fra:1 Mem:26.30M (Peak 26.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_1
+Fra:1 Mem:26.31M (Peak 26.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_-1
+Fra:1 Mem:26.31M (Peak 26.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_11_0
+Fra:1 Mem:26.32M (Peak 26.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_11_1
+Fra:1 Mem:26.33M (Peak 26.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_12_0
+Fra:1 Mem:26.33M (Peak 26.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_12_1
+Fra:1 Mem:26.35M (Peak 26.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_11
+Fra:1 Mem:26.35M (Peak 26.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_13
+Fra:1 Mem:26.35M (Peak 26.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_1
+Fra:1 Mem:26.36M (Peak 26.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_13_0
+Fra:1 Mem:26.37M (Peak 26.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_14
+Fra:1 Mem:26.37M (Peak 26.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_14_0
+Fra:1 Mem:26.38M (Peak 26.38M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_14_1
+Fra:1 Mem:26.39M (Peak 26.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_15
+Fra:1 Mem:26.39M (Peak 26.39M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_15_0
+Fra:1 Mem:26.40M (Peak 26.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_16
+Fra:1 Mem:26.41M (Peak 26.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_16_0
+Fra:1 Mem:26.41M (Peak 26.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_16_1
+Fra:1 Mem:26.42M (Peak 26.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_17
+Fra:1 Mem:26.43M (Peak 26.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_17_1
+Fra:1 Mem:26.43M (Peak 26.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_18
+Fra:1 Mem:26.44M (Peak 26.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_18_0
+Fra:1 Mem:26.45M (Peak 26.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_19
+Fra:1 Mem:26.46M (Peak 26.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_19_0
+Fra:1 Mem:26.47M (Peak 26.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_-1
+Fra:1 Mem:26.48M (Peak 26.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_20
+Fra:1 Mem:26.49M (Peak 26.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_20_0
+Fra:1 Mem:26.49M (Peak 26.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_20_1
+Fra:1 Mem:26.50M (Peak 26.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_21_0
+Fra:1 Mem:26.51M (Peak 26.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_21_1
+Fra:1 Mem:26.51M (Peak 26.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_01
+Fra:1 Mem:26.52M (Peak 26.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_01_1
+Fra:1 Mem:26.53M (Peak 26.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_02
+Fra:1 Mem:26.54M (Peak 26.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_10
+Fra:1 Mem:26.54M (Peak 26.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_1
+Fra:1 Mem:26.55M (Peak 26.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_-1
+Fra:1 Mem:26.57M (Peak 26.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_09
+Fra:1 Mem:26.58M (Peak 26.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_03
+Fra:1 Mem:26.58M (Peak 26.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_03_1
+Fra:1 Mem:26.59M (Peak 26.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_04
+Fra:1 Mem:26.60M (Peak 26.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_08_1
+Fra:1 Mem:26.60M (Peak 26.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_04_-1
+Fra:1 Mem:26.61M (Peak 26.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_05
+Fra:1 Mem:26.61M (Peak 26.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_05_-1
+Fra:1 Mem:26.62M (Peak 26.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_06
+Fra:1 Mem:26.63M (Peak 26.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_-1
+Fra:1 Mem:26.64M (Peak 26.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_1
+Fra:1 Mem:26.64M (Peak 26.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_08_-1
+Fra:1 Mem:26.66M (Peak 26.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_08
+Fra:1 Mem:26.66M (Peak 26.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_07_-1
+Fra:1 Mem:26.67M (Peak 26.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_07_1
+Fra:1 Mem:26.67M (Peak 26.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_08_-1
+Fra:1 Mem:26.68M (Peak 26.68M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_08_1
+Fra:1 Mem:26.69M (Peak 26.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_09
+Fra:1 Mem:26.70M (Peak 26.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_09_-1
+Fra:1 Mem:26.71M (Peak 26.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_09_1
+Fra:1 Mem:26.71M (Peak 26.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_10
+Fra:1 Mem:26.71M (Peak 26.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_07_1
+Fra:1 Mem:26.72M (Peak 26.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_07_-1
+Fra:1 Mem:26.73M (Peak 26.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_07
+Fra:1 Mem:26.74M (Peak 26.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_10_1
+Fra:1 Mem:26.75M (Peak 26.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_11_1
+Fra:1 Mem:26.76M (Peak 26.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_01
+Fra:1 Mem:26.77M (Peak 26.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_1
+Fra:1 Mem:26.77M (Peak 26.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_01_1
+Fra:1 Mem:26.78M (Peak 26.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_02
+Fra:1 Mem:26.79M (Peak 26.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_-1
+Fra:1 Mem:26.79M (Peak 26.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_1
+Fra:1 Mem:26.81M (Peak 26.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_03_-1
+Fra:1 Mem:26.82M (Peak 26.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_06
+Fra:1 Mem:26.82M (Peak 26.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_03_1
+Fra:1 Mem:26.83M (Peak 26.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_1
+Fra:1 Mem:26.83M (Peak 26.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_04
+Fra:1 Mem:26.84M (Peak 26.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_-1
+Fra:1 Mem:26.84M (Peak 26.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_1
+Fra:1 Mem:26.85M (Peak 26.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_-1
+Fra:1 Mem:26.89M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:22.03M (Peak 26.89M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:1.27M, Peak:1.27M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.04 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.04 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.41M, Peak:3.54M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.04 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.04 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:81.72M (Peak 81.72M) | Time:00:00.17 | Remaining:00:06.46 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:106.44M (Peak 143.52M) | Time:00:10.28 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:106.44M (Peak 143.52M) | Time:00:10.28 | Mem:62.21M, Peak:62.21M | Scene, ViewLayer | Finished
+Saved: '/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/J003/v01-blockout/J003-underside-v01.png'
+Time: 00:10.43 (Saving: 00:00.13)
+
+RENDER_COMPLETE underside
+Fra:1 Mem:25.40M (Peak 25.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 01_Shank_ID16mm_width_EST
+Fra:1 Mem:25.81M (Peak 25.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_04_ShoulderJoin_1
+Fra:1 Mem:25.91M (Peak 25.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_01_EST
+Fra:1 Mem:25.87M (Peak 25.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_01_EST
+Fra:1 Mem:25.98M (Peak 25.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_02_EST
+Fra:1 Mem:25.99M (Peak 25.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_02_EST
+Fra:1 Mem:26.05M (Peak 26.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProng_03_EST
+Fra:1 Mem:26.07M (Peak 26.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | 05_MainProngTip_03_EST
+Fra:1 Mem:26.09M (Peak 26.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_01
+Fra:1 Mem:26.10M (Peak 26.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_01_1
+Fra:1 Mem:26.10M (Peak 26.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_02
+Fra:1 Mem:26.11M (Peak 26.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_03
+Fra:1 Mem:26.16M (Peak 26.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_03_1
+Fra:1 Mem:26.17M (Peak 26.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_04
+Fra:1 Mem:26.18M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_04_0
+Fra:1 Mem:26.18M (Peak 26.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_05
+Fra:1 Mem:26.19M (Peak 26.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_05_0
+Fra:1 Mem:26.19M (Peak 26.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_05_1
+Fra:1 Mem:26.21M (Peak 26.21M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_06_0
+Fra:1 Mem:26.22M (Peak 26.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_07
+Fra:1 Mem:26.23M (Peak 26.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_07_0
+Fra:1 Mem:26.24M (Peak 26.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_07_1
+Fra:1 Mem:26.26M (Peak 26.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_08
+Fra:1 Mem:26.26M (Peak 26.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_09
+Fra:1 Mem:26.26M (Peak 26.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_09_0
+Fra:1 Mem:26.27M (Peak 26.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_09_1
+Fra:1 Mem:26.28M (Peak 26.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_10
+Fra:1 Mem:26.29M (Peak 26.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_10_1
+Fra:1 Mem:26.30M (Peak 26.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_11_0
+Fra:1 Mem:26.31M (Peak 26.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_11_1
+Fra:1 Mem:26.32M (Peak 26.32M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_12
+Fra:1 Mem:26.33M (Peak 26.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_12_1
+Fra:1 Mem:26.34M (Peak 26.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_13
+Fra:1 Mem:26.34M (Peak 26.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_13_1
+Fra:1 Mem:26.35M (Peak 26.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_14
+Fra:1 Mem:26.36M (Peak 26.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_14_0
+Fra:1 Mem:26.37M (Peak 26.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_15
+Fra:1 Mem:26.37M (Peak 26.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Top_strip
+Fra:1 Mem:26.37M (Peak 26.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_15_1
+Fra:1 Mem:26.38M (Peak 26.38M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_16
+Fra:1 Mem:26.38M (Peak 26.38M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_16_0
+Fra:1 Mem:26.40M (Peak 26.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_16_1
+Fra:1 Mem:26.41M (Peak 26.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_17_1
+Fra:1 Mem:26.42M (Peak 26.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_18
+Fra:1 Mem:26.42M (Peak 26.42M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_18_0
+Fra:1 Mem:26.43M (Peak 26.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_19
+Fra:1 Mem:26.44M (Peak 26.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_19_0
+Fra:1 Mem:26.44M (Peak 26.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_19_1
+Fra:1 Mem:26.45M (Peak 26.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Front_strip
+Fra:1 Mem:26.46M (Peak 26.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_20_0
+Fra:1 Mem:26.46M (Peak 26.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_20_1
+Fra:1 Mem:26.47M (Peak 26.47M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Rim_softbox
+Fra:1 Mem:26.48M (Peak 26.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_Halo_21
+Fra:1 Mem:26.48M (Peak 26.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_HaloBead_21_1
+Fra:1 Mem:26.49M (Peak 26.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_01
+Fra:1 Mem:26.49M (Peak 26.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | Key_softbox
+Fra:1 Mem:26.49M (Peak 26.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_01_-1
+Fra:1 Mem:26.50M (Peak 26.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_01_1
+Fra:1 Mem:26.50M (Peak 26.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_02
+Fra:1 Mem:26.51M (Peak 26.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_02_-1
+Fra:1 Mem:26.51M (Peak 26.51M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_02_1
+Fra:1 Mem:26.52M (Peak 26.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_03
+Fra:1 Mem:26.54M (Peak 26.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_03_1
+Fra:1 Mem:26.54M (Peak 26.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_04
+Fra:1 Mem:26.55M (Peak 26.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_04_-1
+Fra:1 Mem:26.56M (Peak 26.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_11_-1
+Fra:1 Mem:26.56M (Peak 26.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_04_1
+Fra:1 Mem:26.57M (Peak 26.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_05_-1
+Fra:1 Mem:26.58M (Peak 26.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_05_1
+Fra:1 Mem:26.59M (Peak 26.59M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_-1
+Fra:1 Mem:26.60M (Peak 26.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_06_1
+Fra:1 Mem:26.61M (Peak 26.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_07
+Fra:1 Mem:26.61M (Peak 26.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_07_-1
+Fra:1 Mem:26.61M (Peak 26.61M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_07_1
+Fra:1 Mem:26.62M (Peak 26.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_11
+Fra:1 Mem:26.63M (Peak 26.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_08
+Fra:1 Mem:26.63M (Peak 26.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_08_-1
+Fra:1 Mem:26.63M (Peak 26.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_08_1
+Fra:1 Mem:26.64M (Peak 26.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_09
+Fra:1 Mem:26.65M (Peak 26.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_1
+Fra:1 Mem:26.65M (Peak 26.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_09_-1
+Fra:1 Mem:26.65M (Peak 26.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_09_1
+Fra:1 Mem:26.66M (Peak 26.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_10
+Fra:1 Mem:26.67M (Peak 26.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_10_-1
+Fra:1 Mem:26.67M (Peak 26.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_10_-1
+Fra:1 Mem:26.68M (Peak 26.68M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_10
+Fra:1 Mem:26.69M (Peak 26.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_-1_11
+Fra:1 Mem:26.69M (Peak 26.69M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_1
+Fra:1 Mem:26.70M (Peak 26.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_11_-1
+Fra:1 Mem:26.70M (Peak 26.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_-1_11_1
+Fra:1 Mem:26.71M (Peak 26.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_01
+Fra:1 Mem:26.72M (Peak 26.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_01_-1
+Fra:1 Mem:26.72M (Peak 26.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_01_1
+Fra:1 Mem:26.73M (Peak 26.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_09_-1
+Fra:1 Mem:26.74M (Peak 26.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_02
+Fra:1 Mem:26.74M (Peak 26.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_-1
+Fra:1 Mem:26.75M (Peak 26.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_02_1
+Fra:1 Mem:26.76M (Peak 26.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_03
+Fra:1 Mem:26.76M (Peak 26.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_03_-1
+Fra:1 Mem:26.77M (Peak 26.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_09
+Fra:1 Mem:26.77M (Peak 26.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_03_1
+Fra:1 Mem:26.77M (Peak 26.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_04
+Fra:1 Mem:26.78M (Peak 26.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_-1
+Fra:1 Mem:26.79M (Peak 26.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_04_1
+Fra:1 Mem:26.79M (Peak 26.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_05
+Fra:1 Mem:26.80M (Peak 26.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_08_1
+Fra:1 Mem:26.80M (Peak 26.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_-1
+Fra:1 Mem:26.81M (Peak 26.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_05_1
+Fra:1 Mem:26.81M (Peak 26.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_06
+Fra:1 Mem:26.82M (Peak 26.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_-1
+Fra:1 Mem:26.83M (Peak 26.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_06_1
+Fra:1 Mem:26.83M (Peak 26.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_08_-1
+Fra:1 Mem:26.84M (Peak 26.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_07
+Fra:1 Mem:26.84M (Peak 26.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_07_-1
+Fra:1 Mem:26.85M (Peak 26.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderBead_1_07_1
+Fra:1 Mem:26.86M (Peak 26.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PENDING_ShoulderStone_1_08
+Fra:1 Mem:26.89M (Peak 26.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:21.68M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:21.77M (Peak 26.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:21.80M (Peak 26.89M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:22.03M (Peak 26.89M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:0.24M, Peak:0.24M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:1.27M, Peak:1.27M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:22.01M (Peak 26.89M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:2.51M, Peak:3.54M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.41M, Peak:3.54M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:22.92M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.42M, Peak:3.54M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:22.93M (Peak 26.89M) | Time:00:00.03 | Mem:3.50M, Peak:3.54M | Scene, ViewLayer | Sample 0/80
+Fra:1 Mem:127.38M (Peak 127.38M) | Time:00:00.34 | Remaining:00:24.58 | Mem:107.87M, Peak:107.87M | Scene, ViewLayer | Sample 1/80
+Fra:1 Mem:171.33M (Peak 237.25M) | Time:00:31.52 | Mem:107.87M, Peak:107.87M | Scene, ViewLayer | Sample 80/80
+Fra:1 Mem:171.33M (Peak 237.25M) | Time:00:31.52 | Mem:107.87M, Peak:107.87M | Scene, ViewLayer | Finished
+Saved: '/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/J003/v01-blockout/J003-preview-v01.png'
+Time: 00:31.83 (Saving: 00:00.29)
+
+RENDER_COMPLETE preview
+J003_DONE
+
+Blender quit

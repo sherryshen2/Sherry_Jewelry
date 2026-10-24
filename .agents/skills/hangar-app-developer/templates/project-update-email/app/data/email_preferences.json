@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "jira_key",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "recipients",
+      "type": "json"
+    },
+    {
+      "name": "updated_at",
+      "type": "date"
+    },
+    {
+      "name": "updated_by",
+      "type": "text"
+    }
+  ],
+  "records": [],
+  "icon": "mdi:email-sync-outline",
+  "scope": "app"
+}

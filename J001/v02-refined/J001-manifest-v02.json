@@ -1,0 +1,142 @@
+{
+  "J001-web-comparison-v02.png": {
+    "bytes": 242595,
+    "sha256": "d75c79fd4d02e4160ee7a79603294efb049b3f3108bd4eab26113a005fa65e61"
+  },
+  "J001-source-v02.blend": {
+    "bytes": 2753085,
+    "sha256": "6a5db5f2ff90f7f65ff68928cf1a277c4f27d048e2e5332067c2be3aa424fc68"
+  },
+  "J001-45deg-v02.png": {
+    "bytes": 756160,
+    "sha256": "f0f79568f9b652cc8f85966c0a201ede27bc0993a58f468b32845dcf65cde9a1"
+  },
+  "J001-preview-v02.png": {
+    "bytes": 1368042,
+    "sha256": "68d22414d3f1cfaa6177beba49a033d854e670c190c1489c70ff838514cb1841"
+  },
+  "J001-review-board-v02.png": {
+    "bytes": 1153061,
+    "sha256": "dc4324cbb5c6dfe9ef7b232863c50a98d56a8c9139b0ad4e0d2a31e59e0f7c7a"
+  },
+  "J001-back-v02.png": {
+    "bytes": 697587,
+    "sha256": "29ab715de27d3d9b402e83fc2bcbc090e8231e23c20eb943be1b05d347c66820"
+  },
+  "render_J001.py": {
+    "bytes": 1142,
+    "sha256": "e4d61b99ea084e3e6e445de116900e5048a7878d223cfe13c65b542a244b0c23"
+  },
+  "J001-display-stats.json": {
+    "bytes": 1556,
+    "sha256": "3d9dda26ab51d057c1cb55a0b4aea5d9440cca0b6bfc6495b877c8b7dcbe8855"
+  },
+  "J001-web-check-v02.txt": {
+    "bytes": 1057,
+    "sha256": "070eae4031671a70ea66c826813ecd6448fca1dd001e45f9a103175c3bc86489"
+  },
+  "J001-display-chain-validation-v02.json": {
+    "bytes": 122,
+    "sha256": "0a471295ae2c0dfa1e0754192022afa0cc4f53a635db05d7e774eb148ef6bd8b"
+  },
+  "J001-side-v02.png": {
+    "bytes": 697387,
+    "sha256": "94e944e1f0758ccd2c9b46601abb4d3c2132e09491316fe9ed44c6de98b53dde"
+  },
+  "J001-web-back-v02.png": {
+    "bytes": 30543,
+    "sha256": "c8261960041e623a70f53937b539e740fe90ebded82efaca229adb07f622f7c3"
+  },
+  "J001-说明与待确认项-v02.txt": {
+    "bytes": 5496,
+    "sha256": "d92c1d3fa66d087bbc633160f61e798974ff178433fe396141651783fc642180"
+  },
+  "J001-detail-v02.glb": {
+    "bytes": 4603628,
+    "sha256": "3bf79f47ae2493e4f19acd10a46757acc2c5d1d7242fd835dc4d4e5c4e73738b"
+  },
+  "J001-parameters-v02.json": {
+    "bytes": 3208,
+    "sha256": "ec2696b35c0aa885d7b3f2409df2b30e5dbac65a5b084c28a8d8b1d22cc3eda7"
+  },
+  "validate_J001.py": {
+    "bytes": 7196,
+    "sha256": "731a60cbaa934b4041e99eee9214141b94d663f6cbf26dd755b74ad08bd40d3e"
+  },
+  "build_J001.py": {
+    "bytes": 22489,
+    "sha256": "c7b30303c7e2aae5b887e986a2269d19d2fed96bf4daea76c204cd4c34e64898"
+  },
+  "J001-full-v02.png": {
+    "bytes": 1367354,
+    "sha256": "b93126131a677e9edc31c94ccee50b0496c71eb9decc7364c545c7f250254776"
+  },
+  "J001-detail-stats.json": {
+    "bytes": 1557,
+    "sha256": "88e0be2cab314c643aac732a1e90fb004e67c166812209a38e8c77fe89c70a45"
+  },
+  "J001-front-v02.png": {
+    "bytes": 767295,
+    "sha256": "5aa736c02b9e9e2f92b2595ab7ab4eb339edc5e05fa04c19a5952dc1c5c5521f"
+  },
+  "J001-web-closeup-v02.png": {
+    "bytes": 33160,
+    "sha256": "41029f01ce3d8e7cb7a6a03fa95423383c271f123c7246a43e66d00e0a257cc7"
+  },
+  "J001-validation-v02.json": {
+    "bytes": 8476,
+    "sha256": "a60a100862d00f5edae526e1723bdeba36720dc4a86536fab68a2f7f3407a8d5"
+  },
+  "validate_display_chain.py": {
+    "bytes": 1885,
+    "sha256": "a83606fa0c2979b9239db60dd821a687d31a76c7f9a224abf7c4ff9d91cafbe0"
+  },
+  "J001-web-full-v02.png": {
+    "bytes": 24080,
+    "sha256": "78b8521be8dc16dc746c868bf9a17fcfb7fc3acb2767d3db989e88abc0a28e99"
+  },
+  "J001-display-v02.glb": {
+    "bytes": 1698328,
+    "sha256": "79220b65aa3bba761182873a8fba8269adb567ef3138beb60ed5993a26db8731"
+  },
+  "viewer/index.html": {
+    "bytes": 4635,
+    "sha256": "1b76683908f58811b6becd6a346a909237c1b6f7f1d0f167be871f469d1b684f"
+  },
+  "viewer/viewer.js": {
+    "bytes": 10933,
+    "sha256": "d0a69db84d42e4aadde82db34ed7bfa6dae24679a59f1e80f75838273896798b"
+  },
+  "viewer/vendor/three.module.js": {
+    "bytes": 603113,
+    "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+  },
+  "viewer/vendor/THREE-LICENSE.txt": {
+    "bytes": 1081,
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  "viewer/vendor/three.core.js": {
+    "bytes": 1403455,
+    "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+  },
+  "viewer/vendor/utils/BufferGeometryUtils.js": {
+    "bytes": 35539,
+    "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+  },
+  "viewer/vendor/loaders/GLTFLoader.js": {
+    "bytes": 114739,
+    "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
+  },
+  "reference/正面.jpeg": {
+    "bytes": 60302,
+    "sha256": "3fee569a89fa27f42e69e92ef260463d791cd7c9d9ee9588d4044dbed0d46bda"
+  },
+  "reference/吊坠和锁扣细节.jpeg": {
+    "bytes": 96727,
+    "sha256": "9defd494bce6f15ad3e51a3c7c38f2cff4b87a738db06769f6aecc43a08295bb"
+  },
+  "reference/背面.jpeg": {
+    "bytes": 59026,
+    "sha256": "ef09efae326272bdf4758421a8eac2a9fad5182416648f608f050ce71c42224d"
+  }
+}

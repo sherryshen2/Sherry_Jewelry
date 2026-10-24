@@ -1,0 +1,126 @@
+{
+  "J002-single-45deg-v01.png": {
+    "bytes": 796308,
+    "sha256": "2eed8d21d4247a687b61484ab82a6b7b24f71e163f3576797e869a0d0ac1b6ef"
+  },
+  "J002-pair-front-v01.png": {
+    "bytes": 1099653,
+    "sha256": "078c0ec1fa19d7d154a04afb73dbe251cd0b1e0bf4576f5b4cf4f39938a725c5"
+  },
+  "J002-display-stats.json": {
+    "bytes": 725,
+    "sha256": "d245ea26b4d3a8e48188010d9988011787ccafe94041b5ce1fc7d8a7ea4d728d"
+  },
+  "J002-pair-default-v01.png": {
+    "bytes": 1077840,
+    "sha256": "f537b490cb7239e19c31245b0bac3ed68926ad3b31342842b5df3cba75dacaf2"
+  },
+  "J002-validation-v01.json": {
+    "bytes": 6844,
+    "sha256": "ee282bf5c6e39c9fe1baee4cb7c7ec126bd07856cbbbc46d5dcb978dd5b04d22"
+  },
+  "J002-detail-v01.glb": {
+    "bytes": 1614880,
+    "sha256": "25b40ddfc676c2413d3be99fb58a2cb11e37b1f069275839e4ca249c472100af"
+  },
+  "J002-web-check-v01.txt": {
+    "bytes": 844,
+    "sha256": "1759b0f52d449cccd74a923680b9432847a0205fddb14966837a2984284f2d10"
+  },
+  "J002-single-back-v01.png": {
+    "bytes": 712254,
+    "sha256": "1c2938741b66299a1d2b33b55f20deb7d4a4c9445249589d291e7ba92ac4caa8"
+  },
+  "J002-display-v01.glb": {
+    "bytes": 782172,
+    "sha256": "0e00f125ace20cd7a8fe90cfa073f9184ef4b0010a17a44c50399a51e085ea3f"
+  },
+  "build_J002.py": {
+    "bytes": 14145,
+    "sha256": "a8b264c0ba28ade89b3cca8e47fc186c2d0b39c1f70b31fa41e2f79adb88790b"
+  },
+  "validate_J002.py": {
+    "bytes": 7097,
+    "sha256": "acd121b2bb13c9318152b95d8315dc5697a4e500c15eebbe0aec82864bc9f8ab"
+  },
+  "J002-single-side-v01.png": {
+    "bytes": 792339,
+    "sha256": "a0c77d709c9fdc9ef921d4e13b36aba9931806e1bd5140208b683b074afd4157"
+  },
+  "J002-source-v01.blend": {
+    "bytes": 1802080,
+    "sha256": "05a4d58ed060a3d456ca601e58f61070b574ac2ee6c3682ea1b00da6873a9f73"
+  },
+  "J002-parameters-v01.json": {
+    "bytes": 2913,
+    "sha256": "e6fe240103f7ea5bf568fb756c275dcdc1c856665be8621387b74e14c108a580"
+  },
+  "J002-single-front-v01.png": {
+    "bytes": 757868,
+    "sha256": "e3d5d2fe9081ced394b7189b243721c5f599c3e56d3d6043b53b30ea7b47e37e"
+  },
+  "J002-web-default-v01.png": {
+    "bytes": 34988,
+    "sha256": "d1f049a26922cddcbaeb714fd4ebbd55c60609849b68d5991d92def46cd1a0cd"
+  },
+  "J002-preview-v01.png": {
+    "bytes": 1077840,
+    "sha256": "f537b490cb7239e19c31245b0bac3ed68926ad3b31342842b5df3cba75dacaf2"
+  },
+  "J002-web-back-v01.png": {
+    "bytes": 33407,
+    "sha256": "c3b20a3421bb97dd3f8f8cfe108b91f2238ceb0c7429b79de52f285de496598f"
+  },
+  "J002-single-bottom-v01.png": {
+    "bytes": 809916,
+    "sha256": "e801ab273d57a93afdbcf146ddaffdc43624376c6e091e17cd5938419d645ab1"
+  },
+  "J002-review-board-v01.png": {
+    "bytes": 1162725,
+    "sha256": "6589cfb7acce52af0dfb11dcd598f03492fba59deec855d4e0f502aa3ec2d11f"
+  },
+  "J002-detail-stats.json": {
+    "bytes": 728,
+    "sha256": "1579c838c07b9ec1d40d1a13a2a880db3f7b4016dc503814688b2cfd64bb04d8"
+  },
+  "render_J002.py": {
+    "bytes": 1027,
+    "sha256": "ec4107b7535de70ee29beaa3ce1dd6cec2aa17372f7145f6616bd465f6a7add1"
+  },
+  "J002-说明与待确认项-v01.txt": {
+    "bytes": 6181,
+    "sha256": "2b5394ecaf8f5279a5475c10ac0dab0ca7b603c772807ed7792d9b69413554ec"
+  },
+  "viewer/index.html": {
+    "bytes": 4746,
+    "sha256": "fda233ea4741cd4886f650d0eddd685368284ddbb508711f48f053c2370e06d7"
+  },
+  "viewer/viewer.js": {
+    "bytes": 9825,
+    "sha256": "97ed7b08ffde0c7b4d65fd123aa48bd6a2dcd31d4881817728c8fa354c25362c"
+  },
+  "viewer/vendor/three.module.js": {
+    "bytes": 603113,
+    "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+  },
+  "viewer/vendor/THREE-LICENSE.txt": {
+    "bytes": 1081,
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  "viewer/vendor/three.core.js": {
+    "bytes": 1403455,
+    "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+  },
+  "viewer/vendor/utils/BufferGeometryUtils.js": {
+    "bytes": 35539,
+    "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+  },
+  "viewer/vendor/loaders/GLTFLoader.js": {
+    "bytes": 114739,
+    "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
+  },
+  "reference/细节.jpeg": {
+    "bytes": 76491,
+    "sha256": "c2ce486918d2e41459cc272b96c3fbcc41733b86d0a18f51676fba8ae8b7b4e0"
+  }
+}

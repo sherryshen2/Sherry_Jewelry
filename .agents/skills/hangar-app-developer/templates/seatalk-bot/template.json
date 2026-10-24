@@ -1,0 +1,58 @@
+{
+  "id": "seatalk-bot",
+  "name": "SeaTalk bot",
+  "description": "A private SeaTalk assistant you can connect, tune, and watch from one simple dashboard.",
+  "tags": [
+    "SeaTalk",
+    "Bot",
+    "Webhook",
+    "Python"
+  ],
+  "setup_fields": [
+    {
+      "id": "seatalk_app_id",
+      "label": "SeaTalk app ID",
+      "placeholder": "ABCD123...",
+      "required": true,
+      "integration": {
+        "provider": "seatalk",
+        "key": "app_id"
+      }
+    },
+    {
+      "id": "seatalk_app_secret",
+      "label": "SeaTalk app secret",
+      "placeholder": "abcdef-ghi123...",
+      "type": "password",
+      "required": true,
+      "integration": {
+        "provider": "seatalk",
+        "key": "app_secret"
+      }
+    },
+    {
+      "id": "seatalk_callback_signature",
+      "label": "SeaTalk callback signing secret",
+      "placeholder": "abcd1234...",
+      "type": "password",
+      "required": true,
+      "integration": {
+        "provider": "seatalk",
+        "key": "callback_signature"
+      }
+    },
+    {
+      "id": "seatalk_callback_url",
+      "label": "Callback URL",
+      "type": "url",
+      "readonly": true,
+      "copyable": true,
+      "description": "Copy this URL first, you will paste this in SeaTalk website once your app is running.",
+      "required": true,
+      "metadata": {
+        "key": "seatalk.callback_url"
+      }
+    }
+  ],
+  "instructions": "For the SeaTalk bot template, keep only SeaTalk app credentials in settings.integrations.seatalk: auth_mode, app_id, app_secret, and callback_signature. Do not store chat provider selection in SeaTalk integration settings and do not create wingman_chat or llm_chat config stubs just to choose a reply provider. Treat settings.template_metadata.seatalk.callback_url as the generated platform callback URL and do not make it editable. Keep backend/main.py as the FastAPI entrypoint and put bot logic under backend/bot/: routes.py for app endpoints, handlers.py for seatalk.listener() event registration, storage.py for audit writes, replies.py for reply generation/sending, and event_helpers.py for payload extraction. Register the generated platform callback URL in SeaTalk instead of exposing the app-scoped /apps/:slug/api/seatalk/callback route. Store only Toolverse-handled SeaTalk events in seatalk_events, record inbound/outbound/thread chat audit rows in seatalk_messages, keep thread summaries in seatalk_threads, keep joined group snapshots in seatalk_groups, keep app-owner editable bot skills in seatalk_bot_skills, inject enabled skills into the selected chat provider context from backend/bot/skills.py, import both wingman_chat and llm_chat in backend/bot/replies.py, default to llm_chat, and let users or agents switch to wingman_chat by editing the CHAT_PROVIDER constant in code. For Wingman Chat, use start/get_run with a stable event-derived idempotency key and asynchronous polling; never hold the integration proxy request open for the whole reply. Make the SeaTalk callback acknowledge immediately after signature verification and process the matched event handler asynchronously in the background so slow LLM replies do not block webhook delivery. Reply only to direct subscriber messages and group mention events, skip chat reply generation for slash commands handled in backend/bot/slash_commands.py, sync thread events without sending another reply, use webhook sender fields directly without calling employee profile APIs, and use https://link.seatalk.io/message/open?message_id= for SeaTalk message links."
+}

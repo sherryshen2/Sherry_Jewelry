@@ -1,0 +1,385 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "8a68ce9dc7e4b88dbb265e2936129260",
+      "name": "Eyebrow",
+      "type": "text",
+      "value": "Release verification",
+      "description": "Small label above the app title."
+    },
+    {
+      "id": "038496bcc9e6f82d9773c49e375423b1",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main heading shown in the app."
+    },
+    {
+      "id": "9066626ba70b7bee39af364e6fa5eef7",
+      "name": "Intro Text",
+      "type": "text",
+      "value": "Select or create a release, then attach proof for the three required checks.",
+      "description": "Intro copy shown below the title."
+    },
+    {
+      "id": "3a512751fa8d12f75ed1c1331d13de5d",
+      "name": "Metric Releases",
+      "type": "text",
+      "value": "Releases",
+      "description": "Metric label for release count."
+    },
+    {
+      "id": "7244556a726da57b8bb44450b67fdcc7",
+      "name": "Metric Verifications",
+      "type": "text",
+      "value": "Records",
+      "description": "Metric label for verification count."
+    },
+    {
+      "id": "58ab0feb4463f1dedfc7319dd583057c",
+      "name": "Metric Screenshots",
+      "type": "text",
+      "value": "Screenshots",
+      "description": "Metric label for uploaded screenshot count."
+    },
+    {
+      "id": "096180b4df29ff76a1bc5585fae34ff4",
+      "name": "Release Picker Title",
+      "type": "text",
+      "value": "Release version",
+      "description": "Heading for release selector."
+    },
+    {
+      "id": "cf1d3fd2696e20f7e050f7b75675e584",
+      "name": "Release Name Placeholder",
+      "type": "text",
+      "value": "v2.5.0",
+      "description": "Placeholder for release version/name."
+    },
+    {
+      "id": "f8c0facacac14b9cde4c7fb8b14acb33",
+      "name": "Updated By Label",
+      "type": "text",
+      "value": "Updating as",
+      "description": "Label before the current runtime user identity."
+    },
+    {
+      "id": "8a8d6e14cabb946d6306065f58f9aad6",
+      "name": "Backend Unavailable",
+      "type": "text",
+      "value": "Backend summary is not available yet.",
+      "description": "Fallback backend summary."
+    },
+    {
+      "id": "569eb81980f240d391af27837abe397c",
+      "name": "Loading Message",
+      "type": "text",
+      "value": "Loading release summary...",
+      "description": "Message shown while backend summary loads."
+    },
+    {
+      "id": "47a3e4b2026c9ed4d0f0b6de02e747a2",
+      "name": "Points Title",
+      "type": "text",
+      "value": "Verification points",
+      "description": "Accessible label for the three verification cards."
+    },
+    {
+      "id": "c61c7dd0c6b6fa8a584b0b142e4ca053",
+      "name": "Point Label",
+      "type": "text",
+      "value": "Checkpoint",
+      "description": "Small label shown above each verification point."
+    },
+    {
+      "id": "88fb2bb234f172b7adef33a3075c8060",
+      "name": "Verified Label",
+      "type": "text",
+      "value": "Verified",
+      "description": "Label for a passing verification point."
+    },
+    {
+      "id": "f394e2c5803da972cc962d6f32c6df95",
+      "name": "Not Verified Label",
+      "type": "text",
+      "value": "Not verified",
+      "description": "Label for an incomplete or failing verification point."
+    },
+    {
+      "id": "8ed39ca9ea8f096a510c814a277de686",
+      "name": "Proof Notes Label",
+      "type": "text",
+      "value": "Notes",
+      "description": "Label for verification notes."
+    },
+    {
+      "id": "ad29eb0b8f18b636e1186ac8a3b574c9",
+      "name": "Proof Notes Placeholder",
+      "type": "text",
+      "value": "What changed, what was checked, and any remaining risk",
+      "description": "Placeholder for verification notes."
+    },
+    {
+      "id": "d1ade9b5c9c108271a756b4782545006",
+      "name": "Upload Label",
+      "type": "text",
+      "value": "Upload proof",
+      "description": "Label for each proof upload field."
+    },
+    {
+      "id": "f4b8a448ac57cf4059d63cff2b0d761a",
+      "name": "Upload Hint",
+      "type": "text",
+      "value": "Choose screenshots",
+      "description": "Hint for proof upload fields."
+    },
+    {
+      "id": "4307f29076f94a18da3b3219b6d650c2",
+      "name": "Save Button",
+      "type": "text",
+      "value": "Save release verification",
+      "description": "Button text for saving the verification."
+    },
+    {
+      "id": "a099f08aae1900b21591ced3f5e9618d",
+      "name": "Saving Button",
+      "type": "text",
+      "value": "Saving...",
+      "description": "Button text while verification is saving."
+    },
+    {
+      "id": "14c24c69d43ee979304722a18a2d3e63",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "app_title": "__HANGAR_APP_NAME__",
+          "eyebrow": "Release verification",
+          "intro_text": "Select or create a release, then attach proof for the three required checks.",
+          "metric_releases": "Releases",
+          "metric_verifications": "Records",
+          "metric_screenshots": "Screenshots",
+          "release_picker_title": "Release version",
+          "release_name_placeholder": "v2.5.0",
+          "updated_by_label": "Updating as",
+          "current_user": "Current user",
+          "backend_unavailable": "Backend summary is not available yet.",
+          "loading_message": "Loading release summary...",
+          "points_title": "Verification points",
+          "point_label": "Checkpoint",
+          "verified_label": "Verified",
+          "not_verified_label": "Not verified",
+          "proof_notes_label": "Notes",
+          "proof_notes_placeholder": "What changed, what was checked, and any remaining risk",
+          "upload_label": "Upload proof",
+          "upload_hint": "Choose screenshots",
+          "selected_suffix": "selected",
+          "save_button": "Save release verification",
+          "saving_button": "Saving...",
+          "canary": "Canary",
+          "logs": "Logs",
+          "grafana": "Released Grafana"
+        },
+        "zh": {
+          "app_title": "__HANGAR_APP_NAME__",
+          "eyebrow": "发布验证",
+          "intro_text": "选择或创建发布版本，然后为三个必需检查点上传证明。",
+          "metric_releases": "发布",
+          "metric_verifications": "记录",
+          "metric_screenshots": "截图",
+          "release_picker_title": "发布版本",
+          "release_name_placeholder": "v2.5.0",
+          "updated_by_label": "更新身份",
+          "current_user": "当前用户",
+          "backend_unavailable": "后端摘要暂不可用。",
+          "loading_message": "正在加载发布摘要...",
+          "points_title": "验证点",
+          "point_label": "检查点",
+          "verified_label": "已验证",
+          "not_verified_label": "未验证",
+          "proof_notes_label": "备注",
+          "proof_notes_placeholder": "说明变更、已检查内容和剩余风险",
+          "upload_label": "上传证明",
+          "upload_hint": "选择截图",
+          "selected_suffix": "已选择",
+          "save_button": "保存发布验证",
+          "saving_button": "保存中...",
+          "canary": "金丝雀",
+          "logs": "日志",
+          "grafana": "已发布 Grafana"
+        }
+      },
+      "description": "Language-aware release verification copy."
+    }
+  ],
+  "design": [
+    {
+      "id": "a6e0804138074283a9c4da07da64c37f",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#eef3f7",
+      "type": "color",
+      "description": "Outer app background."
+    },
+    {
+      "id": "2a230250634519717ff2fe02f5b939ef",
+      "name": "Surface Background",
+      "css_var": "--surface-background",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Main panel background."
+    },
+    {
+      "id": "4b00c95f7571910194ef489883165922",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#f8fafc",
+      "type": "color",
+      "description": "Secondary panel background."
+    },
+    {
+      "id": "941502f591a578453b90e5a918e23f76",
+      "name": "Text Color",
+      "css_var": "--text-color",
+      "value": "#172033",
+      "type": "color",
+      "description": "Primary text color."
+    },
+    {
+      "id": "1946d21c6910e543adda223556db8214",
+      "name": "Muted Text",
+      "css_var": "--muted-text-color",
+      "value": "#5d6b82",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "baab418d67e2957c1cb56cff78c81ad2",
+      "name": "Border Color",
+      "css_var": "--border-color",
+      "value": "#d8e1ea",
+      "type": "color",
+      "description": "Borders and dividers."
+    },
+    {
+      "id": "62aa2635806f5a5760ba622eb6fce95d",
+      "name": "Accent Color",
+      "css_var": "--accent-color",
+      "value": "#256f7c",
+      "type": "color",
+      "description": "Primary action color."
+    },
+    {
+      "id": "3c889a1695abb996eef04d9501db0f43",
+      "name": "Button Text Color",
+      "css_var": "--button-text-color",
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Text color on primary buttons."
+    },
+    {
+      "id": "1be380ee3510cf5cddce1420f2d96e8e",
+      "name": "Success Color",
+      "css_var": "--success-color",
+      "value": "#2f8f62",
+      "type": "color",
+      "description": "Verified status color."
+    },
+    {
+      "id": "91a757e8a7d762ca230dbf46a50fbbf2",
+      "name": "Danger Color",
+      "css_var": "--danger-color",
+      "value": "#c2414b",
+      "type": "color",
+      "description": "Blocked status color."
+    },
+    {
+      "id": "534e60d3d17762962196117d6a9dc7ce",
+      "name": "Verified Background",
+      "css_var": "--verified-background",
+      "value": "#e6f6ed",
+      "type": "color",
+      "description": "Background for verified cards."
+    },
+    {
+      "id": "62060fabbe9b211f96922556af0cd738",
+      "name": "Unverified Background",
+      "css_var": "--unverified-background",
+      "value": "#fde8e8",
+      "type": "color",
+      "description": "Background for not verified cards."
+    },
+    {
+      "id": "b2073c114125ef55ff35797ffdbece0c",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Inter",
+      "type": "font",
+      "description": "Primary app font."
+    },
+    {
+      "id": "b8a1119a8ea193ecddf721b5e3704bd1",
+      "name": "Surface Radius",
+      "css_var": "--surface-radius",
+      "value": "8px",
+      "type": "radius",
+      "description": "Radius for panels and cards.",
+      "unit": "px",
+      "min": 0,
+      "max": 24,
+      "step": 1
+    },
+    {
+      "id": "a21c754fd112a1e90c2577f6610f8d1a",
+      "name": "Control Radius",
+      "css_var": "--control-radius",
+      "value": "6px",
+      "type": "radius",
+      "description": "Radius for controls and thumbnails.",
+      "unit": "px",
+      "min": 0,
+      "max": 20,
+      "step": 1
+    },
+    {
+      "id": "6350cad81187c53edc90c0ff1ab67f76",
+      "name": "Page Padding",
+      "css_var": "--page-padding",
+      "value": "1.5rem",
+      "type": "size",
+      "description": "Outer app padding.",
+      "unit": "rem",
+      "min": 0,
+      "max": 5,
+      "step": 0.25
+    },
+    {
+      "id": "b59f557de4aae612e644b7c69456e0b2",
+      "name": "Surface Shadow",
+      "css_var": "--surface-shadow",
+      "value": "0 18px 50px rgba(15, 23, 42, 0.08)",
+      "type": "shadow",
+      "description": "Panel shadow."
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Release",
+      "QA",
+      "Screenshots",
+      "Evidence"
+    ],
+    "app_icon": "mdi:rocket-launch-outline",
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

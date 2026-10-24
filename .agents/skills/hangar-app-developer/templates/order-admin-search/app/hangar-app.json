@@ -1,0 +1,52 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "0f4278a47ad50e857ce2d6a5a4048797",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Name in the app header and browser tab."
+    },
+    {
+      "id": "8b3da9e75dc5355e274c3157a70ddca2",
+      "name": "Page Title",
+      "type": "text",
+      "value": "Find orders",
+      "description": "Heading above the target selector."
+    },
+    {
+      "id": "2f4da42d31be8be547430e403029374b",
+      "name": "Intro Text",
+      "type": "text",
+      "value": "Choose an environment and region, check access, then browse or filter orders.",
+      "description": "Short description of the access and search workflow."
+    }
+  ],
+  "design": [],
+  "settings": {
+    "tags": [
+      "Orders",
+      "Integrations",
+      "Search",
+      "Python"
+    ],
+    "app_icon": "mdi:clipboard-search-outline",
+    "integrations": {
+      "order_admin": {
+        "auth_mode": "user",
+        "required": true
+      }
+    },
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

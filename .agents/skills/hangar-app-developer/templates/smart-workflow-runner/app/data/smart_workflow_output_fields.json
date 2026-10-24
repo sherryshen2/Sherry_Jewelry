@@ -1,0 +1,56 @@
+{
+  "schema": [
+    {
+      "name": "name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "label",
+      "type": "text"
+    },
+    {
+      "name": "type",
+      "type": "text",
+      "default": "string"
+    },
+    {
+      "name": "required",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "description",
+      "type": "text"
+    },
+    {
+      "name": "default_value",
+      "type": "json"
+    },
+    {
+      "name": "array_spec",
+      "type": "json"
+    },
+    {
+      "name": "object_spec",
+      "type": "json"
+    },
+    {
+      "name": "order",
+      "type": "number"
+    },
+    {
+      "name": "show_in_list",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "searchable",
+      "type": "boolean",
+      "default": false
+    }
+  ],
+  "records": [],
+  "icon": "mdi:format-list-bulleted-type",
+  "scope": "app"
+}

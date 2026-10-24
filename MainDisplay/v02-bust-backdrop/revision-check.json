@@ -1,0 +1,13 @@
+{
+  "unchanged_scene_transforms": true,
+  "unchanged_original_material_settings": true,
+  "pendant_gem_center_world_m": [
+    -0.052000001072883606,
+    0.0021692279260605574,
+    0.2190040424466133
+  ],
+  "necklace_fit_sample_count": 11845,
+  "minimum_signed_fabric_clearance_mm": 0.08206737948057707,
+  "penetrations_over_0_15mm": 0,
+  "examples": []
+}

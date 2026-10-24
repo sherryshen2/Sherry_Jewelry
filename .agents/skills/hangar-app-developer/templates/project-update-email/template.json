@@ -1,0 +1,13 @@
+{
+  "id": "project-update-email",
+  "name": "Project update email",
+  "description": "Send stakeholder-ready Jira epic update emails with a snapshot of what changed since the last run.",
+  "tags": [
+    "Jira",
+    "Email",
+    "Reporting",
+    "Project"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Project update email template, keep backend/main.py as the router entrypoint and move Jira calls, run history, and email sending into focused backend services when changing this workflow. Use the configured Jira integration, store every run in the runs table, preload recipients from auth.currentUser(), compare automatically against the last run or the past 7 days, and keep the main UI centered on a polished email preview. Send designed HTML email through Hangar email with an app snapshot of the ?snapshot=email route. Do not hardcode project IDs or external Jira credentials in frontend code."
+}

@@ -1,0 +1,182 @@
+{
+  "name": "__HANGAR_APP_NAME__",
+  "slug": "hangar-template-app",
+  "content": [
+    {
+      "id": "142968c00f856439943f0609b67d16d7",
+      "name": "Eyebrow",
+      "type": "text",
+      "value": "Simple frontend page",
+      "description": "Small label above the main title."
+    },
+    {
+      "id": "03a8ddd31b72c1e0578c568f4bb34bc7",
+      "name": "App Title",
+      "type": "text",
+      "value": "__HANGAR_APP_NAME__",
+      "description": "Main title shown on the page."
+    },
+    {
+      "id": "8586da5f6e38f0a69082e10003a09e49",
+      "name": "Intro Text",
+      "type": "text",
+      "value": "A minimal 1-page frontend starter for quick ideas, prototypes, and lightweight internal pages.",
+      "description": "Primary intro copy."
+    },
+    {
+      "id": "0c41a403d1687ed7de3b60cf12271a84",
+      "name": "Section Title",
+      "type": "text",
+      "value": "Where to edit",
+      "description": "Heading for the starter guidance section."
+    },
+    {
+      "id": "5990f700c2834166ee2a2ed16630e131",
+      "name": "Section Body",
+      "type": "text",
+      "value": "Start by editing frontend/src/App.svelte. Add more components only if the page grows beyond one screen.",
+      "description": "Guidance text for the starter page."
+    },
+    {
+      "id": "59225e2d1771d810d876a0cd21c69d73",
+      "name": "Footer Note",
+      "type": "text",
+      "value": "This template keeps custom logic in one frontend page and leaves the backend empty by default.",
+      "description": "Footer copy."
+    },
+    {
+      "id": "c1cca0537e3c128bfdc46e6edfaca7a0",
+      "name": "Localized Copy",
+      "type": "json",
+      "value": {
+        "en": {
+          "eyebrow": "Simple frontend page",
+          "intro_text": "A minimal 1-page frontend starter for quick ideas, prototypes, and lightweight internal pages.",
+          "section_title": "Where to edit",
+          "section_body": "Start by editing frontend/src/App.svelte. Add more components only if the page grows beyond one screen.",
+          "footer_note": "This template keeps custom logic in one frontend page and leaves the backend empty by default."
+        },
+        "zh": {
+          "eyebrow": "单页前端模板",
+          "intro_text": "一个极简的单页前端起步模板，适合快速想法、原型和轻量内部页面。",
+          "section_title": "从哪里开始改",
+          "section_body": "先从 frontend/src/App.svelte 开始编辑。只有当页面变复杂时再拆分更多组件。",
+          "footer_note": "这个模板默认把自定义逻辑保留在一个前端页面里，后端默认留空。"
+        }
+      },
+      "description": "Language-aware copy keyed by Hangar language id."
+    }
+  ],
+  "design": [
+    {
+      "id": "4e4b3f2e781515dfb7a3f528c3202e57",
+      "name": "Page Background",
+      "css_var": "--page-background",
+      "value": "#f7f3ea",
+      "type": "color",
+      "description": "Background color for the page."
+    },
+    {
+      "id": "ecf00db09efdbb8bd97e86b7b005cf47",
+      "name": "Panel Background",
+      "css_var": "--panel-background",
+      "value": "#fffdf8",
+      "type": "color",
+      "description": "Main panel background."
+    },
+    {
+      "id": "1f4a20ec14405790d1406857e5566b90",
+      "name": "Hero Background",
+      "css_var": "--hero-background",
+      "value": "#1f3a5f",
+      "type": "color",
+      "description": "Hero card background."
+    },
+    {
+      "id": "db5566c0e155c93ad30e4167ba7decc9",
+      "name": "Heading Text",
+      "css_var": "--heading-text-color",
+      "value": "#122033",
+      "type": "color",
+      "description": "Primary heading color."
+    },
+    {
+      "id": "aad931881de6db699d241fd43c3afd9a",
+      "name": "Body Text",
+      "css_var": "--body-text-color",
+      "value": "#27364a",
+      "type": "color",
+      "description": "Primary body text color."
+    },
+    {
+      "id": "dcd2329a672abbef4f13da2f52ee0cd8",
+      "name": "Muted Text",
+      "css_var": "--muted-text-color",
+      "value": "#6f7b8c",
+      "type": "color",
+      "description": "Secondary text color."
+    },
+    {
+      "id": "a598cda52dd956c7b7b2f1a1fdc109ee",
+      "name": "Accent",
+      "css_var": "--accent-color",
+      "value": "#d96f32",
+      "type": "color",
+      "description": "Accent color."
+    },
+    {
+      "id": "4d0019a9b3def6dc9c94ba1356fa1c29",
+      "name": "Border",
+      "css_var": "--border-color",
+      "value": "#ded7ca",
+      "type": "color",
+      "description": "Border color."
+    },
+    {
+      "id": "e9904a4eb8bea2f71a4ce5b29a1af02f",
+      "name": "Font Family",
+      "css_var": "--font-family",
+      "value": "Avenir Next",
+      "type": "font",
+      "description": "Primary app font."
+    },
+    {
+      "id": "275e5d4f67afedcb5adc5d839c6cee91",
+      "name": "Panel Radius",
+      "css_var": "--panel-radius",
+      "value": "18px",
+      "type": "radius",
+      "description": "Panel radius.",
+      "unit": "px",
+      "min": 0,
+      "max": 32,
+      "step": 1
+    },
+    {
+      "id": "909be545a0717ab85f1cc7a91c16e099",
+      "name": "Panel Shadow",
+      "css_var": "--panel-shadow",
+      "value": "0 30px 80px rgba(31, 58, 95, 0.10)",
+      "type": "shadow",
+      "description": "Panel shadow."
+    }
+  ],
+  "settings": {
+    "tags": [
+      "Frontend",
+      "One Page",
+      "Minimal",
+      "Blank"
+    ],
+    "app_icon": "mdi:card-text-outline",
+    "permissions": {
+      "access": "private",
+      "departments": [],
+      "roles": [],
+      "members": []
+    },
+    "vibe_zone_enabled": true,
+    "visibility": "private"
+  },
+  "storage": {}
+}

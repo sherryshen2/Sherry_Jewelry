@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "conversation_key",
+      "type": "text"
+    },
+    {
+      "name": "direction",
+      "type": "text"
+    },
+    {
+      "name": "event_type",
+      "type": "text"
+    },
+    {
+      "name": "seatalk_message_id",
+      "type": "text"
+    },
+    {
+      "name": "message_link",
+      "type": "url"
+    },
+    {
+      "name": "thread_id",
+      "type": "text"
+    },
+    {
+      "name": "employee_code",
+      "type": "text"
+    },
+    {
+      "name": "group_id",
+      "type": "text"
+    },
+    {
+      "name": "sender",
+      "type": "json"
+    },
+    {
+      "name": "text",
+      "type": "text"
+    },
+    {
+      "name": "payload",
+      "type": "json"
+    },
+    {
+      "name": "status",
+      "type": "text",
+      "default": "received"
+    },
+    {
+      "name": "error",
+      "type": "text"
+    }
+  ],
+  "records": [],
+  "icon": "mdi:message-text-clock-outline",
+  "scope": "app"
+}

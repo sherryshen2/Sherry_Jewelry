@@ -1,0 +1,14 @@
+{
+  "id": "new-employee-onboarding",
+  "name": "New employee onboarding app",
+  "description": "A welcoming checklist that helps new teammates get settled, meet people, and track their progress.",
+  "tags": [
+    "Onboarding",
+    "Checklist",
+    "HR",
+    "Content",
+    "User data"
+  ],
+  "setup_fields": [],
+  "instructions": "For the New employee onboarding app, keep checklist structure in the Checklist Items JSON content field and store only user completion state in the user-scoped onboarding_progress table."
+}

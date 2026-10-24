@@ -1,0 +1,91 @@
+BVH_READY 142703 145279
+BATCH 01 | warm ivory lacquer 21016 vertices
+BATCH 04 | satin champagne brass 20292 vertices
+BATCH 02 | ivory carved edges 34696 vertices
+BATCH 03 | inset warm putty 1592 vertices
+BATCH oak parquet 5 164 vertices
+BATCH oak parquet 3 106 vertices
+BATCH oak parquet 6 166 vertices
+BATCH oak parquet 4 89 vertices
+BATCH oak parquet 1 152 vertices
+BATCH oak parquet 0 90 vertices
+BATCH oak parquet 2 168 vertices
+BATCH 06 | warm oyster wall 504 vertices
+BATCH 10 | rose velvet lining 968 vertices
+BATCH 14 | display glass 96 vertices
+BATCH 05 | champagne polished accents 12702 vertices
+BATCH 20 | warm candle light 1092 vertices
+BATCH 16 | softened silver mirror 1986 vertices
+BATCH 08 | pale warm drapery 12352 vertices
+BATCH 09 | floral ecru lace cutout 2392 vertices
+BATCH 15 | chandelier crystal 2858 vertices
+BATCH 11 | oatmeal velvet display forms 768 vertices
+BATCH 12 | soft ivory pearls 9578 vertices
+BATCH 13 | rose quartz faceted accents 468 vertices
+BATCH 07 | dusty blush silk 1888 vertices
+BATCH 17 | muted eucalyptus 2212 vertices
+BATCH 19 | buttercream petals 9288 vertices
+BATCH 18 | pale blush petals 12384 vertices
+INFO Draco mesh compression is available, use library at /Applications/Blender.app/Contents/Resources/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.dylib
+10:22:10 | INFO: Starting glTF 2.0 export
+10:22:11 | INFO: Extracting primitive: layered plinth lower.001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: plinth upper bullnose.001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: floor substrate.001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: plinth gold hairline.001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: shared 05 | champagne polished accents(16, 10).001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: back wall.001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: counter jewelry box base.001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: front left swag.001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: front left swag lace seam
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: velvet display shelf.001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: hero pearl necklace bust.001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: shared 12 | soft ivory pearls(12, 8).001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: shared 13 | rose quartz faceted accents(8, 4).001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: front glass single layer.001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: arm crystal pendant.006
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: shared 16 | softened silver mirror(64, 32).001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: counter small roses stem
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: shared 18 | pale blush petals(12, 8).001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: shared 19 | buttercream petals(12, 8).001
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: undershelf warm line.006
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: chevron parquet.154
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: chevron parquet.147
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: chevron parquet.160
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: chevron parquet.144
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: chevron parquet.146
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: chevron parquet.143
+10:22:11 | INFO: Primitives created: 1
+10:22:11 | INFO: Extracting primitive: chevron parquet.145
+10:22:11 | INFO: Primitives created: 1
+10:22:12 | INFO: Finished glTF 2.0 export in 1.0767638683319092 s
+
+WEB_EXPORT_DONE {"triangles": 290809, "mesh_vertices_before_gltf_uv_splits": 150067, "mesh_batches": 27, "materials": 27, "images": 9, "embedded_images": true, "glb_bytes": 12501432, "extensions_used": ["KHR_materials_clearcoat", "KHR_materials_emissive_strength", "KHR_materials_sheen"], "occlusion": "10 cosine-weighted local AO rays plus 6 key and 6 fill visibility rays per vertex; COLOR_0, final minimum 0.32", "mirror": "Softened 512x704 static reflection capture plus environment highlights", "alpha_mask_materials": 1, "alpha_blend_materials": 1, "default_coordinate_system": "Y up; facade faces +Z", "source_objects": 1422, "web_dynamic_lights": 3}
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/Boutique/v02-final/Boutique-final.blend"
+
+Blender quit

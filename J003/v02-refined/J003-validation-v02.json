@@ -1,0 +1,493 @@
+{
+  "source_closed_mesh_issues": [],
+  "gem_surface_intersections": [],
+  "stone_metal_contacts": {
+    "02_Center_Heart_outline_EST_cut_PENDING": [
+      "05_MainProng_01_EST",
+      "05_MainProngTip_01_EST",
+      "05_MainProng_02_EST",
+      "05_MainProngTip_02_EST",
+      "05_MainProng_03_EST",
+      "05_MainProngTip_03_EST"
+    ],
+    "PENDING_Halo_01": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_01_0",
+      "PENDING_HaloBead_01_1"
+    ],
+    "PENDING_Halo_02": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_01_0",
+      "PENDING_HaloBead_01_1",
+      "PENDING_HaloBead_02_0",
+      "PENDING_HaloBead_02_1"
+    ],
+    "PENDING_Halo_03": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_02_0",
+      "PENDING_HaloBead_02_1",
+      "PENDING_HaloBead_03_0",
+      "PENDING_HaloBead_03_1"
+    ],
+    "PENDING_Halo_04": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_03_0",
+      "PENDING_HaloBead_03_1",
+      "PENDING_HaloBead_04_0",
+      "PENDING_HaloBead_04_1"
+    ],
+    "PENDING_Halo_05": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_04_0",
+      "PENDING_HaloBead_04_1",
+      "PENDING_HaloBead_05_0",
+      "PENDING_HaloBead_05_1"
+    ],
+    "PENDING_Halo_06": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_05_0",
+      "PENDING_HaloBead_05_1",
+      "PENDING_HaloBead_06_1"
+    ],
+    "PENDING_Halo_07": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_06_0",
+      "PENDING_HaloBead_07_0"
+    ],
+    "PENDING_Halo_08": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_07_1",
+      "PENDING_HaloBead_08_0"
+    ],
+    "PENDING_Halo_09": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_08_1",
+      "PENDING_HaloBead_09_1"
+    ],
+    "PENDING_Halo_10": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_09_0",
+      "PENDING_HaloBead_10_1"
+    ],
+    "PENDING_Halo_11": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_10_0",
+      "PENDING_HaloBead_11_0"
+    ],
+    "PENDING_Halo_12": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_11_1",
+      "PENDING_HaloBead_12_0"
+    ],
+    "PENDING_Halo_13": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_12_1",
+      "PENDING_HaloBead_13_1"
+    ],
+    "PENDING_Halo_14": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_13_0",
+      "PENDING_HaloBead_14_1"
+    ],
+    "PENDING_Halo_15": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_14_0",
+      "PENDING_HaloBead_15_0"
+    ],
+    "PENDING_Halo_16": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_15_1",
+      "PENDING_HaloBead_16_0",
+      "PENDING_HaloBead_16_1"
+    ],
+    "PENDING_Halo_17": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_16_0",
+      "PENDING_HaloBead_16_1",
+      "PENDING_HaloBead_17_0",
+      "PENDING_HaloBead_17_1"
+    ],
+    "PENDING_Halo_18": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_17_0",
+      "PENDING_HaloBead_17_1",
+      "PENDING_HaloBead_18_0",
+      "PENDING_HaloBead_18_1"
+    ],
+    "PENDING_Halo_19": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_18_0",
+      "PENDING_HaloBead_18_1",
+      "PENDING_HaloBead_19_0",
+      "PENDING_HaloBead_19_1"
+    ],
+    "PENDING_Halo_20": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_19_0",
+      "PENDING_HaloBead_19_1",
+      "PENDING_HaloBead_20_0",
+      "PENDING_HaloBead_20_1"
+    ],
+    "PENDING_Halo_21": [
+      "PENDING_03_OpenBack_Gallery",
+      "PENDING_HaloBead_20_0",
+      "PENDING_HaloBead_20_1"
+    ],
+    "PENDING_ShoulderStone_-1_01": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_01_-1",
+      "PENDING_ShoulderBead_-1_01_1"
+    ],
+    "PENDING_ShoulderStone_-1_02": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_02_-1",
+      "PENDING_ShoulderBead_-1_02_1"
+    ],
+    "PENDING_ShoulderStone_-1_03": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_03_-1",
+      "PENDING_ShoulderBead_-1_03_1"
+    ],
+    "PENDING_ShoulderStone_-1_04": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_04_-1",
+      "PENDING_ShoulderBead_-1_04_1"
+    ],
+    "PENDING_ShoulderStone_-1_05": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_05_-1",
+      "PENDING_ShoulderBead_-1_05_1"
+    ],
+    "PENDING_ShoulderStone_-1_06": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_06_-1",
+      "PENDING_ShoulderBead_-1_06_1"
+    ],
+    "PENDING_ShoulderStone_-1_07": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_07_-1",
+      "PENDING_ShoulderBead_-1_07_1"
+    ],
+    "PENDING_ShoulderStone_-1_08": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_08_-1",
+      "PENDING_ShoulderBead_-1_08_1"
+    ],
+    "PENDING_ShoulderStone_-1_09": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_09_-1",
+      "PENDING_ShoulderBead_-1_09_1"
+    ],
+    "PENDING_ShoulderStone_-1_10": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_10_-1",
+      "PENDING_ShoulderBead_-1_10_1"
+    ],
+    "PENDING_ShoulderStone_-1_11": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_-1_11_-1",
+      "PENDING_ShoulderBead_-1_11_1"
+    ],
+    "PENDING_ShoulderStone_1_01": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_01_-1",
+      "PENDING_ShoulderBead_1_01_1"
+    ],
+    "PENDING_ShoulderStone_1_02": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_02_-1",
+      "PENDING_ShoulderBead_1_02_1"
+    ],
+    "PENDING_ShoulderStone_1_03": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_03_-1",
+      "PENDING_ShoulderBead_1_03_1"
+    ],
+    "PENDING_ShoulderStone_1_04": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_04_-1",
+      "PENDING_ShoulderBead_1_04_1"
+    ],
+    "PENDING_ShoulderStone_1_05": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_05_-1",
+      "PENDING_ShoulderBead_1_05_1"
+    ],
+    "PENDING_ShoulderStone_1_06": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_06_-1",
+      "PENDING_ShoulderBead_1_06_1"
+    ],
+    "PENDING_ShoulderStone_1_07": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_07_-1",
+      "PENDING_ShoulderBead_1_07_1"
+    ],
+    "PENDING_ShoulderStone_1_08": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_08_-1",
+      "PENDING_ShoulderBead_1_08_1"
+    ],
+    "PENDING_ShoulderStone_1_09": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_09_-1",
+      "PENDING_ShoulderBead_1_09_1"
+    ],
+    "PENDING_ShoulderStone_1_10": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_10_-1",
+      "PENDING_ShoulderBead_1_10_1"
+    ],
+    "PENDING_ShoulderStone_1_11": [
+      "01_Shank_ID16mm_width_EST",
+      "PENDING_ShoulderBead_1_11_-1",
+      "PENDING_ShoulderBead_1_11_1"
+    ]
+  },
+  "stones_without_detected_metal_contact": [],
+  "source_inner_vertex_diameter_mm": 15.999999127802548,
+  "source_bounds_mm": [
+    [
+      -9.274999611079693,
+      -3.5570000763982534,
+      -8.949999697506428
+    ],
+    [
+      9.274999611079693,
+      3.550102235749364,
+      10.54999977350235
+    ]
+  ],
+  "camera_framing": {
+    "CAM_01_FRONT_heart_face": {
+      "min_xy": [
+        0.09673915058374405,
+        0.3453478217124939
+      ],
+      "max_xy": [
+        0.9032608270645142,
+        0.6543522477149963
+      ],
+      "all_inside_frame": true
+    },
+    "CAM_02_SIDE_profile": {
+      "min_xy": [
+        0.3486384451389313,
+        0.08510620146989822
+      ],
+      "max_xy": [
+        0.6510683298110962,
+        0.9148934483528137
+      ],
+      "all_inside_frame": true
+    },
+    "CAM_03_BACK_ring_plane": {
+      "min_xy": [
+        0.10531856119632721,
+        0.0851057693362236
+      ],
+      "max_xy": [
+        0.8946802616119385,
+        0.9148930311203003
+      ],
+      "all_inside_frame": true
+    },
+    "CAM_04_45DEG_default": {
+      "min_xy": [
+        0.19255365431308746,
+        0.15732796490192413
+      ],
+      "max_xy": [
+        0.8074465990066528,
+        0.8792867064476013
+      ],
+      "all_inside_frame": true
+    },
+    "CAM_05_UNDERSIDE_review": {
+      "min_xy": [
+        0.136274516582489,
+        0.13534629344940186
+      ],
+      "max_xy": [
+        0.863725483417511,
+        0.8689619898796082
+      ],
+      "all_inside_frame": true
+    }
+  },
+  "gltf_version": "2.0",
+  "gltf_extensions": [
+    "KHR_materials_clearcoat",
+    "KHR_materials_transmission",
+    "KHR_materials_ior"
+  ],
+  "glb_file_size_bytes": 1455976,
+  "glb_nodes": 4,
+  "glb_materials": [
+    "M03_PinkAccent_optics_PENDING",
+    "M02_PinkStone_optics_PENDING",
+    "M01_RoseGold_user_color"
+  ],
+  "glb_images": 0,
+  "glb_has_camera_or_lights": false,
+  "limitations": [
+    "no full rear reference; open gallery is provisional",
+    "overlap checks exclude intentional metal-to-setting contacts",
+    "stone counts and cutting diagram are not verified by source photographs"
+  ],
+  "roundtrip_bounds_mm": [
+    [
+      -9.274999611079693,
+      -3.5570000763982534,
+      -8.949999697506428
+    ],
+    [
+      9.274999611079693,
+      3.550102235749364,
+      10.54999977350235
+    ]
+  ],
+  "roundtrip_max_bound_error_mm": 0.0,
+  "roundtrip_triangles": 66320,
+  "roundtrip_root_found": true,
+  "lods": {
+    "detail": {
+      "bytes": 1455976,
+      "triangles": 66320,
+      "bounds_mm": [
+        [
+          -9.274999611079693,
+          -3.5570000763982534,
+          -8.949999697506428
+        ],
+        [
+          9.274999611079693,
+          3.550102235749364,
+          10.54999977350235
+        ]
+      ],
+      "max_bound_error_vs_source_mm": 0.0,
+      "meshes": 3,
+      "materials": [
+        {
+          "name": "M03_PinkAccent_optics_PENDING",
+          "roughness": 0.02500000037252903,
+          "transmission": 0.41999998688697815,
+          "emissive": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "M02_PinkStone_optics_PENDING",
+          "roughness": 0.017999999225139618,
+          "transmission": 0.47999998927116394,
+          "emissive": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "M01_RoseGold_user_color",
+          "roughness": 0.1599999964237213,
+          "transmission": 0,
+          "emissive": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "root": "J003_ROOT",
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "invalid_vertex_normals": [],
+      "images": 0,
+      "cameras": 0,
+      "extensions": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ]
+    },
+    "display": {
+      "bytes": 602628,
+      "triangles": 18912,
+      "bounds_mm": [
+        [
+          -9.274999611079693,
+          -3.5570000763982534,
+          -8.949999697506428
+        ],
+        [
+          9.274999611079693,
+          3.550102235749364,
+          10.54999977350235
+        ]
+      ],
+      "max_bound_error_vs_source_mm": 0.0,
+      "meshes": 3,
+      "materials": [
+        {
+          "name": "M03_PinkAccent_optics_PENDING",
+          "roughness": 0.02500000037252903,
+          "transmission": 0.41999998688697815,
+          "emissive": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "M02_PinkStone_optics_PENDING",
+          "roughness": 0.017999999225139618,
+          "transmission": 0.47999998927116394,
+          "emissive": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "name": "M01_RoseGold_user_color",
+          "roughness": 0.1599999964237213,
+          "transmission": 0,
+          "emissive": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "root": "J003_ROOT",
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "invalid_vertex_normals": [],
+      "images": 0,
+      "cameras": 0,
+      "extensions": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ]
+    }
+  }
+}

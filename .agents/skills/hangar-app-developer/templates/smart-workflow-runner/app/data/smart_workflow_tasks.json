@@ -1,0 +1,98 @@
+{
+  "schema": [
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "status",
+      "type": "text",
+      "default": "queued"
+    },
+    {
+      "name": "smart_thread_id",
+      "type": "text"
+    },
+    {
+      "name": "submitted_by",
+      "type": "text"
+    },
+    {
+      "name": "input_variables",
+      "type": "json"
+    },
+    {
+      "name": "input_summary",
+      "type": "json"
+    },
+    {
+      "name": "output",
+      "type": "json"
+    },
+    {
+      "name": "debug_tree",
+      "type": "json"
+    },
+    {
+      "name": "error_messages",
+      "type": "json"
+    },
+    {
+      "name": "started_at",
+      "type": "date"
+    },
+    {
+      "name": "completed_at",
+      "type": "date"
+    },
+    {
+      "name": "last_polled_at",
+      "type": "date"
+    },
+    {
+      "name": "duration_ms",
+      "type": "number"
+    },
+    {
+      "name": "attempt",
+      "type": "number",
+      "default": 1
+    },
+    {
+      "name": "progress_percent",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "progress_summary",
+      "type": "json"
+    },
+    {
+      "name": "file_assets",
+      "type": "json"
+    },
+    {
+      "name": "provider_cost",
+      "type": "number"
+    },
+    {
+      "name": "smart_usage",
+      "type": "json"
+    },
+    {
+      "name": "parsed_progress",
+      "type": "json"
+    },
+    {
+      "name": "business_error",
+      "type": "json"
+    },
+    {
+      "name": "interrupt",
+      "type": "json"
+    }
+  ],
+  "records": [],
+  "icon": "mdi:play-circle-outline",
+  "scope": "app"
+}

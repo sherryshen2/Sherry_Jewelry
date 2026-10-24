@@ -1,0 +1,54 @@
+{
+  "main-display-source.blend": {
+    "bytes": 7794691,
+    "sha256": "a2ae9cf5354c2164e36fcea636e4c8e7b4fe5ae8a63a38e7673dfc2da2e0048e"
+  },
+  "main-display-scene.glb": {
+    "bytes": 5117972,
+    "sha256": "a4f1ce5cebcef5af033e3c5f173e0b82810d63adad1a82fe9976b16cdd0a8295"
+  },
+  "necklace.glb": {
+    "bytes": 3940876,
+    "sha256": "41913d4062126531793a32fc6878984e02ae9f159d9110ef251d9b67003ec056"
+  },
+  "earrings.glb": {
+    "bytes": 1333008,
+    "sha256": "429687d7a35bbabbf5932af0cc1a75032d876f37d803be8ce3787c0f4fd7a440"
+  },
+  "ring.glb": {
+    "bytes": 1562656,
+    "sha256": "3ba0cacdaf904c45f1c4b887a080b62e211f1f19af22d236a0937a3121743130"
+  },
+  "bracelet.glb": {
+    "bytes": 4148552,
+    "sha256": "7bf14085c0e5f5a7b60625b52a21660cd202aad04bb7b927384392a55c17df18"
+  },
+  "01_Front.png": {
+    "bytes": 1540605,
+    "sha256": "fe3b1340a3d94a0de3b307153a312b6575c0a71d0f749f7fb7c11a583f7dda5b"
+  },
+  "02_Left.png": {
+    "bytes": 1570362,
+    "sha256": "871ea29da015d5270ecba0dbfa72a0cd24e3323a945b8d21c11111bdb0830c39"
+  },
+  "03_Right.png": {
+    "bytes": 1575028,
+    "sha256": "9f3467c9e44f4ba97cfc83883d416347b8482f32846fa60fec2339c27e67ee18"
+  },
+  "04_Bust_Side.png": {
+    "bytes": 781308,
+    "sha256": "45c56623f809a5f156fc994c8c22bbb363be8cfdbbad18c46a2575d2a37ef0cb"
+  },
+  "05_Bust_Back.png": {
+    "bytes": 759502,
+    "sha256": "d1973225656dbeb5fee0a3ce7486c155e0926fb958f17a7ebb79c5136eccabff"
+  },
+  "revision-details.json": {
+    "bytes": 12281,
+    "sha256": "e7b0f32d3d3f678b7e0e42b5ab1a2c73430338159dc381d30220020f04ec9ca0"
+  },
+  "修订说明.txt": {
+    "bytes": 1839,
+    "sha256": "4aac9bdb54fd13027aad7eea72a0e6ebc90f799558276fb06323223a72bd33df"
+  }
+}

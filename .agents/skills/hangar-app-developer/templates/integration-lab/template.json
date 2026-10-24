@@ -1,0 +1,13 @@
+{
+  "id": "integration-lab",
+  "name": "Integration lab",
+  "description": "A private workspace for trying connected tools and seeing what each one can do.",
+  "tags": [
+    "Integrations",
+    "Demo",
+    "Python",
+    "Testing"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Integration lab template, keep backend/main.py as the router entrypoint and move provider calls into focused backend services when extending the lab. Preserve the /catalog and /run backend endpoints so the frontend stays metadata-driven. Prefer read-only test actions, clearly mark side-effect actions, and surface provider errors as JSON instead of throwing opaque frontend failures. Use hangarkit.integrations.log_platform for Log Platform searches; pass env and region as search parameters rather than storing them as integration settings."
+}

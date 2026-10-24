@@ -1,0 +1,12 @@
+{
+  "geometry_preserved": true,
+  "gold_reflection_preserved": true,
+  "warm_practicals_preserved": true,
+  "softened_shadow_vertices": 226293,
+  "white_crystal_vertices": 6136,
+  "crystal_alpha": 0.68,
+  "crystal_metallic": 0,
+  "unchanged_buffer_views": 112,
+  "updated_image_buffers": 5,
+  "validation_provenance": "Inherited from v05; v06 GLB and all textures confirmed byte-identical by SHA-256."
+}

@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "epic_key",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "compare_since",
+      "type": "date"
+    },
+    {
+      "name": "created_at",
+      "type": "date"
+    },
+    {
+      "name": "created_by",
+      "type": "text"
+    },
+    {
+      "name": "jql",
+      "type": "text"
+    },
+    {
+      "name": "recipients",
+      "type": "json"
+    },
+    {
+      "name": "total_count",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "updated_count",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "new_count",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "email_sent",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "email_result",
+      "type": "json"
+    },
+    {
+      "name": "issues",
+      "type": "json"
+    },
+    {
+      "name": "summary",
+      "type": "json"
+    }
+  ],
+  "records": [],
+  "icon": "mdi:history",
+  "scope": "app"
+}

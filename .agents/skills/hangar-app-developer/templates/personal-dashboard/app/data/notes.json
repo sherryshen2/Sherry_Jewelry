@@ -1,0 +1,33 @@
+{
+  "schema": [
+    {
+      "name": "title",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "body",
+      "type": "text"
+    },
+    {
+      "name": "mood",
+      "type": "text"
+    }
+  ],
+  "records": [
+    {
+      "id": "note-week",
+      "title": "Weekly review",
+      "body": "Keep the dashboard honest: tasks, notes, links, and dashboard metrics should all be editable from Data.",
+      "mood": "Clear"
+    },
+    {
+      "id": "note-idea",
+      "title": "Personal automation idea",
+      "body": "Add one backend route at a time and publish through Hangar when it is useful.",
+      "mood": "Build"
+    }
+  ],
+  "icon": "mdi:notebook-outline",
+  "scope": "app"
+}

@@ -1,0 +1,79 @@
+{
+  "schema": [
+    {
+      "name": "event_id",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "event_slug",
+      "type": "text"
+    },
+    {
+      "name": "event_name",
+      "type": "text"
+    },
+    {
+      "name": "name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "email",
+      "type": "email",
+      "required": true
+    },
+    {
+      "name": "status",
+      "type": "text",
+      "default": "attending"
+    },
+    {
+      "name": "guests_count",
+      "type": "number",
+      "default": 1
+    },
+    {
+      "name": "dietary",
+      "type": "text"
+    },
+    {
+      "name": "message",
+      "type": "text"
+    },
+    {
+      "name": "responded_at",
+      "type": "date"
+    }
+  ],
+  "records": [
+    {
+      "id": "guest-maya",
+      "event_id": "event-demo-day",
+      "event_slug": "team-demo-day",
+      "event_name": "Team Demo Day",
+      "name": "Maya Lin",
+      "email": "maya@example.com",
+      "status": "attending",
+      "guests_count": 2,
+      "dietary": "Vegetarian",
+      "message": "Excited to join.",
+      "responded_at": "2026-06-21T11:00:00.000Z"
+    },
+    {
+      "id": "guest-jules",
+      "event_id": "event-demo-day",
+      "event_slug": "team-demo-day",
+      "event_name": "Team Demo Day",
+      "name": "Jules Tan",
+      "email": "jules@example.com",
+      "status": "maybe",
+      "guests_count": 1,
+      "dietary": "",
+      "message": "Checking travel.",
+      "responded_at": "2026-06-21T12:00:00.000Z"
+    }
+  ],
+  "icon": "mdi:account-check-outline",
+  "scope": "app"
+}

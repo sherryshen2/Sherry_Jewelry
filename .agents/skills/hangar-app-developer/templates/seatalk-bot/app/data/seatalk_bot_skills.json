@@ -1,0 +1,27 @@
+{
+  "schema": [
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "instructions",
+      "type": "text"
+    },
+    {
+      "name": "enabled",
+      "type": "boolean",
+      "default": true
+    }
+  ],
+  "records": [
+    {
+      "id": "skill-default-tone",
+      "title": "Bot tone",
+      "instructions": "Be concise, friendly, and action-oriented. Ask one clarifying question only when the request is ambiguous.",
+      "enabled": true
+    }
+  ],
+  "icon": "mdi:brain",
+  "scope": "app"
+}

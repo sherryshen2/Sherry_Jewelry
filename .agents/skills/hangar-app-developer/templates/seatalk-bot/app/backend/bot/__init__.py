@@ -1,0 +1,2 @@
+"""SeaTalk bot template package."""
+

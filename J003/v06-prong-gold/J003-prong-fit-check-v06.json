@@ -1,0 +1,1146 @@
+{
+  "v05_before": {
+    "sampled_internal_prong_points_over_0_002mm": [
+      {
+        "prong": "05_MainProng_01_EST",
+        "stone": "02_Center_Heart_outline_EST_cut_PENDING",
+        "sampled_depth_mm": 0.23302384943235666,
+        "sample_count": 44
+      },
+      {
+        "prong": "05_MainProngTip_01_EST",
+        "stone": "02_Center_Heart_outline_EST_cut_PENDING",
+        "sampled_depth_mm": 0.1905891258502379,
+        "sample_count": 224
+      },
+      {
+        "prong": "05_MainProng_02_EST",
+        "stone": "02_Center_Heart_outline_EST_cut_PENDING",
+        "sampled_depth_mm": 0.23401695943903178,
+        "sample_count": 45
+      },
+      {
+        "prong": "05_MainProngTip_02_EST",
+        "stone": "02_Center_Heart_outline_EST_cut_PENDING",
+        "sampled_depth_mm": 0.19058909674640745,
+        "sample_count": 224
+      },
+      {
+        "prong": "05_MainProng_03_EST",
+        "stone": "02_Center_Heart_outline_EST_cut_PENDING",
+        "sampled_depth_mm": 0.07211487536551431,
+        "sample_count": 8
+      },
+      {
+        "prong": "05_MainProngTip_03_EST",
+        "stone": "02_Center_Heart_outline_EST_cut_PENDING",
+        "sampled_depth_mm": 0.04701936632045545,
+        "sample_count": 48
+      },
+      {
+        "prong": "PENDING_HaloBead_01_0",
+        "stone": "PENDING_Halo_01",
+        "sampled_depth_mm": 0.005959011105005629,
+        "sample_count": 6
+      },
+      {
+        "prong": "PENDING_HaloBead_01_0",
+        "stone": "PENDING_Halo_02",
+        "sampled_depth_mm": 0.010612037840473931,
+        "sample_count": 5
+      },
+      {
+        "prong": "PENDING_HaloBead_01_1",
+        "stone": "PENDING_Halo_01",
+        "sampled_depth_mm": 0.010611940524540842,
+        "sample_count": 5
+      },
+      {
+        "prong": "PENDING_HaloBead_01_1",
+        "stone": "PENDING_Halo_02",
+        "sampled_depth_mm": 0.005958896963420557,
+        "sample_count": 6
+      },
+      {
+        "prong": "PENDING_HaloBead_02_0",
+        "stone": "PENDING_Halo_02",
+        "sampled_depth_mm": 0.002501789367670426,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_02_1",
+        "stone": "PENDING_Halo_03",
+        "sampled_depth_mm": 0.0025019828626682283,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_03_0",
+        "stone": "PENDING_Halo_03",
+        "sampled_depth_mm": 0.012567452358780429,
+        "sample_count": 7
+      },
+      {
+        "prong": "PENDING_HaloBead_03_0",
+        "stone": "PENDING_Halo_04",
+        "sampled_depth_mm": 0.005867870186193613,
+        "sample_count": 4
+      },
+      {
+        "prong": "PENDING_HaloBead_03_1",
+        "stone": "PENDING_Halo_03",
+        "sampled_depth_mm": 0.0058674131651059724,
+        "sample_count": 4
+      },
+      {
+        "prong": "PENDING_HaloBead_03_1",
+        "stone": "PENDING_Halo_04",
+        "sampled_depth_mm": 0.012567452358780429,
+        "sample_count": 7
+      },
+      {
+        "prong": "PENDING_HaloBead_04_0",
+        "stone": "PENDING_Halo_04",
+        "sampled_depth_mm": 0.009948511433321983,
+        "sample_count": 5
+      },
+      {
+        "prong": "PENDING_HaloBead_04_0",
+        "stone": "PENDING_Halo_05",
+        "sampled_depth_mm": 0.0023692155082244426,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_04_1",
+        "stone": "PENDING_Halo_04",
+        "sampled_depth_mm": 0.002369538378843572,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_04_1",
+        "stone": "PENDING_Halo_05",
+        "sampled_depth_mm": 0.009948397746484261,
+        "sample_count": 5
+      },
+      {
+        "prong": "PENDING_HaloBead_05_0",
+        "stone": "PENDING_Halo_05",
+        "sampled_depth_mm": 0.0046249069782788865,
+        "sample_count": 3
+      },
+      {
+        "prong": "PENDING_HaloBead_05_1",
+        "stone": "PENDING_Halo_06",
+        "sampled_depth_mm": 0.004624680968845496,
+        "sample_count": 3
+      },
+      {
+        "prong": "PENDING_HaloBead_06_0",
+        "stone": "PENDING_Halo_07",
+        "sampled_depth_mm": 0.0035175823995814426,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_06_1",
+        "stone": "PENDING_Halo_06",
+        "sampled_depth_mm": 0.003517585582812899,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_07_0",
+        "stone": "PENDING_Halo_07",
+        "sampled_depth_mm": 0.0025789895516936667,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_07_1",
+        "stone": "PENDING_Halo_08",
+        "sampled_depth_mm": 0.002578698740762775,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_10_0",
+        "stone": "PENDING_Halo_11",
+        "sampled_depth_mm": 0.004733840341941686,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_10_1",
+        "stone": "PENDING_Halo_10",
+        "sampled_depth_mm": 0.004733834884973476,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_11_0",
+        "stone": "PENDING_Halo_11",
+        "sampled_depth_mm": 0.0032415905479865614,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_11_1",
+        "stone": "PENDING_Halo_12",
+        "sampled_depth_mm": 0.003241832928324584,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_14_0",
+        "stone": "PENDING_Halo_15",
+        "sampled_depth_mm": 0.004338933649705723,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_14_1",
+        "stone": "PENDING_Halo_14",
+        "sampled_depth_mm": 0.004338966391514987,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_15_0",
+        "stone": "PENDING_Halo_15",
+        "sampled_depth_mm": 0.005071532996225869,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_15_1",
+        "stone": "PENDING_Halo_16",
+        "sampled_depth_mm": 0.0050715361794573255,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_16_0",
+        "stone": "PENDING_Halo_17",
+        "sampled_depth_mm": 0.006384786956914468,
+        "sample_count": 3
+      },
+      {
+        "prong": "PENDING_HaloBead_16_1",
+        "stone": "PENDING_Halo_16",
+        "sampled_depth_mm": 0.006384690095728729,
+        "sample_count": 3
+      },
+      {
+        "prong": "PENDING_HaloBead_17_0",
+        "stone": "PENDING_Halo_17",
+        "sampled_depth_mm": 0.0023692155082244426,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_17_0",
+        "stone": "PENDING_Halo_18",
+        "sampled_depth_mm": 0.00837494371808134,
+        "sample_count": 5
+      },
+      {
+        "prong": "PENDING_HaloBead_17_1",
+        "stone": "PENDING_Halo_17",
+        "sampled_depth_mm": 0.008374523531529121,
+        "sample_count": 5
+      },
+      {
+        "prong": "PENDING_HaloBead_17_1",
+        "stone": "PENDING_Halo_18",
+        "sampled_depth_mm": 0.00236934488384577,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_18_0",
+        "stone": "PENDING_Halo_18",
+        "sampled_depth_mm": 0.00586759642828838,
+        "sample_count": 4
+      },
+      {
+        "prong": "PENDING_HaloBead_18_0",
+        "stone": "PENDING_Halo_19",
+        "sampled_depth_mm": 0.011075367183366325,
+        "sample_count": 5
+      },
+      {
+        "prong": "PENDING_HaloBead_18_1",
+        "stone": "PENDING_Halo_18",
+        "sampled_depth_mm": 0.011075690053985454,
+        "sample_count": 5
+      },
+      {
+        "prong": "PENDING_HaloBead_18_1",
+        "stone": "PENDING_Halo_19",
+        "sampled_depth_mm": 0.005867641903023468,
+        "sample_count": 4
+      },
+      {
+        "prong": "PENDING_HaloBead_19_0",
+        "stone": "PENDING_Halo_20",
+        "sampled_depth_mm": 0.0025015633582370356,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_19_1",
+        "stone": "PENDING_Halo_19",
+        "sampled_depth_mm": 0.0025014664970512968,
+        "sample_count": 1
+      },
+      {
+        "prong": "PENDING_HaloBead_20_0",
+        "stone": "PENDING_Halo_20",
+        "sampled_depth_mm": 0.008851930942910258,
+        "sample_count": 5
+      },
+      {
+        "prong": "PENDING_HaloBead_20_0",
+        "stone": "PENDING_Halo_21",
+        "sampled_depth_mm": 0.005959011105005629,
+        "sample_count": 6
+      },
+      {
+        "prong": "PENDING_HaloBead_20_1",
+        "stone": "PENDING_Halo_20",
+        "sampled_depth_mm": 0.005959239842923125,
+        "sample_count": 6
+      },
+      {
+        "prong": "PENDING_HaloBead_20_1",
+        "stone": "PENDING_Halo_21",
+        "sampled_depth_mm": 0.008851930942910258,
+        "sample_count": 5
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_01_-1",
+        "stone": "PENDING_ShoulderStone_-1_01",
+        "sampled_depth_mm": 0.10447194654261693,
+        "sample_count": 113
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_01_1",
+        "stone": "PENDING_ShoulderStone_-1_01",
+        "sampled_depth_mm": 0.10352661774959415,
+        "sample_count": 109
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_02_-1",
+        "stone": "PENDING_ShoulderStone_-1_02",
+        "sampled_depth_mm": 0.10472746362211183,
+        "sample_count": 112
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_02_1",
+        "stone": "PENDING_ShoulderStone_-1_02",
+        "sampled_depth_mm": 0.10352645040256903,
+        "sample_count": 115
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_03_-1",
+        "stone": "PENDING_ShoulderStone_-1_03",
+        "sampled_depth_mm": 0.10410696268081665,
+        "sample_count": 117
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_03_1",
+        "stone": "PENDING_ShoulderStone_-1_03",
+        "sampled_depth_mm": 0.10352634126320481,
+        "sample_count": 116
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_04_-1",
+        "stone": "PENDING_ShoulderStone_-1_04",
+        "sampled_depth_mm": 0.10396086145192385,
+        "sample_count": 119
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_04_1",
+        "stone": "PENDING_ShoulderStone_-1_04",
+        "sampled_depth_mm": 0.10352677054470405,
+        "sample_count": 118
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_05_-1",
+        "stone": "PENDING_ShoulderStone_-1_05",
+        "sampled_depth_mm": 0.10397336882306263,
+        "sample_count": 124
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_05_1",
+        "stone": "PENDING_ShoulderStone_-1_05",
+        "sampled_depth_mm": 0.10352647223044187,
+        "sample_count": 123
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_06_-1",
+        "stone": "PENDING_ShoulderStone_-1_06",
+        "sampled_depth_mm": 0.10410506365587935,
+        "sample_count": 133
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_06_1",
+        "stone": "PENDING_ShoulderStone_-1_06",
+        "sampled_depth_mm": 0.10354992264183238,
+        "sample_count": 131
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_07_-1",
+        "stone": "PENDING_ShoulderStone_-1_07",
+        "sampled_depth_mm": 0.10420744365546852,
+        "sample_count": 132
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_07_1",
+        "stone": "PENDING_ShoulderStone_-1_07",
+        "sampled_depth_mm": 0.10528029088163748,
+        "sample_count": 131
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_08_-1",
+        "stone": "PENDING_ShoulderStone_-1_08",
+        "sampled_depth_mm": 0.10452036076458171,
+        "sample_count": 138
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_08_1",
+        "stone": "PENDING_ShoulderStone_-1_08",
+        "sampled_depth_mm": 0.1069346399162896,
+        "sample_count": 137
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_09_-1",
+        "stone": "PENDING_ShoulderStone_-1_09",
+        "sampled_depth_mm": 0.10503967496333644,
+        "sample_count": 139
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_09_1",
+        "stone": "PENDING_ShoulderStone_-1_09",
+        "sampled_depth_mm": 0.10665752779459581,
+        "sample_count": 141
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_10_-1",
+        "stone": "PENDING_ShoulderStone_-1_10",
+        "sampled_depth_mm": 0.10575575288385153,
+        "sample_count": 140
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_10_1",
+        "stone": "PENDING_ShoulderStone_-1_10",
+        "sampled_depth_mm": 0.10575575288385153,
+        "sample_count": 140
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_11_-1",
+        "stone": "PENDING_ShoulderStone_-1_11",
+        "sampled_depth_mm": 0.1066575205186382,
+        "sample_count": 141
+      },
+      {
+        "prong": "PENDING_ShoulderBead_-1_11_1",
+        "stone": "PENDING_ShoulderStone_-1_11",
+        "sampled_depth_mm": 0.10503968951525167,
+        "sample_count": 139
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_01_-1",
+        "stone": "PENDING_ShoulderStone_1_01",
+        "sampled_depth_mm": 0.10352661774959415,
+        "sample_count": 109
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_01_1",
+        "stone": "PENDING_ShoulderStone_1_01",
+        "sampled_depth_mm": 0.10447194654261693,
+        "sample_count": 113
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_02_-1",
+        "stone": "PENDING_ShoulderStone_1_02",
+        "sampled_depth_mm": 0.10352645040256903,
+        "sample_count": 115
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_02_1",
+        "stone": "PENDING_ShoulderStone_1_02",
+        "sampled_depth_mm": 0.10472746362211183,
+        "sample_count": 112
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_03_-1",
+        "stone": "PENDING_ShoulderStone_1_03",
+        "sampled_depth_mm": 0.10352634126320481,
+        "sample_count": 116
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_03_1",
+        "stone": "PENDING_ShoulderStone_1_03",
+        "sampled_depth_mm": 0.10410696268081665,
+        "sample_count": 117
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_04_-1",
+        "stone": "PENDING_ShoulderStone_1_04",
+        "sampled_depth_mm": 0.10352677054470405,
+        "sample_count": 118
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_04_1",
+        "stone": "PENDING_ShoulderStone_1_04",
+        "sampled_depth_mm": 0.10396086145192385,
+        "sample_count": 119
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_05_-1",
+        "stone": "PENDING_ShoulderStone_1_05",
+        "sampled_depth_mm": 0.10352647223044187,
+        "sample_count": 123
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_05_1",
+        "stone": "PENDING_ShoulderStone_1_05",
+        "sampled_depth_mm": 0.10397336882306263,
+        "sample_count": 124
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_06_-1",
+        "stone": "PENDING_ShoulderStone_1_06",
+        "sampled_depth_mm": 0.10354992264183238,
+        "sample_count": 131
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_06_1",
+        "stone": "PENDING_ShoulderStone_1_06",
+        "sampled_depth_mm": 0.10410506365587935,
+        "sample_count": 133
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_07_-1",
+        "stone": "PENDING_ShoulderStone_1_07",
+        "sampled_depth_mm": 0.10528029088163748,
+        "sample_count": 131
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_07_1",
+        "stone": "PENDING_ShoulderStone_1_07",
+        "sampled_depth_mm": 0.10420744365546852,
+        "sample_count": 132
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_08_-1",
+        "stone": "PENDING_ShoulderStone_1_08",
+        "sampled_depth_mm": 0.1069346399162896,
+        "sample_count": 137
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_08_1",
+        "stone": "PENDING_ShoulderStone_1_08",
+        "sampled_depth_mm": 0.10452036076458171,
+        "sample_count": 138
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_09_-1",
+        "stone": "PENDING_ShoulderStone_1_09",
+        "sampled_depth_mm": 0.10665752779459581,
+        "sample_count": 141
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_09_1",
+        "stone": "PENDING_ShoulderStone_1_09",
+        "sampled_depth_mm": 0.10503967496333644,
+        "sample_count": 139
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_10_-1",
+        "stone": "PENDING_ShoulderStone_1_10",
+        "sampled_depth_mm": 0.10575575288385153,
+        "sample_count": 140
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_10_1",
+        "stone": "PENDING_ShoulderStone_1_10",
+        "sampled_depth_mm": 0.10575575288385153,
+        "sample_count": 140
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_11_-1",
+        "stone": "PENDING_ShoulderStone_1_11",
+        "sampled_depth_mm": 0.10503968951525167,
+        "sample_count": 139
+      },
+      {
+        "prong": "PENDING_ShoulderBead_1_11_1",
+        "stone": "PENDING_ShoulderStone_1_11",
+        "sampled_depth_mm": 0.1066575205186382,
+        "sample_count": 141
+      }
+    ],
+    "max_depth_mm": 0.23401695943903178,
+    "main_prong_max_depth_mm": 0.23401695943903178,
+    "contact_within_0_002mm": {
+      "05_MainProng_01_EST": [
+        "02_Center_Heart_outline_EST_cut_PENDING"
+      ],
+      "05_MainProngTip_01_EST": [
+        "02_Center_Heart_outline_EST_cut_PENDING"
+      ],
+      "05_MainProng_02_EST": [
+        "02_Center_Heart_outline_EST_cut_PENDING"
+      ],
+      "05_MainProngTip_02_EST": [
+        "02_Center_Heart_outline_EST_cut_PENDING"
+      ],
+      "05_MainProng_03_EST": [
+        "02_Center_Heart_outline_EST_cut_PENDING"
+      ],
+      "05_MainProngTip_03_EST": [
+        "02_Center_Heart_outline_EST_cut_PENDING"
+      ],
+      "PENDING_HaloBead_01_0": [
+        "PENDING_Halo_01",
+        "PENDING_Halo_02"
+      ],
+      "PENDING_HaloBead_01_1": [
+        "PENDING_Halo_01",
+        "PENDING_Halo_02"
+      ],
+      "PENDING_HaloBead_02_0": [
+        "PENDING_Halo_02",
+        "PENDING_Halo_03"
+      ],
+      "PENDING_HaloBead_02_1": [
+        "PENDING_Halo_02",
+        "PENDING_Halo_03"
+      ],
+      "PENDING_HaloBead_03_0": [
+        "PENDING_Halo_03",
+        "PENDING_Halo_04"
+      ],
+      "PENDING_HaloBead_03_1": [
+        "PENDING_Halo_03",
+        "PENDING_Halo_04"
+      ],
+      "PENDING_HaloBead_04_0": [
+        "PENDING_Halo_04",
+        "PENDING_Halo_05"
+      ],
+      "PENDING_HaloBead_04_1": [
+        "PENDING_Halo_04",
+        "PENDING_Halo_05"
+      ],
+      "PENDING_HaloBead_05_0": [
+        "PENDING_Halo_05",
+        "PENDING_Halo_06"
+      ],
+      "PENDING_HaloBead_05_1": [
+        "PENDING_Halo_05",
+        "PENDING_Halo_06"
+      ],
+      "PENDING_HaloBead_06_0": [
+        "PENDING_Halo_07"
+      ],
+      "PENDING_HaloBead_06_1": [
+        "PENDING_Halo_06"
+      ],
+      "PENDING_HaloBead_07_0": [
+        "PENDING_Halo_07",
+        "PENDING_Halo_08"
+      ],
+      "PENDING_HaloBead_07_1": [
+        "PENDING_Halo_07",
+        "PENDING_Halo_08"
+      ],
+      "PENDING_HaloBead_08_0": [
+        "PENDING_Halo_08"
+      ],
+      "PENDING_HaloBead_08_1": [
+        "PENDING_Halo_09"
+      ],
+      "PENDING_HaloBead_09_0": [
+        "PENDING_Halo_10"
+      ],
+      "PENDING_HaloBead_09_1": [
+        "PENDING_Halo_09"
+      ],
+      "PENDING_HaloBead_10_0": [
+        "PENDING_Halo_10",
+        "PENDING_Halo_11"
+      ],
+      "PENDING_HaloBead_10_1": [
+        "PENDING_Halo_10",
+        "PENDING_Halo_11"
+      ],
+      "PENDING_HaloBead_11_0": [
+        "PENDING_Halo_11",
+        "PENDING_Halo_12"
+      ],
+      "PENDING_HaloBead_11_1": [
+        "PENDING_Halo_11",
+        "PENDING_Halo_12"
+      ],
+      "PENDING_HaloBead_12_0": [
+        "PENDING_Halo_12"
+      ],
+      "PENDING_HaloBead_12_1": [
+        "PENDING_Halo_13"
+      ],
+      "PENDING_HaloBead_13_0": [
+        "PENDING_Halo_14"
+      ],
+      "PENDING_HaloBead_13_1": [
+        "PENDING_Halo_13"
+      ],
+      "PENDING_HaloBead_14_0": [
+        "PENDING_Halo_14",
+        "PENDING_Halo_15"
+      ],
+      "PENDING_HaloBead_14_1": [
+        "PENDING_Halo_14",
+        "PENDING_Halo_15"
+      ],
+      "PENDING_HaloBead_15_0": [
+        "PENDING_Halo_15"
+      ],
+      "PENDING_HaloBead_15_1": [
+        "PENDING_Halo_16"
+      ],
+      "PENDING_HaloBead_16_0": [
+        "PENDING_Halo_16",
+        "PENDING_Halo_17"
+      ],
+      "PENDING_HaloBead_16_1": [
+        "PENDING_Halo_16",
+        "PENDING_Halo_17"
+      ],
+      "PENDING_HaloBead_17_0": [
+        "PENDING_Halo_17"
+      ],
+      "PENDING_HaloBead_17_1": [
+        "PENDING_Halo_18"
+      ],
+      "PENDING_HaloBead_18_0": [
+        "PENDING_Halo_18",
+        "PENDING_Halo_19"
+      ],
+      "PENDING_HaloBead_18_1": [
+        "PENDING_Halo_18",
+        "PENDING_Halo_19"
+      ],
+      "PENDING_HaloBead_19_0": [
+        "PENDING_Halo_19",
+        "PENDING_Halo_20"
+      ],
+      "PENDING_HaloBead_19_1": [
+        "PENDING_Halo_19",
+        "PENDING_Halo_20"
+      ],
+      "PENDING_HaloBead_20_0": [
+        "PENDING_Halo_20",
+        "PENDING_Halo_21"
+      ],
+      "PENDING_HaloBead_20_1": [
+        "PENDING_Halo_20",
+        "PENDING_Halo_21"
+      ],
+      "PENDING_HaloBead_21_0": [],
+      "PENDING_HaloBead_21_1": [],
+      "PENDING_ShoulderBead_-1_01_-1": [
+        "PENDING_ShoulderStone_-1_01"
+      ],
+      "PENDING_ShoulderBead_-1_01_1": [
+        "PENDING_ShoulderStone_-1_01"
+      ],
+      "PENDING_ShoulderBead_-1_02_-1": [
+        "PENDING_ShoulderStone_-1_02"
+      ],
+      "PENDING_ShoulderBead_-1_02_1": [
+        "PENDING_ShoulderStone_-1_02"
+      ],
+      "PENDING_ShoulderBead_-1_03_-1": [
+        "PENDING_ShoulderStone_-1_03"
+      ],
+      "PENDING_ShoulderBead_-1_03_1": [
+        "PENDING_ShoulderStone_-1_03"
+      ],
+      "PENDING_ShoulderBead_-1_04_-1": [
+        "PENDING_ShoulderStone_-1_04"
+      ],
+      "PENDING_ShoulderBead_-1_04_1": [
+        "PENDING_ShoulderStone_-1_04"
+      ],
+      "PENDING_ShoulderBead_-1_05_-1": [
+        "PENDING_ShoulderStone_-1_05"
+      ],
+      "PENDING_ShoulderBead_-1_05_1": [
+        "PENDING_ShoulderStone_-1_05"
+      ],
+      "PENDING_ShoulderBead_-1_06_-1": [
+        "PENDING_ShoulderStone_-1_06"
+      ],
+      "PENDING_ShoulderBead_-1_06_1": [
+        "PENDING_ShoulderStone_-1_06"
+      ],
+      "PENDING_ShoulderBead_-1_07_-1": [
+        "PENDING_ShoulderStone_-1_07"
+      ],
+      "PENDING_ShoulderBead_-1_07_1": [
+        "PENDING_ShoulderStone_-1_07"
+      ],
+      "PENDING_ShoulderBead_-1_08_-1": [
+        "PENDING_ShoulderStone_-1_08"
+      ],
+      "PENDING_ShoulderBead_-1_08_1": [
+        "PENDING_ShoulderStone_-1_08"
+      ],
+      "PENDING_ShoulderBead_-1_09_-1": [
+        "PENDING_ShoulderStone_-1_09"
+      ],
+      "PENDING_ShoulderBead_-1_09_1": [
+        "PENDING_ShoulderStone_-1_09"
+      ],
+      "PENDING_ShoulderBead_-1_10_-1": [
+        "PENDING_ShoulderStone_-1_10"
+      ],
+      "PENDING_ShoulderBead_-1_10_1": [
+        "PENDING_ShoulderStone_-1_10"
+      ],
+      "PENDING_ShoulderBead_-1_11_-1": [
+        "PENDING_ShoulderStone_-1_11"
+      ],
+      "PENDING_ShoulderBead_-1_11_1": [
+        "PENDING_ShoulderStone_-1_11"
+      ],
+      "PENDING_ShoulderBead_1_01_-1": [
+        "PENDING_ShoulderStone_1_01"
+      ],
+      "PENDING_ShoulderBead_1_01_1": [
+        "PENDING_ShoulderStone_1_01"
+      ],
+      "PENDING_ShoulderBead_1_02_-1": [
+        "PENDING_ShoulderStone_1_02"
+      ],
+      "PENDING_ShoulderBead_1_02_1": [
+        "PENDING_ShoulderStone_1_02"
+      ],
+      "PENDING_ShoulderBead_1_03_-1": [
+        "PENDING_ShoulderStone_1_03"
+      ],
+      "PENDING_ShoulderBead_1_03_1": [
+        "PENDING_ShoulderStone_1_03"
+      ],
+      "PENDING_ShoulderBead_1_04_-1": [
+        "PENDING_ShoulderStone_1_04"
+      ],
+      "PENDING_ShoulderBead_1_04_1": [
+        "PENDING_ShoulderStone_1_04"
+      ],
+      "PENDING_ShoulderBead_1_05_-1": [
+        "PENDING_ShoulderStone_1_05"
+      ],
+      "PENDING_ShoulderBead_1_05_1": [
+        "PENDING_ShoulderStone_1_05"
+      ],
+      "PENDING_ShoulderBead_1_06_-1": [
+        "PENDING_ShoulderStone_1_06"
+      ],
+      "PENDING_ShoulderBead_1_06_1": [
+        "PENDING_ShoulderStone_1_06"
+      ],
+      "PENDING_ShoulderBead_1_07_-1": [
+        "PENDING_ShoulderStone_1_07"
+      ],
+      "PENDING_ShoulderBead_1_07_1": [
+        "PENDING_ShoulderStone_1_07"
+      ],
+      "PENDING_ShoulderBead_1_08_-1": [
+        "PENDING_ShoulderStone_1_08"
+      ],
+      "PENDING_ShoulderBead_1_08_1": [
+        "PENDING_ShoulderStone_1_08"
+      ],
+      "PENDING_ShoulderBead_1_09_-1": [
+        "PENDING_ShoulderStone_1_09"
+      ],
+      "PENDING_ShoulderBead_1_09_1": [
+        "PENDING_ShoulderStone_1_09"
+      ],
+      "PENDING_ShoulderBead_1_10_-1": [
+        "PENDING_ShoulderStone_1_10"
+      ],
+      "PENDING_ShoulderBead_1_10_1": [
+        "PENDING_ShoulderStone_1_10"
+      ],
+      "PENDING_ShoulderBead_1_11_-1": [
+        "PENDING_ShoulderStone_1_11"
+      ],
+      "PENDING_ShoulderBead_1_11_1": [
+        "PENDING_ShoulderStone_1_11"
+      ]
+    }
+  },
+  "v06_after": {
+    "sampled_internal_prong_points_over_0_002mm": [],
+    "max_depth_mm": 0,
+    "main_prong_max_depth_mm": 0,
+    "contact_within_0_002mm": {
+      "05_MainProng_01_EST": [],
+      "05_MainProngTip_01_EST": [
+        "02_Center_Heart_outline_EST_cut_PENDING"
+      ],
+      "05_MainProng_02_EST": [],
+      "05_MainProngTip_02_EST": [
+        "02_Center_Heart_outline_EST_cut_PENDING"
+      ],
+      "05_MainProng_03_EST": [
+        "PENDING_Halo_10"
+      ],
+      "05_MainProngTip_03_EST": [
+        "02_Center_Heart_outline_EST_cut_PENDING"
+      ],
+      "PENDING_HaloBead_01_0": [
+        "PENDING_Halo_01",
+        "PENDING_Halo_02"
+      ],
+      "PENDING_HaloBead_01_1": [
+        "PENDING_Halo_01",
+        "PENDING_Halo_02"
+      ],
+      "PENDING_HaloBead_02_0": [
+        "PENDING_Halo_02",
+        "PENDING_Halo_03"
+      ],
+      "PENDING_HaloBead_02_1": [
+        "PENDING_Halo_02",
+        "PENDING_Halo_03"
+      ],
+      "PENDING_HaloBead_03_0": [
+        "PENDING_Halo_03",
+        "PENDING_Halo_04"
+      ],
+      "PENDING_HaloBead_03_1": [
+        "PENDING_Halo_03",
+        "PENDING_Halo_04"
+      ],
+      "PENDING_HaloBead_04_0": [
+        "PENDING_Halo_04",
+        "PENDING_Halo_05"
+      ],
+      "PENDING_HaloBead_04_1": [
+        "PENDING_Halo_04",
+        "PENDING_Halo_05"
+      ],
+      "PENDING_HaloBead_05_0": [
+        "PENDING_Halo_05"
+      ],
+      "PENDING_HaloBead_05_1": [
+        "PENDING_Halo_06"
+      ],
+      "PENDING_HaloBead_06_0": [
+        "PENDING_Halo_07"
+      ],
+      "PENDING_HaloBead_06_1": [
+        "PENDING_Halo_06"
+      ],
+      "PENDING_HaloBead_07_0": [
+        "PENDING_Halo_07"
+      ],
+      "PENDING_HaloBead_07_1": [
+        "PENDING_Halo_08"
+      ],
+      "PENDING_HaloBead_08_0": [],
+      "PENDING_HaloBead_08_1": [],
+      "PENDING_HaloBead_09_0": [],
+      "PENDING_HaloBead_09_1": [],
+      "PENDING_HaloBead_10_0": [
+        "PENDING_Halo_11"
+      ],
+      "PENDING_HaloBead_10_1": [
+        "PENDING_Halo_10"
+      ],
+      "PENDING_HaloBead_11_0": [
+        "PENDING_Halo_11"
+      ],
+      "PENDING_HaloBead_11_1": [
+        "PENDING_Halo_12"
+      ],
+      "PENDING_HaloBead_12_0": [],
+      "PENDING_HaloBead_12_1": [],
+      "PENDING_HaloBead_13_0": [],
+      "PENDING_HaloBead_13_1": [],
+      "PENDING_HaloBead_14_0": [
+        "PENDING_Halo_15"
+      ],
+      "PENDING_HaloBead_14_1": [
+        "PENDING_Halo_14"
+      ],
+      "PENDING_HaloBead_15_0": [
+        "PENDING_Halo_15"
+      ],
+      "PENDING_HaloBead_15_1": [
+        "PENDING_Halo_16"
+      ],
+      "PENDING_HaloBead_16_0": [
+        "PENDING_Halo_17"
+      ],
+      "PENDING_HaloBead_16_1": [
+        "PENDING_Halo_16"
+      ],
+      "PENDING_HaloBead_17_0": [
+        "PENDING_Halo_17",
+        "PENDING_Halo_18"
+      ],
+      "PENDING_HaloBead_17_1": [
+        "PENDING_Halo_17",
+        "PENDING_Halo_18"
+      ],
+      "PENDING_HaloBead_18_0": [
+        "PENDING_Halo_18",
+        "PENDING_Halo_19"
+      ],
+      "PENDING_HaloBead_18_1": [
+        "PENDING_Halo_18",
+        "PENDING_Halo_19"
+      ],
+      "PENDING_HaloBead_19_0": [
+        "PENDING_Halo_19",
+        "PENDING_Halo_20"
+      ],
+      "PENDING_HaloBead_19_1": [
+        "PENDING_Halo_19",
+        "PENDING_Halo_20"
+      ],
+      "PENDING_HaloBead_20_0": [
+        "PENDING_Halo_20",
+        "PENDING_Halo_21"
+      ],
+      "PENDING_HaloBead_20_1": [
+        "PENDING_Halo_20",
+        "PENDING_Halo_21"
+      ],
+      "PENDING_ShoulderBead_-1_01_-1": [
+        "PENDING_ShoulderStone_-1_01"
+      ],
+      "PENDING_ShoulderBead_-1_01_1": [
+        "PENDING_ShoulderStone_-1_01"
+      ],
+      "PENDING_ShoulderBead_-1_02_-1": [
+        "PENDING_ShoulderStone_-1_02"
+      ],
+      "PENDING_ShoulderBead_-1_02_1": [
+        "PENDING_ShoulderStone_-1_02"
+      ],
+      "PENDING_ShoulderBead_-1_03_-1": [
+        "PENDING_ShoulderStone_-1_03"
+      ],
+      "PENDING_ShoulderBead_-1_03_1": [
+        "PENDING_ShoulderStone_-1_03"
+      ],
+      "PENDING_ShoulderBead_-1_04_-1": [
+        "PENDING_ShoulderStone_-1_04"
+      ],
+      "PENDING_ShoulderBead_-1_04_1": [
+        "PENDING_ShoulderStone_-1_04"
+      ],
+      "PENDING_ShoulderBead_-1_05_-1": [
+        "PENDING_ShoulderStone_-1_05"
+      ],
+      "PENDING_ShoulderBead_-1_05_1": [
+        "PENDING_ShoulderStone_-1_05"
+      ],
+      "PENDING_ShoulderBead_-1_06_-1": [
+        "PENDING_ShoulderStone_-1_06"
+      ],
+      "PENDING_ShoulderBead_-1_06_1": [
+        "PENDING_ShoulderStone_-1_06"
+      ],
+      "PENDING_ShoulderBead_-1_07_-1": [
+        "PENDING_ShoulderStone_-1_07"
+      ],
+      "PENDING_ShoulderBead_-1_07_1": [
+        "PENDING_ShoulderStone_-1_07"
+      ],
+      "PENDING_ShoulderBead_-1_08_-1": [
+        "PENDING_ShoulderStone_-1_08"
+      ],
+      "PENDING_ShoulderBead_-1_08_1": [
+        "PENDING_ShoulderStone_-1_08"
+      ],
+      "PENDING_ShoulderBead_-1_09_-1": [
+        "PENDING_ShoulderStone_-1_09"
+      ],
+      "PENDING_ShoulderBead_-1_09_1": [
+        "PENDING_ShoulderStone_-1_09"
+      ],
+      "PENDING_ShoulderBead_-1_10_-1": [
+        "PENDING_ShoulderStone_-1_10"
+      ],
+      "PENDING_ShoulderBead_-1_10_1": [
+        "PENDING_ShoulderStone_-1_10"
+      ],
+      "PENDING_ShoulderBead_-1_11_-1": [
+        "PENDING_ShoulderStone_-1_11"
+      ],
+      "PENDING_ShoulderBead_-1_11_1": [
+        "PENDING_ShoulderStone_-1_11"
+      ],
+      "PENDING_ShoulderBead_1_01_-1": [
+        "PENDING_ShoulderStone_1_01"
+      ],
+      "PENDING_ShoulderBead_1_01_1": [
+        "PENDING_ShoulderStone_1_01"
+      ],
+      "PENDING_ShoulderBead_1_02_-1": [
+        "PENDING_ShoulderStone_1_02"
+      ],
+      "PENDING_ShoulderBead_1_02_1": [
+        "PENDING_ShoulderStone_1_02"
+      ],
+      "PENDING_ShoulderBead_1_03_-1": [
+        "PENDING_ShoulderStone_1_03"
+      ],
+      "PENDING_ShoulderBead_1_03_1": [
+        "PENDING_ShoulderStone_1_03"
+      ],
+      "PENDING_ShoulderBead_1_04_-1": [
+        "PENDING_ShoulderStone_1_04"
+      ],
+      "PENDING_ShoulderBead_1_04_1": [
+        "PENDING_ShoulderStone_1_04"
+      ],
+      "PENDING_ShoulderBead_1_05_-1": [
+        "PENDING_ShoulderStone_1_05"
+      ],
+      "PENDING_ShoulderBead_1_05_1": [
+        "PENDING_ShoulderStone_1_05"
+      ],
+      "PENDING_ShoulderBead_1_06_-1": [
+        "PENDING_ShoulderStone_1_06"
+      ],
+      "PENDING_ShoulderBead_1_06_1": [
+        "PENDING_ShoulderStone_1_06"
+      ],
+      "PENDING_ShoulderBead_1_07_-1": [
+        "PENDING_ShoulderStone_1_07"
+      ],
+      "PENDING_ShoulderBead_1_07_1": [
+        "PENDING_ShoulderStone_1_07"
+      ],
+      "PENDING_ShoulderBead_1_08_-1": [
+        "PENDING_ShoulderStone_1_08"
+      ],
+      "PENDING_ShoulderBead_1_08_1": [
+        "PENDING_ShoulderStone_1_08"
+      ],
+      "PENDING_ShoulderBead_1_09_-1": [
+        "PENDING_ShoulderStone_1_09"
+      ],
+      "PENDING_ShoulderBead_1_09_1": [
+        "PENDING_ShoulderStone_1_09"
+      ],
+      "PENDING_ShoulderBead_1_10_-1": [
+        "PENDING_ShoulderStone_1_10"
+      ],
+      "PENDING_ShoulderBead_1_10_1": [
+        "PENDING_ShoulderStone_1_10"
+      ],
+      "PENDING_ShoulderBead_1_11_-1": [
+        "PENDING_ShoulderStone_1_11"
+      ],
+      "PENDING_ShoulderBead_1_11_1": [
+        "PENDING_ShoulderStone_1_11"
+      ]
+    }
+  },
+  "method": "Evaluated meshes; nearest oriented stone surface at prong vertices and triangulated face centers. 0.002 mm tolerance. This sampling check is not an exhaustive solid-intersection proof; editable exact Boolean seats separately remove stone volume."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "canvas",
+  "name": "Canvas workspace",
+  "description": "A flexible notes, links, checklist, and research board with document integration hooks.",
+  "tags": [
+    "Workspace",
+    "Notes",
+    "Confluence",
+    "Sheets"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Canvas workspace template, keep all notes app-scoped and use backend integrations for Confluence search, Google Sheets references, and LLM summarization. Preserve the notes table as the source of truth. Upload images through the image file field and render asset filenames; src is for existing image URLs, never new base64 uploads. Preserve image references when moving notes to or from trash."
+}

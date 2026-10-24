@@ -1,0 +1,15 @@
+{
+  "id": "data-dashboard",
+  "name": "Data dashboard",
+  "description": "A schema-agnostic dashboard that combines CSV, Google Sheets, and Datasuite API data.",
+  "tags": [
+    "Dashboard",
+    "Local data",
+    "CSV",
+    "Google Sheets",
+    "Datasuite",
+    "Analytics"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Data Dashboard template, keep backend/dashboard as the source-loading boundary: csv_source.py, gsheet_source.py, datasuite_source.py, and normalize.py must remain schema-agnostic and must never put credentials in API responses or browser code. Keep backend/main.py as a route composition entrypoint, routers/dashboard.py for HTTP handling, and frontend/src/lib for schema inference, source identity, local demo data, and local dashboard calculations. Keep the Svelte experience split into Home (graphs only), Data sources (source inventory), Records (search/filter/table), and Configuration (all source connection forms). The homepage must render useful line, donut, and bar charts immediately using the local demo dataset, and must not contain search or filter controls. Support local, CSV, Google Sheets, and Datasuite sources simultaneously. Use HangarKit google_sheets only from backend code. Keep Datasuite credentials in Secrets as DATASUITE_APP_KEY, DATASUITE_APP_SECRET, DATASUITE_SYSTEM_NAME, and DATASUITE_END_USER."
+}

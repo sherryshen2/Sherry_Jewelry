@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-23",
+  "stage": "v04-pastel-palette",
+  "files": [
+    {
+      "path": "Boutique-final.blend",
+      "bytes": 7934636,
+      "megabytes_decimal": 7.935,
+      "sha256": "6682eebe491a3547b43514762e517a5913594f77a43392edc1a6149dfa771faa"
+    },
+    {
+      "path": "Boutique-web.glb",
+      "bytes": 12576048,
+      "megabytes_decimal": 12.576,
+      "sha256": "e007979ccf31151540bbf6178e7feb521b7ff1129e4c6a64ef5e3858302e5558"
+    },
+    {
+      "path": "Boutique-hero.png",
+      "bytes": 2392678,
+      "megabytes_decimal": 2.393,
+      "sha256": "dc870089fdcbe9375f6795cf8583147291923a5bfba63ecd3abc8e93ebe272c3"
+    },
+    {
+      "path": "02_Left.png",
+      "bytes": 1800240,
+      "megabytes_decimal": 1.8,
+      "sha256": "537b43d6d884201434c227b1cd1c3003d5fd1ebbdc952cf8ee99d237f5105ea4"
+    },
+    {
+      "path": "03_Right.png",
+      "bytes": 1800672,
+      "megabytes_decimal": 1.801,
+      "sha256": "67863c103a4df43b262d1c92ad1e202bfaf55a2d9dcd0932a58d13349c58daf0"
+    },
+    {
+      "path": "web-front.png",
+      "bytes": 664460,
+      "megabytes_decimal": 0.664,
+      "sha256": "5c1e696ca6ba018aab91e467107cb65a06b94c6dd98bddbfe55a5534bdd38661"
+    },
+    {
+      "path": "web-left.png",
+      "bytes": 769206,
+      "megabytes_decimal": 0.769,
+      "sha256": "2504af938c17571675b4e2e591ac7286862e2cd6f981dad0180e518026440d40"
+    },
+    {
+      "path": "web-right.png",
+      "bytes": 771448,
+      "megabytes_decimal": 0.771,
+      "sha256": "a9de2c98b9b2d1c20a2a90f8d78c7443970769a4539d233b24d3476623e7dc3e"
+    },
+    {
+      "path": "web-mobile.png",
+      "bytes": 204211,
+      "megabytes_decimal": 0.204,
+      "sha256": "1efb54c6c3e8ef5a961113272bd0bac677a9e164b3968b108a9c894a86404bcd"
+    },
+    {
+      "path": "camera-and-web-settings.json",
+      "bytes": 3386,
+      "megabytes_decimal": 0.003,
+      "sha256": "590f76b7304c3c3fd043f1a781251285609a2ef035321d7ef8afd63fbaac40a0"
+    },
+    {
+      "path": "web-stats.json",
+      "bytes": 724,
+      "megabytes_decimal": 0.001,
+      "sha256": "0c5c583606b90790d83107242bc7fff6326b69200114d03b3f9250e9aecf770e"
+    },
+    {
+      "path": "glb-check.json",
+      "bytes": 1472,
+      "megabytes_decimal": 0.001,
+      "sha256": "0cbb529c0c7ee2eff79b4ed5b788be3f15206229db47089f51639273ce2c7b3c"
+    },
+    {
+      "path": "blender-reimport-check.json",
+      "bytes": 1233,
+      "megabytes_decimal": 0.001,
+      "sha256": "8fa9075e0fc700ef5b027efb7d2422e0faba61ceea6d42d267d1d2ef06fad661"
+    },
+    {
+      "path": "browser-check.json",
+      "bytes": 3381,
+      "megabytes_decimal": 0.003,
+      "sha256": "2f0094a3ff2e233bb4586317ebae898ee28b7d0e7184c5702dba75f3851a0bef"
+    },
+    {
+      "path": "source-check.json",
+      "bytes": 1268,
+      "megabytes_decimal": 0.001,
+      "sha256": "d0c51bbaacfb616c5885f8d84ed990f19ee14712efc7efc8220c0d6b64f4440e"
+    },
+    {
+      "path": "交付说明.txt",
+      "bytes": 5363,
+      "megabytes_decimal": 0.005,
+      "sha256": "6fba6784dc1b228de9df43c05634126376f72ed055051dc43ef83032563678aa"
+    },
+    {
+      "path": "preview.py",
+      "bytes": 522,
+      "megabytes_decimal": 0.001,
+      "sha256": "02a02a1c06a249554cfbbeae51af62fe912a266d451b48b13bb25aaa0830ba32"
+    },
+    {
+      "path": "打开预览.command",
+      "bytes": 66,
+      "megabytes_decimal": 0.0,
+      "sha256": "fdef4739ff538b3d3206a7a4ac99fd73ef18d334826cf80afeedc34ffd08d055"
+    },
+    {
+      "path": "export_web.py",
+      "bytes": 8361,
+      "megabytes_decimal": 0.008,
+      "sha256": "9126642d99ffbc8619fcf06ea77d4550e96b5919fe9616b65bc396143e459e67"
+    },
+    {
+      "path": "render_final.py",
+      "bytes": 1752,
+      "megabytes_decimal": 0.002,
+      "sha256": "8aa9ccbdb2245f7e1e8344eab4fa3cbf6cb317a055784d75d0ecb662ec1eae34"
+    },
+    {
+      "path": "validate_glb.py",
+      "bytes": 2973,
+      "megabytes_decimal": 0.003,
+      "sha256": "527efcf9ec682aa8f6ca618c380f953b622158cbba556c317391379550b0d847"
+    },
+    {
+      "path": "reimport_check.py",
+      "bytes": 867,
+      "megabytes_decimal": 0.001,
+      "sha256": "00707961989e158d8a4caf83d2b017d035ddafde7e9e1fe1736fce6e871e8e02"
+    },
+    {
+      "path": "palette-and-light-revision.json",
+      "bytes": 12528,
+      "megabytes_decimal": 0.013,
+      "sha256": "07d6554f95a1db728eef862fb53bf1bc5b2e6e4af4f6f0dfd3bede4e75891e39"
+    },
+    {
+      "path": "palette-export-check.json",
+      "bytes": 829,
+      "megabytes_decimal": 0.001,
+      "sha256": "ffbb8a51771355225d4abced1b4c49ff67f9e4a445080f70e1afd9e4a8949c9a"
+    },
+    {
+      "path": "pastel-colors.json",
+      "bytes": 395,
+      "megabytes_decimal": 0.0,
+      "sha256": "75092ecc7c4ba1938f112c7410274170076f495f9f6197ed46648f807cae11e9"
+    },
+    {
+      "path": "textures/floral_lace_rgba.png",
+      "bytes": 24924,
+      "megabytes_decimal": 0.025,
+      "sha256": "24b8ea2d422eb507c8c0ecb3536bca9b8fadffc99283b00bc51ef49bb5f0b95c"
+    },
+    {
+      "path": "textures/lacquer_normal.png",
+      "bytes": 261898,
+      "megabytes_decimal": 0.262,
+      "sha256": "16522d98572bb6fae4d5330d46da7992e9152260ca26ec6612fdc6785ec51247"
+    },
+    {
+      "path": "textures/lacquer_roughness.png",
+      "bytes": 169915,
+      "megabytes_decimal": 0.17,
+      "sha256": "5e734a446d13bc658a6fbb9bc5a7cdb62d27dde67d4701337202a3fbfdba2217"
+    },
+    {
+      "path": "textures/mirror_reflection_capture.png",
+      "bytes": 376395,
+      "megabytes_decimal": 0.376,
+      "sha256": "8daab17e0fa97802428223103049fcb0f9dcacf88f6c173e1debc8811079a608"
+    },
+    {
+      "path": "textures/oyster_damask_basecolor.png",
+      "bytes": 8886,
+      "megabytes_decimal": 0.009,
+      "sha256": "fef36063b934454518d894dfe6da6a39548e379eb02fecc195155ff8a0db5a70"
+    },
+    {
+      "path": "textures/paint_01_basecolor.png",
+      "bytes": 97359,
+      "megabytes_decimal": 0.097,
+      "sha256": "98f88f756f28da1faa06b3334b4adf6cd5ce5859f382af5cc258145746a319ca"
+    },
+    {
+      "path": "textures/paint_02_basecolor.png",
+      "bytes": 109646,
+      "megabytes_decimal": 0.11,
+      "sha256": "505d00cd5b3494580d6d9f9949fd1eedd0464878e45c9445f8af934adf0c3863"
+    },
+    {
+      "path": "textures/paint_03_basecolor.png",
+      "bytes": 117919,
+      "megabytes_decimal": 0.118,
+      "sha256": "82d99b689cc6e4839f7afdd871ec43fbfebc973b5e883e4a2f33e240584f8c89"
+    },
+    {
+      "path": "textures/woven_fabric_normal.png",
+      "bytes": 13340,
+      "megabytes_decimal": 0.013,
+      "sha256": "b2b6e7d239a87d185b9040ae6b3b0c669fcee002c8f7f9318f8a3ee062756add"
+    },
+    {
+      "path": "viewer/index.html",
+      "bytes": 1732,
+      "megabytes_decimal": 0.002,
+      "sha256": "22321931e71429f9d501862fa5331b92469668915a9bee474153d60bb95cf721"
+    },
+    {
+      "path": "viewer/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "megabytes_decimal": 0.001,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "path": "viewer/vendor/loaders/GLTFLoader.js",
+      "bytes": 114739,
+      "megabytes_decimal": 0.115,
+      "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
+    },
+    {
+      "path": "viewer/vendor/three.core.js",
+      "bytes": 1403455,
+      "megabytes_decimal": 1.403,
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    {
+      "path": "viewer/vendor/three.module.js",
+      "bytes": 603113,
+      "megabytes_decimal": 0.603,
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    },
+    {
+      "path": "viewer/vendor/utils/BufferGeometryUtils.js",
+      "bytes": 35539,
+      "megabytes_decimal": 0.036,
+      "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+    },
+    {
+      "path": "viewer/viewer.js",
+      "bytes": 7153,
+      "megabytes_decimal": 0.007,
+      "sha256": "b05b5e33ca03a23a4f5c8637d13e066f01b837630cd5e07eadd6af4b07d988d2"
+    }
+  ]
+}

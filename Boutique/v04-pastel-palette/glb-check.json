@@ -1,0 +1,73 @@
+{
+  "valid_glb_header_and_buffers": true,
+  "all_indices_in_range": true,
+  "finite_positions_and_normals": true,
+  "all_images_embedded": true,
+  "external_dependencies": [],
+  "triangle_count_matches_export": true,
+  "triangles": 290809,
+  "gltf_vertices_after_uv_normal_splits": 240077,
+  "primitives": 27,
+  "primitives_with_baked_contact_color": 23,
+  "materials": 27,
+  "images": [
+    {
+      "name": "lacquer_normal",
+      "bytes": 261898,
+      "mime": "image/png"
+    },
+    {
+      "name": "paint_01_basecolor",
+      "bytes": 97359,
+      "mime": "image/png"
+    },
+    {
+      "name": "lacquer_roughness",
+      "bytes": 215658,
+      "mime": "image/png"
+    },
+    {
+      "name": "paint_02_basecolor",
+      "bytes": 109646,
+      "mime": "image/png"
+    },
+    {
+      "name": "paint_03_basecolor",
+      "bytes": 117919,
+      "mime": "image/png"
+    },
+    {
+      "name": "oyster_damask_basecolor",
+      "bytes": 8886,
+      "mime": "image/png"
+    },
+    {
+      "name": "woven_fabric_normal",
+      "bytes": 13340,
+      "mime": "image/png"
+    },
+    {
+      "name": "floral_lace_rgba",
+      "bytes": 51674,
+      "mime": "image/png"
+    },
+    {
+      "name": "mirror_reflection_capture",
+      "bytes": 376395,
+      "mime": "image/png"
+    }
+  ],
+  "bounds_gltf": [
+    [
+      -3.0799999237060547,
+      0.0,
+      -2.875
+    ],
+    [
+      3.0799999237060547,
+      5.676876068115234,
+      0.7099019885063171
+    ]
+  ],
+  "bytes": 12576048
+}

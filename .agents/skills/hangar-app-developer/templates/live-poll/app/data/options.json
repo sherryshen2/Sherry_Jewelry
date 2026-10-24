@@ -1,0 +1,56 @@
+{
+  "schema": [
+    {
+      "name": "poll_id",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "poll_slug",
+      "type": "text"
+    },
+    {
+      "name": "text",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "order",
+      "type": "number",
+      "default": 0
+    },
+    {
+      "name": "votes",
+      "type": "number",
+      "default": 0
+    }
+  ],
+  "records": [
+    {
+      "id": "option-compact",
+      "poll_id": "poll-launch-priority",
+      "poll_slug": "launch-priority",
+      "text": "Compact mode",
+      "order": 1,
+      "votes": 1
+    },
+    {
+      "id": "option-export",
+      "poll_id": "poll-launch-priority",
+      "poll_slug": "launch-priority",
+      "text": "One-click export",
+      "order": 2,
+      "votes": 1
+    },
+    {
+      "id": "option-reminders",
+      "poll_id": "poll-launch-priority",
+      "poll_slug": "launch-priority",
+      "text": "Automated reminders",
+      "order": 3,
+      "votes": 0
+    }
+  ],
+  "icon": "mdi:format-list-bulleted",
+  "scope": "app"
+}

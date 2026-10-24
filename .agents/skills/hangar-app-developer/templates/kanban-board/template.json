@@ -1,0 +1,13 @@
+{
+  "id": "kanban-board",
+  "name": "Kanban board",
+  "description": "Plan work across lanes with priorities, due dates, and delivery integration hooks.",
+  "tags": [
+    "Kanban",
+    "Project",
+    "Jira",
+    "Confluence"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Kanban board template, cards are app-scoped. Use Jira for ticket sync/linking, Confluence for specs, and Google Sheets for exports. Preserve the cards status field as the lane source."
+}

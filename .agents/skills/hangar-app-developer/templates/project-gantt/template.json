@@ -1,0 +1,13 @@
+{
+  "id": "project-gantt",
+  "name": "Project Gantt",
+  "description": "Plan milestones, phases, dependencies, and delivery dates with project integration hooks.",
+  "tags": [
+    "Project",
+    "Gantt",
+    "Jira",
+    "Meet"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Project Gantt template, keep task records app-scoped. Use start_date/end_date/dependencies for timeline rendering, Jira for issue mapping, Google Sheets for exports, and Confluence for project plan references."
+}

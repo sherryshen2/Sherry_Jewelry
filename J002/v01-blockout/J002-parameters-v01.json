@@ -1,0 +1,94 @@
+{
+  "product_id": "J002",
+  "stage": "STRUCTURE_BLOCKOUT_AWAITING_CONFIRMATION",
+  "confirmed": {
+    "inner_diameter_mm": 8,
+    "outer_diameter_mm": 11,
+    "stones_per_earring": 8,
+    "metal": "925 silver, user specification",
+    "gem": "colorless synthetic cubic zirconia, user specification and photo",
+    "pose": "fixed closed pair, no opening animation"
+  },
+  "provisional": {
+    "axial_width_mm": 1.6,
+    "front_metal_outer_radius_mm": 5.17,
+    "rear_metal_outer_radius_mm": 5.5,
+    "edge_round_mm": 0.14,
+    "gem_diameter_mm": 1.35,
+    "stone_angles_deg": [
+      30,
+      48.285714,
+      66.571429,
+      84.857143,
+      103.142857,
+      121.428571,
+      139.714286,
+      158
+    ],
+    "stone_girdle_radius_mm": 5.12,
+    "earwire_diameter_mm": 0.7,
+    "earwire_arc_radius_mm": 5.15,
+    "earwire_angle_range_deg": [
+      28,
+      -30
+    ],
+    "hinge_axis_radius_mm": 0.15,
+    "hinge_barrel_radius_mm": 0.49,
+    "micro_prongs_each_stone": 4,
+    "hidden_structure": "No open-state photo. Hinge barrel arrangement, receiver channel, wall thickness and hidden lock mechanism are temporary interpretations, not verified manufacturing details.",
+    "pair_structure": "Photo does not establish a handed difference; same editable master geometry used twice with different poses, pending confirmation.",
+    "engraving": "S925 ALE is legible in reference; omitted at blockout stage, exact position/scale pending."
+  },
+  "appearance": {
+    "silver_linear_rgb": [
+      0.82,
+      0.85,
+      0.89
+    ],
+    "metal_roughness": 0.18,
+    "gem_linear_rgb": [
+      0.93,
+      0.96,
+      1.0
+    ],
+    "gem_roughness": 0.025,
+    "gem_transmission": 0.65,
+    "gem_ior_visual_approximation": 2.15,
+    "emission": 0,
+    "review_world_linear_rgb": [
+      0.15,
+      0.15,
+      0.15
+    ],
+    "review_world_strength": 0.6
+  },
+  "pair_pose": {
+    "left_position_mm": [
+      -6.5,
+      0,
+      0.35
+    ],
+    "right_position_mm": [
+      6.5,
+      0,
+      -0.35
+    ],
+    "left_z_rotation_deg": -32,
+    "right_z_rotation_deg": 27
+  },
+  "units": "parameters mm; Blender and GLB meters",
+  "coordinates": "single hoop lies in YZ, hinge below -Z, earwire above +Z, front gems toward -Y, axle along X; pair root J002_ROOT at midpoint",
+  "source_table": "https://docs.google.com/spreadsheets/d/1SCUNjPpcLw-oNKmQ9amsyVc4vDmPwQLQGUXZtD7cFTw/edit, Sheet1 Earrings row",
+  "source_product_link": "https://shopee.sg/Pandora-Timeless-Sparkling-Huggie-Hoop-Earrings-(Sterling-Silver)-i.1887840381.42482701075?extraParams=%7B%22display_model_id%22%3A406226477144%2C%22model_selection_logic%22%3A3%7D&image_ids=sg-11134207-8259f-mqpwf7q9bz7y3e",
+  "references": [
+    "reference/细节.jpeg"
+  ],
+  "missing": [
+    "open-state photo",
+    "exact axial width",
+    "earwire dimensions",
+    "hinge/lock internals",
+    "verified left/right differences",
+    "exact prong layout"
+  ]
+}

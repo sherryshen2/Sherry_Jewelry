@@ -1,0 +1,37 @@
+{
+  "schema": [
+    {
+      "name": "task_id",
+      "type": "text"
+    },
+    {
+      "name": "field_name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "file",
+      "type": "file",
+      "required": true
+    },
+    {
+      "name": "original_name",
+      "type": "text"
+    },
+    {
+      "name": "mime_type",
+      "type": "text"
+    },
+    {
+      "name": "size_bytes",
+      "type": "number"
+    },
+    {
+      "name": "created_at",
+      "type": "date"
+    }
+  ],
+  "records": [],
+  "icon": "mdi:file-upload-outline",
+  "scope": "app"
+}

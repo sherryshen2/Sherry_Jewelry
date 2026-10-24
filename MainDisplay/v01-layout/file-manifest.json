@@ -1,0 +1,246 @@
+{
+  "stage": "stage1 layout; approval pending",
+  "date": "2026-10-23",
+  "files": [
+    {
+      "file": "main-display-source.blend",
+      "bytes": 10779176,
+      "sha256": "cbbcbbf3f570cfbbeab2d6752ca5ef6455a56eeba487f2aafc008e09050e2de6"
+    },
+    {
+      "file": "main-display-scene.glb",
+      "bytes": 6523568,
+      "sha256": "bcd74911ec0028c98878fc80eddfc21062b5b610ba58365e89ab229c6451ad19"
+    },
+    {
+      "file": "necklace.glb",
+      "bytes": 3940428,
+      "sha256": "6b4e568cff0d1ae8857750c3dca0d983ce27097d7ddbd5dbc713969149cf6b22"
+    },
+    {
+      "file": "earrings.glb",
+      "bytes": 1333008,
+      "sha256": "429687d7a35bbabbf5932af0cc1a75032d876f37d803be8ce3787c0f4fd7a440"
+    },
+    {
+      "file": "ring.glb",
+      "bytes": 1562656,
+      "sha256": "3ba0cacdaf904c45f1c4b887a080b62e211f1f19af22d236a0937a3121743130"
+    },
+    {
+      "file": "bracelet.glb",
+      "bytes": 4148552,
+      "sha256": "7bf14085c0e5f5a7b60625b52a21660cd202aad04bb7b927384392a55c17df18"
+    },
+    {
+      "file": "01_Front.png",
+      "bytes": 1538845,
+      "sha256": "3d126c39f68ec349b6885b74afbe034c4219010c90d781cf67ab0be41b983bae"
+    },
+    {
+      "file": "02_Left.png",
+      "bytes": 1578340,
+      "sha256": "17f1e5c28ba78f007e91d58a823e806108ba2bc0079f39d9abafd4b22f5633d7"
+    },
+    {
+      "file": "03_Right.png",
+      "bytes": 1578603,
+      "sha256": "fd013ffb44765408fc49fac43350e260ed264b5b927f5a029a08f54d32af8fe0"
+    },
+    {
+      "file": "main-display-hero.png",
+      "bytes": 1538845,
+      "sha256": "3d126c39f68ec349b6885b74afbe034c4219010c90d781cf67ab0be41b983bae"
+    },
+    {
+      "file": "web-front.png",
+      "bytes": 532510,
+      "sha256": "8a78328cef14b4cb5a789aed406ad81787e79ba246db6bd0df05a33133c9545a"
+    },
+    {
+      "file": "web-left.png",
+      "bytes": 718364,
+      "sha256": "c7f410132f577211678a0f7ff3fa84c387f0b222eb19474d09399c34b1027ee5"
+    },
+    {
+      "file": "web-right.png",
+      "bytes": 728321,
+      "sha256": "c6549870b43fb44e2055a67e03d146376c3e49910c9a65cec6a18e0e188b851e"
+    },
+    {
+      "file": "web-mobile.png",
+      "bytes": 739218,
+      "sha256": "95469ea273f85a3d6945758682fe51a7c9f9bb0cf33365b4dd19cc5e9418f4d2"
+    },
+    {
+      "file": "product-placement.json",
+      "bytes": 46096,
+      "sha256": "f34863885e32e02d9f4722a1f2f4587e0bcea5039f95b9cebb59a35f25bf7fdc"
+    },
+    {
+      "file": "camera-and-lighting.json",
+      "bytes": 3193,
+      "sha256": "69a46a76b25bf6458a649b159dbb06e77f4c98fed2241afcaa80f7da8b74b7a0"
+    },
+    {
+      "file": "product-audit.json",
+      "bytes": 3155,
+      "sha256": "ea12f1a2c262abb98b8a208b252c02f077803186005ce46d7fbad068ea9e17d0"
+    },
+    {
+      "file": "input-audit.json",
+      "bytes": 184471,
+      "sha256": "62a1580f9da22d02f504bd6d5764c72db82605267011c5dbded7e45da807cd0e"
+    },
+    {
+      "file": "assembly-check.json",
+      "bytes": 2239,
+      "sha256": "ea52683b73ba580fa69a9846f120d27af5ebdb87b5186a5afb3b282105be1019"
+    },
+    {
+      "file": "browser-check.json",
+      "bytes": 21272,
+      "sha256": "fed9fe3c20abb76e22a13415c29069ba0718d846fdfa54468d02a46035d017d6"
+    },
+    {
+      "file": "resource-check.json",
+      "bytes": 1850,
+      "sha256": "9c566789f6a9bfdcaa62bf1f47b658d78ca1ad3f1855f034fb73cff5fa158065"
+    },
+    {
+      "file": "scene-stats.json",
+      "bytes": 157,
+      "sha256": "821cccedc5ac2e2d5cb14ce6afcce2270d29236401ad138ccac5b14b34e495f9"
+    },
+    {
+      "file": "首版说明.txt",
+      "bytes": 6961,
+      "sha256": "0b7ca35964409f8fd82360c2e96af95e4a55ea97370669cb90a077708cc9cda4"
+    },
+    {
+      "file": "preview.py",
+      "bytes": 522,
+      "sha256": "4babd558c6bcb9582a106e2c7a6bd4252c1c49b4661c5d2638538016dac8e6ba"
+    },
+    {
+      "file": "打开预览.command",
+      "bytes": 66,
+      "sha256": "fdef4739ff538b3d3206a7a4ac99fd73ef18d334826cf80afeedc34ffd08d055"
+    },
+    {
+      "file": "render_display.py",
+      "bytes": 577,
+      "sha256": "dd95f0c668cd1c341b29d78a3951e32e8b62c2edb9aaa1c4e88afc0617b7208f"
+    },
+    {
+      "file": "export_scene.py",
+      "bytes": 2845,
+      "sha256": "fec0e6c9dabf2654325a63cb457d4ee94e6e47f286aecec0f6882c1b093fa00a"
+    },
+    {
+      "file": "validate_resources.py",
+      "bytes": 1823,
+      "sha256": "d2750a8ead3b6da281d51aa778e3fadba9d01d0cf67225423148b22f24e99470"
+    },
+    {
+      "file": "check_assembly.py",
+      "bytes": 2924,
+      "sha256": "f2d41f6ece3e5f82c27120d0d2a94aa4e8705cacb41d70cc9bdb8af7fce6ce34"
+    },
+    {
+      "file": "textures/floral_lace_rgba.png",
+      "bytes": 51674,
+      "sha256": "7389fc71ada2b5e083e87531a46155db0bcf83096ba8776b5db0d6b56143602d"
+    },
+    {
+      "file": "textures/lacquer_normal.png",
+      "bytes": 375189,
+      "sha256": "306ac03552070f975e46ebb1f3732fb175137776f09d653aee55939b2bf70843"
+    },
+    {
+      "file": "textures/lacquer_roughness.png",
+      "bytes": 223317,
+      "sha256": "887d58b8cffbfbc8de57c52c034c4c64778a349c4bc0ad7dbefe477190be0136"
+    },
+    {
+      "file": "textures/oyster_damask_basecolor.png",
+      "bytes": 17155,
+      "sha256": "04c8fb4967ebd77222d3b1a5ce4e87c97f9e6c72e26cafbfc628f293e6182503"
+    },
+    {
+      "file": "textures/paint_01_basecolor.png",
+      "bytes": 103092,
+      "sha256": "20dca5357dcf4ce94c7b75039335aab6db9a692b07caf936689923d59939fb37"
+    },
+    {
+      "file": "textures/paint_02_basecolor.png",
+      "bytes": 166229,
+      "sha256": "6e3ed84549b31d906b5c63ac4f35615841cfef8a50918ef23e7591f249e8f720"
+    },
+    {
+      "file": "textures/paint_03_basecolor.png",
+      "bytes": 145364,
+      "sha256": "f426bcb9fd4bb19e260c2a0474e6810493de6ae77fa3c850f7a458f7f800505e"
+    },
+    {
+      "file": "textures/woven_fabric_normal.png",
+      "bytes": 91097,
+      "sha256": "623a87e268bfbc1188055eea07d8af4bb9fc244db0e34e64e85574584889e5cb"
+    },
+    {
+      "file": "source-notes/bracelet-parameters.json",
+      "bytes": 2990,
+      "sha256": "10104a80e60d07b3c75297ba3c8b435456513e44f5745b3759d082b20233af28"
+    },
+    {
+      "file": "source-notes/earrings-parameters.json",
+      "bytes": 3525,
+      "sha256": "c947e524693a11c3e74b5fa5f353d1444a591aaee81c3777dc33fd98a13732ea"
+    },
+    {
+      "file": "source-notes/necklace-parameters.json",
+      "bytes": 3208,
+      "sha256": "ec2696b35c0aa885d7b3f2409df2b30e5dbac65a5b084c28a8d8b1d22cc3eda7"
+    },
+    {
+      "file": "source-notes/ring-parameters.json",
+      "bytes": 4508,
+      "sha256": "25d0f4ffb88bc8b894c3232eb739d833f40665990d8039a04259cafcb503d88b"
+    },
+    {
+      "file": "viewer/index.html",
+      "bytes": 1982,
+      "sha256": "1ddbb1bd11420d137f73c27579588bed7a08c6b8b467de2f2cb8efc66222a911"
+    },
+    {
+      "file": "viewer/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "file": "viewer/vendor/loaders/GLTFLoader.js",
+      "bytes": 114739,
+      "sha256": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a"
+    },
+    {
+      "file": "viewer/vendor/three.core.js",
+      "bytes": 1403455,
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    {
+      "file": "viewer/vendor/three.module.js",
+      "bytes": 603113,
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    },
+    {
+      "file": "viewer/vendor/utils/BufferGeometryUtils.js",
+      "bytes": 35539,
+      "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+    },
+    {
+      "file": "viewer/viewer.js",
+      "bytes": 5483,
+      "sha256": "ac86e2699a7991fe09ca51600967f6b763745d99ceeb838b85f6689b0d14cb68"
+    }
+  ]
+}

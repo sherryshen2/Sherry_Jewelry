@@ -1,0 +1,13 @@
+{
+  "id": "craft-starter",
+  "name": "Craft starter",
+  "description": "A blank Hangar starter with a clean folder structure, one frontend page, and one backend health route.",
+  "tags": [
+    "Structure",
+    "Frontend",
+    "Backend",
+    "Blank"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Craft starter, keep it intentionally minimal. Use frontend/src/App.svelte only as a shell, place the initial screen in pages/HomePage.svelte, keep reusable UI in components/, and keep shared helpers in lib/. On the backend, compose routers in backend/main.py, keep endpoints in routers/, add schemas.py, and leave services/ ready for future business logic. Do not seed business data, demo workflows, analytics cards, or CRUD entities."
+}

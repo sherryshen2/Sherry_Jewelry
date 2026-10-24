@@ -1,0 +1,30 @@
+{
+  "id": "gsheet-aggregator",
+  "name": "Google Sheets aggregator",
+  "description": "Pull Google Sheets rows into Hangar app data and show a chart-ready dashboard.",
+  "tags": [
+    "Google Sheets",
+    "Dashboard",
+    "Charts",
+    "Python"
+  ],
+  "setup_fields": [
+    {
+      "id": "spreadsheet_url",
+      "label": "Spreadsheet URL or ID",
+      "type": "url",
+      "placeholder": "https://docs.google.com/spreadsheets/d/..."
+    },
+    {
+      "id": "sheet_name",
+      "label": "Sheet name",
+      "placeholder": "Sheet1"
+    },
+    {
+      "id": "range_name",
+      "label": "Range",
+      "placeholder": "Sheet1!A1:E100"
+    }
+  ],
+  "instructions": "For the Google Sheets aggregator template, keep the backend intentionally small: main.py for routes, sheets.py for Google Sheets reads, sync.py for row conversion, metrics.py for chart summaries, scheduler.py for its Hangar-managed cron job, and store.py for Hangar table access. Users should extend sync.py for new sheet shapes and metrics.py for new charts. Prefer owner-token Google Sheets app auth for scheduled or shared dashboards."
+}

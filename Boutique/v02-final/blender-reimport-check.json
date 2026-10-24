@@ -1,0 +1,81 @@
+{
+  "import_success": true,
+  "triangles": 290809,
+  "mesh_objects": 27,
+  "materials": 27,
+  "images": [
+    {
+      "name": "floral_lace_rgba",
+      "size": [
+        1024,
+        256
+      ],
+      "loaded": true
+    },
+    {
+      "name": "lacquer_normal",
+      "size": [
+        512,
+        512
+      ],
+      "loaded": true
+    },
+    {
+      "name": "lacquer_roughness",
+      "size": [
+        512,
+        512
+      ],
+      "loaded": true
+    },
+    {
+      "name": "mirror_reflection_capture",
+      "size": [
+        512,
+        704
+      ],
+      "loaded": true
+    },
+    {
+      "name": "oyster_damask_basecolor",
+      "size": [
+        512,
+        512
+      ],
+      "loaded": true
+    },
+    {
+      "name": "paint_01_basecolor",
+      "size": [
+        512,
+        512
+      ],
+      "loaded": true
+    },
+    {
+      "name": "paint_02_basecolor",
+      "size": [
+        512,
+        512
+      ],
+      "loaded": true
+    },
+    {
+      "name": "paint_03_basecolor",
+      "size": [
+        512,
+        512
+      ],
+      "loaded": true
+    },
+    {
+      "name": "woven_fabric_normal",
+      "size": [
+        512,
+        512
+      ],
+      "loaded": true
+    }
+  ],
+  "triangle_count_preserved": true
+}

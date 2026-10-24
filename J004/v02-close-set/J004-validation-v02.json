@@ -1,0 +1,460 @@
+{
+  "stage": "STRUCTURE_BLOCKOUT_AWAITING_CONFIRMATION",
+  "source_mesh_objects": 508,
+  "mesh_issues": [],
+  "main_stones": 48,
+  "tail_stones": 1,
+  "unit_dimensions_mm": [
+    2.7000000700354576,
+    2.7000000700354576,
+    2.0000000949949026
+  ],
+  "unit_scales_one": true,
+  "closed_centerline_length_mm": 159.999958391498,
+  "actual_center_chord_pitch_mm": [
+    2.9176858594656436,
+    2.9205282155470775
+  ],
+  "prongs_per_stone": {
+    "UNIT01_CZ": 4,
+    "UNIT02_CZ": 4,
+    "UNIT03_CZ": 4,
+    "UNIT04_CZ": 4,
+    "UNIT05_CZ": 4,
+    "UNIT06_CZ": 4,
+    "UNIT07_CZ": 4,
+    "UNIT08_CZ": 4,
+    "UNIT09_CZ": 4,
+    "UNIT10_CZ": 4,
+    "UNIT11_CZ": 4,
+    "UNIT12_CZ": 4,
+    "UNIT13_CZ": 4,
+    "UNIT14_CZ": 4,
+    "UNIT15_CZ": 4,
+    "UNIT16_CZ": 4,
+    "UNIT17_CZ": 4,
+    "UNIT18_CZ": 4,
+    "UNIT19_CZ": 4,
+    "UNIT20_CZ": 4,
+    "UNIT21_CZ": 4,
+    "UNIT22_CZ": 4,
+    "UNIT23_CZ": 4,
+    "UNIT24_CZ": 4,
+    "UNIT25_CZ": 4,
+    "UNIT26_CZ": 4,
+    "UNIT27_CZ": 4,
+    "UNIT28_CZ": 4,
+    "UNIT29_CZ": 4,
+    "UNIT30_CZ": 4,
+    "UNIT31_CZ": 4,
+    "UNIT32_CZ": 4,
+    "UNIT33_CZ": 4,
+    "UNIT34_CZ": 4,
+    "UNIT35_CZ": 4,
+    "UNIT36_CZ": 4,
+    "UNIT37_CZ": 4,
+    "UNIT38_CZ": 4,
+    "UNIT39_CZ": 4,
+    "UNIT40_CZ": 4,
+    "UNIT41_CZ": 4,
+    "UNIT42_CZ": 4,
+    "UNIT43_CZ": 4,
+    "UNIT44_CZ": 4,
+    "UNIT45_CZ": 4,
+    "UNIT46_CZ": 4,
+    "UNIT47_CZ": 4,
+    "UNIT48_CZ": 4,
+    "TAIL49_CZ": 4
+  },
+  "stone_contacts": {
+    "UNIT01_CZ": [
+      "UNIT01_Prongs_-1_-1",
+      "UNIT01_Prongs_-1_1",
+      "UNIT01_Prongs_1_-1",
+      "UNIT01_Prongs_1_1"
+    ],
+    "UNIT02_CZ": [
+      "UNIT02_Prongs_-1_-1",
+      "UNIT02_Prongs_-1_1",
+      "UNIT02_Prongs_1_-1",
+      "UNIT02_Prongs_1_1"
+    ],
+    "UNIT03_CZ": [
+      "UNIT03_Prongs_-1_-1",
+      "UNIT03_Prongs_-1_1",
+      "UNIT03_Prongs_1_-1",
+      "UNIT03_Prongs_1_1"
+    ],
+    "UNIT04_CZ": [
+      "UNIT04_Prongs_-1_-1",
+      "UNIT04_Prongs_-1_1",
+      "UNIT04_Prongs_1_-1",
+      "UNIT04_Prongs_1_1"
+    ],
+    "UNIT05_CZ": [
+      "UNIT05_Prongs_-1_-1",
+      "UNIT05_Prongs_-1_1",
+      "UNIT05_Prongs_1_-1",
+      "UNIT05_Prongs_1_1"
+    ],
+    "UNIT06_CZ": [
+      "UNIT06_Prongs_-1_-1",
+      "UNIT06_Prongs_-1_1",
+      "UNIT06_Prongs_1_-1",
+      "UNIT06_Prongs_1_1"
+    ],
+    "UNIT07_CZ": [
+      "UNIT07_Prongs_-1_-1",
+      "UNIT07_Prongs_-1_1",
+      "UNIT07_Prongs_1_-1",
+      "UNIT07_Prongs_1_1"
+    ],
+    "UNIT08_CZ": [
+      "UNIT08_Prongs_-1_-1",
+      "UNIT08_Prongs_-1_1",
+      "UNIT08_Prongs_1_-1",
+      "UNIT08_Prongs_1_1"
+    ],
+    "UNIT09_CZ": [
+      "UNIT09_Prongs_-1_-1",
+      "UNIT09_Prongs_-1_1",
+      "UNIT09_Prongs_1_-1",
+      "UNIT09_Prongs_1_1"
+    ],
+    "UNIT10_CZ": [
+      "UNIT10_Prongs_-1_-1",
+      "UNIT10_Prongs_-1_1",
+      "UNIT10_Prongs_1_-1",
+      "UNIT10_Prongs_1_1"
+    ],
+    "UNIT11_CZ": [
+      "UNIT11_Prongs_-1_-1",
+      "UNIT11_Prongs_-1_1",
+      "UNIT11_Prongs_1_-1",
+      "UNIT11_Prongs_1_1"
+    ],
+    "UNIT12_CZ": [
+      "UNIT12_Prongs_-1_-1",
+      "UNIT12_Prongs_-1_1",
+      "UNIT12_Prongs_1_-1",
+      "UNIT12_Prongs_1_1"
+    ],
+    "UNIT13_CZ": [
+      "UNIT13_Prongs_-1_-1",
+      "UNIT13_Prongs_-1_1",
+      "UNIT13_Prongs_1_-1",
+      "UNIT13_Prongs_1_1"
+    ],
+    "UNIT14_CZ": [
+      "UNIT14_Prongs_-1_-1",
+      "UNIT14_Prongs_-1_1",
+      "UNIT14_Prongs_1_-1",
+      "UNIT14_Prongs_1_1"
+    ],
+    "UNIT15_CZ": [
+      "UNIT15_Prongs_-1_-1",
+      "UNIT15_Prongs_-1_1",
+      "UNIT15_Prongs_1_-1",
+      "UNIT15_Prongs_1_1"
+    ],
+    "UNIT16_CZ": [
+      "UNIT16_Prongs_-1_-1",
+      "UNIT16_Prongs_-1_1",
+      "UNIT16_Prongs_1_-1",
+      "UNIT16_Prongs_1_1"
+    ],
+    "UNIT17_CZ": [
+      "UNIT17_Prongs_-1_-1",
+      "UNIT17_Prongs_-1_1",
+      "UNIT17_Prongs_1_-1",
+      "UNIT17_Prongs_1_1"
+    ],
+    "UNIT18_CZ": [
+      "UNIT18_Prongs_-1_-1",
+      "UNIT18_Prongs_-1_1",
+      "UNIT18_Prongs_1_-1",
+      "UNIT18_Prongs_1_1"
+    ],
+    "UNIT19_CZ": [
+      "UNIT19_Prongs_-1_-1",
+      "UNIT19_Prongs_-1_1",
+      "UNIT19_Prongs_1_-1",
+      "UNIT19_Prongs_1_1"
+    ],
+    "UNIT20_CZ": [
+      "UNIT20_Prongs_-1_-1",
+      "UNIT20_Prongs_-1_1",
+      "UNIT20_Prongs_1_-1",
+      "UNIT20_Prongs_1_1"
+    ],
+    "UNIT21_CZ": [
+      "UNIT21_Prongs_-1_-1",
+      "UNIT21_Prongs_-1_1",
+      "UNIT21_Prongs_1_-1",
+      "UNIT21_Prongs_1_1"
+    ],
+    "UNIT22_CZ": [
+      "UNIT22_Prongs_-1_-1",
+      "UNIT22_Prongs_-1_1",
+      "UNIT22_Prongs_1_-1",
+      "UNIT22_Prongs_1_1"
+    ],
+    "UNIT23_CZ": [
+      "UNIT23_Prongs_-1_-1",
+      "UNIT23_Prongs_-1_1",
+      "UNIT23_Prongs_1_-1",
+      "UNIT23_Prongs_1_1"
+    ],
+    "UNIT24_CZ": [
+      "UNIT24_Prongs_-1_-1",
+      "UNIT24_Prongs_-1_1",
+      "UNIT24_Prongs_1_-1",
+      "UNIT24_Prongs_1_1"
+    ],
+    "UNIT25_CZ": [
+      "UNIT25_Prongs_-1_-1",
+      "UNIT25_Prongs_-1_1",
+      "UNIT25_Prongs_1_-1",
+      "UNIT25_Prongs_1_1"
+    ],
+    "UNIT26_CZ": [
+      "UNIT26_Prongs_-1_-1",
+      "UNIT26_Prongs_-1_1",
+      "UNIT26_Prongs_1_-1",
+      "UNIT26_Prongs_1_1"
+    ],
+    "UNIT27_CZ": [
+      "UNIT27_Prongs_-1_-1",
+      "UNIT27_Prongs_-1_1",
+      "UNIT27_Prongs_1_-1",
+      "UNIT27_Prongs_1_1"
+    ],
+    "UNIT28_CZ": [
+      "UNIT28_Prongs_-1_-1",
+      "UNIT28_Prongs_-1_1",
+      "UNIT28_Prongs_1_-1",
+      "UNIT28_Prongs_1_1"
+    ],
+    "UNIT29_CZ": [
+      "UNIT29_Prongs_-1_-1",
+      "UNIT29_Prongs_-1_1",
+      "UNIT29_Prongs_1_-1",
+      "UNIT29_Prongs_1_1"
+    ],
+    "UNIT30_CZ": [
+      "UNIT30_Prongs_-1_-1",
+      "UNIT30_Prongs_-1_1",
+      "UNIT30_Prongs_1_-1",
+      "UNIT30_Prongs_1_1"
+    ],
+    "UNIT31_CZ": [
+      "UNIT31_Prongs_-1_-1",
+      "UNIT31_Prongs_-1_1",
+      "UNIT31_Prongs_1_-1",
+      "UNIT31_Prongs_1_1"
+    ],
+    "UNIT32_CZ": [
+      "UNIT32_Prongs_-1_-1",
+      "UNIT32_Prongs_-1_1",
+      "UNIT32_Prongs_1_-1",
+      "UNIT32_Prongs_1_1"
+    ],
+    "UNIT33_CZ": [
+      "UNIT33_Prongs_-1_-1",
+      "UNIT33_Prongs_-1_1",
+      "UNIT33_Prongs_1_-1",
+      "UNIT33_Prongs_1_1"
+    ],
+    "UNIT34_CZ": [
+      "UNIT34_Prongs_-1_-1",
+      "UNIT34_Prongs_-1_1",
+      "UNIT34_Prongs_1_-1",
+      "UNIT34_Prongs_1_1"
+    ],
+    "UNIT35_CZ": [
+      "UNIT35_Prongs_-1_-1",
+      "UNIT35_Prongs_-1_1",
+      "UNIT35_Prongs_1_-1",
+      "UNIT35_Prongs_1_1"
+    ],
+    "UNIT36_CZ": [
+      "UNIT36_Prongs_-1_-1",
+      "UNIT36_Prongs_-1_1",
+      "UNIT36_Prongs_1_-1",
+      "UNIT36_Prongs_1_1"
+    ],
+    "UNIT37_CZ": [
+      "UNIT37_Prongs_-1_-1",
+      "UNIT37_Prongs_-1_1",
+      "UNIT37_Prongs_1_-1",
+      "UNIT37_Prongs_1_1"
+    ],
+    "UNIT38_CZ": [
+      "UNIT38_Prongs_-1_-1",
+      "UNIT38_Prongs_-1_1",
+      "UNIT38_Prongs_1_-1",
+      "UNIT38_Prongs_1_1"
+    ],
+    "UNIT39_CZ": [
+      "UNIT39_Prongs_-1_-1",
+      "UNIT39_Prongs_-1_1",
+      "UNIT39_Prongs_1_-1",
+      "UNIT39_Prongs_1_1"
+    ],
+    "UNIT40_CZ": [
+      "UNIT40_Prongs_-1_-1",
+      "UNIT40_Prongs_-1_1",
+      "UNIT40_Prongs_1_-1",
+      "UNIT40_Prongs_1_1"
+    ],
+    "UNIT41_CZ": [
+      "UNIT41_Prongs_-1_-1",
+      "UNIT41_Prongs_-1_1",
+      "UNIT41_Prongs_1_-1",
+      "UNIT41_Prongs_1_1"
+    ],
+    "UNIT42_CZ": [
+      "UNIT42_Prongs_-1_-1",
+      "UNIT42_Prongs_-1_1",
+      "UNIT42_Prongs_1_-1",
+      "UNIT42_Prongs_1_1"
+    ],
+    "UNIT43_CZ": [
+      "UNIT43_Prongs_-1_-1",
+      "UNIT43_Prongs_-1_1",
+      "UNIT43_Prongs_1_-1",
+      "UNIT43_Prongs_1_1"
+    ],
+    "UNIT44_CZ": [
+      "UNIT44_Prongs_-1_-1",
+      "UNIT44_Prongs_-1_1",
+      "UNIT44_Prongs_1_-1",
+      "UNIT44_Prongs_1_1"
+    ],
+    "UNIT45_CZ": [
+      "UNIT45_Prongs_-1_-1",
+      "UNIT45_Prongs_-1_1",
+      "UNIT45_Prongs_1_-1",
+      "UNIT45_Prongs_1_1"
+    ],
+    "UNIT46_CZ": [
+      "UNIT46_Prongs_-1_-1",
+      "UNIT46_Prongs_-1_1",
+      "UNIT46_Prongs_1_-1",
+      "UNIT46_Prongs_1_1"
+    ],
+    "UNIT47_CZ": [
+      "UNIT47_Prongs_-1_-1",
+      "UNIT47_Prongs_-1_1",
+      "UNIT47_Prongs_1_-1",
+      "UNIT47_Prongs_1_1"
+    ],
+    "UNIT48_CZ": [
+      "UNIT48_Prongs_-1_-1",
+      "UNIT48_Prongs_-1_1",
+      "UNIT48_Prongs_1_-1",
+      "UNIT48_Prongs_1_1"
+    ],
+    "TAIL49_CZ": [
+      "TAIL49_Prongs_-1_-1",
+      "TAIL49_Prongs_-1_1",
+      "TAIL49_Prongs_1_-1",
+      "TAIL49_Prongs_1_1"
+    ]
+  },
+  "unsupported_prongs": [],
+  "prong_intrusion_samples_over_0_002mm": [],
+  "stone_other_unit_or_closure_intersections": [],
+  "link_link_surface_intersections": [],
+  "link_body_surface_intersections": [],
+  "full_camera_framing": {
+    "CAM_TOP": true,
+    "CAM_SIDE": true,
+    "CAM_BACK": true,
+    "CAM_BOTTOM": true,
+    "CAM_DEFAULT": true
+  },
+  "adjacent_unit_surface_intersections": [],
+  "adjacent_unit_vertex_to_surface_clearance_mm": [
+    0.04012504359707236,
+    0.13685572776012123
+  ],
+  "lods": {
+    "detail": {
+      "bytes": 4160560,
+      "triangles": 142702,
+      "materials": 2,
+      "meshes": 2,
+      "images": 0,
+      "cameras": 0,
+      "invalid_normals": [],
+      "bounds_mm": [
+        [
+          -30.040429905056953,
+          -23.412620648741722,
+          -0.5341267678886652
+        ],
+        [
+          30.040428042411804,
+          36.290232092142105,
+          2.5100000202655792
+        ]
+      ],
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ]
+    },
+    "display": {
+      "bytes": 1935976,
+      "triangles": 73706,
+      "materials": 2,
+      "meshes": 2,
+      "images": 0,
+      "cameras": 0,
+      "invalid_normals": [],
+      "bounds_mm": [
+        [
+          -30.040429905056953,
+          -23.412620648741722,
+          -0.5239230813458562
+        ],
+        [
+          30.040428042411804,
+          36.28578037023544,
+          2.5100000202655792
+        ]
+      ],
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ]
+    }
+  },
+  "limitations": [
+    "160 mm is closed wearing centerline. Tail excluded. Not a calibrated manufacturing flat end-to-end measurement.",
+    "Clasp, end rings, working-chain length and tail length are provisional",
+    "Side gallery windows visible; underside and hidden linkage construction provisional",
+    "Prong fit sampled vertices and triangle centers, tolerance 0.002 mm"
+  ]
+}

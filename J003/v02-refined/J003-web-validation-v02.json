@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-22",
+  "url": "http://127.0.0.1:8934/viewer/",
+  "environment": "Codex in-app browser, desktop, 455 x 851 CSS pixel screenshot",
+  "horizontal_full_turn": {
+    "degrees": 360,
+    "displayed_return_error_degrees": 0
+  },
+  "vertical_full_turn": {
+    "degrees": 360,
+    "displayed_return_error_degrees": 0
+  },
+  "vertical_drag": {
+    "before_cumulative_degrees": -72.3,
+    "after_cumulative_degrees": 302.5,
+    "delta_degrees_rounded": 374.8
+  },
+  "detail_loaded": true,
+  "display_loaded": true,
+  "default_product_fully_in_frame": true,
+  "final_state": "detail model, default 45 degree view",
+  "screenshot": "J003-web-check-v02.png",
+  "unverified": [
+    "real phone touch controls",
+    "real mobile device performance",
+    "production showroom integration"
+  ]
+}

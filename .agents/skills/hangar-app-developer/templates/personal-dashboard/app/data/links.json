@@ -1,0 +1,40 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "url",
+      "type": "url",
+      "required": true
+    },
+    {
+      "name": "category",
+      "type": "text"
+    }
+  ],
+  "records": [
+    {
+      "id": "link-calendar",
+      "label": "Calendar",
+      "url": "https://calendar.google.com",
+      "category": "Planning"
+    },
+    {
+      "id": "link-docs",
+      "label": "Docs",
+      "url": "https://docs.google.com",
+      "category": "Writing"
+    },
+    {
+      "id": "link-wingman",
+      "label": "Wingman",
+      "url": "https://wingman.shopee.io",
+      "category": "Work"
+    }
+  ],
+  "icon": "mdi:link-variant",
+  "scope": "app"
+}

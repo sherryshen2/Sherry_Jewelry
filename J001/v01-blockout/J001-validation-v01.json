@@ -1,0 +1,164 @@
+{
+  "stage": "STRUCTURE_BLOCKOUT_NOT_APPROVED",
+  "source_mesh_count": 273,
+  "source_mesh_issues": [],
+  "chain_mesh_intersections": [],
+  "hardware_loop_intersections": [],
+  "hardware_loop_unlinked": [],
+  "adjacent_link_pairs_checked": 218,
+  "unlinked_adjacent_pairs": [],
+  "main_stone_metal_contacts": [
+    "PENDING_SilverRimBead_01",
+    "PENDING_MainProng_1",
+    "PENDING_MainProngCap_1",
+    "PENDING_MainProng_2",
+    "PENDING_MainProngCap_2",
+    "PENDING_MainProng_3"
+  ],
+  "pendant_body_dimensions_mm": [
+    9.996672160923481,
+    8.000001311302185,
+    11.965379118919373
+  ],
+  "chain_centerline_length_mm": 399.9999944591918,
+  "camera_framing": {
+    "CAM_PENDANT_front": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.22030366957187653,
+        0.17743875086307526
+      ],
+      "max_xy": [
+        0.7796963453292847,
+        0.8242160081863403
+      ]
+    },
+    "CAM_PENDANT_side": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.283784955739975,
+        0.1774418205022812
+      ],
+      "max_xy": [
+        0.7162174582481384,
+        0.8242190480232239
+      ]
+    },
+    "CAM_PENDANT_back": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.2202996164560318,
+        0.17743876576423645
+      ],
+      "max_xy": [
+        0.7796922922134399,
+        0.8242161273956299
+      ]
+    },
+    "CAM_PENDANT_45deg": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.22098590433597565,
+        0.1339351087808609
+      ],
+      "max_xy": [
+        0.8437067270278931,
+        0.9079314470291138
+      ]
+    },
+    "CAM_FULL_RATIO": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.19532327353954315,
+        0.08653394877910614
+      ],
+      "max_xy": [
+        0.8046767115592957,
+        0.9137649536132812
+      ]
+    },
+    "CAM_FULL_DEFAULT": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.19360683858394623,
+        0.08921433985233307
+      ],
+      "max_xy": [
+        0.7902246117591858,
+        0.9118988513946533
+      ]
+    }
+  },
+  "lods": {
+    "detail": {
+      "bytes": 3997356,
+      "triangles": 141104,
+      "meshes": 3,
+      "materials": 3,
+      "images": 0,
+      "camera_count": 0,
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "root_found": true,
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "invalid_normals": [],
+      "bounds_mm": [
+        [
+          -45.8260253071785,
+          -24.17200431227684,
+          -78.57688516378403
+        ],
+        [
+          45.82954943180084,
+          23.940548300743103,
+          78.57688516378403
+        ]
+      ],
+      "max_bound_error_vs_detail_mm": 3.725290298461914e-06
+    },
+    "display": {
+      "bytes": 1603240,
+      "triangles": 71144,
+      "meshes": 3,
+      "materials": 3,
+      "images": 0,
+      "camera_count": 0,
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "root_found": true,
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "invalid_normals": [],
+      "bounds_mm": [
+        [
+          -45.82095146179199,
+          -24.16503056883812,
+          -78.56599986553192
+        ],
+        [
+          45.82447558641434,
+          23.938804864883423,
+          78.56599986553192
+        ]
+      ],
+      "max_bound_error_vs_detail_mm": 0.010885298252105713
+    }
+  },
+  "limitations": [
+    "Clasp mechanism, link dimensions and counts are provisional",
+    "Link interlock test checks loop topology, not physical gravity/contact simulation",
+    "Metal attachment parts may intentionally overlap",
+    "400 mm is centerline convention, not verified manufactured length"
+  ]
+}

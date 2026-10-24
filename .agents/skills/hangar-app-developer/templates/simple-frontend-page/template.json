@@ -1,0 +1,13 @@
+{
+  "id": "simple-frontend-page",
+  "name": "Simple frontend page",
+  "description": "A minimal 1-page frontend starter with no custom backend behavior.",
+  "tags": [
+    "Frontend",
+    "One Page",
+    "Minimal",
+    "Blank"
+  ],
+  "setup_fields": [],
+  "instructions": "For the simple frontend page template, keep the app intentionally lightweight. Start with one page in frontend/src/App.svelte, avoid adding backend routes unless the user explicitly needs them, and keep the structure focused on fast UI iteration."
+}

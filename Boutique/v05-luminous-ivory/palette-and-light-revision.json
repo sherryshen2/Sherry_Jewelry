@@ -1,0 +1,366 @@
+{
+  "version": "v05 luminous ivory; facade and outer-wall fill; softer shadows; white translucent crystal",
+  "materials": [
+    {
+      "name": "01 | warm ivory lacquer",
+      "linear_rgb": [
+        0.9,
+        0.86,
+        0.79
+      ]
+    },
+    {
+      "name": "02 | ivory carved edges",
+      "linear_rgb": [
+        0.96,
+        0.93,
+        0.87
+      ]
+    },
+    {
+      "name": "03 | inset warm putty",
+      "linear_rgb": [
+        0.75,
+        0.69,
+        0.6
+      ]
+    },
+    {
+      "name": "04 | satin champagne brass",
+      "linear_rgb": [
+        0.92,
+        0.72,
+        0.43
+      ]
+    },
+    {
+      "name": "05 | champagne polished accents",
+      "linear_rgb": [
+        0.98,
+        0.82,
+        0.55
+      ]
+    },
+    {
+      "name": "06 | warm oyster wall",
+      "linear_rgb": [
+        0.87,
+        0.83,
+        0.76
+      ]
+    },
+    {
+      "name": "07 | dusty blush silk",
+      "linear_rgb": [
+        0.88,
+        0.57,
+        0.63
+      ]
+    },
+    {
+      "name": "08 | pale warm drapery",
+      "linear_rgb": [
+        0.95,
+        0.91,
+        0.85
+      ]
+    },
+    {
+      "name": "09 | floral ecru lace cutout",
+      "linear_rgb": [
+        0.97,
+        0.94,
+        0.89
+      ]
+    },
+    {
+      "name": "10 | rose velvet lining",
+      "linear_rgb": [
+        0.68,
+        0.41,
+        0.47
+      ]
+    },
+    {
+      "name": "11 | oatmeal velvet display forms",
+      "linear_rgb": [
+        0.92,
+        0.88,
+        0.81
+      ]
+    },
+    {
+      "name": "13 | rose quartz faceted accents",
+      "linear_rgb": [
+        0.88,
+        0.5,
+        0.59
+      ]
+    },
+    {
+      "name": "18 | pale blush petals",
+      "linear_rgb": [
+        0.92,
+        0.64,
+        0.67
+      ]
+    },
+    {
+      "name": "19 | buttercream petals",
+      "linear_rgb": [
+        0.91,
+        0.84,
+        0.69
+      ]
+    },
+    {
+      "name": "15 | chandelier crystal",
+      "linear_rgb": [
+        0.98,
+        0.99,
+        1
+      ]
+    }
+  ],
+  "gold_reflection_properties_unchanged": true,
+  "warm_practicals_preserved": true,
+  "lights": [
+    {
+      "name": "large soft key",
+      "type": "AREA",
+      "energy": 580.0,
+      "color": [
+        1.0,
+        0.9399999976158142,
+        0.8600000143051147
+      ],
+      "position": [
+        -4.300000190734863,
+        -6.5,
+        8.0
+      ]
+    },
+    {
+      "name": "cool front fill",
+      "type": "AREA",
+      "energy": 190.0,
+      "color": [
+        0.8600000143051147,
+        0.9100000262260437,
+        1.0
+      ],
+      "position": [
+        4.0,
+        -4.0,
+        5.0
+      ]
+    },
+    {
+      "name": "overhead silk light",
+      "type": "AREA",
+      "energy": 200.0,
+      "color": [
+        1.0,
+        0.9100000262260437,
+        0.8100000023841858
+      ],
+      "position": [
+        0.0,
+        1.0,
+        7.0
+      ]
+    },
+    {
+      "name": "front jewelry highlight",
+      "type": "AREA",
+      "energy": 40.0,
+      "color": [
+        1.0,
+        0.949999988079071,
+        0.8700000047683716
+      ],
+      "position": [
+        -1.0,
+        -3.0,
+        3.5
+      ]
+    },
+    {
+      "name": "chandelier practical",
+      "type": "AREA",
+      "energy": 65.0,
+      "color": [
+        1.0,
+        0.6800000071525574,
+        0.36000001430511475
+      ],
+      "position": [
+        0.0,
+        1.0,
+        3.930000066757202
+      ]
+    },
+    {
+      "name": "cabinet warm practical",
+      "type": "AREA",
+      "energy": 20.0,
+      "color": [
+        1.0,
+        0.7200000286102295,
+        0.4000000059604645
+      ],
+      "position": [
+        -1.909999966621399,
+        1.940000057220459,
+        3.7699999809265137
+      ]
+    },
+    {
+      "name": "cabinet warm practical.001",
+      "type": "AREA",
+      "energy": 20.0,
+      "color": [
+        1.0,
+        0.7200000286102295,
+        0.4000000059604645
+      ],
+      "position": [
+        1.909999966621399,
+        1.940000057220459,
+        3.7699999809265137
+      ]
+    },
+    {
+      "name": "warm shelf wash",
+      "type": "AREA",
+      "energy": 4.0,
+      "color": [
+        1.0,
+        0.7099999785423279,
+        0.38999998569488525
+      ],
+      "position": [
+        -1.909999966621399,
+        2.0799999237060547,
+        2.869999885559082
+      ]
+    },
+    {
+      "name": "warm shelf wash.001",
+      "type": "AREA",
+      "energy": 4.0,
+      "color": [
+        1.0,
+        0.7099999785423279,
+        0.38999998569488525
+      ],
+      "position": [
+        -1.909999966621399,
+        2.0799999237060547,
+        2.0799999237060547
+      ]
+    },
+    {
+      "name": "warm shelf wash.002",
+      "type": "AREA",
+      "energy": 4.0,
+      "color": [
+        1.0,
+        0.7099999785423279,
+        0.38999998569488525
+      ],
+      "position": [
+        1.909999966621399,
+        2.0799999237060547,
+        2.869999885559082
+      ]
+    },
+    {
+      "name": "warm shelf wash.003",
+      "type": "AREA",
+      "energy": 4.0,
+      "color": [
+        1.0,
+        0.7099999785423279,
+        0.38999998569488525
+      ],
+      "position": [
+        1.909999966621399,
+        2.0799999237060547,
+        2.0799999237060547
+      ]
+    },
+    {
+      "name": "central counter warm wash",
+      "type": "AREA",
+      "energy": 5.0,
+      "color": [
+        1.0,
+        0.7099999785423279,
+        0.38999998569488525
+      ],
+      "position": [
+        0.0,
+        0.49000000953674316,
+        1.784999966621399
+      ]
+    },
+    {
+      "name": "facade broad soft fill",
+      "type": "AREA",
+      "energy": 110.0,
+      "color": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        0.0,
+        -6.0,
+        3.5999999046325684
+      ]
+    },
+    {
+      "name": "left exterior soft fill",
+      "type": "AREA",
+      "energy": 90.0,
+      "color": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        -6.0,
+        1.100000023841858,
+        4.0
+      ]
+    },
+    {
+      "name": "right exterior soft fill",
+      "type": "AREA",
+      "energy": 100.0,
+      "color": [
+        1.0,
+        0.9800000190734863,
+        0.9399999976158142
+      ],
+      "position": [
+        6.0,
+        1.100000023841858,
+        4.0
+      ]
+    }
+  ],
+  "crystal": {
+    "color": [
+      0.98,
+      0.99,
+      1
+    ],
+    "metallic": 0,
+    "roughness": 0.14,
+    "transmission": 0.25,
+    "alpha": 0.78,
+    "web_alpha": 0.68
+  }
+}

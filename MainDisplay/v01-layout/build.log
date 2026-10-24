@@ -1,0 +1,26 @@
+11:55:37 | INFO: Data are loaded, start creating Blender stuff
+11:55:37 | INFO: Blender create Mesh node necklace_body_M01_Silver_user_spec
+11:55:38 | INFO: Blender create Mesh node necklace_body_M02_PinkZircon_reference_approx
+11:55:38 | INFO: Blender create Mesh node necklace_body_PENDING_M03_ClaspCharm_light_stone
+11:55:38 | INFO: glTF import finished in 0.64s
+11:55:38 | INFO: Data are loaded, start creating Blender stuff
+11:55:38 | INFO: Blender create Mesh node earrings_left_earring_M01_925Silver_appearance
+11:55:38 | INFO: Blender create Mesh node earrings_left_earring_M02_ColorlessCZ_optics_EST
+11:55:38 | INFO: Blender create Mesh node earrings_right_earring_M01_925Silver_appearance
+11:55:38 | INFO: Blender create Mesh node earrings_right_earring_M02_ColorlessCZ_optics_EST
+11:55:38 | INFO: glTF import finished in 0.27s
+11:55:38 | INFO: Data are loaded, start creating Blender stuff
+11:55:38 | INFO: Blender create Mesh node ring_body_M01_RoseGold_user_color
+11:55:38 | INFO: Blender create Mesh node ring_body_M02_PinkStone_optics_PENDING
+11:55:38 | INFO: Blender create Mesh node ring_body_M03_PinkAccent_optics_PENDING
+11:55:38 | INFO: glTF import finished in 0.32s
+11:55:38 | INFO: Data are loaded, start creating Blender stuff
+11:55:38 | INFO: Blender create Mesh node bracelet_body_M01_925Silver
+11:55:39 | INFO: Blender create Mesh node bracelet_body_M02_ColorlessCZ_EST
+11:55:39 | INFO: glTF import finished in 0.77s
+Info: Saved as "main-display-source.blend"
+BUILD_DONE
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+Read blend: "/Users/sherry.shen/Documents/ChatGPT/Jewelry Shop/Boutique/v06-soft-front/Boutique-final.blend"
+
+Blender quit

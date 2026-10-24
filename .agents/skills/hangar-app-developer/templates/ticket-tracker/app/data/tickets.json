@@ -1,0 +1,135 @@
+{
+  "schema": [
+    {
+      "name": "subject",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "description",
+      "type": "text"
+    },
+    {
+      "name": "status",
+      "type": "text",
+      "default": "open"
+    },
+    {
+      "name": "priority",
+      "type": "text",
+      "default": "medium"
+    },
+    {
+      "name": "requester_name",
+      "type": "text"
+    },
+    {
+      "name": "requester_email",
+      "type": "email"
+    },
+    {
+      "name": "assignee_id",
+      "type": "text"
+    },
+    {
+      "name": "assignee_name",
+      "type": "text"
+    },
+    {
+      "name": "assignee_email",
+      "type": "email"
+    },
+    {
+      "name": "source",
+      "type": "text",
+      "default": "manual"
+    },
+    {
+      "name": "jira_key",
+      "type": "text"
+    },
+    {
+      "name": "jira_url",
+      "type": "url"
+    },
+    {
+      "name": "jira_status",
+      "type": "text"
+    },
+    {
+      "name": "jira_priority",
+      "type": "text"
+    },
+    {
+      "name": "issue_type",
+      "type": "text"
+    },
+    {
+      "name": "labels",
+      "type": "json"
+    },
+    {
+      "name": "last_synced_at",
+      "type": "date"
+    },
+    {
+      "name": "created_at",
+      "type": "date"
+    },
+    {
+      "name": "updated_at",
+      "type": "date"
+    }
+  ],
+  "records": [
+    {
+      "id": "ticket-login",
+      "subject": "Cannot access dashboard",
+      "description": "Requester sees a permission error after account migration.",
+      "status": "triage",
+      "priority": "high",
+      "requester_name": "Nora",
+      "requester_email": "nora@example.com",
+      "assignee_id": "member-support",
+      "assignee_name": "Support",
+      "source": "email",
+      "jira_key": "SUP-41",
+      "jira_url": "https://jira.shopee.io/browse/SUP-41",
+      "created_at": "2026-06-20T09:00:00.000Z",
+      "updated_at": "2026-06-21T09:00:00.000Z"
+    },
+    {
+      "id": "ticket-export",
+      "subject": "Export missing custom field",
+      "description": "CSV export excludes project owner.",
+      "status": "in_progress",
+      "priority": "medium",
+      "requester_name": "Leo",
+      "requester_email": "leo@example.com",
+      "assignee_id": "member-platform",
+      "assignee_name": "Platform",
+      "source": "jira",
+      "jira_key": "SUP-42",
+      "jira_url": "https://jira.shopee.io/browse/SUP-42",
+      "created_at": "2026-06-21T09:00:00.000Z",
+      "updated_at": "2026-06-22T09:00:00.000Z"
+    },
+    {
+      "id": "ticket-doc",
+      "subject": "Need setup instructions",
+      "description": "Customer asked for a step-by-step integration guide.",
+      "status": "waiting",
+      "priority": "low",
+      "requester_name": "Mei",
+      "requester_email": "mei@example.com",
+      "assignee_id": "member-docs",
+      "assignee_name": "Docs",
+      "source": "manual",
+      "jira_key": "",
+      "created_at": "2026-06-22T09:00:00.000Z",
+      "updated_at": "2026-06-22T11:00:00.000Z"
+    }
+  ],
+  "icon": "mdi:ticket-outline",
+  "scope": "app"
+}

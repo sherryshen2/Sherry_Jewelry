@@ -1,0 +1,65 @@
+{
+  "schema": [
+    {
+      "name": "event_id",
+      "type": "text"
+    },
+    {
+      "name": "event_type",
+      "type": "text"
+    },
+    {
+      "name": "conversation_key",
+      "type": "text"
+    },
+    {
+      "name": "employee_code",
+      "type": "text"
+    },
+    {
+      "name": "group_id",
+      "type": "text"
+    },
+    {
+      "name": "thread_id",
+      "type": "text"
+    },
+    {
+      "name": "message_id",
+      "type": "text"
+    },
+    {
+      "name": "message_link",
+      "type": "url"
+    },
+    {
+      "name": "handler",
+      "type": "text"
+    },
+    {
+      "name": "summary",
+      "type": "text"
+    },
+    {
+      "name": "status",
+      "type": "text",
+      "default": "handled"
+    },
+    {
+      "name": "processed",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "payload",
+      "type": "json"
+    },
+    {
+      "name": "error",
+      "type": "text"
+    }
+  ],
+  "records": [],
+  "icon": "mdi:message-processing-outline",
+  "scope": "app"
+}

@@ -1,0 +1,23 @@
+{
+  "triangles": 290809,
+  "mesh_vertices_before_gltf_uv_splits": 150067,
+  "mesh_batches": 27,
+  "materials": 27,
+  "images": 9,
+  "embedded_images": true,
+  "glb_bytes": 12509788,
+  "extensions_used": [
+    "KHR_materials_clearcoat",
+    "KHR_materials_emissive_strength",
+    "KHR_materials_sheen"
+  ],
+  "occlusion": "Previous contact/soft visibility shading lifted with 0.66 + 0.34 * COLOR_0; crystal AO removed",
+  "mirror": "Softened 512x704 static reflection capture plus environment highlights",
+  "alpha_mask_materials": 1,
+  "alpha_blend_materials": 2,
+  "default_coordinate_system": "Y up; facade faces +Z",
+  "source_objects": 1422,
+  "web_dynamic_lights": 6,
+  "version": "v05-luminous-ivory",
+  "crystal": "White single-sided alpha blend 0.68, metallic 0; clearcoat; no baked darkening"
+}

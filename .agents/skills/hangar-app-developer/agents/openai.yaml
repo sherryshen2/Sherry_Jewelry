@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hangar App Developer"
+  short_description: "Develop and sync Hangar apps from a local workspace"
+  default_prompt: "Use $hangar-app-developer to make the requested app changes, sync and check them, and publish only when requested."

@@ -1,0 +1,13 @@
+{
+  "id": "live-poll",
+  "name": "Live poll",
+  "description": "Run a quick poll with options, vote counts, and reporting/export hooks.",
+  "tags": [
+    "Poll",
+    "Feedback",
+    "Sheets",
+    "LLM"
+  ],
+  "setup_fields": [],
+  "instructions": "For the Live poll template, support reusable poll-specific voting links. Store polls, options, and votes app-scoped. Public voting links use ?poll=<slug-or-id>; respondent identity comes from the logged-in Hangar user, with optional &email=<email> retained only as a legacy fallback. Do not ask voters to type their email or leave comments. Use Google Sheets for result exports and chat/LLM helpers for summarizing results."
+}

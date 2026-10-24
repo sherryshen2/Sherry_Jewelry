@@ -1,0 +1,76 @@
+{
+  "schema": [
+    {
+      "name": "release_id",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "release_version",
+      "type": "text"
+    },
+    {
+      "name": "verifier",
+      "type": "text"
+    },
+    {
+      "name": "notes",
+      "type": "text"
+    },
+    {
+      "name": "canary_verified",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "logs_verified",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "grafana_verified",
+      "type": "boolean",
+      "default": false
+    },
+    {
+      "name": "status",
+      "type": "text",
+      "default": "Not verified"
+    },
+    {
+      "name": "canary_screenshots",
+      "type": "files"
+    },
+    {
+      "name": "logs_screenshots",
+      "type": "files"
+    },
+    {
+      "name": "grafana_screenshots",
+      "type": "files"
+    },
+    {
+      "name": "updated_at",
+      "type": "date"
+    }
+  ],
+  "records": [
+    {
+      "id": "verification-249-prod",
+      "release_id": "release-249",
+      "release_version": "v2.4.9",
+      "verifier": "qa@example.com",
+      "notes": "Smoke test passed after publish. Catalog and app shell were reachable.",
+      "canary_verified": true,
+      "logs_verified": true,
+      "grafana_verified": true,
+      "status": "Verified",
+      "canary_screenshots": [],
+      "logs_screenshots": [],
+      "grafana_screenshots": [],
+      "updated_at": "2026-06-18T10:30:00.000Z"
+    }
+  ],
+  "icon": "mdi:image-check-outline",
+  "scope": "app"
+}

@@ -1,0 +1,318 @@
+{
+  "stage": "REFINED_REVIEW_PENDING",
+  "source_mesh_count": 273,
+  "source_mesh_issues": [],
+  "chain_mesh_intersections": [],
+  "hardware_loop_intersections": [],
+  "hardware_loop_unlinked": [],
+  "adjacent_link_pairs_checked": 218,
+  "unlinked_adjacent_pairs": [],
+  "main_stone_metal_contacts": [
+    "PENDING_MainProng_1",
+    "PENDING_MainProngCap_1",
+    "PENDING_MainProng_2",
+    "PENDING_MainProngCap_2",
+    "PENDING_MainProng_3",
+    "PENDING_MainProngCap_3"
+  ],
+  "pendant_part_contacts": {
+    "01_HeartCarrier_RoundedBack_UpwardTaper_EST": [
+      "PENDING_SilverRimBead_01",
+      "PENDING_SilverRimBead_02",
+      "PENDING_SilverRimBead_03",
+      "PENDING_SilverRimBead_04",
+      "PENDING_SilverRimBead_05",
+      "PENDING_SilverRimBead_06",
+      "PENDING_SilverRimBead_07",
+      "PENDING_SilverRimBead_08",
+      "PENDING_SilverRimBead_09",
+      "PENDING_SilverRimBead_10",
+      "PENDING_SilverRimBead_11",
+      "PENDING_SilverRimBead_12",
+      "PENDING_SilverRimBead_13",
+      "PENDING_SilverRimBead_14",
+      "PENDING_SilverRimBead_15",
+      "PENDING_SilverRimBead_16",
+      "PENDING_SilverRimBead_17",
+      "PENDING_SilverRimBead_18",
+      "PENDING_SilverRimBead_19",
+      "PENDING_SilverRimBead_20",
+      "PENDING_SilverRimBead_21",
+      "PENDING_SilverRimBead_22",
+      "PENDING_SilverRimBead_23",
+      "PENDING_SilverRimBead_24",
+      "PENDING_SilverRimBead_25",
+      "PENDING_SilverRimBead_26",
+      "PENDING_SilverRimBead_27",
+      "PENDING_SilverRimBead_28",
+      "PENDING_MainProng_1",
+      "PENDING_MainProng_2",
+      "PENDING_MainProng_3",
+      "PENDING_SideMount_-1",
+      "PENDING_SideMount_1"
+    ],
+    "PENDING_SilverRimBead_01": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_02": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_03": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_04": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_05": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_06": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_07": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_08": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_09": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_10": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_11": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_12": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_13": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_14": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_15": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_16": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_17": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_18": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_19": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_20": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_21": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_22": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_23": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_24": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_25": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_26": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_27": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SilverRimBead_28": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_MainProng_1": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST",
+      "02_RaisedPinkHeart_Cut_PENDING",
+      "PENDING_MainProngCap_1"
+    ],
+    "PENDING_MainProngCap_1": [
+      "02_RaisedPinkHeart_Cut_PENDING",
+      "PENDING_MainProng_1"
+    ],
+    "PENDING_MainProng_2": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST",
+      "02_RaisedPinkHeart_Cut_PENDING",
+      "PENDING_MainProngCap_2"
+    ],
+    "PENDING_MainProngCap_2": [
+      "02_RaisedPinkHeart_Cut_PENDING",
+      "PENDING_MainProng_2"
+    ],
+    "PENDING_MainProng_3": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST",
+      "02_RaisedPinkHeart_Cut_PENDING",
+      "PENDING_MainProngCap_3"
+    ],
+    "PENDING_MainProngCap_3": [
+      "02_RaisedPinkHeart_Cut_PENDING",
+      "PENDING_MainProng_3"
+    ],
+    "PENDING_SideMount_-1": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ],
+    "PENDING_SideMount_1": [
+      "01_HeartCarrier_RoundedBack_UpwardTaper_EST"
+    ]
+  },
+  "pendant_body_dimensions_mm": [
+    8.00000037997961,
+    8.000001311302185,
+    8.000001311302185
+  ],
+  "chain_centerline_length_mm": 400.0000049643518,
+  "camera_framing": {
+    "CAM_PENDANT_front": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.19863800704479218,
+        0.22413241863250732
+      ],
+      "max_xy": [
+        0.8013619780540466,
+        0.7831238508224487
+      ]
+    },
+    "CAM_PENDANT_side": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.22413942217826843,
+        0.2241363376379013
+      ],
+      "max_xy": [
+        0.7758636474609375,
+        0.7831277251243591
+      ]
+    },
+    "CAM_PENDANT_back": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.1986328363418579,
+        0.2241324484348297
+      ],
+      "max_xy": [
+        0.8013567924499512,
+        0.7831239104270935
+      ]
+    },
+    "CAM_PENDANT_45deg": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.1816064566373825,
+        0.17330597341060638
+      ],
+      "max_xy": [
+        0.8801385164260864,
+        0.8780876994132996
+      ]
+    },
+    "CAM_FULL_RATIO": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.19139888882637024,
+        0.08648468554019928
+      ],
+      "max_xy": [
+        0.8086011409759521,
+        0.9138209819793701
+      ]
+    },
+    "CAM_FULL_DEFAULT": {
+      "all_in_frame": true,
+      "min_xy": [
+        0.18964095413684845,
+        0.08915390819311142
+      ],
+      "max_xy": [
+        0.7939223647117615,
+        0.912037193775177
+      ]
+    }
+  },
+  "lods": {
+    "detail": {
+      "bytes": 4603628,
+      "triangles": 162752,
+      "meshes": 3,
+      "materials": 3,
+      "images": 0,
+      "camera_count": 0,
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "root_found": true,
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "invalid_normals": [],
+      "bounds_mm": [
+        [
+          -45.50080746412277,
+          -24.015823379158974,
+          -77.02315598726273
+        ],
+        [
+          45.5002598464489,
+          23.7846989184618,
+          77.02314853668213
+        ]
+      ],
+      "max_bound_error_vs_detail_mm": 0.001341104507446289
+    },
+    "display": {
+      "bytes": 1698328,
+      "triangles": 75460,
+      "meshes": 3,
+      "materials": 3,
+      "images": 0,
+      "camera_count": 0,
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "root_found": true,
+      "root_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "invalid_normals": [],
+      "bounds_mm": [
+        [
+          -45.49567028880119,
+          -24.00887757539749,
+          -77.02315598726273
+        ],
+        [
+          45.4951748251915,
+          23.787420243024826,
+          77.02314853668213
+        ]
+      ],
+      "max_bound_error_vs_detail_mm": 0.006945803761482239
+    }
+  },
+  "limitations": [
+    "Clasp mechanism, link dimensions and counts are provisional",
+    "Link interlock test checks loop topology, not physical gravity/contact simulation",
+    "Metal attachment parts may intentionally overlap",
+    "400 mm is centerline convention, not verified manufactured length"
+  ]
+}

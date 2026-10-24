@@ -1,0 +1,245 @@
+{
+  "units": "metres",
+  "target_glb": [
+    0,
+    0.177,
+    -0.015
+  ],
+  "orthographic_vertical_size": 0.3804166666666667,
+  "yaw_limits_degrees": [
+    -90,
+    90
+  ],
+  "preview_yaws": [
+    0,
+    -60,
+    60
+  ],
+  "elevation_degrees": 19,
+  "depth_of_field": false,
+  "blender_lights": [
+    {
+      "name": "neutral jewelry softbox",
+      "position": [
+        -0.2800000011920929,
+        -0.3799999952316284,
+        0.4699999988079071
+      ],
+      "energy_watts": 1.8,
+      "size": 0.3400000035762787,
+      "color": [
+        1.0,
+        0.9700000286102295,
+        0.9399999976158142
+      ]
+    },
+    {
+      "name": "neutral reflection strip",
+      "position": [
+        0.27000001072883606,
+        -0.18000000715255737,
+        0.3400000035762787
+      ],
+      "energy_watts": 1.100000023841858,
+      "size": 0.25999999046325684,
+      "color": [
+        0.9300000071525574,
+        0.9599999785423279,
+        1.0
+      ]
+    },
+    {
+      "name": "warm backdrop wash",
+      "position": [
+        0,
+        -0.12,
+        0.58
+      ],
+      "energy_watts": 2.8,
+      "size": 0.38,
+      "color": [
+        1,
+        0.61,
+        0.28
+      ]
+    },
+    {
+      "name": "soft front fill",
+      "position": [
+        0.0,
+        -0.41999998688697815,
+        0.23999999463558197
+      ],
+      "energy_watts": 0.30000001192092896,
+      "size": 0.30000001192092896,
+      "color": [
+        1.0,
+        0.9800000190734863,
+        0.949999988079071
+      ]
+    },
+    {
+      "name": "top soft reflection",
+      "position": [
+        0,
+        -0.025,
+        0.58
+      ],
+      "energy_watts": 4.8,
+      "size": 0.24,
+      "color": [
+        1,
+        0.69,
+        0.36
+      ]
+    },
+    {
+      "name": "warm reflected objects bounce",
+      "energy_watts": 1.5,
+      "position": [
+        0,
+        0.115,
+        0.43
+      ],
+      "color": [
+        1,
+        0.72,
+        0.43
+      ],
+      "size": 0.3
+    }
+  ],
+  "web_note": "Viewer is the authoritative live setup: 180 degree orbit, warm overhead key and back bounce, full-metal champagne materials, dynamic blurred planar mirror.",
+  "web": {
+    "rotation_degrees": [
+      -90,
+      90
+    ],
+    "tone_mapping": "ACESFilmic",
+    "exposure": 1.0,
+    "environment_intensity": 0.85,
+    "mirror": {
+      "type": "live planar reflection",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "soft_blur_radius_uv": 0.0034,
+      "samples": 81,
+      "color_adjustment": "Alpha masked source-colour reflection: warm objects over neutral light grey background, with a soft top-to-bottom warm gradient."
+    },
+    "lights": [
+      {
+        "role": "neutral front key",
+        "intensity": 1.55,
+        "color": "#fffaf4"
+      },
+      {
+        "role": "cool fill",
+        "intensity": 0.65,
+        "color": "#f0f4ff"
+      },
+      {
+        "role": "warm overhead",
+        "intensity": 3.2,
+        "color": "#ffcf82",
+        "position": [
+          0,
+          0.65,
+          0.025
+        ]
+      },
+      {
+        "role": "rear bounced light",
+        "intensity": 3.0,
+        "color": "#ffd4a3"
+      },
+      {
+        "role": "soft overhead warm pool",
+        "type": "SpotLight",
+        "color": "#ffc46b",
+        "intensity": 0.65,
+        "position": [
+          -0.035,
+          0.52,
+          0.12
+        ],
+        "target": [
+          -0.025,
+          0.17,
+          -0.005
+        ],
+        "angle_radians": 0.56,
+        "penumbra": 0.85
+      },
+      {
+        "role": "warm wall wash",
+        "color": "#ffb86b",
+        "intensity": 2.2,
+        "position": [
+          0,
+          0.68,
+          0.32
+        ],
+        "target": [
+          0,
+          0.32,
+          -0.16
+        ]
+      }
+    ],
+    "wall_wash_gradient": {
+      "height_range_m": [
+        0.12,
+        0.5
+      ],
+      "lower_rgb_multiplier": [
+        1.02,
+        0.96,
+        0.84
+      ],
+      "upper_rgb_multiplier": [
+        1.1,
+        0.86,
+        0.62
+      ]
+    },
+    "shared_architectural_warmth_height_range_m": [
+      0.14,
+      0.43
+    ],
+    "table_warmth_height_range_m": [
+      0.015,
+      0.135
+    ],
+    "preserve_pink_materials": true,
+    "selective_toplight_boost": {
+      "wall": 0.15,
+      "metal": 0.14,
+      "bust": 0.1,
+      "table": 0.06,
+      "pink_and_product_materials": "retain previous lighting",
+      "colour": "slightly more orange"
+    },
+    "mirror_frame": {
+      "material": "pale champagne mirror gold",
+      "metalness": 1,
+      "environment_intensity": 2,
+      "roughness_satin": 0.22,
+      "roughness_polished": 0.17,
+      "base_color_linear": [
+        0.98,
+        0.86,
+        0.62
+      ]
+    }
+  },
+  "background_vertical_lift_m": 0.03,
+  "mirror_vertical_lift_m": 0.03,
+  "mirror_alignment": {
+    "background_center_x_m": -0.009499997831881046,
+    "previous_mirror_center_x_m": 0.010000001639127731,
+    "mirror_shift_x_m": -0.019499999471008778,
+    "new_mirror_center_x_m": -0.009499997831881046
+  }
+}

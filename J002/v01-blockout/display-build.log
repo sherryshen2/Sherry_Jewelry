@@ -1,0 +1,12 @@
+INFO Draco mesh compression is available, use library at /Applications/Blender.app/Contents/Resources/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.dylib
+16:46:18 | INFO: Starting glTF 2.0 export
+16:46:18 | INFO: Extracting primitive: 06_CZ_01_mesh.001
+16:46:18 | INFO: Primitives created: 1
+16:46:18 | INFO: Extracting primitive: 01_FrontStoneCarrier_EST_mesh.001
+16:46:18 | INFO: Primitives created: 1
+16:46:18 | INFO: Finished glTF 2.0 export in 0.0435938835144043 s
+
+J002_BUILD_COMPLETE {"stage": "STRUCTURE_BLOCKOUT_AWAITING_CONFIRMATION", "triangles": 21220, "source_mesh_objects": 96, "materials": 2, "export_meshes": 2, "stones_each": 8, "stones_total": 16, "bounds_mm": [[-9.861617349088192, -4.998213611543179, -5.849866196513176], [9.50478482991457, 5.208576563745737, 5.849162116646767]], "single_local_bounds_mm": [[-0.800000037997961, -5.476417485624552, -5.49986632540822], [0.800000037997961, 5.500000435858965, 5.499162245541811]], "files": {"J002-detail-v01.glb": 1614880, "J002-display-v01.glb": 782172}}
+Blender 4.5.14 LTS (hash 62c1db4208e8 built 2026-09-15 01:30:44)
+
+Blender quit
