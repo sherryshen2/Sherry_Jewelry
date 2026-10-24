@@ -47,7 +47,7 @@
 
 ## 交付状态
 
-本地标准版和源码归档已完成。用户明确选择只保留本地网页与源码，当前未发布，不再等待上传授权。附加离线单文件已生成并通过脚本语法检查；内置浏览器禁止 file 协议，未进行该单文件的浏览器运行验证。
+本地标准版、单文件离线网页和源码归档已同步；网页也已按后续要求部署到 Hangar。单文件已通过脚本语法和本机 HTTP 预览的首屏及商品列表检查；内置浏览器禁止 file 协议，未进行直接打开文件的运行验证。
 
 ## 第一版修改验收 · 2026-10-24
 
@@ -89,3 +89,23 @@
 ## 第七轮修改验收 · 2026-10-24
 
 移除照片说明节点及其模式切换引用，确认源码无遗留引用。app.js 与重新生成的离线脚本通过语法检查，归档完整性检查通过。本次为单句文案移除，未重复浏览器验收。
+
+
+## Progressive startup — 2026-10-24
+
+- The 31,880-byte boutique WebP is preloaded and remains visible until the first complete 3D render. Hangar's outer shell also shows the static home while the embedded storefront initializes.
+- The storefront stylesheet is inlined in the uploaded HTML. Three.js starts after poster decode, two animation frames, a 600 ms grace period and a bounded idle callback. Collection models are loaded only on entry; hidden list photos are lazy-loaded.
+- Local normal-mode browser observation: static ready at 119 ms; hero initialization at 725 ms; 3D ready at 996 ms. Resource logs showed cached media (304), so these are warm local observations, not a cold network benchmark. No collection canvas or model downloads before navigation.
+- Direct Hangar storefront observation: static ready at 747 ms; hero initialization at 1,356 ms; 3D ready at 3,104 ms. Existing browser media cache was retained. These times begin at the embedded storefront navigation, excluding the outer Hangar sign-in/shell.
+- Intentional model HTTP 503: boutique image stays visible, retry appears, no orphan hero canvas remains, and Explore opens the collection photo fallback.
+- Hangar storefront: collection dialog, necklace detail/photo-to-3D transition, and purchase-link destination checked; no browser errors or warnings. Existing hero motion assertions pass, including drag, hover and reduced motion.
+- Hangar source check passes. Publication job reached ready. Fresh token-to-session verification of the canonical app URL reports shell and health OK; the CLI's automatic verification candidate had a different origin and was rejected, so the documented canonical URL was verified explicitly. Fresh published page loads the new asset and opens the collection.
+- Remaining measurement gap: no controlled same-network cold-cache before/after benchmark or other-computer timing. Platform startup, authentication and user network still contribute to first-open latency.
+
+## 本地交付同步 · 2026-10-24
+
+- `dist/` 保留与 Hangar 相同的静态图优先、延后加载 3D、商品场景按需加载逻辑。
+- 重新生成上一级 `index.html`，打包器先输出静态首屏，并改为用到资源时才解码模型；移除单文件中无效的相对路径预加载。
+- 单文件引导脚本语法检查通过。本机 HTTP 预览中静态首屏、3D 渐入、The collection 商品列表正常；首页尚未创建商品展台，浏览器错误和警告日志为空。没有把这些结果作为 file 协议或限速网络测试。
+- 更新 `asset-manifest.json`、本说明和 README；重打 `Sherry-Jewelry-网页与源码.zip`，逐文件核对归档内容及校验值。
+- 从 Hangar 重新导出 `hangar-jewelry-shop-export.zip`，其中四个应用源文件与本地工作副本逐字节一致；本地应用名称和设置也已与导出元数据同步。

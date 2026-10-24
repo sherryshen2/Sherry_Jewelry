@@ -1,11 +1,61 @@
 {
-  "name": "Jewelry Shop Studio",
-  "slug": "jewelry-shop-studio",
+  "name": "Sherry Jewelry",
+  "slug": "jewelry-shop-studio-test-4611c10030e02137d5c85aae",
   "settings": {
-    "project_title": "Jewelry Shop Studio",
-    "tags": ["Jewelry", "Inventory", "Studio"],
+    "active_release": {
+      "backend_revision": "release_20ca9adb-2d0a-448a-8e59-b3d16fad0b5b",
+      "created_at": 1792834989797,
+      "id": "release_6b01547b-aa9f-4bc6-b3f9-ca633d329d12",
+      "source_hash": "3b3b55de1a15a45ed5aa40e8c7161e18b4b64696bf8754c4102174d54ca0c536",
+      "storage": "file",
+      "version": 5
+    },
     "app_icon": "mdi:diamond-stone",
-    "visibility": "private"
+    "automatic_updates": false,
+    "catalog_badge": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20180%20180%22%20role%3D%22img%22%20aria-label%3D%22App%20badge%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22bg%22%20x1%3D%2218%22%20y1%3D%228%22%20x2%3D%22160%22%20y2%3D%22172%22%20gradientUnits%3D%22userSpaceOnUse%22%3E%0A%3Cstop%20stop-color%3D%22hsl(332%2058%25%2094%25)%22%2F%3E%0A%3Cstop%20offset%3D%22.72%22%20stop-color%3D%22%23ffffff%22%2F%3E%0A%3Cstop%20offset%3D%221%22%20stop-color%3D%22hsl(184%2082%25%2054%25)%22%20stop-opacity%3D%22.34%22%2F%3E%0A%3C%2FlinearGradient%3E%0A%3Cfilter%20id%3D%22shadow%22%20x%3D%22-20%25%22%20y%3D%22-20%25%22%20width%3D%22140%25%22%20height%3D%22140%25%22%3E%0A%3CfeDropShadow%20dx%3D%220%22%20dy%3D%2212%22%20stdDeviation%3D%2212%22%20flood-color%3D%22%230f172a%22%20flood-opacity%3D%22.18%22%2F%3E%0A%3C%2Ffilter%3E%0A%3C%2Fdefs%3E%0A%3Crect%20width%3D%22180%22%20height%3D%22180%22%20rx%3D%2238%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%3Ccircle%20cx%3D%22142%22%20cy%3D%2234%22%20r%3D%2234%22%20fill%3D%22hsl(184%2082%25%2054%25)%22%20opacity%3D%22.18%22%2F%3E%0A%3Ccircle%20cx%3D%2236%22%20cy%3D%22145%22%20r%3D%2242%22%20fill%3D%22hsl(126%2078%25%2035%25)%22%20opacity%3D%22.12%22%2F%3E%0A%3Cg%20color%3D%22hsl(126%2078%25%2035%25)%22%3E%3Cpath%20d%3D%22m96%2028-44%2066h35l-13%2050%2054-74H92z%22%20fill%3D%22currentColor%22%20opacity%3D%22.18%22%2F%3E%3C%2Fg%3E%0A%3Crect%20x%3D%2244%22%20y%3D%2250%22%20width%3D%2292%22%20height%3D%2282%22%20rx%3D%2226%22%20fill%3D%22%23fff%22%20opacity%3D%22.78%22%20filter%3D%22url(%23shadow)%22%2F%3E%0A%3C%2Fsvg%3E",
+    "catalog_badge_spec": {
+      "accent": "hsl(184 82% 54%)",
+      "background": "hsl(332 58% 94%)",
+      "glyph": "JS",
+      "motif": "bolt",
+      "primary": "hsl(126 78% 35%)"
+    },
+    "catalog_badge_updated_at": "2026-10-23T10:13:58.925Z",
+    "catalog_enabled": true,
+    "delivery": {
+      "agent_turn_id": "",
+      "approved": false,
+      "error": "",
+      "requested_at": 1792834862833,
+      "source_hash": "3b3b55de1a15a45ed5aa40e8c7161e18b4b64696bf8754c4102174d54ca0c536",
+      "status": "ready",
+      "warning": ""
+    },
+    "draft_source_hash": "3b3b55de1a15a45ed5aa40e8c7161e18b4b64696bf8754c4102174d54ca0c536",
+    "forking": {
+      "enabled": false
+    },
+    "permissions": {
+      "access": "public",
+      "departments": [],
+      "editor_departments": [],
+      "members": [],
+      "owner_email": "sherry.shen@shopee.com",
+      "owner_id": "3e6ed2cf81109c4",
+      "roles": []
+    },
+    "project_title": "Sherry Jewelry",
+    "public_endpoints": [],
+    "published_at": 1792834989797,
+    "published_source_hash": "3b3b55de1a15a45ed5aa40e8c7161e18b4b64696bf8754c4102174d54ca0c536",
+    "published_version": 5,
+    "tags": [
+      "Jewelry",
+      "Inventory",
+      "Studio"
+    ],
+    "vibe_zone_enabled": false,
+    "visibility": "public"
   },
   "content": [],
   "design": []

@@ -9,7 +9,7 @@ export function disposeHost(host){const r=renderers.get(host);if(r){r.disposed=t
 const reduced=matchMedia('(prefers-reduced-motion: reduce)');
 const rad=THREE.MathUtils.degToRad;
 function makeRenderer(host){const r=new THREE.WebGLRenderer({alpha:true,antialias:true,preserveDrawingBuffer:true});r.setPixelRatio(Math.min(devicePixelRatio,innerWidth<768?1.25:1.75));r.outputColorSpace=THREE.SRGBColorSpace;r.setClearColor(0,0);host.prepend(r.domElement);renderers.set(host,r);r.domElement.addEventListener('webglcontextlost',e=>{e.preventDefault();if(r.disposed)return;host.dispatchEvent(new CustomEvent('graphicslost',{bubbles:true}));});return r;}
-function watchSize(host,renderer,camera,fit){new ResizeObserver(()=>{const w=host.clientWidth,h=host.clientHeight;if(!w||!h)return;renderer.setSize(w,h,false);fit(w/h);camera.updateProjectionMatrix();}).observe(host);}
+function watchSize(host,renderer,camera,fit){const resize=()=>{const w=host.clientWidth,h=host.clientHeight;if(!w||!h)return;renderer.setSize(w,h,false);fit(w/h);camera.updateProjectionMatrix();};resize();new ResizeObserver(resize).observe(host);}
 
 export async function createHero(host,onPose){
 const renderer=makeRenderer(host),canvas=renderer.domElement,scene=new THREE.Scene();renderer.toneMapping=THREE.NeutralToneMapping;renderer.toneMappingExposure=1.05;
@@ -63,6 +63,8 @@ function frame(t){
 }requestAnimationFrame(frame);
 const ray=new THREE.Raycaster();
 function hit(x,y){const r=canvas.getBoundingClientRect();ray.setFromCamera(new THREE.Vector2((x-r.left)/r.width*2-1,1-(y-r.top)/r.height*2),camera);return ray.intersectObject(model,true).length>0;}
+// Draw the complete scene before allowing the poster to fade.
+renderer.render(scene,camera);
 return {renderer,camera,scene,canvas,
  setActive(v){active=v;if(!v)hoverTarget=0;dirty=true},
  drag(dx,dy){azimuth=THREE.MathUtils.clamp(azimuth+dx*.065,-15,15);elevation=THREE.MathUtils.clamp(elevation+dy*.025,5,11);pose();},

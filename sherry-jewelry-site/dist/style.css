@@ -15,3 +15,6 @@
 .hero-subtitle{white-space:nowrap}
 @media(min-width:768px){.hero-subtitle{font-size:clamp(14px,1.25vw,18px)}}
 @media(max-width:767px){.hero-subtitle{font-size:clamp(13px,4.16vw,15px)}}
+
+/* Keep the lightweight poster visible until a complete 3D frame is ready. */
+#boutique-host>canvas{transition:opacity .55s ease}#boutique-host:not(.is-ready)>canvas{opacity:0}

@@ -1,0 +1,14 @@
+{
+  "app": "5e8740f57d03b23",
+  "base_url": "https://wingman.shopee.io/hangar/api/external/hangar",
+  "idempotency_key": "fed96f33-7687-48f2-95fd-1a127787032e",
+  "intent": "c04eecade658ff6e89766d16d44d47426cb5ec716e360522dda10000aa5a468f",
+  "job_id": "343d98eafbd44600a1fda0ecb2ee68e4d1c5a0042b08c3b131e31733a37f74bb",
+  "source_hash": "3b3b55de1a15a45ed5aa40e8c7161e18b4b64696bf8754c4102174d54ca0c536",
+  "verification": {
+    "shell": "ok",
+    "health": "ok",
+    "url": "https://wingman.shopee.io/hangar/apps/jewelry-shop-studio-test-4611c10030e02137d5c85aae",
+    "ui": "Fresh published tab shows homepage and collection; no console errors."
+  }
+}

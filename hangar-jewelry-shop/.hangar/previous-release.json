@@ -1,0 +1,8 @@
+{
+  "app": "5e8740f57d03b23",
+  "base_url": "https://wingman.shopee.io/hangar/api/external/hangar",
+  "idempotency_key": "2c2c0385-599f-4abf-87e8-58db314d2bb4",
+  "intent": "e0afa90e44f5d9fcd947f6821839902c7c6596756a022906f86336b8d56b1531",
+  "job_id": "463ce4367503018265eba3f4f7519135166299b43e6a30638892c5c30e1cbf78",
+  "source_hash": "b950238b0d09dd180dde482634c5720824e26779bd3168671e9721eebf3576a0"
+}
