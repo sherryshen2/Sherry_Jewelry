@@ -77,7 +77,8 @@ return {renderer,camera,scene,canvas,
 };
 }
 
-export async function createStage(host,products,onPose){
+export async function createStage(host,products,onPose,onProgress){
+onProgress?.(4);
 const renderer=makeRenderer(host),canvas=renderer.domElement,scene=new THREE.Scene();renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1;renderer.shadowMap.enabled=true;renderer.shadowMap.type=THREE.VSMShadowMap;
 const target=new THREE.Vector3(...settings.scenes.display.camera.target),camera=new THREE.OrthographicCamera(-.2,.2,.2,-.2,.001,10);
 let yaw=0,active=true,dirty=true,mirror=null,fixed;const productRoots={},originals={};function draw(){dirty=true;}
@@ -162,10 +163,18 @@ function makeSoftMirror(source){
  }};
 }
 
-const config=await fetch('data/placement.json').then(r=>r.json());fixed=(await loader.loadAsync(settings.scenes.display.modelUrl)).scene;configure(fixed);scene.add(fixed);
-for(const p of products){const root=(await loader.loadAsync(p.displayModelUrl)).scene,anchor=fixed.getObjectByName(p.anchorName);if(!anchor)throw Error('Missing anchor '+p.anchorName);configure(root,true);anchor.add(root);productRoots[p.id]=root;root.updateMatrixWorld(true);originals[p.id]={position:root.position.clone(),scale:root.scale.clone()};root.traverse(o=>o.userData.productId=p.id);}
+const config=await fetch('data/placement.json').then(r=>r.json());onProgress?.(10);
+const assetCount=products.length+1;
+async function loadDisplayAsset(url,index){
+ const gltf=await loader.loadAsync(url,progress=>{
+  if(progress.lengthComputable&&progress.total>0)onProgress?.(10+80*(index+Math.min(progress.loaded/progress.total,.95))/assetCount);
+ });
+ onProgress?.(10+80*(index+1)/assetCount);return gltf.scene;
+}
+fixed=await loadDisplayAsset(settings.scenes.display.modelUrl,0);configure(fixed);scene.add(fixed);
+for(const [index,p]of products.entries()){const root=await loadDisplayAsset(p.displayModelUrl,index+1),anchor=fixed.getObjectByName(p.anchorName);if(!anchor)throw Error('Missing anchor '+p.anchorName);configure(root,true);anchor.add(root);productRoots[p.id]=root;root.updateMatrixWorld(true);originals[p.id]={position:root.position.clone(),scale:root.scale.clone()};root.traverse(o=>o.userData.productId=p.id);}
 let mirrorSource;fixed.traverse(o=>{if(o.isMesh&&(Array.isArray(o.material)?o.material:[o.material]).some(m=>m.name.includes('softened silver mirror')))mirrorSource=o;});
-renderer.render(scene,camera);if(mirrorSource)mirror=makeSoftMirror(mirrorSource);draw();
+renderer.render(scene,camera);if(mirrorSource)mirror=makeSoftMirror(mirrorSource);mirror?.update();renderer.render(scene,camera);draw();onProgress?.(96);
 let hover=null,lastTime=0;function frame(t){if(renderer.disposed)return;requestAnimationFrame(frame);if(!active||document.hidden)return;const dt=Math.min((t-lastTime)/180,1);lastTime=t;
 for(const p of products){const root=productRoots[p.id],goal=hover===p.id?p.hoverScale:1,next=THREE.MathUtils.lerp(root.scale.x,goal,dt);if(Math.abs(next-root.scale.x)>.00005){root.scale.setScalar(next);const pivot=new THREE.Vector3(...(p.id==='J001'?[0,0,0]:config.products[p.type].bounds_local_glb.center));root.position.copy(originals[p.id].position).addScaledVector(pivot,1-next);dirty=true;}}
 if(dirty){scene.updateMatrixWorld(true);mirror?.update();renderer.render(scene,camera);onPose?.();dirty=false;}}requestAnimationFrame(frame);

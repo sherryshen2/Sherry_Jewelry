@@ -18,3 +18,17 @@
 
 /* Keep the lightweight poster visible until a complete 3D frame is ready. */
 #boutique-host>canvas{transition:opacity .55s ease}#boutique-host:not(.is-ready)>canvas{opacity:0}
+
+/* Match the two title words and keep loading focused on the display poster. */
+.hero h1{font-style:italic;font-weight:400}
+#display-host>canvas{transition:opacity .5s ease}#display-host:not(.is-ready)>canvas{opacity:0}
+.collection.is-loading #hotspots{visibility:hidden}
+.collection.is-loading #display-poster{height:calc(100% - 48px)}
+.display-loading{position:absolute;bottom:22px;left:50%;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:12px;pointer-events:none;min-width:180px}
+.display-loading .display-status{position:static;font-size:10px;letter-spacing:.6px;white-space:nowrap;color:var(--muted)}
+#display-progress{appearance:none;-webkit-appearance:none;display:block;width:148px;height:3px;border:0;border-radius:4px;overflow:hidden;background:#b59d7c26;color:var(--gold)}
+#display-progress::-webkit-progress-bar{background:#b59d7c26;border-radius:4px}
+#display-progress::-webkit-progress-value{background:linear-gradient(90deg,#c7b18c,#a78959);border-radius:4px;transition:width .22s ease}
+#display-progress::-moz-progress-bar{background:linear-gradient(90deg,#c7b18c,#a78959);border-radius:4px}
+@media(min-width:768px){.collection.is-loading .mobile-pieces{display:none}}
+@media(prefers-reduced-motion:reduce){#display-progress::-webkit-progress-value{transition:none}}
