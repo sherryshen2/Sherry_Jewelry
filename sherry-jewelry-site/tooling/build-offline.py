@@ -29,4 +29,4 @@ bootstrap=r'''
 '''
 bootstrap=bootstrap.replace('__FILES__',json.dumps(files)).replace('__CSS__',json.dumps((dist/'style.css').read_text())).replace('</script','<\\/script')
 html=(dist/'index.html').read_text();html=re.sub(r'<link rel="stylesheet" href="style.css">','',html);html=re.sub(r'<script type="importmap">.*?</script>','',html);html=html.replace('<script type="module" src="app.js"></script>','<script>'+bootstrap+'</script>')
-output=root.parent/'Sherry Jewelry 离线网页.html';output.write_text(html);print(output,output.stat().st_size)
+output=root.parent/'index.html';output.write_text(html);print(output,output.stat().st_size)
